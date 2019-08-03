@@ -3,11 +3,15 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "format": "prettier --single-quote --trailing-comma es5 --write \"{pages,components,__{tests,mocks}__}/**/*.js\""
   },
   "dependencies": {
     "next": "^9.0.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "prettier": "1.18.2"
   }
 }
