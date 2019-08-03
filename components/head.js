@@ -24,7 +24,6 @@ const Head = props => (
       property="og:description"
       content={props.description || defaultDescription}
     />
-    
     <meta name="twitter:site" content={props.url || defaultOGURL} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content={props.ogImage || defaultOGImage} />
