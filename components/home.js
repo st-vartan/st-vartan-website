@@ -1,12 +1,9 @@
-import Link from 'next/link';
-import dynamic from 'next/dynamic';
-import Head from './head';
-import Nav from './nav';
 import { useEffect } from 'react';
 import $ from 'jquery';
 import Page from './page'
 import Slider from "react-slick";
 import { Link as ScrollLink, animateScroll as scroll } from "react-scroll";
+import { Parallax } from "react-parallax";
 
 var settings = {
     dots: true,
@@ -27,18 +24,6 @@ export default (props) => {
          --------------------------------------------- */
 
         $(window).load(function(){
-
-            // Page loader
-
-            // $("body").imagesLoaded(function(){
-            //     $(".page-loader div").fadeOut();
-            //     $(".page-loader").delay(200).fadeOut("slow");
-            // });
-
-
-            // initWorkFilter();
-            // init_scroll_navigate();
-
             $(window).trigger("scroll");
             $(window).trigger("resize");
 
@@ -53,26 +38,14 @@ export default (props) => {
         });
 
         $(document).ready(function(){
-
             init_classic_menu();
-            // init_fullscreen_menu();
-            // init_side_panel();
-            // init_lightbox();
-            // init_parallax();
-            // init_shortcodes();
-            // init_tooltips();
-            // init_team();
-            // initPageSliders();
+
         });
         //
-        // $(window).resize(function(){
-        //
-        //     init_classic_menu_resize();
-        //     init_side_panel_resize()
-        //     js_height_init();
-        //     split_height_init();
-        //
-        // });
+        $(window).resize(function(){
+            js_height_init();
+            init_classic_menu_resize();
+        });
 
 
         /* --------------------------------------------
@@ -177,15 +150,20 @@ export default (props) => {
             }
         }
 
+        /* ---------------------------------------------
+         Height 100%
+         --------------------------------------------- */
+        function js_height_init(){
+            (function($){
+                $(".js-height-full").height($(window).height());
+                $(".js-height-parent").each(function(){
+                    $(this).height($(this).parent().first().height());
+                });
+            })(jQuery);
+        }
+
+
         function init_classic_menu(){
-
-
-            // Navbar sticky
-
-            // $(".js-stick").sticky({
-            //     topSpacing: 0
-            // });
-
             mobile_nav = $(".mobile-nav");
             desktop_nav = $(".desktop-nav");
             height_line($(".inner-nav > ul > li > a"), $(".main-nav"));
@@ -336,259 +314,35 @@ export default (props) => {
             });
 
         }
-
-
-
-        /* ---------------------------------------------
-         Scroll navigation
-         --------------------------------------------- */
-
-        function init_scroll_navigate(){
-
-            $(".local-scroll").localScroll({
-                target: "body",
-                duration: 1500,
-                offset: 0,
-                easing: "easeInOutExpo"
-            });
-
-            var sections = $(".home-section, .split-section, .page-section");
-            var menu_links = $(".scroll-nav li a");
-
-            $(window).scroll(function(){
-
-                sections.filter(":in-viewport:first").each(function(){
-                    var active_section = $(this);
-                    var active_link = $('.scroll-nav li a[href="#' + active_section.attr("id") + '"]');
-                    menu_links.removeClass("active");
-                    active_link.addClass("active");
-                });
-
-            });
-
-        }
-
-
-
-        /* ---------------------------------------------
-         Lightboxes
-         --------------------------------------------- */
-
-        function init_lightbox(){
-
-            // Works Item Lightbox
-            $(".work-lightbox-link").magnificPopup({
-                gallery: {
-                    enabled: true
-                },
-                mainClass: "mfp-fade"
-            });
-
-            // Works Item Lightbox
-            $(".lightbox-gallery-1").magnificPopup({
-                gallery: {
-                    enabled: true
-                }
-            });
-
-            // Other Custom Lightbox
-            $(".lightbox-gallery-2").magnificPopup({
-                gallery: {
-                    enabled: true
-                }
-            });
-            $(".lightbox-gallery-3").magnificPopup({
-                gallery: {
-                    enabled: true
-                }
-            });
-            $(".lightbox").magnificPopup();
-
-        }
-
-
-
-        /* -------------------------------------------
-         Parallax
-         --------------------------------------------- */
-
-        function init_parallax(){
-
-            // Parallax
-            if (($(window).width() >= 1024) && (mobileTest == false)) {
-                $(".parallax-1").parallax("50%", 0.1);
-                $(".parallax-2").parallax("50%", 0.2);
-                $(".parallax-3").parallax("50%", 0.3);
-                $(".parallax-4").parallax("50%", 0.4);
-                $(".parallax-5").parallax("50%", 0.5);
-                $(".parallax-6").parallax("50%", 0.6);
-                $(".parallax-7").parallax("50%", 0.7);
-                $(".parallax-8").parallax("50%", 0.5);
-                $(".parallax-9").parallax("50%", 0.5);
-                $(".parallax-10").parallax("50%", 0.5);
-                $(".parallax-11").parallax("50%", 0.05);
-            }
-
-        }
-
-
-
-        /* ---------------------------------------------
-         Shortcodes
-         --------------------------------------------- */
-        // Tabs minimal
-        function init_shortcodes(){
-
-            var tpl_tab_height;
-            $(".tpl-minimal-tabs > li > a").click(function(){
-
-                if (!($(this).parent("li").hasClass("active"))) {
-                    tpl_tab_height = $(".tpl-minimal-tabs-cont > .tab-pane").filter($(this).attr("href")).height();
-                    $(".tpl-minimal-tabs-cont").animate({
-                        height: tpl_tab_height
-                    }, function(){
-                        $(".tpl-minimal-tabs-cont").css("height", "auto");
-                    });
-
-                }
-
-            });
-
-            // Accordion
-            $(".accordion").each(function(){
-                var allPanels = $(this).children("dd").hide();
-                $(this).children("dd").first().slideDown("easeOutExpo");
-                $(this).children("dt").children("a").first().addClass("active");
-
-                $(this).children("dt").children("a").click(function(){
-                    var current = $(this).parent().next("dd");
-                    $(".accordion > dt > a").removeClass("active");
-                    $(this).addClass("active");
-                    allPanels.not(current).slideUp("easeInExpo");
-                    $(this).parent().next().slideDown("easeOutExpo");
-                    return false;
-                });
-
-            });
-
-
-
-            // Toggle
-            var allToggles = $(".toggle > dd").hide();
-
-            $(".toggle > dt > a").click(function(){
-
-                if ($(this).hasClass("active")) {
-
-                    $(this).parent().next().slideUp("easeOutExpo");
-                    $(this).removeClass("active");
-
-                }
-                else {
-                    var current = $(this).parent().next("dd");
-                    $(this).addClass("active");
-                    $(this).parent().next().slideDown("easeOutExpo");
-                }
-
-                return false;
-            });
-
-            // Responsive video
-            $(".video, .resp-media, .blog-media").fitVids();
-            $(".work-full-media").fitVids();
-
-        }
-
-
-
-        /* ---------------------------------------------
-         Tooltips (bootstrap plugin activated)
-         --------------------------------------------- */
-
-        function init_tooltips(){
-
-            $(".tooltip-bot, .tooltip-bot a, .nav-social-links a").tooltip({
-                placement: "bottom"
-            });
-
-            $(".tooltip-top, .tooltip-top a").tooltip({
-                placement: "top"
-            });
-
-        }
-
-
-
-        /* ---------------------------------------------
-         Some facts section
-         --------------------------------------------- */
-
-        function init_counters(){
-            $(".count-number").appear(function(){
-                var count = $(this);
-                count.countTo({
-                    from: 0,
-                    to: count.html(),
-                    speed: 1300,
-                    refreshInterval: 60,
-                });
-
-            });
-        }
-
-
-
-
-        /* ---------------------------------------------
-         Team
-         --------------------------------------------- */
-
-        function init_team(){
-
-            // Hover
-            $(".team-item").click(function(){
-                if ($("html").hasClass("mobile")) {
-                    $(this).toggleClass("js-active");
-                }
-            });
-
-            // Keayboar navigation for team section
-            $(".team-social-links > a").on("focus blur", function(){
-                if (!($("html").hasClass("mobile"))) {
-                    $(this).parent().parent().parent().parent().toggleClass("js-active");
-                }
-            });
-
-        }
-
     }, []);
 
     return  <Page>
         <div className="page" id="top">
 
-            <section className="home-section bg-dark-alfa-30 parallax-2"
-                     data-background="/static/images/section-bg-1.jpg" id="home">
-                <div className="js-height-full container">
+            <section className="home-section bg-dark-alfa-30" id="home" style={{backgroundPosition: '50% 0px', backgroundImage: 'url("/static/images/section-bg-1.jpg")'}}>
+                    <div className="js-height-full container">
 
-                    <div className="home-content">
-                        <div className="home-text">
+                        <div className="home-content">
+                            <div className="home-text">
 
-                            <h1 className="hs-line-1 font-alt mb-80 mb-xs-30 mt-50 mt-sm-0">
-                                Thomas Rhythm
-                            </h1>
+                                <h1 className="hs-line-1 font-alt mb-80 mb-xs-30 mt-50 mt-sm-0">
+                                    Thomas Rhythm
+                                </h1>
 
-                            <div className="hs-line-6">
-                                Extraordinary art studio &&nbsp;creative minimalism lovers
+                                <div className="hs-line-6">
+                                    Extraordinary art studio &&nbsp;creative minimalism lovers
+                                </div>
+
                             </div>
-
                         </div>
+                        <ScrollLink to={'about'} spy={true}
+                                    smooth={true}>
+                            <div className="scroll-down"><i
+                                className="fa fa-angle-down scroll-down-icon"></i></div>
+                        </ScrollLink>
                     </div>
-                    <ScrollLink to={'about'} spy={true}
-                          smooth={true}>
-                        <a href="#about" className="scroll-down"><i
-                            className="fa fa-angle-down scroll-down-icon"></i></a>
-                    </ScrollLink>
-                </div>
+
+
             </section>
             <nav className="main-nav dark transparent stick-fixed">
                 <div className="full-wrapper relative clearfix">
