@@ -1,7 +1,7 @@
-import Meta from './meta'
+import Meta from './meta';
 export default ({ children }) => (
-    <div>
-        <Meta />
-        { children }
-    </div>
-)
+  <div>
+    <Meta />
+    {children}
+  </div>
+);

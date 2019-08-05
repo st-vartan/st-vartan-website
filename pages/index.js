@@ -38,8 +38,6 @@ export default () => (
       </div>
     </div>
 
-    <style jsx>{`
-    
-    `}</style>
+    <style jsx>{``}</style>
   </div>
 );
