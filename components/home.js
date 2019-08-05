@@ -398,7 +398,7 @@ export default props => {
         </section>
         <nav className="main-nav dark transparent stick-fixed">
           <div className="full-wrapper relative clearfix">
-            <div className="nav-logo-wrap local-scroll">
+            <div className="nav-logo-wrap">
               <a href="intro.html" className="logo">
                 <img src="/static/images/logo-white.png" alt="" />
               </a>
@@ -817,7 +817,7 @@ export default props => {
                       vitae neque et porttitor. Integer non dapibus diam, ac
                       eleifend lectus.
                     </div>
-                    <div className="local-scroll">
+                    <div>
                       <a
                         href="pages-contact-1.html"
                         className="btn btn-mod btn-w btn-medium btn-round"
@@ -988,7 +988,7 @@ export default props => {
               <h3 className="banner-heading font-alt">
                 Want to see more works?
               </h3>
-              <div className="local-scroll">
+              <div>
                 <a
                   href="portfolio-wide-gutter-3col.html"
                   className="btn btn-mod btn-w btn-medium btn-round"
