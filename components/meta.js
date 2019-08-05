@@ -2,13 +2,17 @@ import Head from 'next/head';
 import globalStyle from '../styles/globalStyle.js';
 
 export default () => (
-  <div>
-    <Head>
-      <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <meta charSet="utf-8" />
-      <style jsx global>
-        {globalStyle}
-      </style>
-    </Head>
-  </div>
+    <div>
+        <Head>
+            <title>St.Vartan Hoops</title>
+            <meta name="description" content=""/>
+            <meta name="keywords" content=""/>
+            <meta charSet="utf-8"/>
+            <meta name="author" content="Yun Xing"/>
+            <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+            <style jsx global>
+                {globalStyle}
+            </style>
+        </Head>
+    </div>
 );

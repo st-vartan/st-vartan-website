@@ -1489,18 +1489,6 @@ export default props => {
 
                     {/* End Top Link */}
                 </footer>
-                {/* End Foter */}
-
-                {/* Buy Button */}
-                <a
-                    href="https://themeforest.net/item/rhythm-multipurpose-onemulti-page-template/10140354"
-                    target="_blank"
-                    className="buy-button"
-                >
-                    <i className="fa fa-shopping-cart" aria-hidden="true"></i>{' '}
-                    <span>Buy</span>
-                </a>
-                {/* End Buy Button */}
             </div>
         </Page>
     );
