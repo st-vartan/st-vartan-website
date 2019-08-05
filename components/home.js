@@ -1227,7 +1227,6 @@ export default (props) => {
 
                     {/* Features Grid */}
                     <div className="row multi-columns-row alt-features-grid">
-                        <Slider {...settings}>
                             {/* Features Item */}
                             <div className="col-sm-6 col-md-4 col-lg-4">
                                 <div className="alt-features-item align-center">
@@ -1323,8 +1322,6 @@ export default (props) => {
                                 </div>
                             </div>
                             {/* End Features Item */}
-                        </Slider>
-
 
                     </div>
                     {/* End Features Grid */}
@@ -1640,10 +1637,7 @@ export default (props) => {
             <section className="page-section bg-dark-alfa-70 bg-scroll"
                      data-background="/static/images/section-bg-16.jpg">
                 <div className="container relative">
-
-                    {/* Features Grid */}
-                    <div className="item-carousel owl-carousel">
-
+                    <Slider {...settings}>
                         {/* Features Item */}
                         <div className="features-item">
                             <div className="features-icon">
@@ -1769,10 +1763,7 @@ export default (props) => {
                             </div>
                         </div>
                         {/* End Features Item */}
-
-                    </div>
-                    {/* Features Grid */}
-
+                    </Slider>
                 </div>
             </section>
             {/* End Section */}
