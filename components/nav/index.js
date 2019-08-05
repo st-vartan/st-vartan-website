@@ -28,7 +28,7 @@ const Index = () => {
 
                 <ul className="mn-sub mn-has-multi">
                   <li className="mn-sub-multi">
-                    <a className="mn-group-title">Multi Page</a>
+                    <a className="mn-group-title">Players</a>
 
                     <ul>
                       <li>
@@ -74,7 +74,7 @@ const Index = () => {
               {/* Cart */}
               <li>
                 <a href="#">
-                  <i className="fa fa-shopping-cart"></i> Cart(0)
+                  <i className="fa fa-shopping-cart"></i> Shop
                 </a>
               </li>
               {/* End Cart */}

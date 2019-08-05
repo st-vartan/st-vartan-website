@@ -4,6 +4,7 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
+    "export": "next export",
     "format": "prettier --single-quote --trailing-comma es5 --write \"{pages,components,__{tests,mocks}__}/**/*.js\""
   },
   "dependencies": {

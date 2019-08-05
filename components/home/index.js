@@ -20,24 +20,36 @@ export default props => {
 
   return (
     <Layout>
+      <style jsx>{`
+        .home-title {
+          font-size: 70px;
+          font-weight: 600;
+          letter-spacing: 18px;
+        }
+        .home-sub-title {
+          opacity: 0.8;
+          font-size: 18px;
+        }
+      `}
+      </style>
       <div className="page" id="top">
         <section
           className="home-section bg-dark-alfa-30"
           id="home"
           style={{
             backgroundPosition: '50% 0px',
-            backgroundImage: 'url("/static/images/section-bg-1.jpg")',
+            backgroundImage: 'url("/static/images/court_bg.jpg")',
           }}
         >
           <div className="js-height-full container">
             <div className="home-content">
               <div className="home-text">
-                <h1 className="hs-line-1 font-alt mb-80 mb-xs-30 mt-50 mt-sm-0">
-                  Thomas Rhythm
+                <h1 className="hs-line-1 home-title font-alt mb-80 mb-xs-30 mt-50 mt-sm-0">
+                  St.Vartan Hoops
                 </h1>
 
-                <div className="hs-line-6">
-                  Extraordinary art studio &&nbsp;creative minimalism lovers
+                <div className="hs-line-6 home-sub-title">
+                  Competition Passion Love
                 </div>
               </div>
             </div>
