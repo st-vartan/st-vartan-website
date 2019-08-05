@@ -1,11 +1,13 @@
 import AOS from "aos";
 import $ from 'jquery';
+import addEasing from './easing';
 
 const initWidgets = () => {
     if (typeof window === 'undefined' || typeof document === 'undefined') {
         return;
     }
 
+    addEasing();
     AOS.init({
         duration: 1500,
     });
@@ -193,6 +195,7 @@ const initWidgets = () => {
         // Mobile menu toggle
 
         mobile_nav.click(function() {
+            console.log(desktop_nav)
             if (desktop_nav.hasClass('js-opened')) {
                 desktop_nav.slideUp('slow', 'easeOutExpo').removeClass('js-opened');
                 $(this).removeClass('active');
