@@ -6,6 +6,7 @@ import { useEffect } from 'react';
 import $ from 'jquery';
 import Page from './page'
 import Slider from "react-slick";
+import { Link as ScrollLink, animateScroll as scroll } from "react-scroll";
 
 var settings = {
     dots: true,
@@ -582,10 +583,11 @@ export default (props) => {
 
                         </div>
                     </div>
-                    <div className="local-scroll">
+                    <ScrollLink to={'about'} spy={true}
+                          smooth={true}>
                         <a href="#about" className="scroll-down"><i
                             className="fa fa-angle-down scroll-down-icon"></i></a>
-                    </div>
+                    </ScrollLink>
                 </div>
             </section>
             <nav className="main-nav dark transparent stick-fixed">
