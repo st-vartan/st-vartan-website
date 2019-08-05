@@ -1,10 +1,9 @@
 import { useEffect } from 'react';
 
-import Page from '../page';
+import Layout from '../layout';
 import Slider from 'react-slick';
 import { Link as ScrollLink } from 'react-scroll';
 import initWidgets from './initWidgets';
-import Nav from '../nav';
 
 const settings = {
     dots: true,
@@ -20,8 +19,7 @@ export default props => {
     }, []);
 
     return (
-        <Page>
-            <Nav/>
+        <Layout>
             <div className="page" id="top">
                 <section
                     className="home-section bg-dark-alfa-30"
@@ -1398,6 +1396,6 @@ export default props => {
                     {/* End Top Link */}
                 </footer>
             </div>
-        </Page>
+        </Layout>
     );
 };

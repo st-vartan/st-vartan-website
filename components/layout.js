@@ -1,10 +1,12 @@
-import Head from 'next/head';
+import Link from 'next/link'
+import Head from 'next/head'
 import globalStyle from '../styles/globalStyle.js';
+import Nav from './nav';
 
-export default () => (
+export default ({ children, title = 'St.Vartan Hoops' }) => (
     <div>
         <Head>
-            <title>St.Vartan Hoops</title>
+            <title>{title}</title>
             <meta name="description" content=""/>
             <meta name="keywords" content=""/>
             <meta charSet="utf-8"/>
@@ -14,5 +16,10 @@ export default () => (
                 {globalStyle}
             </style>
         </Head>
+        <header>
+            <Nav/>
+        </header>
+
+        {children}
     </div>
-);
+)

@@ -1,6 +1,4 @@
-import Head from './head';
 import Link from 'next/link';
-import Page from "./page";
 
 const Nav = () => (
     <nav className="main-nav dark transparent stick-fixed">
