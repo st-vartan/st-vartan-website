@@ -5,7 +5,7 @@ import Slider from 'react-slick';
 import { Link as ScrollLink } from 'react-scroll';
 import initWidgets from './initWidgets';
 
-var settings = {
+const settings = {
     dots: true,
     infinite: true,
     speed: 500,
