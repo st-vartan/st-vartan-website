@@ -7,6 +7,9 @@ import vertical from './vertical-rhythm.min.css';
 import etLine from './et-line.css';
 import css from 'styled-jsx/css';
 
+import slick from "slick-carousel/slick/slick.css";
+import slickTheme from "slick-carousel/slick/slick-theme.css";
+
 export default css`
 ${bootstrap}
 ${fontawesome}
@@ -15,4 +18,6 @@ ${styles}
 ${styleResponsive}
 ${animate}
 ${vertical}
+${slick}
+${slickTheme}
 `

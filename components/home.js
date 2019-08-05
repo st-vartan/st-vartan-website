@@ -5,6 +5,15 @@ import Nav from './nav';
 import { useEffect } from 'react';
 import $ from 'jquery';
 import Page from './page'
+import Slider from "react-slick";
+
+var settings = {
+    dots: true,
+    infinite: true,
+    speed: 500,
+    slidesToShow: 1,
+    slidesToScroll: 1
+};
 
 export default (props) => {
     useEffect(() => {
@@ -1215,104 +1224,107 @@ export default (props) => {
                         Why Choose Us?
                     </h2>
 
+
                     {/* Features Grid */}
                     <div className="row multi-columns-row alt-features-grid">
-
-                        {/* Features Item */}
-                        <div className="col-sm-6 col-md-4 col-lg-4">
-                            <div className="alt-features-item align-center">
-                                <div className="alt-features-icon">
-                                    <span className="icon-flag"></span>
-                                </div>
-                                <h3 className="alt-features-title font-alt">We’re Creative</h3>
-                                <div className="alt-features-descr align-left">
-                                    Lorem ipsum dolor sit amet, c-r adipiscing elit.
-                                    In maximus ligula semper metus pellentesque mattis.
-                                    Maecenas volutpat, diam enim.
-                                </div>
-                            </div>
-                        </div>
-                        {/* End Features Item */}
-
-                        {/* Features Item */}
-                        <div className="col-sm-6 col-md-4 col-lg-4">
-                            <div className="alt-features-item align-center">
-                                <div className="alt-features-icon">
-                                    <span className="icon-clock"></span>
-                                </div>
-                                <h3 className="alt-features-title font-alt">We’re Punctual</h3>
-                                <div className="alt-features-descr align-left">
-                                    Proin fringilla augue at maximus vestibulum.
-                                    Nam pulvinar vitae neque et porttitor. Praesent sed
-                                    nisi eleifend, lorem fermentum orci sit amet, iaculis libero.
+                        <Slider {...settings}>
+                            {/* Features Item */}
+                            <div className="col-sm-6 col-md-4 col-lg-4">
+                                <div className="alt-features-item align-center">
+                                    <div className="alt-features-icon">
+                                        <span className="icon-flag"></span>
+                                    </div>
+                                    <h3 className="alt-features-title font-alt">We’re Creative</h3>
+                                    <div className="alt-features-descr align-left">
+                                        Lorem ipsum dolor sit amet, c-r adipiscing elit.
+                                        In maximus ligula semper metus pellentesque mattis.
+                                        Maecenas volutpat, diam enim.
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        {/* End Features Item */}
+                            {/* End Features Item */}
 
-                        {/* Features Item */}
-                        <div className="col-sm-6 col-md-4 col-lg-4">
-                            <div className="alt-features-item align-center">
-                                <div className="alt-features-icon">
-                                    <span className="icon-hotairballoon"></span>
-                                </div>
-                                <h3 className="alt-features-title font-alt">We have magic</h3>
-                                <div className="alt-features-descr align-left">
-                                    Curabitur iaculis accumsan augue, nec finibus mauris pretium eu.
-                                    Duis placerat ex gravida nibh tristique porta. Nulla facilisi.
-                                    Suspendisse ultricies eros blandit.
+                            {/* Features Item */}
+                            <div className="col-sm-6 col-md-4 col-lg-4">
+                                <div className="alt-features-item align-center">
+                                    <div className="alt-features-icon">
+                                        <span className="icon-clock"></span>
+                                    </div>
+                                    <h3 className="alt-features-title font-alt">We’re Punctual</h3>
+                                    <div className="alt-features-descr align-left">
+                                        Proin fringilla augue at maximus vestibulum.
+                                        Nam pulvinar vitae neque et porttitor. Praesent sed
+                                        nisi eleifend, lorem fermentum orci sit amet, iaculis libero.
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        {/* End Features Item */}
+                            {/* End Features Item */}
 
-                        {/* Features Item */}
-                        <div className="col-sm-6 col-md-4 col-lg-4">
-                            <div className="alt-features-item align-center">
-                                <div className="alt-features-icon">
-                                    <span className="icon-heart"></span>
-                                </div>
-                                <h3 className="alt-features-title font-alt">We love minimalism</h3>
-                                <div className="alt-features-descr align-left">
-                                    Cras luctus interdum sodales. Quisque quis odio dui. Sedes sit
-                                    amet neque malesuada, lobortis commodo magna ntesque pharetra
-                                    metus vivera sagittis.
+                            {/* Features Item */}
+                            <div className="col-sm-6 col-md-4 col-lg-4">
+                                <div className="alt-features-item align-center">
+                                    <div className="alt-features-icon">
+                                        <span className="icon-hotairballoon"></span>
+                                    </div>
+                                    <h3 className="alt-features-title font-alt">We have magic</h3>
+                                    <div className="alt-features-descr align-left">
+                                        Curabitur iaculis accumsan augue, nec finibus mauris pretium eu.
+                                        Duis placerat ex gravida nibh tristique porta. Nulla facilisi.
+                                        Suspendisse ultricies eros blandit.
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        {/* End Features Item */}
+                            {/* End Features Item */}
 
-                        {/* Features Item */}
-                        <div className="col-sm-6 col-md-4 col-lg-4">
-                            <div className="alt-features-item align-center">
-                                <div className="alt-features-icon">
-                                    <span className="icon-linegraph"></span>
-                                </div>
-                                <h3 className="alt-features-title font-alt">We’re responsible</h3>
-                                <div className="alt-features-descr align-left">
-                                    Fusce aliquet quam eget neque ultrices elementum. Nulla posuere
-                                    felis id arcu blandit sagittis. Eleifender vestibulum purus, sit
-                                    amet vulputate risus.
+                            {/* Features Item */}
+                            <div className="col-sm-6 col-md-4 col-lg-4">
+                                <div className="alt-features-item align-center">
+                                    <div className="alt-features-icon">
+                                        <span className="icon-heart"></span>
+                                    </div>
+                                    <h3 className="alt-features-title font-alt">We love minimalism</h3>
+                                    <div className="alt-features-descr align-left">
+                                        Cras luctus interdum sodales. Quisque quis odio dui. Sedes sit
+                                        amet neque malesuada, lobortis commodo magna ntesque pharetra
+                                        metus vivera sagittis.
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        {/* End Features Item */}
+                            {/* End Features Item */}
 
-                        {/* Features Item */}
-                        <div className="col-sm-6 col-md-4 col-lg-4">
-                            <div className="alt-features-item align-center">
-                                <div className="alt-features-icon">
-                                    <span className="icon-chat"></span>
-                                </div>
-                                <h3 className="alt-features-title font-alt">We're Friendly</h3>
-                                <div className="alt-features-descr align-left">
-                                    Pulvinar vitae neque et porttitor. Integer non dapibus diam, ac
-                                    eleifend lectus. Praesent sed nisi eleifend, fermentum orci sit
-                                    amet, iaculis libero interdum.
+                            {/* Features Item */}
+                            <div className="col-sm-6 col-md-4 col-lg-4">
+                                <div className="alt-features-item align-center">
+                                    <div className="alt-features-icon">
+                                        <span className="icon-linegraph"></span>
+                                    </div>
+                                    <h3 className="alt-features-title font-alt">We’re responsible</h3>
+                                    <div className="alt-features-descr align-left">
+                                        Fusce aliquet quam eget neque ultrices elementum. Nulla posuere
+                                        felis id arcu blandit sagittis. Eleifender vestibulum purus, sit
+                                        amet vulputate risus.
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        {/* End Features Item */}
+                            {/* End Features Item */}
+
+                            {/* Features Item */}
+                            <div className="col-sm-6 col-md-4 col-lg-4">
+                                <div className="alt-features-item align-center">
+                                    <div className="alt-features-icon">
+                                        <span className="icon-chat"></span>
+                                    </div>
+                                    <h3 className="alt-features-title font-alt">We're Friendly</h3>
+                                    <div className="alt-features-descr align-left">
+                                        Pulvinar vitae neque et porttitor. Integer non dapibus diam, ac
+                                        eleifend lectus. Praesent sed nisi eleifend, fermentum orci sit
+                                        amet, iaculis libero interdum.
+                                    </div>
+                                </div>
+                            </div>
+                            {/* End Features Item */}
+                        </Slider>
+
 
                     </div>
                     {/* End Features Grid */}
@@ -1325,85 +1337,85 @@ export default (props) => {
             {/* Testimonials Section */}
             <section className="page-section bg-dark bg-dark-alfa-90 fullwidth-slider"
                      data-background="/static/images/section-bg-3.jpg">
-
-                {/* Slide Item */}
-                <div>
-                    <div className="container relative">
-                        <div className="row">
-                            <div className="col-md-8 col-md-offset-2 align-center">
-                                {/* Section Icon */}
-                                <div className="section-icon">
-                                    <span className="icon-quote"></span>
+                <Slider {...settings}>
+                    {/* Slide Item */}
+                    <div>
+                        <div className="container relative">
+                            <div className="row">
+                                <div className="col-md-8 col-md-offset-2 align-center">
+                                    {/* Section Icon */}
+                                    <div className="section-icon">
+                                        <span className="icon-quote"></span>
+                                    </div>
+                                    {/* Section Title */}<h3 className="small-title font-alt">What people say?</h3>
+                                    <blockquote className="testimonial white">
+                                        <p>
+                                            Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean
+                                            congue,
+                                            risus utaliquam dapibus. Thanks!
+                                        </p>
+                                        <footer className="testimonial-author">
+                                            John Doe, doodle inc.
+                                        </footer>
+                                    </blockquote>
                                 </div>
-                                {/* Section Title */}<h3 className="small-title font-alt">What people say?</h3>
-                                <blockquote className="testimonial white">
-                                    <p>
-                                        Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean
-                                        congue,
-                                        risus utaliquam dapibus. Thanks!
-                                    </p>
-                                    <footer className="testimonial-author">
-                                        John Doe, doodle inc.
-                                    </footer>
-                                </blockquote>
                             </div>
                         </div>
                     </div>
-                </div>
-                {/* End Slide Item */}
+                    {/* End Slide Item */}
 
-                {/* Slide Item */}
-                <div>
-                    <div className="container relative">
-                        <div className="row">
-                            <div className="col-md-8 col-md-offset-2 align-center">
-                                {/* Section Icon */}
-                                <div className="section-icon">
-                                    <span className="icon-quote"></span>
+                    {/* Slide Item */}
+                    <div>
+                        <div className="container relative">
+                            <div className="row">
+                                <div className="col-md-8 col-md-offset-2 align-center">
+                                    {/* Section Icon */}
+                                    <div className="section-icon">
+                                        <span className="icon-quote"></span>
+                                    </div>
+                                    {/* Section Title */}<h3 className="small-title font-alt">What people say?</h3>
+                                    <blockquote className="testimonial white">
+                                        <p>
+                                            Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean
+                                            congue,
+                                            risus utaliquam dapibus. Thanks!
+                                        </p>
+                                        <footer className="testimonial-author">
+                                            John Doe, doodle inc.
+                                        </footer>
+                                    </blockquote>
                                 </div>
-                                {/* Section Title */}<h3 className="small-title font-alt">What people say?</h3>
-                                <blockquote className="testimonial white">
-                                    <p>
-                                        Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean
-                                        congue,
-                                        risus utaliquam dapibus. Thanks!
-                                    </p>
-                                    <footer className="testimonial-author">
-                                        John Doe, doodle inc.
-                                    </footer>
-                                </blockquote>
                             </div>
                         </div>
                     </div>
-                </div>
-                {/* End Slide Item */}
+                    {/* End Slide Item */}
 
-                {/* Slide Item */}
-                <div>
-                    <div className="container relative">
-                        <div className="row">
-                            <div className="col-md-8 col-md-offset-2 align-center">
-                                {/* Section Icon */}
-                                <div className="section-icon">
-                                    <span className="icon-quote"></span>
+                    {/* Slide Item */}
+                    <div>
+                        <div className="container relative">
+                            <div className="row">
+                                <div className="col-md-8 col-md-offset-2 align-center">
+                                    {/* Section Icon */}
+                                    <div className="section-icon">
+                                        <span className="icon-quote"></span>
+                                    </div>
+                                    {/* Section Title */}<h3 className="small-title font-alt">What people say?</h3>
+                                    <blockquote className="testimonial white">
+                                        <p>
+                                            Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean
+                                            congue,
+                                            risus utaliquam dapibus. Thanks!
+                                        </p>
+                                        <footer className="testimonial-author">
+                                            John Doe, doodle inc.
+                                        </footer>
+                                    </blockquote>
                                 </div>
-                                {/* Section Title */}<h3 className="small-title font-alt">What people say?</h3>
-                                <blockquote className="testimonial white">
-                                    <p>
-                                        Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean
-                                        congue,
-                                        risus utaliquam dapibus. Thanks!
-                                    </p>
-                                    <footer className="testimonial-author">
-                                        John Doe, doodle inc.
-                                    </footer>
-                                </blockquote>
                             </div>
                         </div>
                     </div>
-                </div>
-                {/* End Slide Item */}
-
+                    {/* End Slide Item */}
+                </Slider>
             </section>
             {/* End Testimonials Section */}
 
