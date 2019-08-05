@@ -20,7 +20,7 @@ const initWidgets = () => {
 
         // Hash menu forwarding
         if (window.location.hash && $(window.location.hash).length) {
-            var hash_offset = $(window.location.hash).offset().top;
+            const hash_offset = $(window.location.hash).offset().top;
             $('html, body').animate({
                 scrollTop: hash_offset,
             });
@@ -39,7 +39,7 @@ const initWidgets = () => {
     /* --------------------------------------------
          Platform detect
          --------------------------------------------- */
-    var mobileTest;
+    let mobileTest;
     if (
         /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)
     ) {
@@ -50,13 +50,13 @@ const initWidgets = () => {
         $('html').addClass('no-mobile');
     }
 
-    var mozillaTest;
+    let mozillaTest;
     if (/mozilla/.test(navigator.userAgent)) {
         mozillaTest = true;
     } else {
         mozillaTest = false;
     }
-    var safariTest;
+    let safariTest;
     if (/safari/.test(navigator.userAgent)) {
         safariTest = true;
     } else {
@@ -74,7 +74,7 @@ const initWidgets = () => {
 
     // Sections backgrounds
 
-    var pageSection = $(
+    const pageSection = $(
         '.home-section, .page-section, .small-section, .split-section'
     );
     pageSection.each(function(indx) {
@@ -97,25 +97,25 @@ const initWidgets = () => {
     // Function equal height
     !(function(a) {
         (a.fn.equalHeights = function() {
-            var b = 0,
+            let b = 0,
                 c = a(this);
             return (
                 c.each(function() {
-                    var c = a(this).innerHeight();
+                    const c = a(this).innerHeight();
                     c > b && (b = c);
                 }),
                     c.css('height', b)
             );
         }),
             a('[data-equal]').each(function() {
-                var b = a(this),
+                const b = a(this),
                     c = b.data('equal');
                 b.find(c).equalHeights();
             });
     })(jQuery);
 
     // Progress bars
-    var progressBar = $('.progress-bar');
+    const progressBar = $('.progress-bar');
     progressBar.each(function(indx) {
         $(this).css('width', $(this).attr('aria-valuenow') + '%');
     });
@@ -124,8 +124,8 @@ const initWidgets = () => {
          Nav panel classic
          --------------------------------------------- */
 
-    var mobile_nav = $('.mobile-nav');
-    var desktop_nav = $('.desktop-nav');
+    let mobile_nav = $('.mobile-nav');
+    let desktop_nav = $('.desktop-nav');
 
     function init_classic_menu_resize() {
         // Mobile menu max height
@@ -216,8 +216,8 @@ const initWidgets = () => {
 
         // Sub menu
 
-        var mnHasSub = $('.mn-has-sub');
-        var mnThisLi;
+        const mnHasSub = $('.mn-has-sub');
+        let mnThisLi;
 
         $('.mobile-on .mn-has-sub')
             .find('.fa:first')
