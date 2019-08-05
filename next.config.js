@@ -11,7 +11,8 @@ module.exports = withCSS({
     config.plugins.push(
         new webpack.ProvidePlugin({
           '$': 'jquery',
-          jQuery: 'jquery'
+          jQuery: 'jquery',
+            'window.jQuery': 'jquery'
         })
     );
       config.module.rules.push({
