@@ -4,7 +4,7 @@ import Head from '../components/head';
 import Nav from '../components/nav';
 import { useEffect } from 'react';
 
-const DynamicComponent = dynamic(() => import('../components/home'), {
+const DynamicComponent = dynamic(() => import('../components/Home'), {
   ssr: false,
 });
 
