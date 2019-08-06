@@ -1,4 +1,4 @@
-const addEasing = () => {
+const addEasing = ($) => {
   $.easing.jswing = $.easing.swing;
 
   $.extend($.easing, {

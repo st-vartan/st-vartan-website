@@ -6,103 +6,103 @@ const Index = () => {
   useEffect(() => {
     menuSideEffects();
   });
-  return  (
-      <nav className="main-nav dark transparent stick-fixed">
-        <div className="full-wrapper relative clearfix">
-          <div className="nav-logo-wrap">
-            <a href="intro.html" className="logo">
-              <img src="/static/images/logo-white.png" alt="" />
-            </a>
-          </div>
-
-          <div className="mobile-nav">
-            <i className="fa fa-bars"></i>
-          </div>
-
-          <div className="inner-nav desktop-nav">
-            <ul className="clearlist">
-              <li>
-                <a href="#" className="mn-has-sub active">
-                  Home <i className="fa fa-angle-down"></i>
-                </a>
-
-                <ul className="mn-sub mn-has-multi">
-                  <li className="mn-sub-multi">
-                    <a className="mn-group-title">Players</a>
-
-                    <ul>
-                      <li>
-                        <Link href="/russ">
-                          <a>Russ</a>
-                        </Link>
-                      </li>
-                    </ul>
-                  </li>
-                </ul>
-              </li>
-
-              <li>
-                <a href="#" className="mn-has-sub">
-                  <i className="fa fa-search"></i> Search
-                </a>
-
-                <ul className="mn-sub">
-                  <li>
-                    <div className="mn-wrap">
-                      <form method="post" className="form">
-                        <div className="search-wrap">
-                          <input
-                              type="text"
-                              className="form-control search-field"
-                              placeholder="Search..."
-                          />
-                          <button
-                              className="search-button animate"
-                              type="submit"
-                              title="Start Search"
-                          >
-                            <i className="fa fa-search"></i>
-                          </button>
-                        </div>
-                      </form>
-                    </div>
-                  </li>
-                </ul>
-              </li>
-              {/* End Search */}
-
-              {/* Cart */}
-              <li>
-                <a href="#">
-                  <i className="fa fa-shopping-cart"></i> Shop
-                </a>
-              </li>
-              {/* End Cart */}
-
-              {/* Languages */}
-              <li>
-                <a href="#" className="mn-has-sub">
-                  Eng <i className="fa fa-angle-down"></i>
-                </a>
-
-                <ul className="mn-sub">
-                  <li>
-                    <a href="">English</a>
-                  </li>
-                  <li>
-                    <a href="">France</a>
-                  </li>
-                  <li>
-                    <a href="">Germany</a>
-                  </li>
-                </ul>
-              </li>
-              {/* End Languages */}
-            </ul>
-          </div>
-          {/* End Main Menu */}
+  return (
+    <nav className="main-nav dark transparent stick-fixed">
+      <div className="full-wrapper relative clearfix">
+        <div className="nav-logo-wrap">
+          <a href="intro.html" className="logo">
+            <img src="/static/images/logo-white.png" alt="" />
+          </a>
         </div>
-      </nav>
+
+        <div className="mobile-nav">
+          <i className="fa fa-bars"></i>
+        </div>
+
+        <div className="inner-nav desktop-nav">
+          <ul className="clearlist">
+            <li>
+              <a href="#" className="mn-has-sub active">
+                Home <i className="fa fa-angle-down"></i>
+              </a>
+
+              <ul className="mn-sub mn-has-multi">
+                <li className="mn-sub-multi">
+                  <a className="mn-group-title">Players</a>
+
+                  <ul>
+                    <li>
+                      <Link href="/russ">
+                        <a>Russ</a>
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+
+            <li>
+              <a href="#" className="mn-has-sub">
+                <i className="fa fa-search"></i> Search
+              </a>
+
+              <ul className="mn-sub">
+                <li>
+                  <div className="mn-wrap">
+                    <form method="post" className="form">
+                      <div className="search-wrap">
+                        <input
+                          type="text"
+                          className="form-control search-field"
+                          placeholder="Search..."
+                        />
+                        <button
+                          className="search-button animate"
+                          type="submit"
+                          title="Start Search"
+                        >
+                          <i className="fa fa-search"></i>
+                        </button>
+                      </div>
+                    </form>
+                  </div>
+                </li>
+              </ul>
+            </li>
+            {/* End Search */}
+
+            {/* Cart */}
+            <li>
+              <a href="#">
+                <i className="fa fa-shopping-cart"></i> Shop
+              </a>
+            </li>
+            {/* End Cart */}
+
+            {/* Languages */}
+            <li>
+              <a href="#" className="mn-has-sub">
+                Eng <i className="fa fa-angle-down"></i>
+              </a>
+
+              <ul className="mn-sub">
+                <li>
+                  <a href="">English</a>
+                </li>
+                <li>
+                  <a href="">France</a>
+                </li>
+                <li>
+                  <a href="">Germany</a>
+                </li>
+              </ul>
+            </li>
+            {/* End Languages */}
+          </ul>
+        </div>
+        {/* End Main Menu */}
+      </div>
+    </nav>
   );
 };
 

@@ -7,7 +7,8 @@ const menuSideEffects = () => {
     return;
   }
 
-  addEasing();
+
+  addEasing($);
   AOS.init({
     duration: 1500,
   });
@@ -66,7 +67,6 @@ const menuSideEffects = () => {
   if (!('ontouchstart' in document.documentElement)) {
     document.documentElement.className += ' no-touch';
   }
-
 
   // Function for block height 100%
   function height_line(height_object, height_donor) {
