@@ -18,9 +18,52 @@ const map = () => (
     <div className="container relative">
       <div className="text">
         <h3 className="section-title font-alt mb-30 mb-xxs-10">Find us</h3>
-        <p className="align-center">
-          1st Avenue &, E 35th St, New York, NY 10016
-        </p>
+
+        <div className="row">
+          <div className="col-md-8 col-md-offset-2">
+            <div className="row">
+              {/* Phone */}
+              <div className="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
+                <div className="contact-item">
+                  <div className="ci-icon">
+                    <i className="fa fa-phone"></i>
+                  </div>
+                  <div className="ci-title font-alt">Call Us</div>
+                  <div className="ci-text">917-856-9616</div>
+                </div>
+              </div>
+              {/* End Phone */}
+
+              {/* Address */}
+              <div className="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
+                <div className="contact-item">
+                  <div className="ci-icon">
+                    <i className="fa fa-map-marker"></i>
+                  </div>
+                  <div className="ci-title font-alt">Address</div>
+                  <div className="ci-text">2nd AVE E 35th St</div>
+                </div>
+              </div>
+              {/* End Address */}
+
+              {/* Email */}
+              <div className="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
+                <div className="contact-item">
+                  <div className="ci-icon">
+                    <i className="fa fa-envelope"></i>
+                  </div>
+                  <div className="ci-title font-alt">Email</div>
+                  <div className="ci-text">
+                    <a href="mailto:ink.xing.yun@gmail.com">
+                      ink.xing.yun@gmail.com
+                    </a>
+                  </div>
+                </div>
+              </div>
+              {/* End Email */}
+            </div>
+          </div>
+        </div>
 
         <div className="mt-40">
           <Map
