@@ -11,7 +11,7 @@ const rules = () => (
             <div className="col-sm-6 col-md-3 col-lg-3">
                 <div className="alt-features-item align-center">
                     <div className="alt-features-icon">
-                        <span className="icon-flag"></span>
+                        <span className="icon-dribbble"></span>
                     </div>
                     <h3 className="alt-features-title font-alt">
                         "Fault!"
@@ -27,7 +27,7 @@ const rules = () => (
             <div className="col-sm-6 col-md-3 col-lg-3">
                 <div className="alt-features-item align-center">
                     <div className="alt-features-icon">
-                        <span className="icon-clock"></span>
+                        <span className="icon-expand"></span>
                     </div>
                     <h3 className="alt-features-title font-alt">
                         Poles & Lines
@@ -43,7 +43,7 @@ const rules = () => (
             <div className="col-sm-6 col-md-3 col-lg-3">
                 <div className="alt-features-item align-center">
                     <div className="alt-features-icon">
-                        <span className="icon-hotairballoon"></span>
+                        <span className="icon-shield"></span>
                     </div>
                     <h3 className="alt-features-title font-alt">Game 16 & 12</h3>
                     <div className="alt-features-descr align-left">
@@ -57,7 +57,7 @@ const rules = () => (
             <div className="col-sm-6 col-md-3 col-lg-3">
                 <div className="alt-features-item align-center">
                     <div className="alt-features-icon">
-                        <span className="icon-shield"></span>
+                        <span className="icon-chat"></span>
                     </div>
                     <h3 className="alt-features-title font-alt">
                         Call next
