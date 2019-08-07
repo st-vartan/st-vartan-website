@@ -1,7 +1,7 @@
 const rules = () => (
   <section className="page-section bg-gray-lighter">
     <div className="container relative">
-      <h2 className="section-title font-alt">Rules & Regulations</h2>
+      <h2 className="section-title font-alt mb-30 mb-xxs-10">Rules & Regulations</h2>
 
       {/* Features Grid */}
       <div className="row multi-columns-row alt-features-grid">

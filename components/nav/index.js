@@ -52,8 +52,8 @@ const Index = () => {
               </Link>
             </li>
             <li>
-              <Link href={'/gears'}>
-                <a>Gears</a>
+              <Link href={'/lifestyle'}>
+                <a>Lifestyle</a>
               </Link>
             </li>
             <li>
