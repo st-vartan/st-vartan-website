@@ -54,7 +54,7 @@ const initWidgets = () => {
 
       shadow: 0,
       fullWidth: 'on',
-      fullScreen: 'on',
+      fullScreen: 'off',
 
       spinner: 'spinner4',
 

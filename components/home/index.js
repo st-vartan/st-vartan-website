@@ -37,6 +37,11 @@ export default props => {
       </style>
       <div className="page" id="top">
         <div className="home-section fullscreen-container" id="home">
+          {/*<ScrollLink to={'about'} spy={true} smooth={true}>*/}
+          {/*  <div className="scroll-down">*/}
+          {/*    <i className="fa fa-angle-down scroll-down-icon"></i>*/}
+          {/*  </div>*/}
+          {/*</ScrollLink>*/}
           <div className="fullscreenbanner-s bg-dark">
             <ul>
               <li
@@ -1481,17 +1486,17 @@ export default props => {
               {/* Copyright */}
               <div className="footer-copy font-alt">
                 <a
-                  href="http://themeforest.net/user/theme-guru/portfolio"
+                  href="https://bigfatdog.github.io/"
                   target="_blank"
                 >
-                  &copy; Rhythm 2019
+                  &copy; Yun Xing 2019
                 </a>
                 .
               </div>
               {/* End Copyright */}
 
               <div className="footer-made">
-                Made with love for great people.
+                Made with love for hoopers
               </div>
             </div>
             {/* End Footer Text */}
