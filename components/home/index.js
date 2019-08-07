@@ -13,7 +13,7 @@ const settings = {
   slidesToScroll: 1,
 };
 
-import MapSection from './map';
+import MapSection from './sections/map';
 
 export default props => {
   useEffect(() => {
@@ -1436,14 +1436,16 @@ export default props => {
           <div className="container">
             {/* Footer Logo */}
             <div className="mb-30" data-aos="fade-up">
-              <a href="#top">
-                <img
-                  src="/static/images/logo-footer.png"
-                  width="78"
-                  height="36"
-                  alt=""
-                />
-              </a>
+              <ScrollLink to={'top'} spy={true} smooth={true}>
+                <a>
+                  <img
+                      src="/static/images/logo-footer.png"
+                      width="78"
+                      height="36"
+                      alt=""
+                  />
+                </a>
+              </ScrollLink>
             </div>
 
             {/* End Footer Logo */}
@@ -1470,24 +1472,23 @@ export default props => {
 
             {/* Footer Text */}
             <div className="footer-text">
-              {/* Copyright */}
               <div className="footer-copy font-alt">
                 <a href="https://bigfatdog.github.io/" target="_blank">
                   &copy; Yun Xing 2019
                 </a>
-                .
               </div>
-              {/* End Copyright */}
 
               <div className="footer-made">Made with love for hoopers</div>
             </div>
-            {/* End Footer Text */}
           </div>
 
           {/* Top Link */}
-          <div className="link-to-top">
-            <i className="fa fa-caret-up"></i>
-          </div>
+          <ScrollLink to={'top'} spy={true} smooth={true}>
+            <div className="link-to-top">
+              <i className="fa fa-caret-up"></i>
+            </div>
+          </ScrollLink>
+
 
           {/* End Top Link */}
         </footer>
