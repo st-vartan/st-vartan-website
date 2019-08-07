@@ -16,6 +16,7 @@ const settings = {
 import MapSection from './sections/map';
 import RuleSection from './sections/rules';
 import IntroductionSection from './sections/introduction';
+import IntroStaticSection from './sections/introduction-static';
 import AboutSection from './sections/about';
 
 export default props => {
@@ -26,7 +27,8 @@ export default props => {
   return (
     <Layout>
       <div className="page" id="top">
-        <IntroductionSection/>
+        <IntroStaticSection/>
+        {/*<IntroductionSection/>*/}
         <AboutSection/>
 
         <hr className="mt-0 mb-0 " />
