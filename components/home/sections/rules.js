@@ -8,7 +8,7 @@ const rules = () => (
         {/* Features Grid */}
         <div className="row multi-columns-row alt-features-grid">
             {/* Features Item */}
-            <div className="col-sm-6 col-md-4 col-lg-4">
+            <div className="col-sm-6 col-md-3 col-lg-3">
                 <div className="alt-features-item align-center">
                     <div className="alt-features-icon">
                         <span className="icon-flag"></span>
@@ -24,7 +24,7 @@ const rules = () => (
             {/* End Features Item */}
 
             {/* Features Item */}
-            <div className="col-sm-6 col-md-4 col-lg-4">
+            <div className="col-sm-6 col-md-3 col-lg-3">
                 <div className="alt-features-item align-center">
                     <div className="alt-features-icon">
                         <span className="icon-clock"></span>
@@ -40,7 +40,7 @@ const rules = () => (
             {/* End Features Item */}
 
             {/* Features Item */}
-            <div className="col-sm-6 col-md-4 col-lg-4">
+            <div className="col-sm-6 col-md-3 col-lg-3">
                 <div className="alt-features-item align-center">
                     <div className="alt-features-icon">
                         <span className="icon-hotairballoon"></span>
@@ -54,7 +54,7 @@ const rules = () => (
             {/* End Features Item */}
 
             {/* Features Item */}
-            <div className="col-sm-6 col-md-4 col-lg-4">
+            <div className="col-sm-6 col-md-3 col-lg-3">
                 <div className="alt-features-item align-center">
                     <div className="alt-features-icon">
                         <span className="icon-heart"></span>
@@ -67,43 +67,9 @@ const rules = () => (
                     </div>
                 </div>
             </div>
-            {/* End Features Item */}
 
-            {/* Features Item */}
-            <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="alt-features-item align-center">
-                    <div className="alt-features-icon">
-                        <span className="icon-linegraph"></span>
-                    </div>
-                    <h3 className="alt-features-title font-alt">
-                        Get next
-                    </h3>
-                    <div className="alt-features-descr align-left">
-                        Figure out who gets the last next and then call: "I get next!"
-                    </div>
-                </div>
-            </div>
-            {/* End Features Item */}
 
-            {/* Features Item */}
-            <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="alt-features-item align-center">
-                    <div className="alt-features-icon">
-                        <span className="icon-chat"></span>
-                    </div>
-                    <h3 className="alt-features-title font-alt">
-                        We're Friendly
-                    </h3>
-                    <div className="alt-features-descr align-left">
-                        Pulvinar vitae neque et porttitor. Integer non dapibus diam,
-                        ac eleifend lectus. Praesent sed nisi eleifend, fermentum
-                        orci sit amet, iaculis libero interdum.
-                    </div>
-                </div>
-            </div>
-            {/* End Features Item */}
         </div>
-        {/* End Features Grid */}
     </div>
 </section>);
 

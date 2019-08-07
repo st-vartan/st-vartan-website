@@ -866,7 +866,7 @@ export default props => {
         </section>
         {/* End Newsletter Section */}
 
-
+        <RuleSection/>
         <MapSection />
 
         {/* Foter */}
