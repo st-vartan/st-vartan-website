@@ -8,17 +8,19 @@ import etLine from './et-line.css';
 import slick from "slick-carousel/slick/slick.css";
 import slickTheme from "slick-carousel/slick/slick-theme.css";
 import aos from 'aos/dist/aos.css';
+import revSlider from './rev-slider.css';
 import css from 'styled-jsx/css';
 
 export default css`
-${bootstrap}
-${fontawesome}
-${etLine}
-${styles}
-${styleResponsive}
-${animate}
-${vertical}
-${slick}
-${slickTheme}
-${aos}
+    ${bootstrap}
+    ${fontawesome}
+    ${etLine}
+    ${styles}
+    ${styleResponsive}
+    ${animate}
+    ${vertical}
+    ${slick}
+    ${slickTheme}
+    ${aos}
+    ${revSlider}
 `

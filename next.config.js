@@ -8,13 +8,6 @@ module.exports = withCSS({
       fs: 'empty'
     };
 
-    config.plugins.push(
-        new webpack.ProvidePlugin({
-          '$': 'jquery',
-          jQuery: 'jquery',
-            'window.jQuery': 'jquery'
-        })
-    );
       config.module.rules.push({
           test: /\.(eot|woff|woff2|ttf|svg|png|jpg|gif)$/,
           use: {

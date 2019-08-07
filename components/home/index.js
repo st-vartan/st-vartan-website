@@ -15,51 +15,154 @@ const settings = {
 
 export default props => {
   useEffect(() => {
+    // revPlugins($)
+    // revTools($);
     initWidgets();
   }, []);
 
   return (
     <Layout>
-      <style jsx>{`
-        .home-title {
-          font-size: 70px;
-          font-weight: 600;
-          letter-spacing: 18px;
-        }
-        .home-sub-title {
-          opacity: 0.8;
-          font-size: 18px;
-        }
-      `}
+      <style jsx>
+        {`
+          .home-title {
+            font-size: 70px;
+            font-weight: 800;
+            letter-spacing: 18px;
+          }
+          .home-sub-title {
+            opacity: 0.8;
+            font-size: 18px;
+          }
+        `}
       </style>
       <div className="page" id="top">
-        <section
-          className="home-section bg-dark-alfa-30"
-          id="home"
-          style={{
-            backgroundPosition: '50% 0px',
-            backgroundImage: 'url("/static/images/court_bg.jpg")',
-          }}
-        >
-          <div className="js-height-full container">
-            <div className="home-content">
-              <div className="home-text">
-                <h1 className="hs-line-1 home-title font-alt mb-80 mb-xs-30 mt-50 mt-sm-0">
-                  St.Vartan Hoops
-                </h1>
+        <div className="home-section fullscreen-container" id="home">
+          {/*<ScrollLink to={'about'} spy={true} smooth={true}>*/}
+          {/*  <div className="scroll-down">*/}
+          {/*    <i className="fa fa-angle-down scroll-down-icon"></i>*/}
+          {/*  </div>*/}
+          {/*</ScrollLink>*/}
+          <div className="fullscreenbanner-s bg-dark">
+            <ul>
+              <li
+                data-transition="fade"
+                data-slotamount="7"
+                data-title="Intro Slide"
+              >
+                <img src="/static/images/court_bg.jpg" alt="" />
 
-                <div className="hs-line-6 home-sub-title">
-                  Competition Passion Love
+                <div
+                  className="caption tp-resizeme"
+                  data-x="center"
+                  data-hoffset="0"
+                  data-y="center"
+                  data-voffset="140"
+                  style={{ fontWeight: 500, fontSize: 24}}
+                >
+                  <p>Competition&nbsp;&nbsp;| &nbsp;&nbsp;Passion&nbsp;&nbsp;| &nbsp;&nbsp;Love</p>
                 </div>
-              </div>
-            </div>
-            <ScrollLink to={'about'} spy={true} smooth={true}>
-              <div className="scroll-down">
-                <i className="fa fa-angle-down scroll-down-icon"></i>
-              </div>
-            </ScrollLink>
+
+                <div
+                  className="caption tp-resizeme hs-line-14 home-title"
+                  data-x="center"
+                  data-hoffset="0"
+                  data-y="center"
+                  data-voffset="14"
+                  style={{color: '#ffffff', fontSize: 90}}
+                >
+
+                  St.Vartan Hoops
+                </div>
+              </li>
+
+              <li
+                data-transition="fade"
+                data-slotamount="7"
+                data-title="Black Slide"
+              >
+                <img src="/static/images/kd.jpg" alt="" />
+
+                <div
+                  className="caption tp-resizeme hs-line-14 font-alt"
+                  data-x="center"
+                  data-hoffset="0"
+                  data-y="center"
+                  data-voffset="0"
+                >
+                  League
+                </div>
+              </li>
+
+              <li
+                data-transition="fade"
+                data-slotamount="7"
+                data-masterspeed="1000"
+                data-title="Cup of Dream"
+              >
+                <img src="/static/images/james.jpeg" alt="" />
+
+                <div
+                  className="caption tp-resizeme mediumlarge_light_white"
+                  data-x="center"
+                  data-y="center"
+                  data-voffset="-70"
+                >
+                  <a
+                    href="https://vimeo.com/79802823"
+                    className="big-icon-link lightbox-gallery-1 mfp-iframe"
+                  >
+                    <span className="big-icon big-icon-rs">
+                      <i className="fa fa-play-circle"></i>
+                    </span>
+                  </a>
+                </div>
+
+                <div
+                  className="caption tp-resizeme hs-line-14 font-alt"
+                  data-x="center"
+                  data-y="center"
+                  data-hoffset="20"
+                  data-voffset="40"
+                >
+                  Players
+                </div>
+              </li>
+              <li
+                data-transition="fade"
+                data-slotamount="7"
+                data-masterspeed="1000"
+                data-title="Video Slide"
+              >
+                <img src="/static/images/black-series.jpg" alt="" />
+
+                <div
+                  className="caption tp-resizeme hs-line-8 font-alt"
+                  data-x="30"
+                  data-y="center"
+                  data-voffset="-80"
+                >
+                  Shop
+                </div>
+
+                <div
+                  className="caption tp-resizeme"
+                  data-x="right"
+                  data-hoffset="0"
+                  data-y="center"
+                  data-voffset="0"
+                >
+                  <iframe
+                    src="http://player.vimeo.com/video/56152991?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff"
+                    width="576"
+                    height="330"
+                    allowFullScreen
+                  ></iframe>
+                </div>
+              </li>
+            </ul>
+            <div className="tp-bannertimer tp-bottom"></div>
           </div>
-        </section>
+        </div>
 
         {/* About Section */}
         <section className="page-section" id="about">
@@ -1383,17 +1486,17 @@ export default props => {
               {/* Copyright */}
               <div className="footer-copy font-alt">
                 <a
-                  href="http://themeforest.net/user/theme-guru/portfolio"
+                  href="https://bigfatdog.github.io/"
                   target="_blank"
                 >
-                  &copy; Rhythm 2019
+                  &copy; Yun Xing 2019
                 </a>
                 .
               </div>
               {/* End Copyright */}
 
               <div className="footer-made">
-                Made with love for great people.
+                Made with love for hoopers
               </div>
             </div>
             {/* End Footer Text */}
