@@ -26,31 +26,12 @@ export default props => {
         {`
           .home-title {
             font-size: 70px;
-            font-weight: 600;
+            font-weight: 800;
             letter-spacing: 18px;
           }
           .home-sub-title {
             opacity: 0.8;
             font-size: 18px;
-          }
-          .caption-backdrop {
-            margin: auto;
-            padding: 6px;
-            min-height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-          }
-          .caption-text {
-            color: white;
-            border: 4px solid;
-            background: #000000d6;
-            mix-blend-mode: multiply;
-            font: normal 5em 'arial';
-            text-align: center;
-            padding: 10px;
-            margin: auto;
-            box-shadow: 0 -1px 5px #232323, 0 1px 5px #232323, -1px 0 5px #232323, 1px 0 5px #232323;
           }
         `}
       </style>
@@ -66,12 +47,12 @@ export default props => {
                 <img src="/static/images/court_bg.jpg" alt="" />
 
                 <div
-                  className="caption tp-resizeme hs-line-6 no-transp"
+                  className="caption tp-resizeme"
                   data-x="center"
                   data-hoffset="0"
                   data-y="center"
-                  data-voffset="100"
-                  style={{ fontWeight: 400, fontSize: 24}}
+                  data-voffset="140"
+                  style={{ fontWeight: 500, fontSize: 24}}
                 >
                   <p>Competition&nbsp;&nbsp;| &nbsp;&nbsp;Passion&nbsp;&nbsp;| &nbsp;&nbsp;Love</p>
                 </div>
@@ -81,7 +62,7 @@ export default props => {
                   data-x="center"
                   data-hoffset="0"
                   data-y="center"
-                  data-voffset="-14"
+                  data-voffset="14"
                   style={{color: '#ffffff', fontSize: 90}}
                 >
 
