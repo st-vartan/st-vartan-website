@@ -7,7 +7,6 @@ const menuSideEffects = () => {
     return;
   }
 
-
   addEasing($);
   AOS.init({
     duration: 1500,

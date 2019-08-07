@@ -18,7 +18,11 @@ export default ({ children, title = 'St.Vartan Hoops' }) => (
       <style jsx global>
         {globalStyle}
       </style>
-      <link rel="stylesheet" type="text/css" href="/static/rs-plugin/css/settings.css" />
+      <link
+        rel="stylesheet"
+        type="text/css"
+        href="/static/rs-plugin/css/settings.css"
+      />
       <script type="text/javascript" src="/static/js/jquery-1.11.2.min.js" />
       <script
         type="text/javascript"

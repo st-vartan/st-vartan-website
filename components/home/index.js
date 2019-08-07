@@ -13,10 +13,10 @@ const settings = {
   slidesToScroll: 1,
 };
 
+import MapSection from './map';
+
 export default props => {
   useEffect(() => {
-    // revPlugins($)
-    // revTools($);
     initWidgets();
   }, []);
 
@@ -57,9 +57,12 @@ export default props => {
                   data-hoffset="0"
                   data-y="center"
                   data-voffset="140"
-                  style={{ fontWeight: 500, fontSize: 24}}
+                  style={{ fontWeight: 500, fontSize: 24 }}
                 >
-                  <p>Competition&nbsp;&nbsp;| &nbsp;&nbsp;Passion&nbsp;&nbsp;| &nbsp;&nbsp;Love</p>
+                  <p>
+                    Competition&nbsp;&nbsp;| &nbsp;&nbsp;Passion&nbsp;&nbsp;|
+                    &nbsp;&nbsp;Love
+                  </p>
                 </div>
 
                 <div
@@ -68,9 +71,8 @@ export default props => {
                   data-hoffset="0"
                   data-y="center"
                   data-voffset="14"
-                  style={{color: '#ffffff', fontSize: 90}}
+                  style={{ color: '#ffffff', fontSize: 90 }}
                 >
-
                   St.Vartan Hoops
                 </div>
               </li>
@@ -1427,22 +1429,7 @@ export default props => {
         </section>
         {/* End Contact Section */}
 
-        {/* Call Action Section */}
-        <section className="small-section bg-dark">
-          <div className="container relative">
-            <div className="align-center">
-              <h3 className="banner-heading font-alt">
-                Want to discuss your new project?
-              </h3>
-              <div>
-                <a href="" className="btn btn-mod btn-w btn-medium btn-round">
-                  Lets tallk
-                </a>
-              </div>
-            </div>
-          </div>
-        </section>
-        {/* End Call Action Section */}
+        <MapSection />
 
         {/* Foter */}
         <footer className="page-section bg-gray-lighter footer pb-60">
@@ -1485,19 +1472,14 @@ export default props => {
             <div className="footer-text">
               {/* Copyright */}
               <div className="footer-copy font-alt">
-                <a
-                  href="https://bigfatdog.github.io/"
-                  target="_blank"
-                >
+                <a href="https://bigfatdog.github.io/" target="_blank">
                   &copy; Yun Xing 2019
                 </a>
                 .
               </div>
               {/* End Copyright */}
 
-              <div className="footer-made">
-                Made with love for hoopers
-              </div>
+              <div className="footer-made">Made with love for hoopers</div>
             </div>
             {/* End Footer Text */}
           </div>

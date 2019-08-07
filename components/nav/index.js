@@ -31,7 +31,7 @@ const Index = () => {
               <ul className="mn-sub">
                 <li>
                   <Link href={'/russ'}>
-                    <a >Russ</a>
+                    <a>Russ</a>
                   </Link>
                 </li>
               </ul>
@@ -43,30 +43,22 @@ const Index = () => {
             </li>
             <li>
               <Link href={'/events'}>
-                <a>
-                  Events
-                </a>
+                <a>Events</a>
               </Link>
             </li>
             <li>
               <Link href={'/gallery'}>
-                <a>
-                  Gallery
-                </a>
+                <a>Gallery</a>
               </Link>
             </li>
             <li>
               <Link href={'/store'}>
-                <a>
-                  Store
-                </a>
+                <a>Store</a>
               </Link>
             </li>
             <li>
               <Link href={'/about'}>
-                <a>
-                  About
-                </a>
+                <a>About</a>
               </Link>
             </li>
 
