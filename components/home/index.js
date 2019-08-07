@@ -246,7 +246,6 @@ export default props => {
         <hr className="mt-0 mb-0 " />
         {/* End Divider */}
 
-
         {/* Call Action Section */}
         <section
           className="page-section pt-0 pb-0 banner-section bg-dark"
@@ -449,7 +448,6 @@ export default props => {
         </section>
         {/* End Call Action Section */}
 
-
         {/* Testimonials Section */}
         <section
           className="page-section bg-dark bg-dark-alfa-90 fullwidth-slider"
@@ -540,7 +538,6 @@ export default props => {
         </section>
         {/* End Testimonials Section */}
 
-
         {/* Divider */}
         <hr className="mt-0 mb-0 " />
         {/* End Divider */}
@@ -558,13 +555,25 @@ export default props => {
                 <div className="text">
                   <h3 className="font-alt mb-30 mb-xxs-10">Rules</h3>
                   <p>
-                    But the height of the rim on the 35th street side has always been 11 feet and the height of the of the 36 street side has always been 10 1/2. And the out of bounds has always been the poles
+                    But the height of the rim on the 35th street side has always
+                    been 11 feet and the height of the of the 36 street side has
+                    always been 10 1/2. And the out of bounds has always been
+                    the poles
                   </p>
                   <p>
-                    “The regulars like us “ use that to our advantage to beat any non regular that come to the courts . It is our rules , just like every court in New York City has their rules
+                    “The regulars like us “ use that to our advantage to beat
+                    any non regular that come to the courts . It is our rules ,
+                    just like every court in New York City has their rules
                   </p>
                   <p>
-                    So maybe we should just leave it how it is , I know some of you go play elsewhere and it’s not the same. That’s why this our court with our rules and maybe we should keep it that way . If you can shoot on a 11 double foot rim than you can shoot anywhere . What I would say is just leave it how it is , because you guys are use to it already . Just protect the court when you see an unfamiliar face , more importantly an unfamiliar 5 , and just win .
+                    So maybe we should just leave it how it is , I know some of
+                    you go play elsewhere and it’s not the same. That’s why this
+                    our court with our rules and maybe we should keep it that
+                    way . If you can shoot on a 11 double foot rim than you can
+                    shoot anywhere . What I would say is just leave it how it is
+                    , because you guys are use to it already . Just protect the
+                    court when you see an unfamiliar face , more importantly an
+                    unfamiliar 5 , and just win .
                   </p>
 
                   <div className="mt-40">
@@ -824,49 +833,8 @@ export default props => {
             </div>
           </div>
         </section>
-        {/* End Blog Section */}
-
-        {/* Newsletter Section */}
-        <section className="small-section bg-gray-lighter">
-          <div className="container relative">
-            <form className="form align-center" id="mailchimp">
-              <div className="row">
-                <div className="col-md-8 col-md-offset-2">
-                  <div className="newsletter-label font-alt">
-                    Stay informed with our newsletter
-                  </div>
-
-                  <div className="mb-20">
-                    <input
-                      placeholder="Enter Your Email"
-                      className="newsletter-field form-control input-md round mb-xs-10"
-                      type="email"
-                      pattern=".{5,100}"
-                      required
-                    />
-
-                    <button
-                      type="submit"
-                      className="btn btn-mod btn-medium btn-round mb-xs-10"
-                    >
-                      Subscribe
-                    </button>
-                  </div>
-
-                  <div className="form-tip">
-                    <i className="fa fa-info-circle"></i> Please trust us, we
-                    will never send you spam
-                  </div>
-
-                  <div id="subscribe-result"></div>
-                </div>
-              </div>
-            </form>
-          </div>
-        </section>
-        {/* End Newsletter Section */}
-
-        <RuleSection/>
+        
+        <RuleSection />
         <MapSection />
 
         {/* Foter */}
@@ -877,10 +845,10 @@ export default props => {
               <ScrollLink to={'top'} spy={true} smooth={true}>
                 <a>
                   <img
-                      src="/static/images/logo-footer.png"
-                      width="78"
-                      height="36"
-                      alt=""
+                    src="/static/images/logo-footer.png"
+                    width="78"
+                    height="36"
+                    alt=""
                   />
                 </a>
               </ScrollLink>
@@ -926,7 +894,6 @@ export default props => {
               <i className="fa fa-caret-up"></i>
             </div>
           </ScrollLink>
-
 
           {/* End Top Link */}
         </footer>
