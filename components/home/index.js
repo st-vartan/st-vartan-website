@@ -15,6 +15,8 @@ const settings = {
 
 import MapSection from './sections/map';
 import RuleSection from './sections/rules';
+import IntroductionSection from './sections/introduction';
+import AboutSection from './sections/about';
 
 export default props => {
   useEffect(() => {
@@ -23,226 +25,9 @@ export default props => {
 
   return (
     <Layout>
-      <style jsx>
-        {`
-          .home-title {
-            font-size: 70px;
-            font-weight: 800;
-            letter-spacing: 18px;
-          }
-          .home-sub-title {
-            opacity: 0.8;
-            font-size: 18px;
-          }
-        `}
-      </style>
       <div className="page" id="top">
-        <div className="home-section fullscreen-container" id="home">
-          {/*<ScrollLink to={'about'} spy={true} smooth={true}>*/}
-          {/*  <div className="scroll-down">*/}
-          {/*    <i className="fa fa-angle-down scroll-down-icon"></i>*/}
-          {/*  </div>*/}
-          {/*</ScrollLink>*/}
-          <div className="fullscreenbanner-s bg-dark">
-            <ul>
-              <li
-                data-transition="fade"
-                data-slotamount="7"
-                data-title="Intro Slide"
-              >
-                <img src="/static/images/court_bg.jpg" alt="" />
-
-                <div
-                  className="caption tp-resizeme"
-                  data-x="center"
-                  data-hoffset="0"
-                  data-y="center"
-                  data-voffset="140"
-                  style={{ fontWeight: 500, fontSize: 24 }}
-                >
-                  <p>
-                    Competition&nbsp;&nbsp;| &nbsp;&nbsp;Passion&nbsp;&nbsp;|
-                    &nbsp;&nbsp;Love
-                  </p>
-                </div>
-
-                <div
-                  className="caption tp-resizeme hs-line-14 home-title"
-                  data-x="center"
-                  data-hoffset="0"
-                  data-y="center"
-                  data-voffset="14"
-                  style={{ color: '#ffffff', fontSize: 90 }}
-                >
-                  St.Vartan Hoops
-                </div>
-              </li>
-
-              <li
-                data-transition="fade"
-                data-slotamount="7"
-                data-title="Black Slide"
-              >
-                <img src="/static/images/kd.jpg" alt="" />
-
-                <div
-                  className="caption tp-resizeme hs-line-14 font-alt"
-                  data-x="center"
-                  data-hoffset="0"
-                  data-y="center"
-                  data-voffset="0"
-                >
-                  League
-                </div>
-              </li>
-
-              <li
-                data-transition="fade"
-                data-slotamount="7"
-                data-masterspeed="1000"
-                data-title="Cup of Dream"
-              >
-                <img src="/static/images/james.jpeg" alt="" />
-
-                <div
-                  className="caption tp-resizeme mediumlarge_light_white"
-                  data-x="center"
-                  data-y="center"
-                  data-voffset="-70"
-                >
-                  <a
-                    href="https://vimeo.com/79802823"
-                    className="big-icon-link lightbox-gallery-1 mfp-iframe"
-                  >
-                    <span className="big-icon big-icon-rs">
-                      <i className="fa fa-play-circle"></i>
-                    </span>
-                  </a>
-                </div>
-
-                <div
-                  className="caption tp-resizeme hs-line-14 font-alt"
-                  data-x="center"
-                  data-y="center"
-                  data-hoffset="20"
-                  data-voffset="40"
-                >
-                  Players
-                </div>
-              </li>
-              <li
-                data-transition="fade"
-                data-slotamount="7"
-                data-masterspeed="1000"
-                data-title="Video Slide"
-              >
-                <img src="/static/images/black-series.jpg" alt="" />
-
-                <div
-                  className="caption tp-resizeme hs-line-8 font-alt"
-                  data-x="30"
-                  data-y="center"
-                  data-voffset="-80"
-                >
-                  Shop
-                </div>
-
-                <div
-                  className="caption tp-resizeme"
-                  data-x="right"
-                  data-hoffset="0"
-                  data-y="center"
-                  data-voffset="0"
-                >
-                  <iframe
-                    src="http://player.vimeo.com/video/56152991?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff"
-                    width="576"
-                    height="330"
-                    allowFullScreen
-                  ></iframe>
-                </div>
-              </li>
-            </ul>
-            <div className="tp-bannertimer tp-bottom"></div>
-          </div>
-        </div>
-
-        {/* About Section */}
-        <section className="page-section" id="about">
-          <div className="container relative">
-            <h2 className="section-title font-alt align-left mb-70 mb-sm-40">
-              About Studio
-              <a href="#" className="section-more right">
-                More about us <i className="fa fa-angle-right"></i>
-              </a>
-            </h2>
-
-            <div className="section-text">
-              <div className="row">
-                <div className="col-md-4 mb-sm-50 mb-xs-30">
-                  {/* Bar Item */}
-                  <div className="progress tpl-progress">
-                    <div
-                      className="progress-bar"
-                      role="progressbar"
-                      aria-valuenow="90"
-                      aria-valuemin="0"
-                      aria-valuemax="100"
-                    >
-                      Branding, % <span>90</span>
-                    </div>
-                  </div>
-                  {/* End Bar Item */}
-
-                  {/* Bar Item */}
-                  <div className="progress tpl-progress">
-                    <div
-                      className="progress-bar"
-                      role="progressbar"
-                      aria-valuenow="80"
-                      aria-valuemin="0"
-                      aria-valuemax="100"
-                    >
-                      Design, % <span>80</span>
-                    </div>
-                  </div>
-                  {/* End Bar Item */}
-
-                  {/* Bar Item */}
-                  <div className="progress tpl-progress">
-                    <div
-                      className="progress-bar"
-                      role="progressbar"
-                      aria-valuenow="85"
-                      aria-valuemin="0"
-                      aria-valuemax="100"
-                    >
-                      Development, % <span>85</span>
-                    </div>
-                  </div>
-                  {/* End Bar Item */}
-                </div>
-
-                <div className="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
-                  maximus ligula semper metus pellentesque mattis. Maecenas
-                  volutpat, diam enim sagittis quam, id porta quam. Sed id dolor
-                  consectetur fermentum nibh volutpat, accumsan purus.
-                </div>
-
-                <div className="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                  Etiam sit amet fringilla lacus. Pellentesque suscipit ante at
-                  ullamcorper pulvinar neque porttitor. Integer lectus. Praesent
-                  sed nisi eleifend, fermentum orci amet, iaculis libero. Donec
-                  vel ultricies purus. Nam dictum sem, eu aliquam.
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-        {/* End About Section */}
-
-        {/* Divider */}
+        <IntroductionSection/>
+        <AboutSection/>
         <hr className="mt-0 mb-0 " />
         {/* End Divider */}
 
@@ -833,7 +618,7 @@ export default props => {
             </div>
           </div>
         </section>
-        
+
         <RuleSection />
         <MapSection />
 
