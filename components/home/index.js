@@ -15,8 +15,6 @@ const settings = {
 
 export default props => {
   useEffect(() => {
-    // revPlugins($)
-    // revTools($);
     initWidgets();
   }, []);
 
