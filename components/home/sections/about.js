@@ -1,12 +1,16 @@
+import Link from 'next/link';
+
 const about = () => {
   return (
     <section className="page-section" id="about">
       <div className="container relative">
         <h2 className="section-title font-alt align-left mb-70 mb-sm-40">
-          About Studio
-          <a href="#" className="section-more right">
-            More about us <i className="fa fa-angle-right"></i>
-          </a>
+          High Quality Pick-up Basketball Every Single Day
+          <Link href={'/about'}>
+            <a className="section-more right">
+              More about us <i className="fa fa-angle-right"></i>
+            </a>
+          </Link>
         </h2>
 
         <div className="section-text">

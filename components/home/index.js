@@ -28,8 +28,8 @@ export default props => {
       <div className="page" id="top">
         <IntroductionSection/>
         <AboutSection/>
+
         <hr className="mt-0 mb-0 " />
-        {/* End Divider */}
 
         {/* Call Action Section */}
         <section
