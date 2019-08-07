@@ -33,7 +33,7 @@ const rules = () => (
                         Poles & Lines
                     </h3>
                     <div className="alt-features-descr align-left">
-                        Poles and lines have been boundaries of this court
+                        Poles and lines have been boundaries of this court. 1s and 2s all day.
                     </div>
                 </div>
             </div>
@@ -57,13 +57,13 @@ const rules = () => (
             <div className="col-sm-6 col-md-3 col-lg-3">
                 <div className="alt-features-item align-center">
                     <div className="alt-features-icon">
-                        <span className="icon-heart"></span>
+                        <span className="icon-shield"></span>
                     </div>
                     <h3 className="alt-features-title font-alt">
-                        Ones & Twos
+                        Call next
                     </h3>
                     <div className="alt-features-descr align-left">
-                        Regular shots are 1. Threes count as 2
+                        Figure who gets the last next, call "I get next" and then you're on.
                     </div>
                 </div>
             </div>
