@@ -47,7 +47,7 @@ const rules = () => (
                     </div>
                     <h3 className="alt-features-title font-alt">Game 16 & 12</h3>
                     <div className="alt-features-descr align-left">
-                        Only the first game of the day is 16, the following ones are 12.
+                        Only the first game of the day is 16, all following ones are 12.
                     </div>
                 </div>
             </div>
