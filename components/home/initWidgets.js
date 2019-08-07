@@ -8,9 +8,9 @@ const initWidgets = () => {
          Scripts initialization
          --------------------------------------------- */
   $(document).ready(function() {
-    $('.fullscreenbanner').revolution({
+    $('.fullscreenbanner-s').revolution({
       dottedOverlay: 'none',
-      delay: 16000,
+      // delay: 16000,
       startwidth: 1170,
       startheight: 600,
       hideThumbs: 200,
@@ -54,7 +54,7 @@ const initWidgets = () => {
 
       shadow: 0,
       fullWidth: 'on',
-      fullScreen: 'off',
+      fullScreen: 'on',
 
       spinner: 'spinner4',
 
@@ -75,19 +75,8 @@ const initWidgets = () => {
 
       hideSliderAtLimit: 0,
       hideCaptionAtLimit: 0,
-      hideAllCaptionAtLilmit: 0,
+      hideAllCaptionAtLimit: 0,
       startWithSlide: 0,
-    });
-
-    $('.fullscreenbanner-s').revolution({
-      delay: 15000,
-      startwidth: 1170,
-      startheight: 500,
-      hideThumbs: 10,
-      fullWidth: 'off',
-      fullScreen: 'on',
-      fullScreenOffsetContainer: '',
-      navigationStyle: 'preview4',
     });
   });
   $(window).load(function() {

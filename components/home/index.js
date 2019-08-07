@@ -33,6 +33,25 @@ export default props => {
             opacity: 0.8;
             font-size: 18px;
           }
+          .caption-backdrop {
+            margin: auto;
+            padding: 6px;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+          }
+          .caption-text {
+            color: white;
+            border: 4px solid;
+            background: #000000d6;
+            mix-blend-mode: multiply;
+            font: normal 5em 'arial';
+            text-align: center;
+            padding: 10px;
+            margin: auto;
+            box-shadow: 0 -1px 5px #232323, 0 1px 5px #232323, -1px 0 5px #232323, 1px 0 5px #232323;
+          }
         `}
       </style>
       <div className="page" id="top">
@@ -47,22 +66,25 @@ export default props => {
                 <img src="/static/images/court_bg.jpg" alt="" />
 
                 <div
-                  className="caption tp-resizeme hs-line-8 no-transp font-alt"
+                  className="caption tp-resizeme hs-line-6 no-transp"
                   data-x="center"
                   data-hoffset="0"
                   data-y="center"
                   data-voffset="100"
+                  style={{ fontWeight: 400, fontSize: 24}}
                 >
-                  Competition Love Passion
+                  <p>Competition&nbsp;&nbsp;| &nbsp;&nbsp;Passion&nbsp;&nbsp;| &nbsp;&nbsp;Love</p>
                 </div>
 
                 <div
-                  className="caption tp-resizeme hs-line-14 font-alt home-title"
+                  className="caption tp-resizeme hs-line-14 home-title"
                   data-x="center"
                   data-hoffset="0"
                   data-y="center"
                   data-voffset="-14"
+                  style={{color: '#ffffff', fontSize: 90}}
                 >
+
                   St.Vartan Hoops
                 </div>
               </li>
@@ -75,7 +97,7 @@ export default props => {
                 <img src="/static/images/kd.jpg" alt="" />
 
                 <div
-                  className="caption tp-resizeme hs-line-12 font-alt"
+                  className="caption tp-resizeme hs-line-14 font-alt"
                   data-x="center"
                   data-hoffset="0"
                   data-y="center"
