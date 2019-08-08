@@ -34,7 +34,6 @@ export default props => {
       <hr className="mt-0 mb-0 " />
 
       <MapSection />
-      <FooterSection />
     </Layout>
   );
 };

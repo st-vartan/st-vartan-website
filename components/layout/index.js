@@ -1,7 +1,7 @@
-import Link from 'next/link';
 import Head from 'next/head';
 import globalStyle from '../../styles/globalStyle.js';
 import Nav from '../nav';
+import FooterSection from '../home/sections/footer';
 
 export default ({ children, title = 'St.Vartan Hoops' }) => (
   <div>
@@ -38,6 +38,7 @@ export default ({ children, title = 'St.Vartan Hoops' }) => (
     </header>
     <div className="page" id="top">
       {children}
+      <FooterSection />
     </div>
   </div>
 );
