@@ -1,7 +1,6 @@
 import { useEffect } from 'react';
 
 import Layout from '../layout';
-import initWidgets from './initWidgets';
 
 import MapSection from './sections/map';
 import RuleSection from './sections/rules';
@@ -14,7 +13,21 @@ import TeamsSection from './sections/teams';
 
 export default props => {
   useEffect(() => {
-    initWidgets();
+      $(window).resize(function() {
+          $('.js-height-full').height($(window).height());
+          $('.js-height-parent').each(function() {
+              $(this).height(
+                  $(this)
+                      .parent()
+                      .first()
+                      .height()
+              );
+          });
+
+      });
+
+      $(window).trigger('resize');
+      $(window).trigger('scroll');
   }, []);
 
   return (

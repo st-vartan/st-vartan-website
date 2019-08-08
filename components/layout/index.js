@@ -33,10 +33,8 @@ export default ({ children, title = 'St.Vartan Hoops' }) => (
         src="/static/rs-plugin/js/jquery.themepunch.revolution.js"
       />
     </Head>
-    <header>
-      <Nav />
-    </header>
     <div className="page" id="top">
+        <Nav />
       {children}
       <FooterSection />
     </div>
