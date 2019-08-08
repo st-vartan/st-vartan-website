@@ -23,18 +23,23 @@ const Index = () => {
 
         <div className="inner-nav desktop-nav">
           <ul className="clearlist">
-            <li>
-              <a href="#" className="mn-has-sub active">
-                Players <i className="fa fa-angle-down"></i>
-              </a>
+            {/*<li>*/}
+            {/*  <a href="#" className="mn-has-sub active">*/}
+            {/*    Players <i className="fa fa-angle-down"></i>*/}
+            {/*  </a>*/}
 
-              <ul className="mn-sub">
-                <li>
-                  <Link href={'/russ'}>
-                    <a>Russ</a>
-                  </Link>
-                </li>
-              </ul>
+            {/*  <ul className="mn-sub">*/}
+            {/*    <li>*/}
+            {/*      <Link href={'/russ'}>*/}
+            {/*        <a>Russ</a>*/}
+            {/*      </Link>*/}
+            {/*    </li>*/}
+            {/*  </ul>*/}
+            {/*</li>*/}
+            <li>
+              <Link href={'/players'}>
+                <a>PLayers</a>
+              </Link>
             </li>
             <li>
               <Link href={'/leagues'}>
