@@ -14,7 +14,7 @@ const introduction = () => (
           .home-title {
             font-size: 80px;
             font-weight: 700;
-            letter-spacing: 14px;
+            letter-spacing: 8px;
           }
           .home-sub-title {
             opacity: 0.8;
