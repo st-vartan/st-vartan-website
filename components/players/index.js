@@ -1,11 +1,5 @@
 import Layout from '../layout';
 import Link from 'next/link';
-import { useState, useEffect } from 'react';
-import Masonry from 'react-masonry-component';
-
-const masonryOptions = {
-    transitionDuration: 100
-};
 
 const data = new Array(6).fill({
     image: '/static/images/projects-1.jpg',
@@ -15,35 +9,23 @@ const data = new Array(6).fill({
 });
 
 const players = () => {
-    const [items, setItems] = useState([]);
-    const [allItems, setAllItems] = useState([]);
-    useEffect(() => {
-        const widgets = data.map((d, i) => {
-            return (
-                <li className="work-item mix photography">
-                    <a className="work-lightbox-link mfp-image">
-                        <div className="work-img">
-                            <img src={d.image} alt={d.name} />
+    const items = data.map((d, i) => {
+        return (
+            <li className="work-item mix photography">
+                <a className="work-lightbox-link mfp-image">
+                    <div className="work-img">
+                        <img src={d.image} alt={d.name} />
+                    </div>
+                    <div className="work-intro">
+                        <h3 className="work-title">{d.name}</h3>
+                        <div className="work-descr">
+                            {d.desc}
                         </div>
-                        <div className="work-intro">
-                            <h3 className="work-title">{d.name}</h3>
-                            <div className="work-descr">
-                                {d.desc}
-                            </div>
-                        </div>
-                    </a>
-                </li>
-            )
-        });
-        setAllItems(widgets);
-        setItems(widgets)
-    })
-
-
-    const filterItems = (query) => {
-        const widgets = allItems.filter(d => (d.role && query) ? true : d.role === query);
-        setItems(widgets);
-    };
+                    </div>
+                </a>
+            </li>
+        )
+    });
 
     return (
         <Layout title={'St.Vartan Basektball Players'}>
@@ -66,26 +48,11 @@ const players = () => {
                 </div>
             </section>
             <section className="page-section pb-0">
-                <div className="relative">
+                <div className="container relative">
 
-                    {/*<div className="works-filter font-alt align-center">*/}
-                    {/*    <a className="filter active" onClick={() => filterItems()}>All</a>*/}
-                    {/*    <a  onClick={() => filterItems('sg')}>SG</a>*/}
-                    {/*    <a  onClick={() => filterItems('pg')}>Point guard</a>*/}
-                    {/*    <a  onClick={() => filterItems('sf')}>Small forward</a>*/}
-                    {/*    <a  onClick={() => filterItems('pf')}>Power forward</a>*/}
-                    {/*    <a  onClick={() => filterItems('c')}>Center</a>*/}
-                    {/*</div>*/}
-                    <Masonry
-                        className={'works-grid clearfix font-alt'} // default ''
-                        elementType={'ul'} // default 'div'
-                        options={masonryOptions} // default {}
-                        disableImagesLoaded={false} // default false
-                        updateOnEachImageLoad={false} // default false and works only if disableImagesLoaded is false
-                    >
+                    <ul className={'works-grid clearfix font-alt hover-white work-grid-gut'}>
                         {items}
-                    </Masonry>
-
+                    </ul>
                 </div>
             </section>
         </Layout>
