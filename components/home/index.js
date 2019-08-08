@@ -9,10 +9,8 @@ import IntroductionSection from './sections/intro';
 import IntroStaticSection from './sections/introStatic';
 import AboutSection from './sections/about';
 import IntroDetailSection from './sections/introDetail';
-import FooterSection from './sections/footer';
 import LatestGallerySection from './sections/latestGallery';
 import TeamsSection from './sections/teams';
-import QuoteSection from './sections/quote';
 
 export default props => {
   useEffect(() => {
