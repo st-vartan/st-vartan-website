@@ -157,7 +157,6 @@ const menuSideEffects = () => {
     // Mobile menu toggle
 
     mobile_nav.click(function() {
-      console.log(desktop_nav);
       if (desktop_nav.hasClass('js-opened')) {
         desktop_nav.slideUp('slow', 'easeOutExpo').removeClass('js-opened');
         $(this).removeClass('active');
