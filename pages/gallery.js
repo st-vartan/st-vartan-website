@@ -1,9 +1,5 @@
-import dynamic from 'next/dynamic';
-
-const DynamicComponent = dynamic(() => import('../components/gallery'), {
-  ssr: false,
-});
+import Gallery from '../components/gallery';
 
 export default props => {
-  return <DynamicComponent />;
+  return <Gallery />;
 };
