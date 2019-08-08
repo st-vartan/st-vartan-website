@@ -42,8 +42,8 @@ const Index = () => {
               </Link>
             </li>
             <li>
-              <Link href={'/events'}>
-                <a>Events</a>
+              <Link href={'/visualization'}>
+                <a>Visualization</a>
               </Link>
             </li>
             <li>
