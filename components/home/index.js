@@ -13,21 +13,20 @@ import TeamsSection from './sections/teams';
 
 export default props => {
   useEffect(() => {
-      $(window).resize(function() {
-          $('.js-height-full').height($(window).height());
-          $('.js-height-parent').each(function() {
-              $(this).height(
-                  $(this)
-                      .parent()
-                      .first()
-                      .height()
-              );
-          });
-
+    $(window).resize(function() {
+      $('.js-height-full').height($(window).height());
+      $('.js-height-parent').each(function() {
+        $(this).height(
+          $(this)
+            .parent()
+            .first()
+            .height()
+        );
       });
+    });
 
-      $(window).trigger('resize');
-      $(window).trigger('scroll');
+    $(window).trigger('resize');
+    $(window).trigger('scroll');
   }, []);
 
   return (

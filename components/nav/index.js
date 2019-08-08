@@ -1,6 +1,9 @@
 import Link from 'next/link';
 import { useEffect } from 'react';
-import menuSideEffects, { init_classic_menu, init_classic_menu_resize } from './menuSideEffects';
+import menuSideEffects, {
+  init_classic_menu,
+  init_classic_menu_resize,
+} from './menuSideEffects';
 
 const Index = () => {
   useEffect(() => {

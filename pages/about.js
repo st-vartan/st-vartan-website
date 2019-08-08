@@ -9,7 +9,7 @@ const aboutUs = props => {
           <div className="row">
             <div className="col-md-8">
               <h1 className="hs-line-11 font-alt mb-10 mb-xs-0">About Us</h1>
-              <div className="hs-line-4 font-alt"></div>
+              <div className="hs-line-4 font-alt">aaa</div>
             </div>
 
             <div className="col-md-4 mt-10">

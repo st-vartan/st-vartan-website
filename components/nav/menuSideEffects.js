@@ -8,7 +8,7 @@ const height_line = (height_object, height_donor) => {
   height_object.css({
     'line-height': height_donor.height() + 'px',
   });
-}
+};
 
 const init_classic_menu = () => {
   const mobile_nav = $('.mobile-nav');
@@ -30,12 +30,12 @@ const init_classic_menu = () => {
     if ($(window).scrollTop() > 10) {
       $('.js-transparent').removeClass('transparent');
       $('.main-nav, .nav-logo-wrap .logo, .mobile-nav').addClass(
-          'small-height'
+        'small-height'
       );
     } else {
       $('.js-transparent').addClass('transparent');
       $('.main-nav, .nav-logo-wrap .logo, .mobile-nav').removeClass(
-          'small-height'
+        'small-height'
       );
     }
   });
@@ -57,12 +57,14 @@ const init_classic_menu = () => {
     }
   });
 
-  $('.desktop-nav').find('a:not(.mn-has-sub)').click(function() {
-    if (mobile_nav.hasClass('active')) {
-      desktop_nav.slideUp('slow', 'easeOutExpo').removeClass('js-opened');
-      mobile_nav.removeClass('active');
-    }
-  });
+  $('.desktop-nav')
+    .find('a:not(.mn-has-sub)')
+    .click(function() {
+      if (mobile_nav.hasClass('active')) {
+        desktop_nav.slideUp('slow', 'easeOutExpo').removeClass('js-opened');
+        mobile_nav.removeClass('active');
+      }
+    });
 
   // Sub menu
 
@@ -70,9 +72,9 @@ const init_classic_menu = () => {
   let mnThisLi;
 
   $('.mobile-on .mn-has-sub')
-      .find('.fa:first')
-      .removeClass('fa-angle-right')
-      .addClass('fa-angle-down');
+    .find('.fa:first')
+    .removeClass('fa-angle-right')
+    .addClass('fa-angle-down');
 
   mnHasSub.click(function() {
     if ($('.main-nav').hasClass('mobile-on')) {
@@ -81,16 +83,16 @@ const init_classic_menu = () => {
         mnThisLi.find('.mn-sub:first').slideUp(function() {
           mnThisLi.removeClass('js-opened');
           mnThisLi
-              .find('.mn-has-sub')
-              .find('.fa:first')
-              .removeClass('fa-angle-up')
-              .addClass('fa-angle-down');
+            .find('.mn-has-sub')
+            .find('.fa:first')
+            .removeClass('fa-angle-up')
+            .addClass('fa-angle-down');
         });
       } else {
         $(this)
-            .find('.fa:first')
-            .removeClass('fa-angle-down')
-            .addClass('fa-angle-up');
+          .find('.fa:first')
+          .removeClass('fa-angle-down')
+          .addClass('fa-angle-up');
         mnThisLi.addClass('js-opened');
         mnThisLi.find('.mn-sub:first').slideDown();
       }
@@ -102,23 +104,23 @@ const init_classic_menu = () => {
 
   mnThisLi = mnHasSub.parent('li');
   mnThisLi.hover(
-      function() {
-        if (!$('.main-nav').hasClass('mobile-on')) {
-          $(this)
-              .find('.mn-sub:first')
-              .stop(true, true)
-              .fadeIn('fast');
-        }
-      },
-      function() {
-        if (!$('.main-nav').hasClass('mobile-on')) {
-          $(this)
-              .find('.mn-sub:first')
-              .stop(true, true)
-              .delay(100)
-              .fadeOut('fast');
-        }
+    function() {
+      if (!$('.main-nav').hasClass('mobile-on')) {
+        $(this)
+          .find('.mn-sub:first')
+          .stop(true, true)
+          .fadeIn('fast');
       }
+    },
+    function() {
+      if (!$('.main-nav').hasClass('mobile-on')) {
+        $(this)
+          .find('.mn-sub:first')
+          .stop(true, true)
+          .delay(100)
+          .fadeOut('fast');
+      }
+    }
   );
 
   /* Keyboard navigation for main menu */
@@ -126,40 +128,40 @@ const init_classic_menu = () => {
   $('.inner-nav a').focus(function() {
     if (!$('.main-nav').hasClass('mobile-on')) {
       $(this)
-          .parent('li')
-          .parent()
-          .children()
-          .find('.mn-sub:first')
-          .stop(true, true)
-          .delay(100)
-          .fadeOut('fast');
+        .parent('li')
+        .parent()
+        .children()
+        .find('.mn-sub:first')
+        .stop(true, true)
+        .delay(100)
+        .fadeOut('fast');
     }
   });
 
   $('.inner-nav a')
-      .first()
-      .keydown(function(e) {
-        if (!$('.main-nav').hasClass('mobile-on')) {
-          if (e.shiftKey && e.keyCode == 9) {
-            $(this)
-                .parent('li')
-                .find('.mn-sub:first')
-                .stop(true, true)
-                .delay(100)
-                .fadeOut('fast');
-          }
+    .first()
+    .keydown(function(e) {
+      if (!$('.main-nav').hasClass('mobile-on')) {
+        if (e.shiftKey && e.keyCode == 9) {
+          $(this)
+            .parent('li')
+            .find('.mn-sub:first')
+            .stop(true, true)
+            .delay(100)
+            .fadeOut('fast');
         }
-      });
+      }
+    });
 
   $('.mn-sub li:last a').keydown(function(e) {
     if (!$('.main-nav').hasClass('mobile-on')) {
       if (!e.shiftKey && e.keyCode == 9) {
         $(this)
-            .parent('li')
-            .parent()
-            .stop(true, true)
-            .delay(100)
-            .fadeOut('fast');
+          .parent('li')
+          .parent()
+          .stop(true, true)
+          .delay(100)
+          .fadeOut('fast');
       }
     }
   });
@@ -168,24 +170,24 @@ const init_classic_menu = () => {
     if (!$('.main-nav').hasClass('mobile-on')) {
       if (e.keyCode == 27) {
         if (
-            mnHasSub
-                .parent('li')
-                .find('.mn-sub:first li .mn-sub')
-                .is(':visible')
+          mnHasSub
+            .parent('li')
+            .find('.mn-sub:first li .mn-sub')
+            .is(':visible')
         ) {
           mnHasSub
-              .parent('li')
-              .find('.mn-sub:first li .mn-sub')
-              .stop(true, true)
-              .delay(100)
-              .fadeOut('fast');
+            .parent('li')
+            .find('.mn-sub:first li .mn-sub')
+            .stop(true, true)
+            .delay(100)
+            .fadeOut('fast');
         } else {
           mnHasSub
-              .parent('li')
-              .find('.mn-sub:first')
-              .stop(true, true)
-              .delay(100)
-              .fadeOut('fast');
+            .parent('li')
+            .find('.mn-sub:first')
+            .stop(true, true)
+            .delay(100)
+            .fadeOut('fast');
         }
       }
     }
@@ -194,19 +196,19 @@ const init_classic_menu = () => {
   mnHasSub.focus(function() {
     if (!$('.main-nav').hasClass('mobile-on')) {
       $(this)
-          .parent('li')
-          .find('.mn-sub:first')
-          .stop(true, true)
-          .fadeIn('fast');
+        .parent('li')
+        .find('.mn-sub:first')
+        .stop(true, true)
+        .fadeIn('fast');
     }
   });
-}
+};
 
 const init_classic_menu_resize = () => {
   // Mobile menu max height
   $('.mobile-on .desktop-nav > ul').css(
-      'max-height',
-      $(window).height() - $('.main-nav').height() - 20 + 'px'
+    'max-height',
+    $(window).height() - $('.main-nav').height() - 20 + 'px'
   );
 
   // Mobile menu style toggle
@@ -216,7 +218,7 @@ const init_classic_menu_resize = () => {
     $('.main-nav').removeClass('mobile-on');
     $('.desktop-nav').show();
   }
-}
+};
 
 const menuSideEffects = () => {
   if (typeof window === 'undefined' || typeof document === 'undefined') {
@@ -262,11 +264,7 @@ const menuSideEffects = () => {
   if (!('ontouchstart' in document.documentElement)) {
     document.documentElement.className += ' no-touch';
   }
-
 };
 
 export default menuSideEffects;
-export {
-  init_classic_menu,
-  init_classic_menu_resize
-}
+export { init_classic_menu, init_classic_menu_resize };

@@ -14,7 +14,7 @@ const players = () => {
       <li className="work-item mix photography">
         <a className="work-lightbox-link mfp-image">
           <div className="work-img">
-            <img src={d.image} alt={d.name} key={d.name + i}/>
+            <img src={d.image} alt={d.name} key={d.name + i} />
           </div>
           <div className="work-intro">
             <h3 className="work-title">{d.name}</h3>
