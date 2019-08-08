@@ -21,8 +21,8 @@ export default props => {
 
   return (
     <Layout>
-      {/*<IntroStaticSection />*/}
-      <IntroductionSection/>
+      <IntroStaticSection />
+      {/*<IntroductionSection />*/}
       <AboutSection />
       <hr className="mt-0 mb-0 " />
       <RuleSection />

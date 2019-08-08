@@ -3,8 +3,9 @@ import Link from 'next/link';
 import MagnificPopup from './layout/magnificPopup';
 
 const data = new Array(10).fill({
-  cover: '/static/images/projects-1.jpg',
-  full: '/static/images/full-project-1.jpg',
+  thumbnail: '/static/images/projects-1.jpg',
+  source: '/static/images/full-project-1.jpg',
+  caption: 'author',
 });
 
 const gallery = () => {
