@@ -30,9 +30,7 @@ const introduction = () => (
           </h1>
 
           <div className="hs-line-6 home-sub-title">
-            <p>
-              When the sun goes down, basketball rises
-            </p>
+            <p>When the sun goes down, basketball rises</p>
           </div>
         </div>
       </div>

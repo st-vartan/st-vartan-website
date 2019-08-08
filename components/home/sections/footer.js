@@ -6,12 +6,12 @@ const footer = () => (
       {/* Footer Logo */}
       <div className="mb-30" data-aos="fade-up">
         <ScrollLink to={'top'} spy={true} smooth={true}>
-            <img
-              src="/static/images/logo-footer.png"
-              width="78"
-              height="36"
-              alt=""
-            />
+          <img
+            src="/static/images/logo-footer.png"
+            width="78"
+            height="36"
+            alt=""
+          />
         </ScrollLink>
       </div>
 
