@@ -20,6 +20,8 @@ import IntroStaticSection from './sections/introduction-static';
 import AboutSection from './sections/about';
 import IntroDetailSection from './sections/intro-detail';
 import FooterSection from './sections/footer';
+import LatestGallerySection from './sections/latest-gallery';
+import Link from "next/link";
 
 export default props => {
   useEffect(() => {
@@ -34,113 +36,11 @@ export default props => {
         <AboutSection />
         <hr className="mt-0 mb-0 " />
         <IntroDetailSection />
-
-        {/* Divider */}
         <hr className="mt-0 mb-0" />
-        {/* End Divider */}
-
-        {/* Portfolio Section */}
-        <section className="page-section pb-0" id="portfolio">
-          <div className="relative">
-            <h2 className="section-title font-alt mb-70 mb-sm-40">
-              Latest Works
-            </h2>
-
-            <div className="container">
-              <div className="row">
-                <div className="col-md-8 col-md-offset-2">
-                  <div className="section-text align-center mb-70 mb-xs-40">
-                    Curabitur eu adipiscing lacus, a iaculis diam. Nullam
-                    placerat blandit auctor. Nulla accumsan ipsum et nibh
-                    rhoncus, eget tempus sapien ultricies. Donec mollis lorem
-                    vehicula.
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            {/* Works Grid */}
-            <ul
-              className="works-grid work-grid-3 work-grid-gut clearfix font-alt hover-white hide-titles"
-              id="work-grid"
-            >
-              {/* Work Item (External Page) */}
-              <li className="work-item">
-                <a href="portfolio-single-1.html" className="work-ext-link">
-                  <div className="work-img">
-                    <img
-                      className="work-img"
-                      src="/static/images/projects-13.jpg"
-                      alt="Work"
-                    />
-                  </div>
-                  <div className="work-intro">
-                    <h3 className="work-title">Man</h3>
-                    <div className="work-descr">External Page</div>
-                  </div>
-                </a>
-              </li>
-              {/* End Work Item */}
-
-              {/* Work Item (External Page) */}
-              <li className="work-item">
-                <a href="portfolio-single-1.html" className="work-ext-link">
-                  <div className="work-img">
-                    <img
-                      className="work-img"
-                      src="/static/images/projects-14.jpg"
-                      alt="Work"
-                    />
-                  </div>
-                  <div className="work-intro">
-                    <h3 className="work-title">Woman</h3>
-                    <div className="work-descr">External Page</div>
-                  </div>
-                </a>
-              </li>
-              {/* End Work Item */}
-
-              {/* Work Item (External Page) */}
-              <li className="work-item">
-                <a href="portfolio-single-1.html" className="work-ext-link">
-                  <div className="work-img">
-                    <img
-                      className="work-img"
-                      src="/static/images/projects-6.jpg"
-                      alt="Work"
-                    />
-                  </div>
-                  <div className="work-intro">
-                    <h3 className="work-title">Man with bag</h3>
-                    <div className="work-descr">External Page</div>
-                  </div>
-                </a>
-              </li>
-              {/* End Work Item */}
-            </ul>
-            {/* End Works Grid */}
-          </div>
-        </section>
-        {/* End Portfolio Section */}
+        <LatestGallerySection/>
 
         {/* Call Action Section */}
-        <section className="small-section bg-dark">
-          <div className="container relative">
-            <div className="align-center">
-              <h3 className="banner-heading font-alt">
-                Want to see more works?
-              </h3>
-              <div>
-                <a
-                  href="portfolio-wide-gutter-3col.html"
-                  className="btn btn-mod btn-w btn-medium btn-round"
-                >
-                  Lets view portfolio
-                </a>
-              </div>
-            </div>
-          </div>
-        </section>
+
         {/* End Call Action Section */}
 
         {/* Testimonials Section */}
