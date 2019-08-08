@@ -449,7 +449,7 @@ hr.black{
     letter-spacing: 1px;
 }
 .font-alt{
-    font-family: Dosis, arial, sans-serif;
+    font-family: 'Helvetica', Dosis, arial, sans-serif;
     text-transform: uppercase;
     letter-spacing: 0.2em;
 }
@@ -2377,7 +2377,7 @@ a.logo:hover{
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     
-    padding: 140px 0;
+    padding: 60px 0;
 }
 .small-section{
     padding: 70px 0;
