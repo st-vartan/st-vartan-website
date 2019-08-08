@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 
-const introduction = () => {
+const intro = () => {
   useEffect(() => {
     if (typeof window === 'undefined' || typeof document === 'undefined') {
       return;
@@ -225,4 +225,4 @@ const introduction = () => {
   );
 };
 
-export default introduction;
+export default intro;

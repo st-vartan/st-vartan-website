@@ -6,12 +6,12 @@ import initWidgets from './initWidgets';
 
 import MapSection from './sections/map';
 import RuleSection from './sections/rules';
-import IntroductionSection from './sections/introduction';
-import IntroStaticSection from './sections/introduction-static';
+import IntroductionSection from './sections/intro';
+import IntroStaticSection from './sections/introStatic';
 import AboutSection from './sections/about';
-import IntroDetailSection from './sections/intro-detail';
+import IntroDetailSection from './sections/introDetail';
 import FooterSection from './sections/footer';
-import LatestGallerySection from './sections/latest-gallery';
+import LatestGallerySection from './sections/latestGallery';
 import TeamsSection from './sections/teams';
 import QuoteSection from './sections/quote';
 
