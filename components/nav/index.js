@@ -37,6 +37,11 @@ const Index = () => {
             {/*  </ul>*/}
             {/*</li>*/}
             <li>
+              <Link href={'/'}>
+                <a>Home</a>
+              </Link>
+            </li>
+            <li>
               <Link href={'/players'}>
                 <a>PLayers</a>
               </Link>

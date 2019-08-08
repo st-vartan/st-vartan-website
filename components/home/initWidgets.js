@@ -22,17 +22,6 @@ const initWidgets = () => {
     js_height_init();
   });
 
-  const pageSection = $(
-    '.home-section, .page-section, .small-section, .split-section'
-  );
-  pageSection.each(function(indx) {
-    if ($(this).attr('data-background')) {
-      $(this).css(
-        'background-image',
-        'url(' + $(this).data('background') + ')'
-      );
-    }
-  });
 
   function js_height_init() {
     (function($) {
