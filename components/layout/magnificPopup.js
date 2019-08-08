@@ -1,17 +1,6 @@
 import { useEffect, useState, Fragment } from 'react';
 import Carousel, { Modal, ModalGateway } from 'react-images';
 
-const toPhotos = data =>
-  data.map((d, i) => (
-    <div className="col-md-4 col-lg-4 mb-md-10" key={d.source + i}>
-      <div className="post-prev-img">
-        <a href={d.source} className="lightbox-gallery-2 mfp-image">
-          <img src={d.thumbnail} alt="" />
-        </a>
-      </div>
-    </div>
-  ));
-
 const magnificPopup = ({ data }) => {
   const [lightboxIsOpen, setLightboxIsOpen] = useState(false);
   const [selectedIndex, setSelectedIndex] = useState(0);
@@ -29,7 +18,7 @@ const magnificPopup = ({ data }) => {
           {data.map(({ thumbnail, caption, source }, i) => (
             <div className="col-md-4 col-lg-4 mb-md-10" key={source + i}>
               <div className="post-prev-img">
-                  <img
+                  <img style={{     cursor: 'pointer'}}
                     onClick={() => clickImg(i)}
                     src={thumbnail}
                     alt={caption}
@@ -44,6 +33,7 @@ const magnificPopup = ({ data }) => {
         {lightboxIsOpen ? (
           <Modal onClose={clickImg}>
             <Carousel
+              components={null}
               currentIndex={selectedIndex}
               frameProps={{ autoSize: 'height' }}
               views={data}
