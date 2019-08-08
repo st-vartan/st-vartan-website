@@ -16,7 +16,7 @@ const gallery = () => {
           <div className="row">
             <div className="col-md-8">
               <h1 className="hs-line-11 font-alt mb-10 mb-xs-0">Gallery</h1>
-              <div className="hs-line-4 font-alt">Memories of hot summer</div>
+              <div className="hs-line-4 font-alt"></div>
             </div>
 
             <div className="col-md-4 mt-10">

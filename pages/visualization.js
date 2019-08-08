@@ -11,7 +11,7 @@ const leagues = props => {
               <h1 className="hs-line-11 font-alt mb-10 mb-xs-0">
                 Visualization
               </h1>
-              <div className="hs-line-4 font-alt">Data Visualization</div>
+              <div className="hs-line-4 font-alt"></div>
             </div>
 
             <div className="col-md-4 mt-10">
