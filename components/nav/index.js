@@ -7,7 +7,7 @@ const Index = () => {
     menuSideEffects();
   });
   return (
-    <nav className="main-nav dark stick-fixed">
+    <nav className="main-nav dark transparent stick-fixed">
       <div className="full-wrapper relative clearfix">
         <div className="nav-logo-wrap">
           <Link href={'/'}>
