@@ -18,11 +18,12 @@ const magnificPopup = ({ data }) => {
           {data.map(({ thumbnail, caption, source }, i) => (
             <div className="col-md-4 col-lg-4 mb-md-10" key={source + i}>
               <div className="post-prev-img">
-                  <img style={{     cursor: 'pointer'}}
-                    onClick={() => clickImg(i)}
-                    src={thumbnail}
-                    alt={caption}
-                  />
+                <img
+                  style={{ cursor: 'pointer' }}
+                  onClick={() => clickImg(i)}
+                  src={thumbnail}
+                  alt={caption}
+                />
               </div>
             </div>
           ))}

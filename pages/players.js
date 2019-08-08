@@ -1,9 +1,9 @@
 import dynamic from 'next/dynamic';
 
 const DynamicComponent = dynamic(() => import('../components/players'), {
-    ssr: false,
+  ssr: false,
 });
 
 export default props => {
-    return <DynamicComponent />;
+  return <DynamicComponent />;
 };

@@ -1,15 +1,17 @@
 import Layout from '../components/layout';
 import Link from 'next/link';
 
-const lifestyle = props => {
+const leagues = props => {
   return (
-    <Layout title={'St.Vartan Basketball Life Style'}>
+    <Layout title={'St.Vartan Basketball Leagues'}>
       <section className="small-section bg-dark">
         <div className="relative container align-left">
           <div className="row">
             <div className="col-md-8">
-              <h1 className="hs-line-11 font-alt mb-10 mb-xs-0">Life Style</h1>
-              <div className="hs-line-4 font-alt">T-shirt, Cap, Jersey...</div>
+              <h1 className="hs-line-11 font-alt mb-10 mb-xs-0">
+                Visualization
+              </h1>
+              <div className="hs-line-4 font-alt">Data Visualization</div>
             </div>
 
             <div className="col-md-4 mt-10">
@@ -17,7 +19,7 @@ const lifestyle = props => {
                 <Link href={'/'}>
                   <a>Home</a>
                 </Link>
-                &nbsp;/&nbsp;<span>Life Style</span>
+                &nbsp;/&nbsp;<span>Data Visualization</span>
               </div>
             </div>
           </div>
@@ -26,4 +28,4 @@ const lifestyle = props => {
     </Layout>
   );
 };
-export default lifestyle;
+export default leagues;
