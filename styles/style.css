@@ -2380,7 +2380,8 @@ a.logo:hover{
     padding: 60px 0;
 }
 .small-section{
-    padding: 70px 0;
+    padding-top: 70px;
+    padding-bottom: 40px;
 }
 .small-title{
     padding: 0;

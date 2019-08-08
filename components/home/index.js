@@ -22,7 +22,6 @@ export default props => {
 
   return (
     <Layout>
-      <div className="page" id="top">
         <IntroStaticSection />
         {/*<IntroductionSection/>*/}
         <AboutSection />
@@ -38,7 +37,6 @@ export default props => {
 
         <MapSection />
         <FooterSection />
-      </div>
     </Layout>
   );
 };
