@@ -11,6 +11,11 @@ const settings = {
 const about = () => {
   return (
     <section className="page-section" id="about">
+      <style jsx>{`
+        .grey-text {
+            color: #333;
+         }
+      `}</style>
       <div className="container relative">
         <h2 className="section-title font-alt align-left mb-70 mb-sm-40">
           St.Vartan Park Basketball
@@ -43,7 +48,7 @@ const about = () => {
 
             </div>
 
-            <div className="col-md-6 col-sm-6 mb-sm-50 mb-xs-30">
+            <div className="col-md-6 col-sm-6 mb-sm-50 mb-xs-30 grey-text">
               Full court pick-up basketball has been a tradition at St.Vartan park for years, ever dated back to 1960s.
               On work days, when the sun goes down, basketball rises until dark. (5:30pm - 8:30pm). Court gets packed with 3 teams
               or more in summer, therefore hoopers pour their energy so as to stay on court.
