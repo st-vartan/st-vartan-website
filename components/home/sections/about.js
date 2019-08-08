@@ -5,7 +5,7 @@ const about = () => {
     <section className="page-section" id="about">
       <div className="container relative">
         <h2 className="section-title font-alt align-left mb-70 mb-sm-40">
-          High Quality Pick-up Basketball Every Single Day
+          St.Vartan Park Basketball
           <Link href={'/about'}>
             <a className="section-more right">
               More about us <i className="fa fa-angle-right"></i>
