@@ -1,9 +1,14 @@
 import Link from 'next/link';
 import { useEffect } from 'react';
-import menuSideEffects from './menuSideEffects';
+import menuSideEffects, {
+  init_classic_menu,
+  init_classic_menu_resize,
+} from './menuSideEffects';
 
 const Index = () => {
   useEffect(() => {
+    init_classic_menu();
+    init_classic_menu_resize();
     menuSideEffects();
   });
   return (
@@ -23,18 +28,28 @@ const Index = () => {
 
         <div className="inner-nav desktop-nav">
           <ul className="clearlist">
-            <li>
-              <a href="#" className="mn-has-sub active">
-                Players <i className="fa fa-angle-down"></i>
-              </a>
+            {/*<li>*/}
+            {/*  <a href="#" className="mn-has-sub active">*/}
+            {/*    Players <i className="fa fa-angle-down"></i>*/}
+            {/*  </a>*/}
 
-              <ul className="mn-sub">
-                <li>
-                  <Link href={'/russ'}>
-                    <a>Russ</a>
-                  </Link>
-                </li>
-              </ul>
+            {/*  <ul className="mn-sub">*/}
+            {/*    <li>*/}
+            {/*      <Link href={'/russ'}>*/}
+            {/*        <a>Russ</a>*/}
+            {/*      </Link>*/}
+            {/*    </li>*/}
+            {/*  </ul>*/}
+            {/*</li>*/}
+            <li>
+              <Link href={'/'}>
+                <a>Home</a>
+              </Link>
+            </li>
+            <li>
+              <Link href={'/players'}>
+                <a>PLayers</a>
+              </Link>
             </li>
             <li>
               <Link href={'/leagues'}>
@@ -61,7 +76,14 @@ const Index = () => {
                 <a>About</a>
               </Link>
             </li>
-
+            <li>
+              <a
+                href={'https://github.com/st-vartan/st-vartan-website'}
+                target="_blank"
+              >
+                Github
+              </a>
+            </li>
             {/*<li>*/}
             {/*  <a href="#" className="mn-has-sub">*/}
             {/*    <i className="fa fa-search"></i> Search*/}
