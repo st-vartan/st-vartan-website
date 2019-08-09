@@ -1,10 +1,9 @@
-import { Link as ScrollLink } from 'react-scroll/modules';
+import { Link as ScrollLink } from 'react-scroll';
 
 const footer = () => (
   <footer className="page-section bg-gray-lighter footer pb-60">
     <div className="container">
-      {/* Footer Logo */}
-      <div className="mb-30" data-aos="fade-up">
+      <div className="mb-30">
         <ScrollLink to={'top'} spy={true} smooth={true}>
           <img
             src="/static/images/logo-footer.png"

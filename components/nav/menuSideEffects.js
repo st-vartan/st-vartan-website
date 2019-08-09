@@ -225,42 +225,21 @@ const menuSideEffects = () => {
     return;
   }
 
-  addEasing($);
-  AOS.init({
-    duration: 1500,
-  });
+  if (!$.easing.easeInCubic) {
+    addEasing($);
+  }
 
   //
   $(window).resize(function() {
     init_classic_menu_resize();
   });
 
-  /* --------------------------------------------
-         Platform detect
-         --------------------------------------------- */
-  let mobileTest;
   if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
-    mobileTest = true;
     $('html').addClass('mobile');
   } else {
-    mobileTest = false;
     $('html').addClass('no-mobile');
   }
 
-  let mozillaTest;
-  if (/mozilla/.test(navigator.userAgent)) {
-    mozillaTest = true;
-  } else {
-    mozillaTest = false;
-  }
-  let safariTest;
-  if (/safari/.test(navigator.userAgent)) {
-    safariTest = true;
-  } else {
-    safariTest = false;
-  }
-
-  // Detect touch devices
   if (!('ontouchstart' in document.documentElement)) {
     document.documentElement.className += ' no-touch';
   }
