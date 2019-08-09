@@ -235,11 +235,11 @@ const menuSideEffects = () => {
   });
 
   if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
-    if(!$('html').hasClass('mobile')) {
+    if (!$('html').hasClass('mobile')) {
       $('html').addClass('mobile');
     }
   } else {
-    if(!$('html').hasClass('no-mobile')) {
+    if (!$('html').hasClass('no-mobile')) {
       $('html').addClass('no-mobile');
     }
   }

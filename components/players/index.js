@@ -2,7 +2,7 @@ import Layout from '../layout';
 import Link from 'next/link';
 
 const data = new Array(6).fill({
-  image: '/static/images/projects-1.jpg',
+  image: '/static/images/players/yun_player-thumb.jpg',
   name: 'Russ',
   desc: 'One word',
   role: 'sg',
@@ -11,16 +11,18 @@ const data = new Array(6).fill({
 const players = () => {
   const items = data.map((d, i) => {
     return (
-      <li className="work-item mix photography" key={d.name + i}>
-        <a className="work-lightbox-link mfp-image">
-          <div className="work-img">
-            <img src={d.image} alt={d.name} key={d.name + i} />
-          </div>
-          <div className="work-intro">
-            <h3 className="work-title">{d.name}</h3>
-            <div className="work-descr">{d.desc}</div>
-          </div>
-        </a>
+      <li className="work-item  col-md-2 col-lg-2 mb-60 mb-xs-40" key={d.name + i}>
+        <Link href={'/yun'}>
+          <a className="work-lightbox-link mfp-image">
+            <div className="work-img">
+              <img src={d.image} alt={d.name} key={d.name + i} />
+            </div>
+            <div className="work-intro">
+              <h3 className="work-title">{d.name}</h3>
+              <div className="work-descr">{d.desc}</div>
+            </div>
+          </a>
+        </Link>
       </li>
     );
   });

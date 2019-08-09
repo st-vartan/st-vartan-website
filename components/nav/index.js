@@ -77,7 +77,12 @@ const Index = () => {
               </Link>
             </li>
             <li>
-                <a href={'https://github.com/st-vartan/st-vartan-website'} target="_blank">Github</a>
+              <a
+                href={'https://github.com/st-vartan/st-vartan-website'}
+                target="_blank"
+              >
+                Github
+              </a>
             </li>
             {/*<li>*/}
             {/*  <a href="#" className="mn-has-sub">*/}
