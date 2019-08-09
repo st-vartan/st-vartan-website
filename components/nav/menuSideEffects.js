@@ -235,13 +235,19 @@ const menuSideEffects = () => {
   });
 
   if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
-    $('html').addClass('mobile');
+    if(!$('html').hasClass('mobile')) {
+      $('html').addClass('mobile');
+    }
   } else {
-    $('html').addClass('no-mobile');
+    if(!$('html').hasClass('no-mobile')) {
+      $('html').addClass('no-mobile');
+    }
   }
 
   if (!('ontouchstart' in document.documentElement)) {
-    document.documentElement.className += ' no-touch';
+    if (!document.documentElement.className.includes('no-touch')) {
+      document.documentElement.className += ' no-touch';
+    }
   }
 };
 
