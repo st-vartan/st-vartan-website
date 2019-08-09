@@ -11,7 +11,7 @@ const data = new Array(6).fill({
 const players = () => {
   const items = data.map((d, i) => {
     return (
-      <li className="work-item mix photography">
+      <li className="work-item mix photography" key={d.name + i}>
         <a className="work-lightbox-link mfp-image">
           <div className="work-img">
             <img src={d.image} alt={d.name} key={d.name + i} />
