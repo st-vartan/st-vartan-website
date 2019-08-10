@@ -11,7 +11,10 @@ const data = new Array(6).fill({
 const players = () => {
   const items = data.map((d, i) => {
     return (
-      <li className="work-item  col-md-2 col-lg-2 mb-60 mb-xs-40" key={d.name + i}>
+      <li
+        className="work-item dark-hover col-md-2 col-lg-2 mb-60 mb-xs-40"
+        key={d.name + i}
+      >
         <Link href={'/yun'}>
           <a className="work-lightbox-link mfp-image">
             <div className="work-img">

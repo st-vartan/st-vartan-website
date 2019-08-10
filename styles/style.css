@@ -449,7 +449,7 @@ hr.black{
     letter-spacing: 1px;
 }
 .font-alt{
-    font-family: 'Helvetica', Dosis, arial, sans-serif;
+    font-family: 'Helvetica', sans-serif, Dosis, arial;
     text-transform: uppercase;
     letter-spacing: 0.2em;
 }
@@ -1200,9 +1200,9 @@ a.bg-video-button-muted{
     margin-top: 0;
     position: relative;
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 400;
-    letter-spacing: 51px;
+    letter-spacing: 41px;
     color: #fff;
     opacity: .9;
 }
@@ -1251,7 +1251,7 @@ a.bg-video-button-muted{
     font-size: 19px;
     font-weight: 300;
     line-height: 1.2;
-    opacity: .35;
+    opacity: .9;
 }
 .hs-line-6.no-transp{
     opacity: 1;

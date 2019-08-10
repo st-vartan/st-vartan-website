@@ -9,20 +9,6 @@ const introduction = () => (
     }}
   >
     <div className="js-height-full container">
-      <style jsx>
-        {`
-          .home-title {
-            font-size: 80px;
-            font-weight: 700;
-            letter-spacing: 8px;
-          }
-          .home-sub-title {
-            opacity: 0.8;
-            font-weight: 400;
-            font-size: 18px;
-          }
-        `}
-      </style>
       <div className="home-content">
         <div className="home-text">
           <h1 className="hs-line-1 home-title font-alt mb-80 mb-xs-30 mt-50 mt-sm-0">

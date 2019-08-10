@@ -5,30 +5,36 @@ const LatestGallery = () => (
   <Fragment>
     <section className="page-section pb-0" id="portfolio">
       <div className="relative">
-        <h2 className="section-title font-alt mb-70 mb-sm-40">Latest Games</h2>
+        <div className="section-icon">
+          <span className="icon-trophy" />
+        </div>
+        <h2 className="section-title font-alt mb-30 mb-xxs-10">
+          2019 Summer Tour
+        </h2>
+        <div className="section-text align-center mb-20 mb-md-20 mb-sm-20">
+          St.Vartan Basketball Tournament is a summer street basketball league
+          running for 10 weeks 7 DAYS A WEEK from June - August every summer.
+        </div>
 
-        <ul
-          className="works-grid work-grid-3 work-grid-gut clearfix font-alt hover-white hide-titles"
-          id="work-grid"
-        >
+        <ul className="works-grid work-grid-3 work-grid-gut clearfix font-alt hover-white hide-titles">
           <li className="work-item">
-            <a href="portfolio-single-1.html" className="work-ext-link">
+            <div className="work-ext-link">
               <div className="work-img">
                 <img
                   className="work-img"
                   src="/static/images/projects-13.jpg"
-                  alt="Work"
+                  alt="Russ"
                 />
               </div>
               <div className="work-intro">
                 <h3 className="work-title">Russ</h3>
                 <div className="work-descr">Hook shot</div>
               </div>
-            </a>
+            </div>
           </li>
 
           <li className="work-item">
-            <a href="portfolio-single-1.html" className="work-ext-link">
+            <div className="work-ext-link">
               <div className="work-img">
                 <img
                   className="work-img"
@@ -40,11 +46,11 @@ const LatestGallery = () => (
                 <h3 className="work-title">George</h3>
                 <div className="work-descr">A good shot</div>
               </div>
-            </a>
+            </div>
           </li>
 
           <li className="work-item">
-            <a href="portfolio-single-1.html" className="work-ext-link">
+            <div className="work-ext-link">
               <div className="work-img">
                 <img
                   className="work-img"
@@ -56,7 +62,7 @@ const LatestGallery = () => (
                 <h3 className="work-title">Jordan</h3>
                 <div className="work-descr">3 pt down pour</div>
               </div>
-            </a>
+            </div>
           </li>
         </ul>
       </div>
@@ -67,7 +73,7 @@ const LatestGallery = () => (
           <div>
             <Link href={'/gallery'}>
               <a className="btn btn-mod btn-w btn-medium btn-round">
-                Full gallery
+                Join League
               </a>
             </Link>
           </div>

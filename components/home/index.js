@@ -6,8 +6,8 @@ import MapSection from './sections/map';
 import RuleSection from './sections/rules';
 import IntroductionSection from './sections/intro';
 import IntroStaticSection from './sections/introStatic';
-import AboutSection from './sections/about';
-import IntroDetailSection from './sections/introDetail';
+import HistorySection from './sections/history';
+import LeaguesSection from './sections/leagues';
 import LatestGallerySection from './sections/latestGallery';
 import TeamsSection from './sections/teams';
 
@@ -33,15 +33,18 @@ export default props => {
     <Layout>
       <IntroStaticSection />
       {/*<IntroductionSection />*/}
-      <AboutSection />
+      <HistorySection />
+      <hr className="mt-0 mb-0 " />
+      <LeaguesSection />
       <hr className="mt-0 mb-0 " />
       <RuleSection />
-      <IntroDetailSection />
+
       <hr className="mt-0 mb-0" />
-      <TeamsSection />
-      <LatestGallerySection />
+      {/* <TeamsSection />
+      <hr className="mt-0 mb-0 " /> */}
+      {/*<LatestGallerySection />*/}
       {/*<QuoteSection/>*/}
-      <hr className="mt-0 mb-0 " />
+      {/*<hr className="mt-0 mb-0 " />*/}
 
       <MapSection />
     </Layout>

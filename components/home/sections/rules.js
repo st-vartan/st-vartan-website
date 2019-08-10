@@ -1,5 +1,5 @@
 const rules = () => (
-  <section className="page-section bg-gray-lighter">
+  <section className="page-section">
     <div className="container relative">
       <h2 className="section-title font-alt mb-30 mb-xxs-10">
         Rules & Regulations
@@ -15,8 +15,8 @@ const rules = () => (
             </div>
             <h3 className="alt-features-title font-alt">"Fault!"</h3>
             <div className="alt-features-descr align-left">
-              Call your own faults ASAP, before ball goes over rims. "And 1"
-              doesn’t count as continuation.
+              Call your own faults at the first place, before ball goes over
+              rims. "And 1" doesn’t count as continuation.
             </div>
           </div>
         </div>
@@ -30,8 +30,7 @@ const rules = () => (
             </div>
             <h3 className="alt-features-title font-alt">Poles & Lines</h3>
             <div className="alt-features-descr align-left">
-              Poles and lines have been boundaries of this court. 1s and 2s all
-              day.
+              Poles and lines have been boundaries of this court. 1s and 2s.
             </div>
           </div>
         </div>
