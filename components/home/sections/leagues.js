@@ -26,16 +26,15 @@ const leagues = () => (
         display: 'block',
       }}
     ></section>
-      <section className="small-section bg-gray-lighter">
-          <div className={'align-center'}>
-              <Link href={'/leagues'}>
-                  <a className="btn btn-mod btn-border btn-medium btn-round">
-                      Join League
-                  </a>
-              </Link>
-          </div>
-      </section>
-
+    <section className="small-section bg-gray-lighter">
+      <div className={'align-center'}>
+        <Link href={'/leagues'}>
+          <a className="btn btn-mod btn-border btn-medium btn-round">
+            Join League
+          </a>
+        </Link>
+      </div>
+    </section>
   </Fragment>
 );
 

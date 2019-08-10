@@ -16,9 +16,7 @@ const LatestGallery = () => (
           running for 10 weeks 7 DAYS A WEEK from June - August every summer.
         </div>
 
-        <ul
-          className="works-grid work-grid-3 work-grid-gut clearfix font-alt hover-white hide-titles"
-        >
+        <ul className="works-grid work-grid-3 work-grid-gut clearfix font-alt hover-white hide-titles">
           <li className="work-item">
             <div className="work-ext-link">
               <div className="work-img">

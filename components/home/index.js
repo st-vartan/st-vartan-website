@@ -40,8 +40,8 @@ export default props => {
       <RuleSection />
 
       <hr className="mt-0 mb-0" />
-      <TeamsSection />
-      <hr className="mt-0 mb-0 " />
+      {/* <TeamsSection />
+      <hr className="mt-0 mb-0 " /> */}
       {/*<LatestGallerySection />*/}
       {/*<QuoteSection/>*/}
       {/*<hr className="mt-0 mb-0 " />*/}
