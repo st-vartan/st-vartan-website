@@ -23,7 +23,7 @@ const speech = () => {
                 go play elsewhere and it’s not the same. That’s why this our
                 court with our rules and maybe we should keep it that way . If
                 you can shoot on a 11 double foot rim than you can shoot
-                anywhere . What I would say is just leave it how it is , because
+                anywhere. What I would say is just leave it how it is , because
                 you guys are use to it already . Just protect the court when you
                 see an unfamiliar face , more importantly an unfamiliar 5 , and
                 just win .
