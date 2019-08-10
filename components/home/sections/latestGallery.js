@@ -11,14 +11,13 @@ const LatestGallery = () => (
         <h2 className="section-title font-alt mb-30 mb-xxs-10">
           2019 Summer Tour
         </h2>
-        <div className="section-text align-center mb-md-20 mb-sm-20">
+        <div className="section-text align-center mb-20 mb-md-20 mb-sm-20">
           St.Vartan Basketball Tournament is a summer street basketball league
           running for 10 weeks 7 DAYS A WEEK from June - August every summer.
         </div>
 
         <ul
           className="works-grid work-grid-3 work-grid-gut clearfix font-alt hover-white hide-titles"
-          id="work-grid"
         >
           <li className="work-item">
             <a href="portfolio-single-1.html" className="work-ext-link">
