@@ -1,5 +1,5 @@
 const rules = () => (
-  <section className="page-section bg-gray-lighter">
+  <section className="page-section">
     <div className="container relative">
       <h2 className="section-title font-alt mb-30 mb-xxs-10">
         Rules & Regulations
