@@ -35,10 +35,13 @@ export default props => {
       {/*<IntroductionSection />*/}
       <HistorySection />
       <hr className="mt-0 mb-0 " />
-      <RuleSection />
       <LeaguesSection />
+      <hr className="mt-0 mb-0 " />
+      <RuleSection />
+
       <hr className="mt-0 mb-0" />
       <TeamsSection />
+      <hr className="mt-0 mb-0 " />
       <LatestGallerySection />
       {/*<QuoteSection/>*/}
       <hr className="mt-0 mb-0 " />

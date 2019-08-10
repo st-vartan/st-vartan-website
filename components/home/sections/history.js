@@ -20,7 +20,7 @@ const history = () => {
                 If you can shoot on a 11 double foot rim than you can shoot
                 anywhere.
               </p>
-              <footer>Sealy</footer>
+              <footer>Cesar</footer>
             </blockquote>
           </div>
 
