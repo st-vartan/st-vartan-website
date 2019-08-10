@@ -15,8 +15,8 @@ const rules = () => (
             </div>
             <h3 className="alt-features-title font-alt">"Fault!"</h3>
             <div className="alt-features-descr align-left">
-              Call your own faults at the first place, before ball goes over rims. "And 1"
-              doesn’t count as continuation.
+              Call your own faults at the first place, before ball goes over
+              rims. "And 1" doesn’t count as continuation.
             </div>
           </div>
         </div>
