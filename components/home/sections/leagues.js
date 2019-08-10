@@ -21,7 +21,7 @@ const leagues = () => (
       className="page-section banner-section bg-dark bg-dark-alpha-80"
       data-background="/static/images/court_bg.jpg"
       style={{
-        backgroundImage: 'url(/static/images/court_bg.jpg)',
+        backgroundImage: 'url(/static/images/home/tour_1.jpg)',
         opacity: 1,
         display: 'block',
       }}

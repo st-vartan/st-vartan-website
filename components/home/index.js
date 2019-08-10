@@ -42,9 +42,9 @@ export default props => {
       <hr className="mt-0 mb-0" />
       <TeamsSection />
       <hr className="mt-0 mb-0 " />
-      <LatestGallerySection />
+      {/*<LatestGallerySection />*/}
       {/*<QuoteSection/>*/}
-      <hr className="mt-0 mb-0 " />
+      {/*<hr className="mt-0 mb-0 " />*/}
 
       <MapSection />
     </Layout>

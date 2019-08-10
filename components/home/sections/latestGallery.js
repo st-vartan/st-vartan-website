@@ -20,23 +20,23 @@ const LatestGallery = () => (
           className="works-grid work-grid-3 work-grid-gut clearfix font-alt hover-white hide-titles"
         >
           <li className="work-item">
-            <a href="portfolio-single-1.html" className="work-ext-link">
+            <div className="work-ext-link">
               <div className="work-img">
                 <img
                   className="work-img"
                   src="/static/images/projects-13.jpg"
-                  alt="Work"
+                  alt="Russ"
                 />
               </div>
               <div className="work-intro">
                 <h3 className="work-title">Russ</h3>
                 <div className="work-descr">Hook shot</div>
               </div>
-            </a>
+            </div>
           </li>
 
           <li className="work-item">
-            <a href="portfolio-single-1.html" className="work-ext-link">
+            <div className="work-ext-link">
               <div className="work-img">
                 <img
                   className="work-img"
@@ -48,11 +48,11 @@ const LatestGallery = () => (
                 <h3 className="work-title">George</h3>
                 <div className="work-descr">A good shot</div>
               </div>
-            </a>
+            </div>
           </li>
 
           <li className="work-item">
-            <a href="portfolio-single-1.html" className="work-ext-link">
+            <div className="work-ext-link">
               <div className="work-img">
                 <img
                   className="work-img"
@@ -64,7 +64,7 @@ const LatestGallery = () => (
                 <h3 className="work-title">Jordan</h3>
                 <div className="work-descr">3 pt down pour</div>
               </div>
-            </a>
+            </div>
           </li>
         </ul>
       </div>
