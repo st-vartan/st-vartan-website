@@ -26,8 +26,8 @@ const history = () => {
                         </blockquote>
                     </div>
 
-                    <div className="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                        <img src="/static/images/home/tour.jpg" alt="Work" className={'mb-10'}/>
+                    <div className="col-md-4 col-sm-6">
+                        <img src="/static/images/home/tour.jpg" alt="Work" className={'mb-20'}/>
                         <div className="font-alt align-center mb-20">
                             Pick-up
                         </div>
@@ -38,8 +38,8 @@ const history = () => {
                         </div>
                     </div>
 
-                    <div className="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                        <img src="/static/images/home/tour.jpg" alt="Work" className={'mb-10'}/>
+                    <div className="col-md-4 col-sm-6">
+                        <img src="/static/images/home/tour.jpg" alt="Work" className={'mb-20'}/>
 
                         <div className="font-alt align-center  mb-20">
                             League
