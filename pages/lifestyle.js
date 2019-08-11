@@ -1,5 +1,6 @@
-import Layout from "../components/layout";
 import Link from "next/link";
+import Layout from "../components/layout";
+import MagnificPopup from '../components/layout/magnificPopup';
 
 const data = [
   {
@@ -78,11 +79,16 @@ const lifestyle = props => {
           </div>
         </div>
       </section>
-      <div className='container'>
+      {/* <div className='container'>
         <div class="row multi-columns-row">
             {styleItems}
         </div>
-      </div>
+      </div> */}
+      <MagnificPopup data={data.map(d => ({
+        thumbnail: d.image,
+        source: d.image,
+        caption: d.title + ' ' + d.desc
+      }))}/>
     </Layout>
   );
 };
