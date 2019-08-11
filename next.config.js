@@ -17,7 +17,14 @@ module.exports = withCSS({
                   name: '[name].[ext]'
               }
           }
-      })
+      });
+      config.watchOptions = {
+        ignored: [
+          /\.git\//,
+          /\.next\//,
+          /node_modules/
+        ]
+      }
 
     return config
   }

@@ -2,7 +2,7 @@ import { useEffect } from 'react';
 
 import Layout from '../layout';
 
-import MapSection from './sections/map';
+import ContactUsSection from './sections/contactUs';
 import RuleSection from './sections/rules';
 import IntroductionSection from './sections/intro';
 import IntroStaticSection from './sections/introStatic';
@@ -46,7 +46,7 @@ export default props => {
       {/*<QuoteSection/>*/}
       {/*<hr className="mt-0 mb-0 " />*/}
 
-      <MapSection />
+      <ContactUsSection />
     </Layout>
   );
 };

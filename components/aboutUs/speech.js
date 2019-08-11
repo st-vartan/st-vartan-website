@@ -1,12 +1,12 @@
 const speech = () => {
   return (
-    <section className="page-section">
+    <section className="page-section pt-10 pb-10">
       <div className="container relative">
         <div className="row">
-          <div className="col-md-5 col-lg-4 mb-sm-40">
+          <div className="col-md-6 col-lg-6 mb-sm-40">
             {/* About Project */}
             <div className="text">
-              <h3 className="font-alt mb-30 mb-xxs-10">Rules</h3>
+              <h3 className="font-alt mb-30 mb-xxs-10">Manifest by Cesar</h3>
               <p>
                 But the height of the rim on the 35th street side has always
                 been 11 feet and the height of the of the 36 street side has
@@ -28,21 +28,10 @@ const speech = () => {
                 see an unfamiliar face , more importantly an unfamiliar 5 , and
                 just win .
               </p>
-
-              <div className="mt-40">
-                <a
-                  href="http://themeforest.net/user/theme-guru/portfolio"
-                  className="btn btn-mod btn-border btn-round btn-medium"
-                  target="_blank"
-                >
-                  Buy Now
-                </a>
-              </div>
             </div>
-            {/* End About Project */}
           </div>
 
-          <div className="col-md-7 col-lg-offset-1">
+          <div className="col-lg-6">
             {/* Work Gallery */}
             <div className="work-full-media mt-0 white-shadow wow fadeInUp">
               <ul className="clearlist work-full-slider owl-carousel">
@@ -51,7 +40,6 @@ const speech = () => {
                 </li>
               </ul>
             </div>
-            {/* End Work Gallery */}
           </div>
         </div>
       </div>

@@ -472,7 +472,7 @@ hr.black{
 .text{        
     font-size: 16px;
     font-weight: 300;
-    color: #5f5f5f;
+    color: #252323;
     line-height: 1.8;
 }
 .text h1,
@@ -2735,7 +2735,7 @@ a.logo:hover{
 .section-text{
     font-size: 15px;
     font-weight: 300;
-    color: #777;
+    color: #382d2d;
     line-height: 1.7;
 }
 .section-text blockquote{

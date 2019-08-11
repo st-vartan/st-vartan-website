@@ -22,7 +22,7 @@ const teams = () => {
             </div>
 
             <div className="post-prev-title font-alt">
-              <a href="">5 Bros  | August 2019</a>
+              <a href="">5 Bros | August 2019</a>
             </div>
 
             <div className="post-prev-text">

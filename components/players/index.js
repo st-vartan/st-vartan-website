@@ -1,21 +1,15 @@
-import Layout from '../layout';
 import Link from 'next/link';
-
-const data = new Array(6).fill({
-  image: '/static/images/players/yun_player-thumb.jpg',
-  name: 'Russ',
-  desc: 'One word',
-  role: 'sg',
-});
+import Layout from '../layout';
+import data from './data';
 
 const players = () => {
   const items = data.map((d, i) => {
     return (
       <li
-        className="work-item dark-hover col-md-2 col-lg-2 mb-60 mb-xs-40"
+        className="work-item dark-hover col-md-3 col-lg-3 mb-60 mb-xs-40"
         key={d.name + i}
       >
-        <Link href={'/yun'}>
+        <Link href={'/' + d.url}>
           <a className="work-lightbox-link mfp-image">
             <div className="work-img">
               <img src={d.image} alt={d.name} key={d.name + i} />
