@@ -2,7 +2,6 @@ import Link from 'next/link';
 import Layout from '../layout';
 import data from './data';
 
-
 const players = () => {
   const items = data.map((d, i) => {
     return (
