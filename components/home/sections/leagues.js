@@ -1,5 +1,5 @@
-import { Fragment } from "react";
-import Link from "next/link";
+import { Fragment } from 'react';
+import Link from 'next/link';
 
 const leagues = () => (
   <Fragment>
@@ -12,7 +12,7 @@ const leagues = () => (
           <img
             src="/static/images/league/logo_tour_2019.png"
             alt="St.Vartan Tour 2019"
-            style={{maxHeight: 200}}
+            style={{ maxHeight: 200 }}
           />
         </div>
         <div className="section-text align-center mt-20 mb-10">
@@ -25,15 +25,15 @@ const leagues = () => (
       className="page-section banner-section bg-dark bg-dark-alpha-80"
       data-background="/static/images/court_bg.jpg"
       style={{
-        backgroundImage: "url(/static/images/home/welcome_league.jpg)",
+        backgroundImage: 'url(/static/images/home/welcome_league.jpg)',
         opacity: 1,
         minHeight: 400,
-        display: "block"
+        display: 'block',
       }}
     ></section>
     <section className="small-section bg-gray-lighter">
-      <div className={"align-center"}>
-        <Link href={"/leagues"}>
+      <div className={'align-center'}>
+        <Link href={'/leagues'}>
           <a className="btn btn-mod btn-border btn-medium btn-round">
             Join League
           </a>

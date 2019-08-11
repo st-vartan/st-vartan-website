@@ -8,6 +8,7 @@ import IntroductionSection from './sections/intro';
 import IntroStaticSection from './sections/introStatic';
 import HistorySection from './sections/history';
 import LeaguesSection from './sections/leagues';
+import LeagueStyleSection from './sections/leagueStyle';
 import LatestGallerySection from './sections/latestGallery';
 import TeamsSection from './sections/teams';
 
@@ -40,6 +41,7 @@ export default props => {
       <RuleSection />
 
       <hr className="mt-0 mb-0" />
+        <LeagueStyleSection />
       {/* <TeamsSection />
       <hr className="mt-0 mb-0 " /> */}
       {/*<LatestGallerySection />*/}

@@ -1,5 +1,3 @@
-
-
 import Link from 'next/link';
 import Layout from '../layout';
 import SpeechSection from './speech';
@@ -28,9 +26,9 @@ const aboutUs = props => {
           </div>
         </div>
       </section>
-      <SpeechSection/>
-      <MyJourneySection/>
-      <ContactUsSection/>
+      <SpeechSection />
+      <MyJourneySection />
+      <ContactUsSection />
     </Layout>
   );
 };
