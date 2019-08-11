@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 const data = new Array(6).fill({
   image: '/static/images/players/yun_player-thumb.jpg',
-  name: 'Russ',
+  name: 'Russ2',
   desc: 'One word',
   role: 'sg',
 });
