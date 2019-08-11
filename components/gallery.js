@@ -6,12 +6,12 @@ const data = [
   {
     thumbnail: '/static/images/gallery/650_418/01.jpg',
     source: '/static/images/gallery/1142_642/01.jpg',
-    caption: 'Sunset glow',
+    caption: 'Sunset glow, Aug, 9th, 2019',
   },
   {
     thumbnail: '/static/images/gallery/650_418/02.jpg',
     source: '/static/images/gallery/1142_642/02.jpg',
-    caption: 'A sudden shower',
+    caption: 'A sudden shower, Aug, 10th, 2019',
   },
 ];
 
