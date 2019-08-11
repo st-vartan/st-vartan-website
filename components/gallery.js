@@ -8,6 +8,11 @@ const data = [
     source: '/static/images/gallery/1142_642/01.jpg',
     caption: 'Sunset glow',
   },
+  {
+    thumbnail: '/static/images/gallery/650_418/02.jpg',
+    source: '/static/images/gallery/1142_642/02.jpg',
+    caption: 'A sudden shower',
+  },
 ];
 
 const gallery = () => {
