@@ -10,7 +10,7 @@ const leagueStyle = props => {
               <div class="banner-content">
                 <h3 class="banner-heading font-alt">Basketball Lifestyle</h3>
                 <div class="banner-decription">
-                  Pour your energy on court and earn your name on St.Vartan park
+                  Pour your energy on court and earn your name at St.Vartan park
                 </div>
                 <div class="local-scroll">
                   <Link href={'/lifestyle'}>
@@ -23,7 +23,7 @@ const leagueStyle = props => {
             </div>
           </div>
 
-          <div class="col-sm-6 banner-image">
+          <div class="col-sm-6">
             <img
               src="/static/images/lifestyle/tshirt_white_perfect_shot_carlos.png"
               alt=""
