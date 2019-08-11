@@ -3,6 +3,8 @@
 import Link from 'next/link';
 import Layout from '../layout';
 import SpeechSection from './speech';
+import MyJourneySection from './journey';
+import ContactUsSection from '../home/sections/contactUs';
 
 const aboutUs = props => {
   return (
@@ -27,6 +29,8 @@ const aboutUs = props => {
         </div>
       </section>
       <SpeechSection/>
+      <MyJourneySection/>
+      <ContactUsSection/>
     </Layout>
   );
 };

@@ -1,6 +1,6 @@
 const speech = () => {
   return (
-    <section className="page-section">
+    <section className="page-section pt-10 pb-10">
       <div className="container relative">
         <div className="row">
           <div className="col-md-6 col-lg-6 mb-sm-40">
