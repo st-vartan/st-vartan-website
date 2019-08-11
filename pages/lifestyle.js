@@ -23,6 +23,9 @@ const lifestyle = props => {
           </div>
         </div>
       </section>
+      {/* <section className={'page-section dark'}> */}
+        <img src='/static/images/lifestyle/t-shirt_2019.jpg'/>
+      {/* </section> */}
     </Layout>
   );
 };
