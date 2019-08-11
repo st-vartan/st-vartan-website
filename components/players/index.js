@@ -1,18 +1,39 @@
 import Layout from '../layout';
 import Link from 'next/link';
 
-const data = new Array(6).fill({
-  image: '/static/images/players/yun_player-thumb.jpg',
-  name: 'Russ2',
-  desc: 'One word',
-  role: 'sg',
-});
+const data = [
+  {
+    image: '/static/images/players/370/yun.jpg',
+    name: 'Yun',
+    desc: 'Boardman',
+    url: 'yun'
+  },
+  {
+    image: '/static/images/players/370/sean.jpg',
+    name: 'Sean',
+    desc: 'Space Jam',
+    url: 'sean'
+  },
+  {
+    image: '/static/images/players/370/russ.jpg',
+    name: 'Russ',
+    desc: 'King',
+    url: 'russ'
+  },
+  ,
+  {
+    image: '/static/images/players/370/george.jpg',
+    name: 'George',
+    desc: 'Big Shot from Downtown',
+    url: 'george'
+  }
+];
 
 const players = () => {
   const items = data.map((d, i) => {
     return (
       <li
-        className="work-item dark-hover col-md-2 col-lg-2 mb-60 mb-xs-40"
+        className="work-item dark-hover col-md-3 col-lg-3 mb-60 mb-xs-40"
         key={d.name + i}
       >
         <Link href={'/yun'}>
