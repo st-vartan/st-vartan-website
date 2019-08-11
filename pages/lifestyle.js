@@ -84,11 +84,13 @@ const lifestyle = props => {
             {styleItems}
         </div>
       </div> */}
-      <MagnificPopup data={data.map(d => ({
-        thumbnail: d.image,
-        source: d.image,
-        caption: d.title + ' ' + d.desc
-      }))}/>
+      <section className="page-section" style={{paddingTop: 20}}>
+        <MagnificPopup data={data.map(d => ({
+          thumbnail: d.image,
+          source: d.image,
+          caption: d.title + ' ' + d.desc
+        }))}/>
+      </section>
     </Layout>
   );
 };
