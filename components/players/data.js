@@ -21,7 +21,7 @@ const data = [
     {
       image: '/static/images/players/370/george.jpg',
       name: 'George',
-      desc: 'Big Shot from Downtown',
+      desc: 'Big 3 from Downtown',
       url: 'george'
     }
   ];
