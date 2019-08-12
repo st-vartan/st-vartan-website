@@ -8,7 +8,7 @@ const speech = () => {
             <div className="text">
               <h3 className="font-alt mb-30 mb-xxs-10">Story of this site</h3>
               <p>
-                This site is built with erver Side Rendering. I also leverage
+                This site is built with Server Side Rendering. I also leverage
                 D3, SVG, Canvas, WebGL and RxJS for big data visualization for
                 basketball, if you're interested in technology behind this site,
                 please visit{' '}
@@ -26,7 +26,7 @@ const speech = () => {
             <div className="work-full-media mt-0 white-shadow wow fadeInUp">
               <ul className="clearlist work-full-slider owl-carousel">
                 <li>
-                  <img src="/static/images/full-project-4.jpg" alt="" />
+                  <img src="/static/images/court_bg.jpg" alt="" />
                 </li>
               </ul>
             </div>
