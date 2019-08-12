@@ -1,4 +1,3 @@
-import AOS from 'aos';
 import $ from 'jquery';
 import addEasing from './easing';
 
