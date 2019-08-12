@@ -1,20 +1,20 @@
-This project was bootstrapped with [Create Next App](https://github.com/segmentio/create-next-app).
-
-Find the most recent version of this guide at [here](https://github.com/segmentio/create-next-app/blob/master/lib/templates/default/README.md). And check out [Next.js repo](https://github.com/zeit/next.js) for the most up-to-date info.
+Source code for [St.Vartan Basketball Website](st-vartan.github.io)
 
 ## Table of Contents
 - [Development](#development)
-- [Folder Structure](#folder-structure)
+- [Architecture](#architecture)
+- [Data Visualization](#data-visualization)
+- [License](#license)
 
 ## Development
 > Make sure `node`, `npm`, `git` are installed on your system.
-1. Clone
+### Clone
 
 `git clone https://github.com/st-vartan/st-vartan-website.git st-vartan-website`
-2. In project's root folder
+### In project's root folder
 
 `npm install`
-3. Start dev server
+### Start dev server
 
 `npm run dev`
 Runs the app in the development mode.
@@ -23,19 +23,20 @@ Open http://localhost:3000 to view it in the browser.
 The page will reload if you make edits.
 You will also see any errors in the console.
 
-4. Build & Deploy
+### Build & Deploy
 
 `npm run build`
 
 `npm run export`
 
 Builds the app for production and then export static site files to `out` folder.
+Put the generated files to `https://github.com/st-vartan/st-vartan.github.io` and website will be up to date
 
-5. Start in production mode
+### Start in production mode
 `npm run start`
 Starts the application in production mode. The application should be compiled with `next build` first.
 
-6. <em>Optional</em> Deploy to `now`
+### <em>Optional</em> Deploy to `now`
 Install the `now` command-line tool either via the recommended [desktop tool](https://zeit.co/download) or via node with `npm install -g now`.
 
 Run `now` from your project directory. You will see a **now.sh** URL in your output like this:
@@ -46,24 +47,17 @@ Run `now` from your project directory. You will see a **now.sh** URL in your out
 
     Paste that URL into your browser when the build is complete, and you will see your deployed app.
 
-## Folder Structure
-```
-st-vartan-website/
-  README.md
-  package.json
-  next.config.js
-  components/
-    head.js
-    nav.js
-  pages/
-    index.js
-  static/
-    favicon.ico
-```
+## Architecture
+The following technical decisions are made in design phrase:
+- Static Site vs. Application. This site contains data visualizations, which will make this site scale up to a more complicated
+application. In this case, the method in which we compose components becomes important. Therefore this site is a react
+application but not a static html site
+- SPA(Single Page Application) vs. SSR(Server Side Rendering) SEO is critical for this site, therefore SSR is adopted.
+- Serverless. Site is hosted on github.io, an serverless environment. However, if any requirements of a server backend arise in future, `GraphQL` and `Amazon AWS`
+will be used. This site will stay on `Github.io`, fetching data from `Amazon AWS`
 
-Routing is based on the file system, so `./pages/index.js` maps to the `/` route and
-`./pages/about.js` would map to `/about`.
+## Data Visualization
+Data Visualizations are achieved with `D3`, `WebGL` and `RxJS`;
 
-The `./static` directory maps to `/static` in the server, so you can put all your
-other static resources like images or compiled CSS in there.
-
+## License
+MIT
