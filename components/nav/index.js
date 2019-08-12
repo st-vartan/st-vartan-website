@@ -28,19 +28,6 @@ const Index = () => {
 
         <div className="inner-nav desktop-nav">
           <ul className="clearlist">
-            {/*<li>*/}
-            {/*  <a href="#" className="mn-has-sub active">*/}
-            {/*    Players <i className="fa fa-angle-down"></i>*/}
-            {/*  </a>*/}
-
-            {/*  <ul className="mn-sub">*/}
-            {/*    <li>*/}
-            {/*      <Link href={'/russ'}>*/}
-            {/*        <a>Russ</a>*/}
-            {/*      </Link>*/}
-            {/*    </li>*/}
-            {/*  </ul>*/}
-            {/*</li>*/}
             <li>
               <Link href={'/'}>
                 <a>Home</a>
@@ -84,34 +71,6 @@ const Index = () => {
                 Github
               </a>
             </li>
-            {/*<li>*/}
-            {/*  <a href="#" className="mn-has-sub">*/}
-            {/*    <i className="fa fa-search"></i> Search*/}
-            {/*  </a>*/}
-
-            {/*  <ul className="mn-sub">*/}
-            {/*    <li>*/}
-            {/*      <div className="mn-wrap">*/}
-            {/*        <form method="post" className="form">*/}
-            {/*          <div className="search-wrap">*/}
-            {/*            <input*/}
-            {/*              type="text"*/}
-            {/*              className="form-control search-field"*/}
-            {/*              placeholder="Search..."*/}
-            {/*            />*/}
-            {/*            <button*/}
-            {/*              className="search-button animate"*/}
-            {/*              type="submit"*/}
-            {/*              title="Start Search"*/}
-            {/*            >*/}
-            {/*              <i className="fa fa-search"></i>*/}
-            {/*            </button>*/}
-            {/*          </div>*/}
-            {/*        </form>*/}
-            {/*      </div>*/}
-            {/*    </li>*/}
-            {/*  </ul>*/}
-            {/*</li>*/}
           </ul>
         </div>
         {/* End Main Menu */}
