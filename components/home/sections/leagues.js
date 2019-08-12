@@ -17,7 +17,7 @@ const leagues = () => (
         </div>
         <div className="section-text align-center mt-20 mb-10">
           St.Vartan Basketball Tournament is a summer street basketball league
-          running for 10 weeks 7 DAYS A WEEK from June - August every summer.
+          running on Saturday mornings from June - September every summer.
         </div>
       </div>
     </section>
