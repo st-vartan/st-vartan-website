@@ -33,12 +33,12 @@ export default props => {
       <HistorySection />
       <hr className="mt-0 mb-0 " />
       <LeaguesSection />
-        <hr className="mt-0 mb-0 "/>
-        <RuleSection/>
-        <hr className="mt-0 mb-0"/>
-        <LeagueStyleSection/>
-        <hr className="mt-0 mb-0"/>
-        <ContactUsSection/>
+      <hr className="mt-0 mb-0 " />
+      <RuleSection />
+      <hr className="mt-0 mb-0" />
+      <LeagueStyleSection />
+      <hr className="mt-0 mb-0" />
+      <ContactUsSection />
     </Layout>
   );
 };

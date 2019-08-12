@@ -35,7 +35,7 @@ const teams = () => {
           <div className="col-sm-6 col-md-4 col-lg-4 mb-md-50">
             <div className="post-prev-img">
               <a href="blog-single-sidebar-right.html">
-                <img src="/static/images/post-prev-2.jpg" alt="" />
+                <img src="/static/images/archive/post-prev-2.jpg" alt="" />
               </a>
             </div>
 
@@ -55,7 +55,7 @@ const teams = () => {
           <div className="col-sm-6 col-md-4 col-lg-4 mb-md-50">
             <div className="post-prev-img">
               <a href="blog-single-sidebar-right.html">
-                <img src="/static/images/post-prev-3.jpg" alt="" />
+                <img src="/static/images/archive/post-prev-3.jpg" alt="" />
               </a>
             </div>
 
