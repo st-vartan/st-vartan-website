@@ -1,5 +1,6 @@
-import Link from 'next/link';
-import AboutUs from '../components/aboutUs';
+const DynamicComponent = dynamic(() => import('../components/aboutUs'), {
+    ssr: false,
+});
 
-const aboutUs = props => <AboutUs />;
+const aboutUs = props => <DynamicComponent />;
 export default aboutUs;
