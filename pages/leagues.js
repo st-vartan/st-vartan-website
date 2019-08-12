@@ -25,10 +25,18 @@ const leagues = props => {
       </section>
       <section className="page-section">
         <div className="relative">
-          <h2 className="section-title font-alt mb-70 mb-sm-40">
+          <h2 className="section-title font-alt mb-40 mb-sm-40">
             St.Vartan League 2019 Summer Tour
           </h2>
-          <div className="container">
+          <div className="align-center">
+            <img
+              src="/static/images/league/logo_tour_2019.png"
+              alt="St.Vartan Tour 2019"
+              style={{ maxHeight: 200 }}
+            />
+          </div>
+
+          <div className="container mt-20">
             <div className="row">
               <div className="col-md-8 col-md-offset-2">
                 <div className="section-text align-center mb-70 mb-xs-40">

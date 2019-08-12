@@ -22,7 +22,7 @@ const LatestGallery = () => (
               <div className="work-img">
                 <img
                   className="work-img"
-                  src="/static/images/projects-13.jpg"
+                  src="/static/images/archive/projects-13.jpg"
                   alt="Russ"
                 />
               </div>
@@ -38,7 +38,7 @@ const LatestGallery = () => (
               <div className="work-img">
                 <img
                   className="work-img"
-                  src="/static/images/projects-14.jpg"
+                  src="/static/images/archive/projects-14.jpg"
                   alt="Work"
                 />
               </div>
@@ -54,7 +54,7 @@ const LatestGallery = () => (
               <div className="work-img">
                 <img
                   className="work-img"
-                  src="/static/images/projects-6.jpg"
+                  src="/static/images/archive/projects-6.jpg"
                   alt="Work"
                 />
               </div>

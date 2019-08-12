@@ -1,6 +1,6 @@
 import Layout from './layout';
 import Link from 'next/link';
-import MagnificPopup from './layout/magnificPopup';
+import MagnificPopup from './util/magnificPopup';
 
 const data = [
   {
