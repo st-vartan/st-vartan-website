@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 
-const intro = () => {
+const introSlider = () => {
   useEffect(() => {
     if (typeof window === 'undefined' || typeof document === 'undefined') {
       return;
@@ -225,4 +225,4 @@ const intro = () => {
   );
 };
 
-export default intro;
+export default introSlider;

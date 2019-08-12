@@ -2,15 +2,12 @@ import { useEffect } from 'react';
 
 import Layout from '../layout';
 
-import ContactUsSection from './sections/contactUs';
-import RuleSection from './sections/rules';
-import IntroductionSection from './sections/intro';
 import IntroStaticSection from './sections/introStatic';
 import HistorySection from './sections/history';
+import ContactUsSection from './sections/contactUs';
+import RuleSection from './sections/rules';
 import LeaguesSection from './sections/leagues';
 import LeagueStyleSection from './sections/leagueStyle';
-import LatestGallerySection from './sections/latestGallery';
-import TeamsSection from './sections/teams';
 
 export default props => {
   useEffect(() => {
@@ -33,22 +30,15 @@ export default props => {
   return (
     <Layout>
       <IntroStaticSection />
-      {/*<IntroductionSection />*/}
       <HistorySection />
       <hr className="mt-0 mb-0 " />
       <LeaguesSection />
-      <hr className="mt-0 mb-0 " />
-      <RuleSection />
-
-      <hr className="mt-0 mb-0" />
-        <LeagueStyleSection />
-      {/* <TeamsSection />
-      <hr className="mt-0 mb-0 " /> */}
-      {/*<LatestGallerySection />*/}
-      {/*<QuoteSection/>*/}
-      {/*<hr className="mt-0 mb-0 " />*/}
-
-      <ContactUsSection />
+        <hr className="mt-0 mb-0 "/>
+        <RuleSection/>
+        <hr className="mt-0 mb-0"/>
+        <LeagueStyleSection/>
+        <hr className="mt-0 mb-0"/>
+        <ContactUsSection/>
     </Layout>
   );
 };

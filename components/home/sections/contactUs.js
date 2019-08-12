@@ -13,7 +13,7 @@ const Map = ReactMapboxGl({
     'pk.eyJ1IjoiYmlnZmF0ZG9nIiwiYSI6ImM1ZWIyYzYzMzkyM2JlMTc0M2VjNmRlOTk5NDdkN2VjIn0.DoyA-reichUjF_FO9dkazQ',
 });
 
-const map = () => (
+const contactUs = () => (
   <section className="page-section" id="map">
     <div className="container relative">
       <div className="text">
@@ -91,4 +91,4 @@ const map = () => (
   </section>
 );
 
-export default map;
+export default contactUs;
