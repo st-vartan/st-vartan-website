@@ -2,6 +2,7 @@
   "name": "st-vartan-website",
   "author": "Yun Xing",
   "license": "MIT",
+  "version": "0.0.1",
   "scripts": {
     "dev": "next",
     "build": "next build",
