@@ -40,12 +40,12 @@ const history = () => {
 
           <div className="col-md-4 col-sm-6">
             <img
-              src="/static/images/home/tour.jpg"
+              src="/static/images/home/daniel_in_33.jpg"
               alt="Work"
               className={'mb-20'}
             />
 
-            <div className="font-alt align-center  mb-20">League</div>
+            <div className="font-alt align-center mb-20">League</div>
             <div>
               We've established a pattern of playing organized games on Saturday
               mornings, from 9:00am. based on whitch we're working on organizing
