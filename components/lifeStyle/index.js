@@ -4,23 +4,6 @@ import MagnificPopup from '../util/magnificPopup';
 import data from './data';
 
 const lifestyle = props => {
-  const styleItems = data.map((d, i) => (
-    <div className="col-md-4 col-lg-4 col-sm-6 col-xs-12" key={d.image}>
-      <div className="post-prev-img">
-        <a>
-          <img src={d.image} alt={d.title} />
-        </a>
-      </div>
-
-      <div className="post-prev-title font-alt align-center">
-        <a>{d.title}</a>
-      </div>
-
-      <div className="post-prev-text align-center">
-        <strong>{d.desc}</strong>
-      </div>
-    </div>
-  ));
   return (
     <Layout title={'St.Vartan Basketball Life Style'}>
       <section className="small-section bg-dark">

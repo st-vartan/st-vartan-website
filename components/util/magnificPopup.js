@@ -8,6 +8,7 @@ const magnificPopup = ({data}) => {
             gallery: {
                 enabled: true
             },
+            mainClass: 'mfp-fade',
             image: {
                 titleSrc: 'title'
             }
