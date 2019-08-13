@@ -96,18 +96,6 @@ const data = [
     url: 'ray',
   },
   {
-    image: '/static/images/players/370/placeholder.jpg',
-    name: 'Steve',
-    desc: 'PG',
-    url: 'steve',
-  },
-  {
-    image: '/static/images/players/370/placeholder.jpg',
-    name: 'Stephen',
-    desc: 'SF',
-    url: 'stephen',
-  },
-  {
     image: '/static/images/players/370/russ.jpg',
     name: 'Russ',
     desc: 'King',
@@ -118,6 +106,18 @@ const data = [
     name: 'Sean',
     desc: 'Space Jam',
     url: 'sean',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Stephen',
+    desc: 'SF',
+    url: 'stephen',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Steve',
+    desc: 'PG',
+    url: 'steve',
   },
   {
     image: '/static/images/players/370/placeholder.jpg',
