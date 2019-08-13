@@ -12,7 +12,7 @@ const Index = () => {
     menuSideEffects();
   });
   return (
-    <nav className="main-nav dark transparent stick-fixed">
+    <nav className="main-nav dark transparent js-transparent stick-fixed">
       <style jsx>{`
         .inner-nav > ul > li > a,
         .mobile-nav {

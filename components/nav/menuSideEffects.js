@@ -1,20 +1,6 @@
-// Function for block height 100%
-const height_line = (height_object, height_donor) => {
-  height_object.height(height_donor.height());
-  height_object.css({
-    'line-height': height_donor.height() + 'px',
-  });
-};
-
 const init_classic_menu = () => {
   const mobile_nav = $('.mobile-nav');
   const desktop_nav = $('.desktop-nav');
-
-  // Transpaner menu
-
-  if ($('.main-nav').hasClass('transparent')) {
-    $('.main-nav').addClass('js-transparent');
-  }
 
   $(window).scroll(function() {
     if ($(window).scrollTop() > 10) {
