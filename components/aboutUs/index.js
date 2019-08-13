@@ -2,6 +2,7 @@ import Link from 'next/link';
 import Layout from '../layout';
 import SpeechSection from './speech';
 import MyJourneySection from './journey';
+import TechnologySection from './technology';
 import ContactUsSection from '../home/sections/contactUs';
 
 const aboutUs = props => {
@@ -28,6 +29,7 @@ const aboutUs = props => {
       </section>
       <SpeechSection />
       <MyJourneySection />
+      <TechnologySection />
       <ContactUsSection />
     </Layout>
   );

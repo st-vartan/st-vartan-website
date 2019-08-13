@@ -6,18 +6,18 @@ const speech = () => {
           <div className="col-md-6 col-lg-6 mb-sm-40">
             {/* About Project */}
             <div className="text">
-              <h3 className="font-alt mb-30 mb-xxs-10">Story of this site</h3>
+              <h3 className="mb-30 mb-xxs-10">Story of this site</h3>
               <p>
-                This site is built with Server Side Rendering. I also leverage
-                D3, SVG, Canvas, WebGL and RxJS for big data visualization for
-                basketball, if you're interested in technology behind this site,
-                please visit{' '}
-                <a
-                  href="https://github.com/st-vartan/st-vartan-website"
-                  target="_blank"
-                >
-                  Github project
-                </a>
+                I came to NYC and began to play basketball in St.Vartan park since 2017. After that it is a very slow process for me to get familiar with hoopers on this court.
+
+              </p>
+              <p>
+                I avoid fake friendliness or being unwillingly social on a basketball court. Life is so short and time is
+                precious, why not staying sincere and honest to the very myself, get to know people only who you appreciate
+              </p>
+              <p>
+                Talented hoopers on this court make me a better player. Sometimes I feel things much more important than winning/losing
+                games or basketball skills: trust, tolerance, support from teammates, and that drives me to make this website.
               </p>
             </div>
           </div>

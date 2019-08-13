@@ -4,9 +4,8 @@ const speech = () => {
       <div className="container relative">
         <div className="row">
           <div className="col-md-6 col-lg-6 mb-sm-40">
-            {/* About Project */}
             <div className="text">
-              <h3 className="font-alt mb-30 mb-xxs-10">Manifest by Cesar</h3>
+              <h3 className="mb-30 mb-xxs-10">Manifest by Cesar</h3>
               <p>
                 But the height of the rim on the 35th street side has always
                 been 11 feet and the height of the of the 36 street side has
