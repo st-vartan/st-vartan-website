@@ -13,6 +13,16 @@ const Index = () => {
   });
   return (
     <nav className="main-nav dark transparent stick-fixed">
+      <style jsx>{`
+        .inner-nav > ul > li > a,
+        .mobile-nav {
+          height: 75px;
+        }
+        
+        .mobile-nav {
+          width: 75px;
+        }
+      `}</style>
       <div className="full-wrapper relative clearfix">
         <div className="nav-logo-wrap">
           <Link href={'/'}>

@@ -9,12 +9,6 @@ const height_line = (height_object, height_donor) => {
 const init_classic_menu = () => {
   const mobile_nav = $('.mobile-nav');
   const desktop_nav = $('.desktop-nav');
-  height_line($('.inner-nav > ul > li > a'), $('.main-nav'));
-  height_line(mobile_nav, $('.main-nav'));
-
-  mobile_nav.css({
-    width: $('.main-nav').height() + 'px',
-  });
 
   // Transpaner menu
 
