@@ -6,7 +6,7 @@ const players = () => {
   const items = data.map((d, i) => {
     return (
       <li
-        className="work-item dark-hover col-md-2 col-lg-2 mb-60 mb-xs-40"
+        className="work-item dark-hover col-md-2 col-lg-2 col-xs-4 col-sm-3 mb-60 mb-xs-40"
         key={d.name + i}
       >
         <Link href={'/' + d.url}>
