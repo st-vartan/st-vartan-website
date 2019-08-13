@@ -8,7 +8,7 @@ const data = [
   {
     image: '/static/images/players/370/jon.jpg',
     name: 'Jon',
-    desc: 'Lighten Spear',
+    desc: 'Lightning Spear',
     url: 'jon',
   },
   {
