@@ -1,5 +1,29 @@
 const data = [
   {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Bradon',
+    desc: 'C',
+    url: 'bradon',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Carlos',
+    desc: 'True Beast',
+    url: 'carlos',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Cesar',
+    desc: 'Manifest',
+    url: 'cesar',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Daniel',
+    desc: 'SG',
+    url: 'daniel',
+  },
+  {
     image: '/static/images/players/370/george.jpg',
     name: 'George',
     desc: 'Big 3 from Downtown',
@@ -12,10 +36,76 @@ const data = [
     url: 'jon',
   },
   {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Jordan',
+    desc: '3pt Down Pour',
+    url: 'jordan',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Kevin',
+    desc: '3pt Killer',
+    url: 'kevin',
+  },
+  {
     image: '/static/images/players/370/joel.jpg',
     name: 'Joel',
     desc: 'J',
     url: 'joel',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Jose',
+    desc: 'Triple Threat',
+    url: 'Jose',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Mier',
+    desc: 'Consistent Shooting Machine',
+    url: 'mier',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Nick',
+    desc: 'Fast Break',
+    url: 'nick',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Nico',
+    desc: 'C',
+    url: 'nico',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Oscar',
+    desc: 'Restricted Area Domination',
+    url: 'oscar',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Peter',
+    desc: 'Triple Kill',
+    url: 'peter',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Ray',
+    desc: 'SF',
+    url: 'ray',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Steve',
+    desc: 'PG',
+    url: 'steve',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Stephen',
+    desc: 'SF',
+    url: 'stephen',
   },
   {
     image: '/static/images/players/370/russ.jpg',
@@ -28,6 +118,30 @@ const data = [
     name: 'Sean',
     desc: 'Space Jam',
     url: 'sean',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Steu',
+    desc: 'Blue Phanaom',
+    url: 'steu',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Tony',
+    desc: 'PF',
+    url: 'tony',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Vallen',
+    desc: 'Just a Kid',
+    url: 'vallen',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Zach',
+    desc: 'SG',
+    url: 'zach',
   },
   {
     image: '/static/images/players/370/yun.jpg',
