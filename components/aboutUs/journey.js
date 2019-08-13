@@ -11,16 +11,12 @@ const speech = () => {
                 I began to play basketball in St.Vartan park since 2017. After that it is a very slow process for me to get familiar with hoopers on this court.
               </p>
               <p>
-                I avoid fake friendliness or being unwillingly social on a basketball court. Life is so short and time is
-                precious, so I stay sincere and honest to the very myself by getting to know people only who I appreciate
-              </p>
-              <p>
-                Talented hoopers on this court make me a better player. I come to realize things that are much more important than winning/losing
+                Talented hoopers on this court make me a better player. Having runing with them, I come to realize things that are much more important than winning/losing
                 games or basketball skills: trust, tolerance and support from teammates. To me, that's the best part of basketball.
               </p>
 
               <p>
-                It is the enthusiasm for St.Vartan basketball that drives me build this site.
+                Yes! I build this site because I love St.Vartan hoops.
               </p>
             </div>
           </div>
