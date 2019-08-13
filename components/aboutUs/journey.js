@@ -17,7 +17,7 @@ const speech = () => {
               </p>
               <p>
                 Talented hoopers on this court make me a better player. Sometimes I feel things much more important than winning/losing
-                games or basketball skills: trust, tolerance, support from teammates, and that drives me to make this website.
+                games or basketball skills: trust, tolerance and support from teammates, and that drives me to make this website.
               </p>
             </div>
           </div>
@@ -26,7 +26,7 @@ const speech = () => {
             <div className="work-full-media mt-0 white-shadow wow fadeInUp">
               <ul className="clearlist work-full-slider owl-carousel">
                 <li>
-                  <img src="/static/images/court_bg.jpg" alt="" />
+                  <img src="/static/images/about/5bro.jpg" alt="5 Bro" />
                 </li>
               </ul>
             </div>
