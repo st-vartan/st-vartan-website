@@ -8,10 +8,10 @@ const speech = () => {
             <div className="text">
               <h3 className="mb-30 mb-xxs-10">Story of This Site</h3>
               <p>
-                I began to play basketball in St.Vartan park since 2017. After that it is a very slow process for me to get familiar with hoopers on this court.
+                I began to play basketball in St.Vartan park in 2017. After that it was a very slow process for me to get familiar with hoopers on this court.
               </p>
               <p>
-                Talented hoopers on this court make me a better player. Having runing with them, I come to realize things that are much more important than winning/losing
+                Talented hoopers on this court make me a better player. Having been running with them, I come to realize things that are much more important than winning/losing
                 games or basketball skills: trust, tolerance and support from teammates. To me, that's the best part of basketball.
               </p>
 
