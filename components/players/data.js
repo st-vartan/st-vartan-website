@@ -43,9 +43,9 @@ const data = [
   },
   {
     image: '/static/images/players/370/placeholder.jpg',
-    name: 'Kevin',
-    desc: '3pt Killer',
-    url: 'kevin',
+    name: 'Jose',
+    desc: 'Triple Threat',
+    url: 'Jose',
   },
   {
     image: '/static/images/players/370/joel.jpg',
@@ -55,9 +55,9 @@ const data = [
   },
   {
     image: '/static/images/players/370/placeholder.jpg',
-    name: 'Jose',
-    desc: 'Triple Threat',
-    url: 'Jose',
+    name: 'Kevin',
+    desc: '3pt Killer',
+    url: 'kevin',
   },
   {
     image: '/static/images/players/370/placeholder.jpg',
