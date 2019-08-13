@@ -7,7 +7,7 @@ const technology = () => {
                         <div className="text">
                             <h3 className="mb-30 mb-xxs-10">Technology</h3>
                             <p>
-                                This site is built with Server Side Rendering. I also leverage
+                                This site is built with Server Side Rendering. I also aim to leverage
                                 D3, SVG, Canvas, WebGL and RxJS for big data visualization for
                                 basketball.
                             </p>
