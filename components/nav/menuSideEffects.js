@@ -1,6 +1,3 @@
-import $ from 'jquery';
-import addEasing from './easing';
-
 // Function for block height 100%
 const height_line = (height_object, height_donor) => {
   height_object.height(height_donor.height());
@@ -222,10 +219,6 @@ const init_classic_menu_resize = () => {
 const menuSideEffects = () => {
   if (typeof window === 'undefined' || typeof document === 'undefined') {
     return;
-  }
-
-  if (!$.easing.easeInCubic) {
-    addEasing($);
   }
 
   //
