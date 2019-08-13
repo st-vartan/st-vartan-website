@@ -14,12 +14,12 @@ const Index = () => {
   return (
     <nav className="main-nav dark transparent js-transparent stick-fixed">
       <style jsx>{`
-        .inner-nav > ul > li > a,
-        .mobile-nav {
+        .nav-75 > ul > li > a,
+        .nav-75 {
           height: 75px;
         }
         
-        .mobile-nav {
+        .nav-75 {
           width: 75px;
         }
       `}</style>
@@ -32,11 +32,11 @@ const Index = () => {
           </Link>
         </div>
 
-        <div className="mobile-nav">
+        <div className="mobile-nav nav-75">
           <i className="fa fa-bars"></i>
         </div>
 
-        <div className="inner-nav desktop-nav">
+        <div className="inner-nav desktop-nav nav-75">
           <ul className="clearlist">
             <li>
               <Link href={'/'}>
