@@ -5,18 +5,18 @@ import data from './data';
 
 const lifestyle = props => {
   const styleItems = data.map((d, i) => (
-    <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12" key={d.image}>
-      <div class="post-prev-img">
+    <div className="col-md-4 col-lg-4 col-sm-6 col-xs-12" key={d.image}>
+      <div className="post-prev-img">
         <a>
           <img src={d.image} alt={d.title} />
         </a>
       </div>
 
-      <div class="post-prev-title font-alt align-center">
+      <div className="post-prev-title font-alt align-center">
         <a>{d.title}</a>
       </div>
 
-      <div class="post-prev-text align-center">
+      <div className="post-prev-text align-center">
         <strong>{d.desc}</strong>
       </div>
     </div>
@@ -43,7 +43,7 @@ const lifestyle = props => {
         </div>
       </section>
       {/* <div className='container'>
-        <div class="row multi-columns-row">
+        <div className="row multi-columns-row">
             {styleItems}
         </div>
       </div> */}

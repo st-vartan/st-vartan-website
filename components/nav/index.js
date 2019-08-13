@@ -13,16 +13,6 @@ const Index = () => {
   });
   return (
     <nav className="main-nav dark transparent js-transparent stick-fixed">
-      <style jsx>{`
-        .nav-75 > ul > li > a,
-        .nav-75 {
-          height: 75px;
-        }
-        
-        .nav-75 {
-          width: 75px;
-        }
-      `}</style>
       <div className="full-wrapper relative clearfix">
         <div className="nav-logo-wrap">
           <Link href={'/'}>
@@ -32,11 +22,11 @@ const Index = () => {
           </Link>
         </div>
 
-        <div className="mobile-nav nav-75">
+        <div className="mobile-nav">
           <i className="fa fa-bars"></i>
         </div>
 
-        <div className="inner-nav desktop-nav nav-75">
+        <div className="inner-nav desktop-nav">
           <ul className="clearlist">
             <li>
               <Link href={'/'}>

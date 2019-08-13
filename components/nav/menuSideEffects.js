@@ -1,6 +1,29 @@
+import $ from 'jquery';
+import addEasing from './easing';
+
+// Function for block height 100%
+const height_line = (height_object, height_donor) => {
+  height_object.height(height_donor.height());
+  height_object.css({
+    'line-height': height_donor.height() + 'px',
+  });
+};
+
 const init_classic_menu = () => {
   const mobile_nav = $('.mobile-nav');
   const desktop_nav = $('.desktop-nav');
+  height_line($('.inner-nav > ul > li > a'), $('.main-nav'));
+  height_line(mobile_nav, $('.main-nav'));
+
+  mobile_nav.css({
+    width: $('.main-nav').height() + 'px',
+  });
+
+  // Transpaner menu
+
+  if ($('.main-nav').hasClass('transparent')) {
+    $('.main-nav').addClass('js-transparent');
+  }
 
   $(window).scroll(function() {
     if ($(window).scrollTop() > 10) {
@@ -199,6 +222,10 @@ const init_classic_menu_resize = () => {
 const menuSideEffects = () => {
   if (typeof window === 'undefined' || typeof document === 'undefined') {
     return;
+  }
+
+  if (!$.easing.easeInCubic) {
+    addEasing($);
   }
 
   //
