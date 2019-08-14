@@ -41,6 +41,7 @@ const init_classic_menu = () => {
 
   // Mobile menu toggle
 
+  mobile_nav.off('click');
   mobile_nav.click(function() {
     if (desktop_nav.hasClass('js-opened')) {
       desktop_nav.slideUp('slow', 'easeOutExpo').removeClass('js-opened');
@@ -55,6 +56,9 @@ const init_classic_menu = () => {
       }
     }
   });
+
+  $('.desktop-nav')
+      .find('a:not(.mn-has-sub)').off('click');
 
   $('.desktop-nav')
     .find('a:not(.mn-has-sub)')
@@ -75,6 +79,7 @@ const init_classic_menu = () => {
     .removeClass('fa-angle-right')
     .addClass('fa-angle-down');
 
+  mnHasSub.off('click');
   mnHasSub.click(function() {
     if ($('.main-nav').hasClass('mobile-on')) {
       mnThisLi = $(this).parent('li:first');
