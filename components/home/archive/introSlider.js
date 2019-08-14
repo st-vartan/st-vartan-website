@@ -106,7 +106,7 @@ const introSlider = () => {
             data-slotamount="7"
             data-title="Intro Slide"
           >
-            <img src="/static/images/court_bg.jpg" alt="" />
+            <img src="/static/images/home/court_bg.jpg" alt="" />
 
             <div
               className="caption tp-resizeme"

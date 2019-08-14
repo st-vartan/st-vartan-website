@@ -35,7 +35,7 @@ const speech = () => {
             <div className="work-full-media mt-0 white-shadow wow fadeInUp">
               <ul className="clearlist work-full-slider owl-carousel">
                 <li>
-                  <img src="/static/images/court_bg.jpg" alt="" />
+                  <img src="/static/images/home/court_bg.jpg" alt="" />
                 </li>
               </ul>
             </div>
