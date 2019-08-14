@@ -23,7 +23,7 @@ const leagues = () => (
     </section>
     <section
       className="page-section banner-section bg-dark bg-dark-alpha-80"
-      data-background="/static/images/court_bg.jpg"
+      data-background="/static/images/home/court_bg.jpg"
       style={{
         backgroundImage: 'url(/static/images/home/welcome_league.jpg)',
         opacity: 1,

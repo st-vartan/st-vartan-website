@@ -5,7 +5,7 @@ const introduction = () => (
     id="home"
     style={{
       backgroundPosition: '50% 0px',
-      backgroundImage: 'url("/static/images/court_bg.jpg")',
+      backgroundImage: 'url("/static/images/home/court_bg.jpg")',
     }}
   >
     <div className="js-height-full container">
