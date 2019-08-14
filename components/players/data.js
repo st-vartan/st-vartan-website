@@ -7,6 +7,12 @@ const data = [
   },
   {
     image: '/static/images/players/370/placeholder.jpg',
+    name: 'Bryan',
+    desc: 'Isolation',
+    url: 'bryan',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
     name: 'Carlos',
     desc: 'True Beast',
     url: 'carlos',
