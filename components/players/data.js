@@ -36,6 +36,12 @@ const data = [
     url: 'george',
   },
   {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Haiti',
+    desc: 'PF',
+    url: 'haiti',
+  },
+  {
     image: '/static/images/players/370/jon.jpg',
     name: 'Jon',
     desc: 'Lightning Spear',
