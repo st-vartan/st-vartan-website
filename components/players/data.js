@@ -146,7 +146,7 @@ const data = [
   {
     image: '/static/images/players/370/placeholder.jpg',
     name: 'Stu',
-    desc: 'Blue phan·tom',
+    desc: 'Blue Phantom',
     url: 'stu',
   },
   {
