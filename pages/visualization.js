@@ -1,4 +1,5 @@
 import Layout from '../components/layout';
+import DomainVis from '../components/domain';
 import Link from 'next/link';
 
 const leagues = props => {
@@ -25,6 +26,7 @@ const leagues = props => {
           </div>
         </div>
       </section>
+      <DomainVis/>
     </Layout>
   );
 };
