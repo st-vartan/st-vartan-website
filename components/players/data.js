@@ -30,6 +30,12 @@ const data = [
     url: 'daniel',
   },
   {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Dre',
+    desc: 'SG',
+    url: 'dre',
+  },
+  {
     image: '/static/images/players/370/george.jpg',
     name: 'George',
     desc: 'Big 3 from Downtown',
@@ -70,6 +76,12 @@ const data = [
     name: 'Kevin',
     desc: '3pt Killer',
     url: 'kevin',
+  },
+  {
+    image: '/static/images/players/370/placeholder.jpg',
+    name: 'Max',
+    desc: '3pt Killer',
+    url: 'max',
   },
   {
     image: '/static/images/players/370/placeholder.jpg',
@@ -133,9 +145,9 @@ const data = [
   },
   {
     image: '/static/images/players/370/placeholder.jpg',
-    name: 'Steu',
-    desc: 'Blue Phanaom',
-    url: 'steu',
+    name: 'Stu',
+    desc: 'Blue phan·tom',
+    url: 'stu',
   },
   {
     image: '/static/images/players/370/placeholder.jpg',
