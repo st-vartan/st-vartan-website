@@ -17,7 +17,7 @@ const history = () => {
           <div className="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
             <blockquote>
               <p>
-                If you can shoot on a 11 double foot rim than you can shoot
+                If you can shoot on a 11 foot double rim than you can shoot
                 anywhere.
               </p>
               <footer>Cesar</footer>
@@ -48,7 +48,7 @@ const history = () => {
             <div className="font-alt align-center mb-20">League</div>
             <div>
               We've established a pattern of playing organized games on Saturday
-              mornings, from 9:00am. based on whitch we're working on organizing
+              mornings, from 9:00am. based on which we're working on organizing
               a league.
             </div>
           </div>
