@@ -11,7 +11,7 @@ import cloneDeep from 'lodash/cloneDeep';
 
 const Visualization = props => {
   const chartRef = useRef(null);
-  const [layout, setLayout] = useState('biome');
+  const [layout, setLayout] = useState('constellation');
   const [nodes, setNodes] = useState([]);
   const [edges, setEdges] = useState([]);
 
@@ -23,13 +23,13 @@ const Visualization = props => {
 
   let vis = null;
   if (layout === 'threat') {
-    vis = <Threat nodes={nodes} edges={edges}/>;
+    vis = <Threat nodes={nodes} edges={edges} />;
   } else if (layout === 'domain') {
-    vis = <Domain nodes={nodes} edges={edges}/>;
+    vis = <Domain nodes={nodes} edges={edges} />;
   } else if (layout === 'constellation') {
-    vis = <Constellation nodes={nodes} edges={edges}/>;
+    vis = <Constellation nodes={nodes} edges={edges} />;
   } else if (layout === 'biome') {
-    vis = <Biome nodes={nodes} edges={edges}/>;
+    vis = <Biome nodes={nodes} edges={edges} />;
   }
 
   return (

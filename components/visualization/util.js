@@ -1,5 +1,5 @@
 import * as d3 from 'd3';
-import { typeConversion } from './modal-node'
+import { typeConversion } from './modal-node';
 
 function findGoodSize(w, h) {
   //Figure out a nice scaling to fit the _visual on your screen
@@ -39,38 +39,55 @@ function prepareEdges(graph) {
 //And when a click is active, it will also run when hovered over a visible edge
 //You can distinguish between the two, because obj.type will be "edge" for the edge hover
 function createTooltip(obj, w, h) {
-  let radius, label, type, note
-  if(obj.type === "edge") {
-    radius = 0
-    label = obj.node.label
-    note = typeConversion(obj.node.type) + " connected to this line"
-    d3.select("#chart-tooltip")
-        .style("border", "2px solid " + obj.node.fill)
-        .style("box-shadow", "none")
-  } else { //node
-    radius = obj.r
-    label = obj.label
-    note = typeConversion(obj.type)
-    d3.select("#chart-tooltip")
-        .style("border", null)
-        .style("box-shadow", null)
-  }//else
+  let radius, label, type, note;
+  if (obj.type === 'edge') {
+    radius = 0;
+    label = obj.node.label;
+    note = typeConversion(obj.node.type) + ' connected to this line';
+    d3.select('#chart-tooltip')
+      .style('border', '2px solid ' + obj.node.fill)
+      .style('box-shadow', 'none');
+  } else {
+    //node
+    radius = obj.r;
+    label = obj.label;
+    note = typeConversion(obj.type);
+    d3.select('#chart-tooltip')
+      .style('border', null)
+      .style('box-shadow', null);
+  } //else
 
   //Change titles
-  d3.select("#chart-tooltip .tooltip-type").html(note)
-  d3.select("#chart-tooltip .tooltip-title").html(label)
-  let box_size = document.getElementById("chart-tooltip").getBoundingClientRect()
+  d3.select('#chart-tooltip .tooltip-type').html(note);
+  d3.select('#chart-tooltip .tooltip-title').html(label);
+  let box_size = document
+    .getElementById('chart-tooltip')
+    .getBoundingClientRect();
 
   //Place & show the tooltip
-  d3.select("#chart-tooltip")
-      .style("top", (obj.y + h/2 - box_size.height - radius - Math.max( radius * 0.2, 30 )) + "px")
-      .style("left", (obj.x + w/2 - box_size.width/2) + "px")
-      .style("opacity", 1)
-}//function createTooltip
+  d3.select('#chart-tooltip')
+    .style(
+      'top',
+      obj.y +
+        h / 2 -
+        box_size.height -
+        radius -
+        Math.max(radius * 0.2, 30) +
+        'px'
+    )
+    .style('left', obj.x + w / 2 - box_size.width / 2 + 'px')
+    .style('opacity', 1);
+} //function createTooltip
 
 function removeTooltip() {
   //Hide the tooltip
-  d3.select("#chart-tooltip").style("opacity", 0)
+  d3.select('#chart-tooltip').style('opacity', 0);
 }
 
-export { findGoodSize, prepareNodes, prepareEdges, createTooltip, removeTooltip };
+export {
+  findGoodSize,
+  prepareNodes,
+  prepareEdges,
+  createTooltip,
+  removeTooltip,
+};

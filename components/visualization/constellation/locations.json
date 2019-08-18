@@ -1,0 +1,9402 @@
+[
+  {
+    "id": "region_2",
+    "degree": 17,
+    "x_fixed": 84.87,
+    "y_fixed": -46.07
+  },
+  {
+    "id": "region_3",
+    "degree": 24,
+    "x_fixed": 102.78,
+    "y_fixed": 132.86
+  },
+  {
+    "id": "region_4",
+    "degree": 19,
+    "x_fixed": 64.29,
+    "y_fixed": 184.61
+  },
+  {
+    "id": "region_5",
+    "degree": 24,
+    "x_fixed": 50.65,
+    "y_fixed": 119.09
+  },
+  {
+    "id": "region_6",
+    "degree": 23,
+    "x_fixed": -183.39,
+    "y_fixed": 168.83
+  },
+  {
+    "id": "region_7",
+    "degree": 15,
+    "x_fixed": -42.39,
+    "y_fixed": 211.91
+  },
+  {
+    "id": "country_3",
+    "degree": 2,
+    "x_fixed": 119.23,
+    "y_fixed": 363.34
+  },
+  {
+    "id": "country_4",
+    "degree": 8,
+    "x_fixed": -104.11,
+    "y_fixed": 212.43
+  },
+  {
+    "id": "country_5",
+    "degree": 5,
+    "x_fixed": -84.74,
+    "y_fixed": -253.12
+  },
+  {
+    "id": "country_6",
+    "degree": 2,
+    "x_fixed": 369.13,
+    "y_fixed": 96.04
+  },
+  {
+    "id": "country_12",
+    "degree": 7,
+    "x_fixed": -219.46,
+    "y_fixed": 227.12
+  },
+  {
+    "id": "country_13",
+    "degree": 3,
+    "x_fixed": -141.53,
+    "y_fixed": 252.32
+  },
+  {
+    "id": "country_14",
+    "degree": 6,
+    "x_fixed": -59.13,
+    "y_fixed": 278.39
+  },
+  {
+    "id": "country_17",
+    "degree": 7,
+    "x_fixed": 26.35,
+    "y_fixed": -294.97
+  },
+  {
+    "id": "country_18",
+    "degree": 14,
+    "x_fixed": 238.02,
+    "y_fixed": 84.12
+  },
+  {
+    "id": "country_21",
+    "degree": 5,
+    "x_fixed": 287.6,
+    "y_fixed": -44.62
+  },
+  {
+    "id": "country_23",
+    "degree": 3,
+    "x_fixed": 221.47,
+    "y_fixed": -13.14
+  },
+  {
+    "id": "country_24",
+    "degree": 14,
+    "x_fixed": 273.33,
+    "y_fixed": -55.4
+  },
+  {
+    "id": "country_25",
+    "degree": 2,
+    "x_fixed": -51.87,
+    "y_fixed": 338.78
+  },
+  {
+    "id": "country_26",
+    "degree": 2,
+    "x_fixed": -18.53,
+    "y_fixed": 182.83
+  },
+  {
+    "id": "country_28",
+    "degree": 2,
+    "x_fixed": 114.67,
+    "y_fixed": 199.48
+  },
+  {
+    "id": "country_29",
+    "degree": 7,
+    "x_fixed": 140.8,
+    "y_fixed": 13.88
+  },
+  {
+    "id": "country_30",
+    "degree": 4,
+    "x_fixed": -107.56,
+    "y_fixed": -209.51
+  },
+  {
+    "id": "country_31",
+    "degree": 3,
+    "x_fixed": -314.27,
+    "y_fixed": 247.93
+  },
+  {
+    "id": "country_33",
+    "degree": 9,
+    "x_fixed": 29.8,
+    "y_fixed": 249.38
+  },
+  {
+    "id": "country_35",
+    "degree": 8,
+    "x_fixed": 261.51,
+    "y_fixed": -158.83
+  },
+  {
+    "id": "country_36",
+    "degree": 2,
+    "x_fixed": -56.89,
+    "y_fixed": 358.04
+  },
+  {
+    "id": "country_37",
+    "degree": 2,
+    "x_fixed": -167.36,
+    "y_fixed": 248.9
+  },
+  {
+    "id": "country_39",
+    "degree": 6,
+    "x_fixed": 105.83,
+    "y_fixed": 282.71
+  },
+  {
+    "id": "country_43",
+    "degree": 2,
+    "x_fixed": -159.82,
+    "y_fixed": 285.58
+  },
+  {
+    "id": "country_44",
+    "degree": 3,
+    "x_fixed": -211.85,
+    "y_fixed": 255.36
+  },
+  {
+    "id": "country_45",
+    "degree": 41,
+    "x_fixed": -121.39,
+    "y_fixed": 184.53
+  },
+  {
+    "id": "country_47",
+    "degree": 5,
+    "x_fixed": 10.31,
+    "y_fixed": -182.84
+  },
+  {
+    "id": "country_49",
+    "degree": 11,
+    "x_fixed": 167.23,
+    "y_fixed": 136.58
+  },
+  {
+    "id": "country_54",
+    "degree": 21,
+    "x_fixed": 89.81,
+    "y_fixed": -81.08
+  },
+  {
+    "id": "country_55",
+    "degree": 4,
+    "x_fixed": 377.74,
+    "y_fixed": -24.97
+  },
+  {
+    "id": "country_56",
+    "degree": 2,
+    "x_fixed": -86.21,
+    "y_fixed": -211.33
+  },
+  {
+    "id": "country_57",
+    "degree": 4,
+    "x_fixed": 50.77,
+    "y_fixed": 568.56
+  },
+  {
+    "id": "country_58",
+    "degree": 18,
+    "x_fixed": 19.8,
+    "y_fixed": 136.32
+  },
+  {
+    "id": "country_59",
+    "degree": 5,
+    "x_fixed": 178.99,
+    "y_fixed": 417.01
+  },
+  {
+    "id": "country_62",
+    "degree": 4,
+    "x_fixed": 34.84,
+    "y_fixed": 379.01
+  },
+  {
+    "id": "country_64",
+    "degree": 4,
+    "x_fixed": -153.38,
+    "y_fixed": 187.51
+  },
+  {
+    "id": "country_66",
+    "degree": 9,
+    "x_fixed": -125.48,
+    "y_fixed": 211.05
+  },
+  {
+    "id": "country_67",
+    "degree": 4,
+    "x_fixed": -166.1,
+    "y_fixed": 42.45
+  },
+  {
+    "id": "country_69",
+    "degree": 19,
+    "x_fixed": 30.33,
+    "y_fixed": 64.71
+  },
+  {
+    "id": "country_70",
+    "degree": 5,
+    "x_fixed": -157.89,
+    "y_fixed": 357.17
+  },
+  {
+    "id": "country_72",
+    "degree": 4,
+    "x_fixed": 200.95,
+    "y_fixed": 343.07
+  },
+  {
+    "id": "country_77",
+    "degree": 18,
+    "x_fixed": 106.73,
+    "y_fixed": 46.66
+  },
+  {
+    "id": "country_79",
+    "degree": 2,
+    "x_fixed": -322.2,
+    "y_fixed": -156.76
+  },
+  {
+    "id": "country_80",
+    "degree": 5,
+    "x_fixed": 12.46,
+    "y_fixed": 87.2
+  },
+  {
+    "id": "country_84",
+    "degree": 7,
+    "x_fixed": 79.05,
+    "y_fixed": 14.09
+  },
+  {
+    "id": "country_89",
+    "degree": 4,
+    "x_fixed": -6.99,
+    "y_fixed": 212.67
+  },
+  {
+    "id": "country_90",
+    "degree": 2,
+    "x_fixed": -248.79,
+    "y_fixed": 265.46
+  },
+  {
+    "id": "country_97",
+    "degree": 2,
+    "x_fixed": -54.22,
+    "y_fixed": 321.05
+  },
+  {
+    "id": "country_99",
+    "degree": 7,
+    "x_fixed": 149.98,
+    "y_fixed": 29.24
+  },
+  {
+    "id": "country_103",
+    "degree": 14,
+    "x_fixed": 30.06,
+    "y_fixed": 90.31
+  },
+  {
+    "id": "country_104",
+    "degree": 10,
+    "x_fixed": -55.45,
+    "y_fixed": -10.78
+  },
+  {
+    "id": "country_105",
+    "degree": 14,
+    "x_fixed": 89.29,
+    "y_fixed": 90.67
+  },
+  {
+    "id": "country_106",
+    "degree": 4,
+    "x_fixed": 294.64,
+    "y_fixed": 362.35
+  },
+  {
+    "id": "country_107",
+    "degree": 3,
+    "x_fixed": 238.43,
+    "y_fixed": 138.22
+  },
+  {
+    "id": "country_110",
+    "degree": 10,
+    "x_fixed": 123.92,
+    "y_fixed": 65.43
+  },
+  {
+    "id": "country_111",
+    "degree": 3,
+    "x_fixed": -117.86,
+    "y_fixed": 418.92
+  },
+  {
+    "id": "country_112",
+    "degree": 23,
+    "x_fixed": 83.1,
+    "y_fixed": -97.65
+  },
+  {
+    "id": "country_113",
+    "degree": 3,
+    "x_fixed": -139.91,
+    "y_fixed": 175.74
+  },
+  {
+    "id": "country_114",
+    "degree": 11,
+    "x_fixed": 94.22,
+    "y_fixed": 59.85
+  },
+  {
+    "id": "country_115",
+    "degree": 4,
+    "x_fixed": -255.57,
+    "y_fixed": 171.29
+  },
+  {
+    "id": "country_116",
+    "degree": 9,
+    "x_fixed": 46.81,
+    "y_fixed": 83.94
+  },
+  {
+    "id": "country_119",
+    "degree": 2,
+    "x_fixed": 17.95,
+    "y_fixed": 371.21
+  },
+  {
+    "id": "country_121",
+    "degree": 3,
+    "x_fixed": -134.89,
+    "y_fixed": 412.5
+  },
+  {
+    "id": "country_122",
+    "degree": 2,
+    "x_fixed": -134.69,
+    "y_fixed": 330.49
+  },
+  {
+    "id": "country_126",
+    "degree": 4,
+    "x_fixed": -151.07,
+    "y_fixed": 402.99
+  },
+  {
+    "id": "country_127",
+    "degree": 2,
+    "x_fixed": 262.62,
+    "y_fixed": 98.98
+  },
+  {
+    "id": "country_129",
+    "degree": 6,
+    "x_fixed": 18.62,
+    "y_fixed": 104.05
+  },
+  {
+    "id": "country_130",
+    "degree": 2,
+    "x_fixed": -421.45,
+    "y_fixed": 78.31
+  },
+  {
+    "id": "country_131",
+    "degree": 3,
+    "x_fixed": 21.03,
+    "y_fixed": 390.52
+  },
+  {
+    "id": "country_132",
+    "degree": 6,
+    "x_fixed": -116.61,
+    "y_fixed": -175.24
+  },
+  {
+    "id": "country_134",
+    "degree": 9,
+    "x_fixed": -149.09,
+    "y_fixed": 160.33
+  },
+  {
+    "id": "country_137",
+    "degree": 8,
+    "x_fixed": 65.48,
+    "y_fixed": 35.02
+  },
+  {
+    "id": "country_140",
+    "degree": 4,
+    "x_fixed": -52.27,
+    "y_fixed": 927.59
+  },
+  {
+    "id": "country_141",
+    "degree": 2,
+    "x_fixed": -328.64,
+    "y_fixed": 273.64
+  },
+  {
+    "id": "country_143",
+    "degree": 11,
+    "x_fixed": 255.69,
+    "y_fixed": 76.92
+  },
+  {
+    "id": "country_145",
+    "degree": 4,
+    "x_fixed": 119.97,
+    "y_fixed": -191.41
+  },
+  {
+    "id": "country_147",
+    "degree": 15,
+    "x_fixed": -109.7,
+    "y_fixed": 295.44
+  },
+  {
+    "id": "country_149",
+    "degree": 3,
+    "x_fixed": -116.34,
+    "y_fixed": 93.24
+  },
+  {
+    "id": "country_151",
+    "degree": 2,
+    "x_fixed": 276.69,
+    "y_fixed": 110.03
+  },
+  {
+    "id": "country_154",
+    "degree": 3,
+    "x_fixed": 58.37,
+    "y_fixed": 352.28
+  },
+  {
+    "id": "country_155",
+    "degree": 3,
+    "x_fixed": -174.87,
+    "y_fixed": 432.36
+  },
+  {
+    "id": "country_156",
+    "degree": 5,
+    "x_fixed": 212.39,
+    "y_fixed": 14.11
+  },
+  {
+    "id": "country_159",
+    "degree": 2,
+    "x_fixed": -320.35,
+    "y_fixed": -55.38
+  },
+  {
+    "id": "country_163",
+    "degree": 9,
+    "x_fixed": 36.66,
+    "y_fixed": 305.13
+  },
+  {
+    "id": "country_164",
+    "degree": 7,
+    "x_fixed": -354.91,
+    "y_fixed": 113.07
+  },
+  {
+    "id": "country_165",
+    "degree": 8,
+    "x_fixed": 152.24,
+    "y_fixed": 222.76
+  },
+  {
+    "id": "country_166",
+    "degree": 4,
+    "x_fixed": 169.5,
+    "y_fixed": 90.56
+  },
+  {
+    "id": "country_168",
+    "degree": 2,
+    "x_fixed": -309.73,
+    "y_fixed": 230.23
+  },
+  {
+    "id": "country_169",
+    "degree": 3,
+    "x_fixed": -69.27,
+    "y_fixed": -153.16
+  },
+  {
+    "id": "country_172",
+    "degree": 2,
+    "x_fixed": -294.7,
+    "y_fixed": -83.29
+  },
+  {
+    "id": "country_173",
+    "degree": 12,
+    "x_fixed": -144.96,
+    "y_fixed": -49.01
+  },
+  {
+    "id": "country_174",
+    "degree": 4,
+    "x_fixed": -297.81,
+    "y_fixed": 170.81
+  },
+  {
+    "id": "country_176",
+    "degree": 2,
+    "x_fixed": 192.83,
+    "y_fixed": 163.25
+  },
+  {
+    "id": "country_179",
+    "degree": 8,
+    "x_fixed": -170.81,
+    "y_fixed": 13.7
+  },
+  {
+    "id": "country_180",
+    "degree": 4,
+    "x_fixed": -170.93,
+    "y_fixed": 72.28
+  },
+  {
+    "id": "country_182",
+    "degree": 8,
+    "x_fixed": -70.75,
+    "y_fixed": 9.17
+  },
+  {
+    "id": "country_184",
+    "degree": 3,
+    "x_fixed": -47.2,
+    "y_fixed": 291.73
+  },
+  {
+    "id": "country_198",
+    "degree": 3,
+    "x_fixed": -339.48,
+    "y_fixed": -152.15
+  },
+  {
+    "id": "country_202",
+    "degree": 7,
+    "x_fixed": 122.92,
+    "y_fixed": 345.8
+  },
+  {
+    "id": "country_203",
+    "degree": 5,
+    "x_fixed": 157.7,
+    "y_fixed": 4.05
+  },
+  {
+    "id": "country_206",
+    "degree": 2,
+    "x_fixed": -113.66,
+    "y_fixed": -89.31
+  },
+  {
+    "id": "country_207",
+    "degree": 2,
+    "x_fixed": -279.67,
+    "y_fixed": 130.34
+  },
+  {
+    "id": "country_208",
+    "degree": 5,
+    "x_fixed": -31.89,
+    "y_fixed": 58.53
+  },
+  {
+    "id": "country_212",
+    "degree": 3,
+    "x_fixed": -136.82,
+    "y_fixed": 194.25
+  },
+  {
+    "id": "country_213",
+    "degree": 5,
+    "x_fixed": 355.13,
+    "y_fixed": 80.07
+  },
+  {
+    "id": "country_217",
+    "degree": 7,
+    "x_fixed": 166.16,
+    "y_fixed": 19.82
+  },
+  {
+    "id": "country_219",
+    "degree": 2,
+    "x_fixed": -116.12,
+    "y_fixed": 25.99
+  },
+  {
+    "id": "country_221",
+    "degree": 2,
+    "x_fixed": -2.36,
+    "y_fixed": 160.67
+  },
+  {
+    "id": "country_223",
+    "degree": 2,
+    "x_fixed": 31.54,
+    "y_fixed": 354.23
+  },
+  {
+    "id": "country_225",
+    "degree": 2,
+    "x_fixed": 153.59,
+    "y_fixed": -118.07
+  },
+  {
+    "id": "country_226",
+    "degree": 4,
+    "x_fixed": 138.83,
+    "y_fixed": 299.7
+  },
+  {
+    "id": "country_228",
+    "degree": 18,
+    "x_fixed": 50.73,
+    "y_fixed": -20.63
+  },
+  {
+    "id": "country_230",
+    "degree": 3,
+    "x_fixed": -116.25,
+    "y_fixed": 263.92
+  },
+  {
+    "id": "country_231",
+    "degree": 3,
+    "x_fixed": 45.81,
+    "y_fixed": 365.05
+  },
+  {
+    "id": "country_232",
+    "degree": 2,
+    "x_fixed": -329.71,
+    "y_fixed": 238.91
+  },
+  {
+    "id": "country_233",
+    "degree": 7,
+    "x_fixed": 198.37,
+    "y_fixed": 146.24
+  },
+  {
+    "id": "country_234",
+    "degree": 13,
+    "x_fixed": 68.7,
+    "y_fixed": 149.52
+  },
+  {
+    "id": "country_236",
+    "degree": 2,
+    "x_fixed": -20.12,
+    "y_fixed": 326.51
+  },
+  {
+    "id": "country_237",
+    "degree": 4,
+    "x_fixed": 136.83,
+    "y_fixed": 358.78
+  },
+  {
+    "id": "country_238",
+    "degree": 4,
+    "x_fixed": -203.59,
+    "y_fixed": -183.35
+  },
+  {
+    "id": "country_239",
+    "degree": 2,
+    "x_fixed": -199.92,
+    "y_fixed": -218.44
+  },
+  {
+    "id": "country_240",
+    "degree": 2,
+    "x_fixed": 306.04,
+    "y_fixed": 196.85
+  },
+  {
+    "id": "vocabulary_thesaurus_1",
+    "community": 2,
+    "degree": 231,
+    "x_fixed": -83.19,
+    "y_fixed": 587.16
+  },
+  {
+    "id": "vocabulary_thesaurus_4",
+    "degree": 4,
+    "x_fixed": -70.12,
+    "y_fixed": 364.01
+  },
+  {
+    "id": "vocabulary_thesaurus_8",
+    "degree": 4,
+    "x_fixed": 102.49,
+    "y_fixed": 191.64
+  },
+  {
+    "id": "vocabulary_thesaurus_9",
+    "community": 1,
+    "degree": 6,
+    "x_fixed": 254.27,
+    "y_fixed": 276.64
+  },
+  {
+    "id": "vocabulary_thesaurus_10",
+    "community": 13,
+    "degree": 47,
+    "x_fixed": 666.32,
+    "y_fixed": -306.1
+  },
+  {
+    "id": "vocabulary_thesaurus_12",
+    "community": 13,
+    "degree": 5,
+    "x_fixed": 636.45,
+    "y_fixed": -224.63
+  },
+  {
+    "id": "vocabulary_thesaurus_15",
+    "community": 12,
+    "degree": 16,
+    "x_fixed": 572.24,
+    "y_fixed": -495.71
+  },
+  {
+    "id": "vocabulary_thesaurus_16",
+    "degree": 4,
+    "x_fixed": -159.68,
+    "y_fixed": 81.42
+  },
+  {
+    "id": "vocabulary_thesaurus_17",
+    "community": 4,
+    "degree": 43,
+    "x_fixed": -583.92,
+    "y_fixed": 296.24
+  },
+  {
+    "id": "vocabulary_thesaurus_18",
+    "degree": 24,
+    "x_fixed": -150.85,
+    "y_fixed": 379.55
+  },
+  {
+    "id": "vocabulary_thesaurus_23",
+    "community": 13,
+    "degree": 41,
+    "x_fixed": 463.15,
+    "y_fixed": -325.88
+  },
+  {
+    "id": "vocabulary_thesaurus_24",
+    "degree": 6,
+    "x_fixed": -220.56,
+    "y_fixed": -151.84
+  },
+  {
+    "id": "vocabulary_thesaurus_25",
+    "community": 5,
+    "degree": 6,
+    "x_fixed": -774.48,
+    "y_fixed": -10.32
+  },
+  {
+    "id": "vocabulary_thesaurus_26",
+    "community": 4,
+    "degree": 138,
+    "x_fixed": -500.38,
+    "y_fixed": 368.76
+  },
+  {
+    "id": "vocabulary_thesaurus_27",
+    "degree": 5,
+    "x_fixed": 81.42,
+    "y_fixed": 157.14
+  },
+  {
+    "id": "vocabulary_thesaurus_122",
+    "community": 3,
+    "degree": 17,
+    "x_fixed": -292.99,
+    "y_fixed": 367.88
+  },
+  {
+    "id": "vocabulary_thesaurus_134",
+    "community": 1,
+    "degree": 8,
+    "x_fixed": 433.89,
+    "y_fixed": 599.58
+  },
+  {
+    "id": "vocabulary_thesaurus_147",
+    "community": 2,
+    "degree": 38,
+    "x_fixed": 90.45,
+    "y_fixed": 764.17
+  },
+  {
+    "id": "vocabulary_thesaurus_180",
+    "community": 0,
+    "degree": 59,
+    "x_fixed": 482.43,
+    "y_fixed": 206.46
+  },
+  {
+    "id": "vocabulary_thesaurus_184",
+    "community": 7,
+    "degree": 30,
+    "x_fixed": -392.12,
+    "y_fixed": -500.97
+  },
+  {
+    "id": "vocabulary_thesaurus_190",
+    "degree": 16,
+    "x_fixed": -51.04,
+    "y_fixed": 54.06
+  },
+  {
+    "id": "vocabulary_thesaurus_191",
+    "degree": 7,
+    "x_fixed": -40.73,
+    "y_fixed": 118.7
+  },
+  {
+    "id": "vocabulary_thesaurus_195",
+    "degree": 2,
+    "x_fixed": -376.72,
+    "y_fixed": 305.99
+  },
+  {
+    "id": "vocabulary_thesaurus_202",
+    "degree": 8,
+    "x_fixed": 141.68,
+    "y_fixed": -94.4
+  },
+  {
+    "id": "vocabulary_thesaurus_203",
+    "degree": 1,
+    "x_fixed": -391.07,
+    "y_fixed": 369.01
+  },
+  {
+    "id": "vocabulary_thesaurus_204",
+    "degree": 8,
+    "x_fixed": 64.84,
+    "y_fixed": 218.04
+  },
+  {
+    "id": "vocabulary_thesaurus_252",
+    "community": 0,
+    "degree": 122,
+    "x_fixed": 418.3,
+    "y_fixed": 143.5
+  },
+  {
+    "id": "vocabulary_thesaurus_253",
+    "degree": 3,
+    "x_fixed": -100.17,
+    "y_fixed": 155.95
+  },
+  {
+    "id": "vocabulary_thesaurus_254",
+    "community": 11,
+    "degree": 47,
+    "x_fixed": 309.71,
+    "y_fixed": -666.72
+  },
+  {
+    "id": "vocabulary_thesaurus_257",
+    "degree": 3,
+    "x_fixed": 395.15,
+    "y_fixed": 395.58
+  },
+  {
+    "id": "vocabulary_thesaurus_301",
+    "community": 8,
+    "degree": 18,
+    "x_fixed": -242.4,
+    "y_fixed": -437.01
+  },
+  {
+    "id": "vocabulary_thesaurus_304",
+    "community": 1,
+    "degree": 57,
+    "x_fixed": 429.93,
+    "y_fixed": 396.65
+  },
+  {
+    "id": "vocabulary_thesaurus_344",
+    "degree": 5,
+    "x_fixed": 235.08,
+    "y_fixed": 98.68
+  },
+  {
+    "id": "vocabulary_thesaurus_345",
+    "community": 2,
+    "degree": 54,
+    "x_fixed": -178.73,
+    "y_fixed": 799.31
+  },
+  {
+    "id": "vocabulary_thesaurus_346",
+    "community": 5,
+    "degree": 26,
+    "x_fixed": -666.65,
+    "y_fixed": -115.08
+  },
+  {
+    "id": "vocabulary_thesaurus_347",
+    "degree": 9,
+    "x_fixed": -221.05,
+    "y_fixed": 74.51
+  },
+  {
+    "id": "vocabulary_thesaurus_384",
+    "community": 3,
+    "degree": 26,
+    "x_fixed": -480.76,
+    "y_fixed": 587.43
+  },
+  {
+    "id": "vocabulary_thesaurus_385",
+    "degree": 12,
+    "x_fixed": 101.59,
+    "y_fixed": 362.32
+  },
+  {
+    "id": "vocabulary_thesaurus_472",
+    "degree": 3,
+    "x_fixed": -155.17,
+    "y_fixed": 256.05
+  },
+  {
+    "id": "vocabulary_thesaurus_473",
+    "degree": 42,
+    "x_fixed": -156.55,
+    "y_fixed": 219.08
+  },
+  {
+    "id": "vocabulary_thesaurus_475",
+    "degree": 10,
+    "x_fixed": -504.82,
+    "y_fixed": 96.84
+  },
+  {
+    "id": "vocabulary_thesaurus_477",
+    "community": 7,
+    "degree": 16,
+    "x_fixed": -487.64,
+    "y_fixed": -591.71
+  },
+  {
+    "id": "vocabulary_thesaurus_482",
+    "community": 7,
+    "degree": 37,
+    "x_fixed": -387.94,
+    "y_fixed": -430.5
+  },
+  {
+    "id": "vocabulary_thesaurus_491",
+    "degree": 3,
+    "x_fixed": -470.09,
+    "y_fixed": 171.5
+  },
+  {
+    "id": "vocabulary_thesaurus_492",
+    "community": 7,
+    "degree": 15,
+    "x_fixed": -517.4,
+    "y_fixed": -606.31
+  },
+  {
+    "id": "vocabulary_thesaurus_515",
+    "community": 10,
+    "degree": 12,
+    "x_fixed": 7.93,
+    "y_fixed": -568.94
+  },
+  {
+    "id": "vocabulary_thesaurus_522",
+    "community": 0,
+    "degree": 165,
+    "x_fixed": 611.23,
+    "y_fixed": 93.87
+  },
+  {
+    "id": "vocabulary_thesaurus_529",
+    "degree": 5,
+    "x_fixed": -321.84,
+    "y_fixed": 107.62
+  },
+  {
+    "id": "vocabulary_thesaurus_538",
+    "degree": 4,
+    "x_fixed": 249.54,
+    "y_fixed": 313.71
+  },
+  {
+    "id": "vocabulary_thesaurus_539",
+    "community": 8,
+    "degree": 8,
+    "x_fixed": -149.1,
+    "y_fixed": -364.09
+  },
+  {
+    "id": "vocabulary_thesaurus_542",
+    "community": 8,
+    "degree": 12,
+    "x_fixed": -149.59,
+    "y_fixed": -477.2
+  },
+  {
+    "id": "vocabulary_thesaurus_543",
+    "community": 1,
+    "degree": 90,
+    "x_fixed": 549.15,
+    "y_fixed": 607.73
+  },
+  {
+    "id": "vocabulary_thesaurus_544",
+    "community": 5,
+    "degree": 13,
+    "x_fixed": -663.27,
+    "y_fixed": 90.08
+  },
+  {
+    "id": "vocabulary_thesaurus_995",
+    "community": 4,
+    "degree": 40,
+    "x_fixed": -600.47,
+    "y_fixed": 448.22
+  },
+  {
+    "id": "vocabulary_thesaurus_996",
+    "community": 2,
+    "degree": 25,
+    "x_fixed": -115.31,
+    "y_fixed": 839.06
+  },
+  {
+    "id": "vocabulary_thesaurus_997",
+    "community": 4,
+    "degree": 24,
+    "x_fixed": -587.05,
+    "y_fixed": 333.86
+  },
+  {
+    "id": "vocabulary_thesaurus_1000",
+    "community": 1,
+    "degree": 18,
+    "x_fixed": 438.71,
+    "y_fixed": 498.28
+  },
+  {
+    "id": "vocabulary_thesaurus_1003",
+    "community": 10,
+    "degree": 112,
+    "x_fixed": 25.3,
+    "y_fixed": -713.69
+  },
+  {
+    "id": "vocabulary_thesaurus_1008",
+    "community": 0,
+    "degree": 23,
+    "x_fixed": 725.68,
+    "y_fixed": 286.58
+  },
+  {
+    "id": "vocabulary_thesaurus_1009",
+    "community": 2,
+    "degree": 8,
+    "x_fixed": 18.83,
+    "y_fixed": 952.88
+  },
+  {
+    "id": "vocabulary_thesaurus_1010",
+    "degree": 11,
+    "x_fixed": 203.06,
+    "y_fixed": 49.15
+  },
+  {
+    "id": "vocabulary_thesaurus_1012",
+    "degree": 6,
+    "x_fixed": 173.91,
+    "y_fixed": 253.54
+  },
+  {
+    "id": "vocabulary_thesaurus_1107",
+    "degree": 8,
+    "x_fixed": 8.81,
+    "y_fixed": 338.34
+  },
+  {
+    "id": "vocabulary_thesaurus_1124",
+    "community": 3,
+    "degree": 34,
+    "x_fixed": -547.99,
+    "y_fixed": 611.84
+  },
+  {
+    "id": "vocabulary_thesaurus_1154",
+    "community": 5,
+    "degree": 17,
+    "x_fixed": -776.99,
+    "y_fixed": 48.76
+  },
+  {
+    "id": "vocabulary_thesaurus_1156",
+    "degree": 7,
+    "x_fixed": 66.1,
+    "y_fixed": 242.59
+  },
+  {
+    "id": "vocabulary_thesaurus_1163",
+    "community": 0,
+    "degree": 34,
+    "x_fixed": 646.92,
+    "y_fixed": 256.29
+  },
+  {
+    "id": "vocabulary_thesaurus_1165",
+    "community": 14,
+    "degree": 10,
+    "x_fixed": 757.69,
+    "y_fixed": -148.88
+  },
+  {
+    "id": "vocabulary_thesaurus_1310",
+    "community": 3,
+    "degree": 21,
+    "x_fixed": -515.18,
+    "y_fixed": 596.56
+  },
+  {
+    "id": "vocabulary_thesaurus_1315",
+    "degree": 4,
+    "x_fixed": -20.39,
+    "y_fixed": -405.4
+  },
+  {
+    "id": "vocabulary_thesaurus_1435",
+    "degree": 4,
+    "x_fixed": -300.82,
+    "y_fixed": 156.63
+  },
+  {
+    "id": "vocabulary_thesaurus_1450",
+    "community": 6,
+    "degree": 8,
+    "x_fixed": -597.27,
+    "y_fixed": -374.69
+  },
+  {
+    "id": "vocabulary_thesaurus_1456",
+    "degree": 13,
+    "x_fixed": 142.99,
+    "y_fixed": 376.52
+  },
+  {
+    "id": "vocabulary_thesaurus_1459",
+    "degree": 18,
+    "x_fixed": 228.04,
+    "y_fixed": 184
+  },
+  {
+    "id": "vocabulary_thesaurus_1561",
+    "degree": 5,
+    "x_fixed": -174.18,
+    "y_fixed": -172.98
+  },
+  {
+    "id": "vocabulary_thesaurus_1563",
+    "community": 13,
+    "degree": 28,
+    "x_fixed": 660.68,
+    "y_fixed": -357.13
+  },
+  {
+    "id": "vocabulary_thesaurus_1565",
+    "community": 8,
+    "degree": 47,
+    "x_fixed": -281.01,
+    "y_fixed": -538.03
+  },
+  {
+    "id": "vocabulary_thesaurus_1567",
+    "community": 6,
+    "degree": 5,
+    "x_fixed": -608.78,
+    "y_fixed": -368.82
+  },
+  {
+    "id": "vocabulary_thesaurus_1572",
+    "community": 5,
+    "degree": 13,
+    "x_fixed": -799.98,
+    "y_fixed": 88.42
+  },
+  {
+    "id": "vocabulary_thesaurus_1573",
+    "community": 6,
+    "degree": 4,
+    "x_fixed": -581.13,
+    "y_fixed": -307.98
+  },
+  {
+    "id": "vocabulary_thesaurus_1630",
+    "community": 2,
+    "degree": 21,
+    "x_fixed": 100.69,
+    "y_fixed": 920.43
+  },
+  {
+    "id": "vocabulary_thesaurus_1673",
+    "community": 0,
+    "degree": 108,
+    "x_fixed": 809.47,
+    "y_fixed": 223.98
+  },
+  {
+    "id": "vocabulary_thesaurus_1675",
+    "community": 13,
+    "degree": 41,
+    "x_fixed": 721.52,
+    "y_fixed": -287.91
+  },
+  {
+    "id": "vocabulary_thesaurus_1693",
+    "community": 0,
+    "degree": 18,
+    "x_fixed": 650.86,
+    "y_fixed": 199.47
+  },
+  {
+    "id": "vocabulary_thesaurus_1694",
+    "degree": 11,
+    "x_fixed": 164.86,
+    "y_fixed": 111.72
+  },
+  {
+    "id": "vocabulary_thesaurus_1712",
+    "degree": 39,
+    "x_fixed": 11.44,
+    "y_fixed": 187.7
+  },
+  {
+    "id": "vocabulary_thesaurus_1722",
+    "community": 7,
+    "degree": 18,
+    "x_fixed": -330.35,
+    "y_fixed": -344.03
+  },
+  {
+    "id": "vocabulary_thesaurus_1734",
+    "degree": 6,
+    "x_fixed": -156.55,
+    "y_fixed": -82.62
+  },
+  {
+    "id": "vocabulary_thesaurus_1738",
+    "community": 3,
+    "degree": 10,
+    "x_fixed": -526.48,
+    "y_fixed": 563.49
+  },
+  {
+    "id": "vocabulary_thesaurus_1741",
+    "degree": 30,
+    "x_fixed": 9.31,
+    "y_fixed": 311.93
+  },
+  {
+    "id": "vocabulary_thesaurus_1750",
+    "degree": 12,
+    "x_fixed": -293.46,
+    "y_fixed": -111.39
+  },
+  {
+    "id": "vocabulary_thesaurus_1755",
+    "community": 7,
+    "degree": 12,
+    "x_fixed": -430.73,
+    "y_fixed": -529.31
+  },
+  {
+    "id": "vocabulary_thesaurus_1760",
+    "community": 6,
+    "degree": 5,
+    "x_fixed": -622.59,
+    "y_fixed": -387.67
+  },
+  {
+    "id": "vocabulary_thesaurus_1765",
+    "degree": 17,
+    "x_fixed": 25.4,
+    "y_fixed": 288.51
+  },
+  {
+    "id": "vocabulary_thesaurus_1847",
+    "degree": 12,
+    "x_fixed": -110.2,
+    "y_fixed": -72.02
+  },
+  {
+    "id": "vocabulary_thesaurus_1870",
+    "degree": 8,
+    "x_fixed": -252.78,
+    "y_fixed": 437.24
+  },
+  {
+    "id": "vocabulary_thesaurus_1873",
+    "community": 5,
+    "degree": 6,
+    "x_fixed": -792.35,
+    "y_fixed": -55.04
+  },
+  {
+    "id": "vocabulary_thesaurus_1880",
+    "community": 2,
+    "degree": 69,
+    "x_fixed": -176.24,
+    "y_fixed": 477.62
+  },
+  {
+    "id": "vocabulary_thesaurus_1881",
+    "degree": 14,
+    "x_fixed": -314.08,
+    "y_fixed": 59.76
+  },
+  {
+    "id": "vocabulary_thesaurus_1882",
+    "degree": 19,
+    "x_fixed": 228.11,
+    "y_fixed": 65.5
+  },
+  {
+    "id": "vocabulary_thesaurus_1891",
+    "degree": 5,
+    "x_fixed": -161.12,
+    "y_fixed": 308.99
+  },
+  {
+    "id": "vocabulary_thesaurus_1892",
+    "degree": 1,
+    "x_fixed": 133.55,
+    "y_fixed": 245.7
+  },
+  {
+    "id": "vocabulary_thesaurus_1899",
+    "degree": 23,
+    "x_fixed": -242.87,
+    "y_fixed": 190.47
+  },
+  {
+    "id": "vocabulary_thesaurus_1927",
+    "community": 9,
+    "degree": 38,
+    "x_fixed": -95.55,
+    "y_fixed": -443.53
+  },
+  {
+    "id": "vocabulary_thesaurus_1941",
+    "community": 12,
+    "degree": 29,
+    "x_fixed": 429.56,
+    "y_fixed": -408.21
+  },
+  {
+    "id": "vocabulary_thesaurus_1982",
+    "degree": 6,
+    "x_fixed": 166.57,
+    "y_fixed": 352.08
+  },
+  {
+    "id": "vocabulary_thesaurus_1991",
+    "degree": 14,
+    "x_fixed": -222.57,
+    "y_fixed": 38.41
+  },
+  {
+    "id": "vocabulary_thesaurus_1992",
+    "degree": 19,
+    "x_fixed": -246.22,
+    "y_fixed": -152.17
+  },
+  {
+    "id": "vocabulary_thesaurus_1994",
+    "community": 4,
+    "degree": 3,
+    "x_fixed": -718.86,
+    "y_fixed": 455.21
+  },
+  {
+    "id": "vocabulary_thesaurus_1997",
+    "degree": 16,
+    "x_fixed": -239.01,
+    "y_fixed": 286.36
+  },
+  {
+    "id": "vocabulary_thesaurus_2037",
+    "community": 2,
+    "degree": 39,
+    "x_fixed": 155.32,
+    "y_fixed": 867.19
+  },
+  {
+    "id": "vocabulary_thesaurus_2051",
+    "community": 12,
+    "degree": 6,
+    "x_fixed": 582.11,
+    "y_fixed": -605.42
+  },
+  {
+    "id": "vocabulary_thesaurus_2057",
+    "degree": 3,
+    "x_fixed": -320.68,
+    "y_fixed": -100.32
+  },
+  {
+    "id": "vocabulary_thesaurus_2061",
+    "degree": 3,
+    "x_fixed": -428.21,
+    "y_fixed": -190.35
+  },
+  {
+    "id": "vocabulary_thesaurus_2063",
+    "community": 5,
+    "degree": 111,
+    "x_fixed": -579.59,
+    "y_fixed": -67.76
+  },
+  {
+    "id": "vocabulary_thesaurus_2066",
+    "community": 5,
+    "degree": 9,
+    "x_fixed": -729.52,
+    "y_fixed": 108.24
+  },
+  {
+    "id": "vocabulary_thesaurus_2077",
+    "degree": 3,
+    "x_fixed": 7.97,
+    "y_fixed": 289.49
+  },
+  {
+    "id": "vocabulary_thesaurus_2078",
+    "community": 5,
+    "degree": 12,
+    "x_fixed": -774.72,
+    "y_fixed": -80.24
+  },
+  {
+    "id": "vocabulary_thesaurus_2098",
+    "degree": 9,
+    "x_fixed": 83.58,
+    "y_fixed": 950.93
+  },
+  {
+    "id": "vocabulary_thesaurus_2105",
+    "community": 6,
+    "degree": 4,
+    "x_fixed": -396.17,
+    "y_fixed": -30.47
+  },
+  {
+    "id": "vocabulary_thesaurus_2108",
+    "community": 7,
+    "degree": 23,
+    "x_fixed": -364.61,
+    "y_fixed": -402.37
+  },
+  {
+    "id": "vocabulary_thesaurus_2123",
+    "community": 4,
+    "degree": 7,
+    "x_fixed": -386.99,
+    "y_fixed": 181.49
+  },
+  {
+    "id": "vocabulary_thesaurus_2143",
+    "degree": 16,
+    "x_fixed": -49.75,
+    "y_fixed": 133.44
+  },
+  {
+    "id": "vocabulary_thesaurus_2144",
+    "community": 3,
+    "degree": 8,
+    "x_fixed": -479.18,
+    "y_fixed": 614.45
+  },
+  {
+    "id": "vocabulary_thesaurus_2158",
+    "degree": 2,
+    "x_fixed": -55.77,
+    "y_fixed": 250.98
+  },
+  {
+    "id": "vocabulary_thesaurus_2209",
+    "community": 9,
+    "degree": 4,
+    "x_fixed": -154.73,
+    "y_fixed": -705.67
+  },
+  {
+    "id": "vocabulary_thesaurus_2212",
+    "community": 5,
+    "degree": 30,
+    "x_fixed": -689.79,
+    "y_fixed": -11.89
+  },
+  {
+    "id": "vocabulary_thesaurus_2277",
+    "degree": 4,
+    "x_fixed": -261.84,
+    "y_fixed": 259.16
+  },
+  {
+    "id": "vocabulary_thesaurus_2295",
+    "degree": 17,
+    "x_fixed": 130.87,
+    "y_fixed": -6.62
+  },
+  {
+    "id": "vocabulary_thesaurus_2300",
+    "degree": 11,
+    "x_fixed": -186.55,
+    "y_fixed": 370.63
+  },
+  {
+    "id": "vocabulary_thesaurus_2378",
+    "degree": 3,
+    "x_fixed": 112.92,
+    "y_fixed": -385.54
+  },
+  {
+    "id": "vocabulary_thesaurus_2385",
+    "degree": 4,
+    "x_fixed": -83.21,
+    "y_fixed": -283.63
+  },
+  {
+    "id": "vocabulary_thesaurus_2387",
+    "degree": 6,
+    "x_fixed": 196.83,
+    "y_fixed": -32.74
+  },
+  {
+    "id": "vocabulary_thesaurus_2388",
+    "degree": 4,
+    "x_fixed": 130.73,
+    "y_fixed": -404.15
+  },
+  {
+    "id": "vocabulary_thesaurus_2391",
+    "degree": 8,
+    "x_fixed": -208.31,
+    "y_fixed": -327.61
+  },
+  {
+    "id": "vocabulary_thesaurus_2395",
+    "degree": 7,
+    "x_fixed": 187.9,
+    "y_fixed": -222.39
+  },
+  {
+    "id": "vocabulary_thesaurus_2396",
+    "degree": 4,
+    "x_fixed": 24.81,
+    "y_fixed": -90.86
+  },
+  {
+    "id": "vocabulary_thesaurus_2400",
+    "degree": 36,
+    "x_fixed": -122.52,
+    "y_fixed": -146.88
+  },
+  {
+    "id": "vocabulary_thesaurus_2401",
+    "community": 12,
+    "degree": 28,
+    "x_fixed": 507.33,
+    "y_fixed": -513.88
+  },
+  {
+    "id": "vocabulary_thesaurus_2404",
+    "degree": 15,
+    "x_fixed": -21.17,
+    "y_fixed": 253.98
+  },
+  {
+    "id": "vocabulary_thesaurus_2472",
+    "degree": 8,
+    "x_fixed": -131.13,
+    "y_fixed": 240.23
+  },
+  {
+    "id": "vocabulary_thesaurus_2485",
+    "degree": 8,
+    "x_fixed": -103.02,
+    "y_fixed": -183.68
+  },
+  {
+    "id": "vocabulary_thesaurus_2503",
+    "degree": 6,
+    "x_fixed": -32.26,
+    "y_fixed": 288.83
+  },
+  {
+    "id": "vocabulary_thesaurus_2512",
+    "degree": 3,
+    "x_fixed": -69.91,
+    "y_fixed": 227.47
+  },
+  {
+    "id": "vocabulary_thesaurus_2527",
+    "degree": 5,
+    "x_fixed": 291.98,
+    "y_fixed": -30.41
+  },
+  {
+    "id": "vocabulary_thesaurus_2529",
+    "degree": 10,
+    "x_fixed": -269.53,
+    "y_fixed": 79.48
+  },
+  {
+    "id": "vocabulary_thesaurus_2537",
+    "community": 6,
+    "degree": 23,
+    "x_fixed": -636.81,
+    "y_fixed": -373.56
+  },
+  {
+    "id": "vocabulary_thesaurus_2540",
+    "community": 9,
+    "degree": 19,
+    "x_fixed": -84.7,
+    "y_fixed": -717.65
+  },
+  {
+    "id": "vocabulary_thesaurus_2542",
+    "degree": 4,
+    "x_fixed": -161.69,
+    "y_fixed": 438.53
+  },
+  {
+    "id": "vocabulary_thesaurus_2573",
+    "community": 11,
+    "degree": 13,
+    "x_fixed": 108.85,
+    "y_fixed": -612.54
+  },
+  {
+    "id": "vocabulary_thesaurus_2584",
+    "degree": 2,
+    "x_fixed": -185.21,
+    "y_fixed": -387.13
+  },
+  {
+    "id": "vocabulary_thesaurus_2586",
+    "community": 6,
+    "degree": 4,
+    "x_fixed": -587.28,
+    "y_fixed": -317.23
+  },
+  {
+    "id": "vocabulary_thesaurus_2609",
+    "degree": 17,
+    "x_fixed": -133.65,
+    "y_fixed": -86.77
+  },
+  {
+    "id": "vocabulary_thesaurus_2613",
+    "degree": 18,
+    "x_fixed": -150.27,
+    "y_fixed": 13.14
+  },
+  {
+    "id": "vocabulary_thesaurus_2629",
+    "degree": 5,
+    "x_fixed": -239.22,
+    "y_fixed": -101.64
+  },
+  {
+    "id": "vocabulary_thesaurus_2633",
+    "degree": 11,
+    "x_fixed": -222.17,
+    "y_fixed": 198.61
+  },
+  {
+    "id": "vocabulary_thesaurus_2650",
+    "degree": 5,
+    "x_fixed": -244.11,
+    "y_fixed": 116.77
+  },
+  {
+    "id": "vocabulary_thesaurus_2688",
+    "degree": 3,
+    "x_fixed": -259.4,
+    "y_fixed": 202.01
+  },
+  {
+    "id": "vocabulary_thesaurus_2692",
+    "degree": 2,
+    "x_fixed": -366.91,
+    "y_fixed": 253.6
+  },
+  {
+    "id": "vocabulary_thesaurus_2696",
+    "degree": 2,
+    "x_fixed": -262.62,
+    "y_fixed": 315.27
+  },
+  {
+    "id": "vocabulary_thesaurus_2722",
+    "degree": 4,
+    "x_fixed": -223.29,
+    "y_fixed": -84.3
+  },
+  {
+    "id": "vocabulary_thesaurus_2731",
+    "degree": 2,
+    "x_fixed": 48.05,
+    "y_fixed": 263.62
+  },
+  {
+    "id": "vocabulary_thesaurus_2732",
+    "degree": 8,
+    "x_fixed": -9.39,
+    "y_fixed": 146.35
+  },
+  {
+    "id": "vocabulary_thesaurus_2823",
+    "degree": 3,
+    "x_fixed": -273.55,
+    "y_fixed": -79.52
+  },
+  {
+    "id": "vocabulary_thesaurus_2826",
+    "degree": 4,
+    "x_fixed": -98.74,
+    "y_fixed": 338.4
+  },
+  {
+    "id": "vocabulary_thesaurus_2829",
+    "degree": 4,
+    "x_fixed": -225.42,
+    "y_fixed": 355.05
+  },
+  {
+    "id": "vocabulary_thesaurus_2874",
+    "degree": 34,
+    "x_fixed": 3.83,
+    "y_fixed": 238.81
+  },
+  {
+    "id": "vocabulary_thesaurus_2881",
+    "degree": 8,
+    "x_fixed": 209.17,
+    "y_fixed": 67.92
+  },
+  {
+    "id": "vocabulary_thesaurus_2883",
+    "community": 13,
+    "degree": 20,
+    "x_fixed": 539.32,
+    "y_fixed": -289.54
+  },
+  {
+    "id": "vocabulary_thesaurus_2921",
+    "community": 5,
+    "degree": 7,
+    "x_fixed": -790.26,
+    "y_fixed": 22.95
+  },
+  {
+    "id": "vocabulary_thesaurus_2932",
+    "degree": 3,
+    "x_fixed": 179.18,
+    "y_fixed": 48.01
+  },
+  {
+    "id": "vocabulary_thesaurus_2939",
+    "degree": 6,
+    "x_fixed": 301.35,
+    "y_fixed": -109.34
+  },
+  {
+    "id": "vocabulary_thesaurus_2940",
+    "degree": 6,
+    "x_fixed": 154.74,
+    "y_fixed": -535.07
+  },
+  {
+    "id": "vocabulary_thesaurus_2941",
+    "community": 4,
+    "degree": 11,
+    "x_fixed": -742.74,
+    "y_fixed": 436.82
+  },
+  {
+    "id": "vocabulary_thesaurus_2947",
+    "degree": 21,
+    "x_fixed": -25.88,
+    "y_fixed": -175.62
+  },
+  {
+    "id": "vocabulary_thesaurus_2948",
+    "community": 6,
+    "degree": 8,
+    "x_fixed": -660.7,
+    "y_fixed": -354.43
+  },
+  {
+    "id": "vocabulary_thesaurus_2949",
+    "community": 6,
+    "degree": 7,
+    "x_fixed": -672.29,
+    "y_fixed": -363.53
+  },
+  {
+    "id": "vocabulary_thesaurus_2954",
+    "community": 2,
+    "degree": 5,
+    "x_fixed": -135.33,
+    "y_fixed": 902.32
+  },
+  {
+    "id": "vocabulary_thesaurus_2957",
+    "community": 6,
+    "degree": 2,
+    "x_fixed": -671.44,
+    "y_fixed": -409.19
+  },
+  {
+    "id": "vocabulary_thesaurus_2960",
+    "community": 4,
+    "degree": 4,
+    "x_fixed": -713.72,
+    "y_fixed": 415.15
+  },
+  {
+    "id": "vocabulary_thesaurus_2962",
+    "degree": 5,
+    "x_fixed": -399.8,
+    "y_fixed": 167.08
+  },
+  {
+    "id": "vocabulary_thesaurus_2963",
+    "degree": 4,
+    "x_fixed": -319.15,
+    "y_fixed": 297.73
+  },
+  {
+    "id": "vocabulary_thesaurus_2997",
+    "degree": 17,
+    "x_fixed": 145.23,
+    "y_fixed": 48.75
+  },
+  {
+    "id": "vocabulary_thesaurus_2999",
+    "community": 0,
+    "degree": 16,
+    "x_fixed": 352.11,
+    "y_fixed": 120.78
+  },
+  {
+    "id": "vocabulary_thesaurus_3000",
+    "degree": 16,
+    "x_fixed": 135.96,
+    "y_fixed": 167.61
+  },
+  {
+    "id": "vocabulary_thesaurus_3037",
+    "degree": 5,
+    "x_fixed": 115.89,
+    "y_fixed": 293.65
+  },
+  {
+    "id": "vocabulary_thesaurus_3044",
+    "community": 2,
+    "degree": 187,
+    "x_fixed": 89.91,
+    "y_fixed": 461.52
+  },
+  {
+    "id": "vocabulary_thesaurus_3056",
+    "degree": 12,
+    "x_fixed": 229.08,
+    "y_fixed": 280.62
+  },
+  {
+    "id": "vocabulary_thesaurus_3067",
+    "community": 5,
+    "degree": 23,
+    "x_fixed": -612.35,
+    "y_fixed": 13.35
+  },
+  {
+    "id": "vocabulary_thesaurus_3078",
+    "degree": 20,
+    "x_fixed": 425.04,
+    "y_fixed": 54.85
+  },
+  {
+    "id": "vocabulary_thesaurus_3082",
+    "degree": 8,
+    "x_fixed": -219.58,
+    "y_fixed": -182.66
+  },
+  {
+    "id": "vocabulary_thesaurus_3085",
+    "community": 3,
+    "degree": 4,
+    "x_fixed": -565.88,
+    "y_fixed": 659.32
+  },
+  {
+    "id": "vocabulary_thesaurus_3095",
+    "community": 13,
+    "degree": 17,
+    "x_fixed": 696.82,
+    "y_fixed": -220.63
+  },
+  {
+    "id": "vocabulary_thesaurus_3096",
+    "community": 0,
+    "degree": 10,
+    "x_fixed": 756.98,
+    "y_fixed": 385.81
+  },
+  {
+    "id": "vocabulary_thesaurus_3106",
+    "degree": 5,
+    "x_fixed": 91.47,
+    "y_fixed": -111.48
+  },
+  {
+    "id": "vocabulary_thesaurus_3108",
+    "degree": 3,
+    "x_fixed": 133.58,
+    "y_fixed": 117.01
+  },
+  {
+    "id": "vocabulary_thesaurus_3121",
+    "degree": 4,
+    "x_fixed": -70.15,
+    "y_fixed": 71.03
+  },
+  {
+    "id": "vocabulary_thesaurus_3131",
+    "degree": 12,
+    "x_fixed": -85.95,
+    "y_fixed": 132.7
+  },
+  {
+    "id": "vocabulary_thesaurus_3137",
+    "community": 0,
+    "degree": 18,
+    "x_fixed": 333.52,
+    "y_fixed": 77.51
+  },
+  {
+    "id": "vocabulary_thesaurus_3139",
+    "degree": 2,
+    "x_fixed": -537.7,
+    "y_fixed": 48.7
+  },
+  {
+    "id": "vocabulary_thesaurus_3149",
+    "community": 0,
+    "degree": 4,
+    "x_fixed": 743.88,
+    "y_fixed": 381.28
+  },
+  {
+    "id": "vocabulary_thesaurus_3160",
+    "degree": 3,
+    "x_fixed": 130.61,
+    "y_fixed": -372.16
+  },
+  {
+    "id": "vocabulary_thesaurus_3173",
+    "community": 10,
+    "degree": 14,
+    "x_fixed": 43.07,
+    "y_fixed": -553.85
+  },
+  {
+    "id": "vocabulary_thesaurus_3182",
+    "community": 12,
+    "degree": 15,
+    "x_fixed": 481.28,
+    "y_fixed": -469
+  },
+  {
+    "id": "vocabulary_thesaurus_3183",
+    "community": 11,
+    "degree": 19,
+    "x_fixed": 205.28,
+    "y_fixed": -603.14
+  },
+  {
+    "id": "vocabulary_thesaurus_3184",
+    "degree": 2,
+    "x_fixed": -58.43,
+    "y_fixed": -294.62
+  },
+  {
+    "id": "vocabulary_thesaurus_3186",
+    "degree": 4,
+    "x_fixed": 65.54,
+    "y_fixed": -342.13
+  },
+  {
+    "id": "vocabulary_thesaurus_3211",
+    "degree": 6,
+    "x_fixed": -70.93,
+    "y_fixed": -431.93
+  },
+  {
+    "id": "vocabulary_thesaurus_3223",
+    "degree": 4,
+    "x_fixed": -432.04,
+    "y_fixed": -203.01
+  },
+  {
+    "id": "vocabulary_thesaurus_3256",
+    "community": 5,
+    "degree": 12,
+    "x_fixed": -675.28,
+    "y_fixed": 25.36
+  },
+  {
+    "id": "vocabulary_thesaurus_3262",
+    "degree": 2,
+    "x_fixed": -474.18,
+    "y_fixed": -32.85
+  },
+  {
+    "id": "vocabulary_thesaurus_3264",
+    "community": 5,
+    "degree": 9,
+    "x_fixed": -803.26,
+    "y_fixed": 104.63
+  },
+  {
+    "id": "vocabulary_thesaurus_3325",
+    "community": 14,
+    "degree": 13,
+    "x_fixed": 628.94,
+    "y_fixed": -137.66
+  },
+  {
+    "id": "vocabulary_thesaurus_3328",
+    "community": 13,
+    "degree": 15,
+    "x_fixed": 774.11,
+    "y_fixed": -352.66
+  },
+  {
+    "id": "vocabulary_thesaurus_3332",
+    "community": 12,
+    "degree": 14,
+    "x_fixed": 457.27,
+    "y_fixed": -514.61
+  },
+  {
+    "id": "vocabulary_thesaurus_3333",
+    "community": 5,
+    "degree": 12,
+    "x_fixed": -758.76,
+    "y_fixed": -73.3
+  },
+  {
+    "id": "vocabulary_thesaurus_3335",
+    "community": 11,
+    "degree": 40,
+    "x_fixed": 128.57,
+    "y_fixed": -545.37
+  },
+  {
+    "id": "vocabulary_thesaurus_3338",
+    "community": 5,
+    "degree": 2,
+    "x_fixed": -726.57,
+    "y_fixed": 96.6
+  },
+  {
+    "id": "vocabulary_thesaurus_3339",
+    "degree": 4,
+    "x_fixed": -433.02,
+    "y_fixed": -35.72
+  },
+  {
+    "id": "vocabulary_thesaurus_3340",
+    "community": 5,
+    "degree": 8,
+    "x_fixed": -782.51,
+    "y_fixed": -66.61
+  },
+  {
+    "id": "vocabulary_thesaurus_3343",
+    "degree": 2,
+    "x_fixed": -263.42,
+    "y_fixed": -291.69
+  },
+  {
+    "id": "vocabulary_thesaurus_3351",
+    "degree": 6,
+    "x_fixed": -26.96,
+    "y_fixed": 155.34
+  },
+  {
+    "id": "vocabulary_thesaurus_3407",
+    "degree": 4,
+    "x_fixed": 101.91,
+    "y_fixed": -73.13
+  },
+  {
+    "id": "vocabulary_thesaurus_3442",
+    "degree": 3,
+    "x_fixed": -262.11,
+    "y_fixed": 331.93
+  },
+  {
+    "id": "vocabulary_thesaurus_3447",
+    "degree": 3,
+    "x_fixed": -43.15,
+    "y_fixed": 354.78
+  },
+  {
+    "id": "vocabulary_thesaurus_3463",
+    "degree": 10,
+    "x_fixed": -99.66,
+    "y_fixed": 169.73
+  },
+  {
+    "id": "vocabulary_thesaurus_3476",
+    "degree": 7,
+    "x_fixed": -210.12,
+    "y_fixed": 319.21
+  },
+  {
+    "id": "vocabulary_thesaurus_3477",
+    "degree": 6,
+    "x_fixed": 304.37,
+    "y_fixed": -288.82
+  },
+  {
+    "id": "vocabulary_thesaurus_3487",
+    "degree": 2,
+    "x_fixed": -249.6,
+    "y_fixed": -50.23
+  },
+  {
+    "id": "vocabulary_thesaurus_3494",
+    "degree": 3,
+    "x_fixed": 4.43,
+    "y_fixed": 362.76
+  },
+  {
+    "id": "vocabulary_thesaurus_3497",
+    "community": 1,
+    "degree": 42,
+    "x_fixed": 337.19,
+    "y_fixed": 432.94
+  },
+  {
+    "id": "vocabulary_thesaurus_3506",
+    "degree": 3,
+    "x_fixed": 339.12,
+    "y_fixed": -241.11
+  },
+  {
+    "id": "vocabulary_thesaurus_3509",
+    "degree": 4,
+    "x_fixed": -340.83,
+    "y_fixed": 263.98
+  },
+  {
+    "id": "vocabulary_thesaurus_3516",
+    "degree": 8,
+    "x_fixed": 44.84,
+    "y_fixed": 211.8
+  },
+  {
+    "id": "vocabulary_thesaurus_4434",
+    "degree": 2,
+    "x_fixed": -149.49,
+    "y_fixed": 441.53
+  },
+  {
+    "id": "vocabulary_thesaurus_5018",
+    "degree": 4,
+    "x_fixed": -618.6,
+    "y_fixed": 97.3
+  },
+  {
+    "id": "vocabulary_thesaurus_5025",
+    "community": 5,
+    "degree": 8,
+    "x_fixed": -853.68,
+    "y_fixed": 28.09
+  },
+  {
+    "id": "vocabulary_thesaurus_5027",
+    "community": 5,
+    "degree": 4,
+    "x_fixed": -765.21,
+    "y_fixed": 108.79
+  },
+  {
+    "id": "vocabulary_thesaurus_5029",
+    "degree": 8,
+    "x_fixed": -516.37,
+    "y_fixed": -81.73
+  },
+  {
+    "id": "vocabulary_thesaurus_5033",
+    "community": 5,
+    "degree": 11,
+    "x_fixed": -814.88,
+    "y_fixed": 45.87
+  },
+  {
+    "id": "vocabulary_thesaurus_5042",
+    "degree": 6,
+    "x_fixed": -180.71,
+    "y_fixed": -196.34
+  },
+  {
+    "id": "vocabulary_thesaurus_5080",
+    "community": 14,
+    "degree": 27,
+    "x_fixed": 806.12,
+    "y_fixed": -119.02
+  },
+  {
+    "id": "vocabulary_thesaurus_5087",
+    "degree": 18,
+    "x_fixed": -77.09,
+    "y_fixed": -66.66
+  },
+  {
+    "id": "vocabulary_thesaurus_5092",
+    "degree": 4,
+    "x_fixed": -404.13,
+    "y_fixed": 55.71
+  },
+  {
+    "id": "vocabulary_thesaurus_5099",
+    "degree": 3,
+    "x_fixed": -417.84,
+    "y_fixed": 59.07
+  },
+  {
+    "id": "vocabulary_thesaurus_5120",
+    "community": 11,
+    "degree": 32,
+    "x_fixed": 349.09,
+    "y_fixed": -588.33
+  },
+  {
+    "id": "vocabulary_thesaurus_5161",
+    "degree": 3,
+    "x_fixed": -602.24,
+    "y_fixed": 30.08
+  },
+  {
+    "id": "vocabulary_thesaurus_5162",
+    "degree": 4,
+    "x_fixed": -355.2,
+    "y_fixed": -45.2
+  },
+  {
+    "id": "vocabulary_thesaurus_5168",
+    "degree": 12,
+    "x_fixed": -23.49,
+    "y_fixed": -329.87
+  },
+  {
+    "id": "vocabulary_thesaurus_5170",
+    "degree": 5,
+    "x_fixed": -449.44,
+    "y_fixed": -117.91
+  },
+  {
+    "id": "vocabulary_thesaurus_5192",
+    "community": 5,
+    "degree": 5,
+    "x_fixed": -760.93,
+    "y_fixed": 98.1
+  },
+  {
+    "id": "vocabulary_thesaurus_5200",
+    "community": 5,
+    "degree": 14,
+    "x_fixed": -797.15,
+    "y_fixed": 43.81
+  },
+  {
+    "id": "vocabulary_thesaurus_5202",
+    "degree": 3,
+    "x_fixed": -406.34,
+    "y_fixed": -19.36
+  },
+  {
+    "id": "vocabulary_thesaurus_5235",
+    "degree": 19,
+    "x_fixed": 109.54,
+    "y_fixed": -162.72
+  },
+  {
+    "id": "vocabulary_thesaurus_5246",
+    "degree": 5,
+    "x_fixed": 360.05,
+    "y_fixed": 235.89
+  },
+  {
+    "id": "vocabulary_thesaurus_5248",
+    "degree": 16,
+    "x_fixed": -252.14,
+    "y_fixed": -251.51
+  },
+  {
+    "id": "vocabulary_thesaurus_5251",
+    "degree": 11,
+    "x_fixed": 313.79,
+    "y_fixed": -341.8
+  },
+  {
+    "id": "vocabulary_thesaurus_5269",
+    "degree": 5,
+    "x_fixed": 36.84,
+    "y_fixed": 340.35
+  },
+  {
+    "id": "vocabulary_thesaurus_5279",
+    "degree": 2,
+    "x_fixed": 98.69,
+    "y_fixed": -342.98
+  },
+  {
+    "id": "vocabulary_thesaurus_5281",
+    "degree": 8,
+    "x_fixed": -233.97,
+    "y_fixed": -167.67
+  },
+  {
+    "id": "vocabulary_thesaurus_5282",
+    "degree": 7,
+    "x_fixed": 71.72,
+    "y_fixed": -271.41
+  },
+  {
+    "id": "vocabulary_thesaurus_5283",
+    "community": 11,
+    "degree": 4,
+    "x_fixed": 273.42,
+    "y_fixed": -783.73
+  },
+  {
+    "id": "vocabulary_thesaurus_5284",
+    "degree": 3,
+    "x_fixed": -194.25,
+    "y_fixed": -262.11
+  },
+  {
+    "id": "vocabulary_thesaurus_5285",
+    "degree": 11,
+    "x_fixed": -200.97,
+    "y_fixed": 41.22
+  },
+  {
+    "id": "vocabulary_thesaurus_5289",
+    "community": 5,
+    "degree": 6,
+    "x_fixed": -715.98,
+    "y_fixed": 99.89
+  },
+  {
+    "id": "vocabulary_thesaurus_5293",
+    "community": 5,
+    "degree": 26,
+    "x_fixed": -624.56,
+    "y_fixed": 47.54
+  },
+  {
+    "id": "vocabulary_thesaurus_5294",
+    "degree": 57,
+    "x_fixed": -141.55,
+    "y_fixed": 122.63
+  },
+  {
+    "id": "vocabulary_thesaurus_5297",
+    "community": 5,
+    "degree": 24,
+    "x_fixed": -766.97,
+    "y_fixed": -51.73
+  },
+  {
+    "id": "vocabulary_thesaurus_5305",
+    "degree": 5,
+    "x_fixed": 403.07,
+    "y_fixed": 206.93
+  },
+  {
+    "id": "vocabulary_thesaurus_5307",
+    "degree": 4,
+    "x_fixed": 265.71,
+    "y_fixed": 566.6
+  },
+  {
+    "id": "vocabulary_thesaurus_5328",
+    "community": 2,
+    "degree": 9,
+    "x_fixed": -199.08,
+    "y_fixed": 697.78
+  },
+  {
+    "id": "vocabulary_thesaurus_5342",
+    "degree": 2,
+    "x_fixed": 185.1,
+    "y_fixed": -501.87
+  },
+  {
+    "id": "vocabulary_thesaurus_5367",
+    "degree": 5,
+    "x_fixed": -169.61,
+    "y_fixed": 346.85
+  },
+  {
+    "id": "vocabulary_thesaurus_5368",
+    "degree": 8,
+    "x_fixed": -127.99,
+    "y_fixed": 398.11
+  },
+  {
+    "id": "vocabulary_thesaurus_5372",
+    "degree": 3,
+    "x_fixed": -26.26,
+    "y_fixed": 485.35
+  },
+  {
+    "id": "vocabulary_thesaurus_5393",
+    "degree": 6,
+    "x_fixed": 372.85,
+    "y_fixed": -39.39
+  },
+  {
+    "id": "vocabulary_thesaurus_5394",
+    "degree": 3,
+    "x_fixed": 151.38,
+    "y_fixed": 321.4
+  },
+  {
+    "id": "vocabulary_thesaurus_5409",
+    "community": 5,
+    "degree": 17,
+    "x_fixed": -637.01,
+    "y_fixed": -113.62
+  },
+  {
+    "id": "vocabulary_thesaurus_5418",
+    "degree": 4,
+    "x_fixed": -307.84,
+    "y_fixed": -158.78
+  },
+  {
+    "id": "vocabulary_thesaurus_5427",
+    "community": 6,
+    "degree": 2,
+    "x_fixed": -583.39,
+    "y_fixed": -366.68
+  },
+  {
+    "id": "vocabulary_thesaurus_5428",
+    "degree": 3,
+    "x_fixed": -214.38,
+    "y_fixed": -60.8
+  },
+  {
+    "id": "vocabulary_thesaurus_5430",
+    "degree": 4,
+    "x_fixed": -117.39,
+    "y_fixed": -103.34
+  },
+  {
+    "id": "vocabulary_thesaurus_5494",
+    "degree": 2,
+    "x_fixed": -125.05,
+    "y_fixed": -269.23
+  },
+  {
+    "id": "vocabulary_thesaurus_5538",
+    "community": 5,
+    "degree": 15,
+    "x_fixed": -702.42,
+    "y_fixed": 40.37
+  },
+  {
+    "id": "vocabulary_thesaurus_5603",
+    "degree": 6,
+    "x_fixed": -43.79,
+    "y_fixed": 244.57
+  },
+  {
+    "id": "vocabulary_thesaurus_5615",
+    "community": 0,
+    "degree": 21,
+    "x_fixed": 770.89,
+    "y_fixed": 326.17
+  },
+  {
+    "id": "vocabulary_thesaurus_5616",
+    "degree": 4,
+    "x_fixed": -95.83,
+    "y_fixed": 291.12
+  },
+  {
+    "id": "vocabulary_thesaurus_5639",
+    "degree": 5,
+    "x_fixed": -197.53,
+    "y_fixed": -72.69
+  },
+  {
+    "id": "vocabulary_thesaurus_5642",
+    "degree": 5,
+    "x_fixed": 106.75,
+    "y_fixed": -110.13
+  },
+  {
+    "id": "vocabulary_thesaurus_5647",
+    "degree": 2,
+    "x_fixed": -173.87,
+    "y_fixed": -332.47
+  },
+  {
+    "id": "vocabulary_thesaurus_5651",
+    "degree": 4,
+    "x_fixed": -107.61,
+    "y_fixed": -309.32
+  },
+  {
+    "id": "vocabulary_thesaurus_5655",
+    "community": 2,
+    "degree": 11,
+    "x_fixed": 19.73,
+    "y_fixed": 930.88
+  },
+  {
+    "id": "vocabulary_thesaurus_5676",
+    "community": 6,
+    "degree": 2,
+    "x_fixed": -649.88,
+    "y_fixed": -359.9
+  },
+  {
+    "id": "vocabulary_thesaurus_5685",
+    "community": 5,
+    "degree": 8,
+    "x_fixed": -762.31,
+    "y_fixed": -5.32
+  },
+  {
+    "id": "vocabulary_thesaurus_5686",
+    "community": 5,
+    "degree": 4,
+    "x_fixed": -782.11,
+    "y_fixed": -1.16
+  },
+  {
+    "id": "vocabulary_thesaurus_5699",
+    "degree": 9,
+    "x_fixed": 205.27,
+    "y_fixed": 100.42
+  },
+  {
+    "id": "vocabulary_thesaurus_5747",
+    "degree": 2,
+    "x_fixed": 347.28,
+    "y_fixed": 68.53
+  },
+  {
+    "id": "vocabulary_thesaurus_5750",
+    "community": 5,
+    "degree": 2,
+    "x_fixed": -768.91,
+    "y_fixed": 13.16
+  },
+  {
+    "id": "vocabulary_thesaurus_5769",
+    "community": 3,
+    "degree": 6,
+    "x_fixed": -539.87,
+    "y_fixed": 559.35
+  },
+  {
+    "id": "vocabulary_thesaurus_5777",
+    "degree": 4,
+    "x_fixed": 91.66,
+    "y_fixed": 162.84
+  },
+  {
+    "id": "vocabulary_thesaurus_5801",
+    "community": 14,
+    "degree": 2,
+    "x_fixed": 842.59,
+    "y_fixed": -95.43
+  },
+  {
+    "id": "vocabulary_thesaurus_5802",
+    "degree": 2,
+    "x_fixed": 387.35,
+    "y_fixed": 65.89
+  },
+  {
+    "id": "vocabulary_thesaurus_5803",
+    "community": 14,
+    "degree": 2,
+    "x_fixed": 840.69,
+    "y_fixed": -104.89
+  },
+  {
+    "id": "vocabulary_thesaurus_5804",
+    "degree": 5,
+    "x_fixed": -165.58,
+    "y_fixed": 27.61
+  },
+  {
+    "id": "vocabulary_thesaurus_5807",
+    "degree": 4,
+    "x_fixed": 90.42,
+    "y_fixed": -140.48
+  },
+  {
+    "id": "vocabulary_thesaurus_5808",
+    "degree": 11,
+    "x_fixed": 154.31,
+    "y_fixed": 148.8
+  },
+  {
+    "id": "vocabulary_thesaurus_5812",
+    "community": 14,
+    "degree": 2,
+    "x_fixed": 805.98,
+    "y_fixed": -140.45
+  },
+  {
+    "id": "vocabulary_thesaurus_5813",
+    "degree": 2,
+    "x_fixed": 446.21,
+    "y_fixed": -214.02
+  },
+  {
+    "id": "vocabulary_thesaurus_5852",
+    "community": 1,
+    "degree": 20,
+    "x_fixed": 455.41,
+    "y_fixed": 620.72
+  },
+  {
+    "id": "vocabulary_thesaurus_5869",
+    "degree": 12,
+    "x_fixed": -108.34,
+    "y_fixed": 141.8
+  },
+  {
+    "id": "vocabulary_thesaurus_5896",
+    "community": 2,
+    "degree": 5,
+    "x_fixed": -159.32,
+    "y_fixed": 872.57
+  },
+  {
+    "id": "vocabulary_thesaurus_5938",
+    "degree": 4,
+    "x_fixed": 164.11,
+    "y_fixed": 242.2
+  },
+  {
+    "id": "vocabulary_thesaurus_5959",
+    "degree": 2,
+    "x_fixed": 42.84,
+    "y_fixed": -433.76
+  },
+  {
+    "id": "vocabulary_thesaurus_5962",
+    "community": 11,
+    "degree": 2,
+    "x_fixed": 290.13,
+    "y_fixed": -774.23
+  },
+  {
+    "id": "vocabulary_thesaurus_5972",
+    "degree": 3,
+    "x_fixed": 79.04,
+    "y_fixed": -235.29
+  },
+  {
+    "id": "vocabulary_thesaurus_5983",
+    "degree": 2,
+    "x_fixed": 265.63,
+    "y_fixed": 294.18
+  },
+  {
+    "id": "vocabulary_thesaurus_6000",
+    "degree": 4,
+    "x_fixed": 147.35,
+    "y_fixed": 311.44
+  },
+  {
+    "id": "vocabulary_thesaurus_6011",
+    "degree": 8,
+    "x_fixed": -347.36,
+    "y_fixed": -80.58
+  },
+  {
+    "id": "vocabulary_thesaurus_6021",
+    "degree": 2,
+    "x_fixed": -580.92,
+    "y_fixed": 135.02
+  },
+  {
+    "id": "vocabulary_thesaurus_6023",
+    "community": 5,
+    "degree": 6,
+    "x_fixed": -764.01,
+    "y_fixed": 37.26
+  },
+  {
+    "id": "vocabulary_thesaurus_6041",
+    "community": 5,
+    "degree": 3,
+    "x_fixed": -723.76,
+    "y_fixed": 87.09
+  },
+  {
+    "id": "vocabulary_thesaurus_6073",
+    "degree": 3,
+    "x_fixed": 6.94,
+    "y_fixed": 384.65
+  },
+  {
+    "id": "vocabulary_thesaurus_6077",
+    "degree": 11,
+    "x_fixed": -62.77,
+    "y_fixed": 147.06
+  },
+  {
+    "id": "vocabulary_thesaurus_6122",
+    "degree": 5,
+    "x_fixed": 44.18,
+    "y_fixed": 253.24
+  },
+  {
+    "id": "vocabulary_thesaurus_6142",
+    "degree": 3,
+    "x_fixed": 147.23,
+    "y_fixed": -473.51
+  },
+  {
+    "id": "vocabulary_thesaurus_6159",
+    "degree": 3,
+    "x_fixed": 200.47,
+    "y_fixed": 375.5
+  },
+  {
+    "id": "vocabulary_thesaurus_6178",
+    "degree": 7,
+    "x_fixed": -142.44,
+    "y_fixed": 452.67
+  },
+  {
+    "id": "vocabulary_thesaurus_6191",
+    "degree": 6,
+    "x_fixed": -267.19,
+    "y_fixed": 65.7
+  },
+  {
+    "id": "vocabulary_thesaurus_6192",
+    "community": 2,
+    "degree": 6,
+    "x_fixed": 118.78,
+    "y_fixed": 913.52
+  },
+  {
+    "id": "vocabulary_thesaurus_6228",
+    "degree": 31,
+    "x_fixed": -15.65,
+    "y_fixed": -146.56
+  },
+  {
+    "id": "vocabulary_thesaurus_6250",
+    "degree": 5,
+    "x_fixed": 385.03,
+    "y_fixed": -82.75
+  },
+  {
+    "id": "vocabulary_thesaurus_6270",
+    "degree": 3,
+    "x_fixed": -514.52,
+    "y_fixed": -69.42
+  },
+  {
+    "id": "vocabulary_thesaurus_6283",
+    "community": 0,
+    "degree": 11,
+    "x_fixed": 774.79,
+    "y_fixed": 165.42
+  },
+  {
+    "id": "vocabulary_thesaurus_6286",
+    "community": 11,
+    "degree": 11,
+    "x_fixed": 210.68,
+    "y_fixed": -623.38
+  },
+  {
+    "id": "vocabulary_thesaurus_6297",
+    "degree": 17,
+    "x_fixed": 45.17,
+    "y_fixed": -301.91
+  },
+  {
+    "id": "vocabulary_thesaurus_6337",
+    "degree": 5,
+    "x_fixed": 205.65,
+    "y_fixed": -426.25
+  },
+  {
+    "id": "vocabulary_thesaurus_6366",
+    "degree": 7,
+    "x_fixed": 28.78,
+    "y_fixed": 232.36
+  },
+  {
+    "id": "vocabulary_thesaurus_6370",
+    "degree": 7,
+    "x_fixed": 198.58,
+    "y_fixed": 121.66
+  },
+  {
+    "id": "vocabulary_thesaurus_6378",
+    "community": 12,
+    "degree": 7,
+    "x_fixed": 426.93,
+    "y_fixed": -540.85
+  },
+  {
+    "id": "vocabulary_thesaurus_6379",
+    "degree": 4,
+    "x_fixed": 80.09,
+    "y_fixed": 56.56
+  },
+  {
+    "id": "vocabulary_thesaurus_6484",
+    "degree": 3,
+    "x_fixed": -86.22,
+    "y_fixed": 151.86
+  },
+  {
+    "id": "vocabulary_thesaurus_6522",
+    "degree": 8,
+    "x_fixed": -153.26,
+    "y_fixed": 31.51
+  },
+  {
+    "id": "vocabulary_thesaurus_6589",
+    "community": 13,
+    "degree": 12,
+    "x_fixed": 793.13,
+    "y_fixed": -314.25
+  },
+  {
+    "id": "vocabulary_thesaurus_6594",
+    "community": 13,
+    "degree": 17,
+    "x_fixed": 661.85,
+    "y_fixed": -263.57
+  },
+  {
+    "id": "vocabulary_thesaurus_6610",
+    "degree": 8,
+    "x_fixed": 345.69,
+    "y_fixed": -118.78
+  },
+  {
+    "id": "vocabulary_thesaurus_6750",
+    "degree": 3,
+    "x_fixed": -189.52,
+    "y_fixed": -184.82
+  },
+  {
+    "id": "vocabulary_thesaurus_6762",
+    "degree": 2,
+    "x_fixed": -273.31,
+    "y_fixed": -188.39
+  },
+  {
+    "id": "vocabulary_thesaurus_6914",
+    "community": 11,
+    "degree": 33,
+    "x_fixed": 309.3,
+    "y_fixed": -585.62
+  },
+  {
+    "id": "vocabulary_thesaurus_6936",
+    "degree": 3,
+    "x_fixed": -208.13,
+    "y_fixed": -161.41
+  },
+  {
+    "id": "vocabulary_thesaurus_6958",
+    "degree": 6,
+    "x_fixed": 198.66,
+    "y_fixed": -275.1
+  },
+  {
+    "id": "vocabulary_thesaurus_6989",
+    "community": 5,
+    "degree": 3,
+    "x_fixed": -750.37,
+    "y_fixed": -62.16
+  },
+  {
+    "id": "vocabulary_thesaurus_6995",
+    "community": 10,
+    "degree": 11,
+    "x_fixed": -22.07,
+    "y_fixed": -663.44
+  },
+  {
+    "id": "vocabulary_thesaurus_7004",
+    "degree": 2,
+    "x_fixed": -22.06,
+    "y_fixed": -215.75
+  },
+  {
+    "id": "vocabulary_thesaurus_7010",
+    "degree": 9,
+    "x_fixed": -194.83,
+    "y_fixed": -198.68
+  },
+  {
+    "id": "vocabulary_thesaurus_7019",
+    "degree": 6,
+    "x_fixed": 164.35,
+    "y_fixed": 178.02
+  },
+  {
+    "id": "vocabulary_thesaurus_7101",
+    "degree": 3,
+    "x_fixed": -305.77,
+    "y_fixed": 357.75
+  },
+  {
+    "id": "vocabulary_thesaurus_7123",
+    "degree": 3,
+    "x_fixed": 128.89,
+    "y_fixed": 373.33
+  },
+  {
+    "id": "vocabulary_thesaurus_7132",
+    "degree": 3,
+    "x_fixed": -46.67,
+    "y_fixed": -390.81
+  },
+  {
+    "id": "vocabulary_thesaurus_7139",
+    "degree": 4,
+    "x_fixed": -10.57,
+    "y_fixed": -192.24
+  },
+  {
+    "id": "vocabulary_thesaurus_7198",
+    "degree": 2,
+    "x_fixed": 65.57,
+    "y_fixed": -368.27
+  },
+  {
+    "id": "vocabulary_thesaurus_7199",
+    "degree": 4,
+    "x_fixed": -81.97,
+    "y_fixed": -194.61
+  },
+  {
+    "id": "vocabulary_thesaurus_7200",
+    "degree": 5,
+    "x_fixed": 205.82,
+    "y_fixed": -249.89
+  },
+  {
+    "id": "vocabulary_thesaurus_7207",
+    "degree": 4,
+    "x_fixed": -62.15,
+    "y_fixed": -199.07
+  },
+  {
+    "id": "vocabulary_thesaurus_7214",
+    "degree": 3,
+    "x_fixed": 247.69,
+    "y_fixed": -31.09
+  },
+  {
+    "id": "vocabulary_thesaurus_7240",
+    "degree": 2,
+    "x_fixed": 332.18,
+    "y_fixed": 368.86
+  },
+  {
+    "id": "vocabulary_thesaurus_7241",
+    "degree": 8,
+    "x_fixed": 355.84,
+    "y_fixed": -109.03
+  },
+  {
+    "id": "vocabulary_thesaurus_7259",
+    "degree": 2,
+    "x_fixed": 163.58,
+    "y_fixed": -528.15
+  },
+  {
+    "id": "vocabulary_thesaurus_7280",
+    "degree": 3,
+    "x_fixed": 283.76,
+    "y_fixed": 206.43
+  },
+  {
+    "id": "vocabulary_thesaurus_7284",
+    "degree": 5,
+    "x_fixed": -6.85,
+    "y_fixed": 469.07
+  },
+  {
+    "id": "vocabulary_thesaurus_7314",
+    "degree": 7,
+    "x_fixed": 188.6,
+    "y_fixed": 132.26
+  },
+  {
+    "id": "vocabulary_thesaurus_7317",
+    "community": 4,
+    "degree": 4,
+    "x_fixed": -642.09,
+    "y_fixed": 316.81
+  },
+  {
+    "id": "vocabulary_thesaurus_7341",
+    "degree": 7,
+    "x_fixed": -22.66,
+    "y_fixed": 143.15
+  },
+  {
+    "id": "vocabulary_thesaurus_7347",
+    "community": 14,
+    "degree": 5,
+    "x_fixed": 631.73,
+    "y_fixed": -152.64
+  },
+  {
+    "id": "vocabulary_thesaurus_7354",
+    "degree": 5,
+    "x_fixed": 174.23,
+    "y_fixed": -113.88
+  },
+  {
+    "id": "vocabulary_thesaurus_7355",
+    "degree": 10,
+    "x_fixed": -114.96,
+    "y_fixed": 42.63
+  },
+  {
+    "id": "vocabulary_thesaurus_7360",
+    "degree": 2,
+    "x_fixed": 142.87,
+    "y_fixed": -134.41
+  },
+  {
+    "id": "vocabulary_thesaurus_7373",
+    "degree": 3,
+    "x_fixed": 223.72,
+    "y_fixed": 153.3
+  },
+  {
+    "id": "vocabulary_thesaurus_7375",
+    "degree": 3,
+    "x_fixed": 23.59,
+    "y_fixed": -178.01
+  },
+  {
+    "id": "vocabulary_thesaurus_7378",
+    "degree": 4,
+    "x_fixed": 167.91,
+    "y_fixed": 190.18
+  },
+  {
+    "id": "vocabulary_thesaurus_7379",
+    "degree": 4,
+    "x_fixed": 321.26,
+    "y_fixed": 115.09
+  },
+  {
+    "id": "vocabulary_thesaurus_7383",
+    "degree": 5,
+    "x_fixed": -15.09,
+    "y_fixed": 168.38
+  },
+  {
+    "id": "vocabulary_thesaurus_7384",
+    "degree": 5,
+    "x_fixed": 9.12,
+    "y_fixed": 270.77
+  },
+  {
+    "id": "vocabulary_thesaurus_7387",
+    "degree": 4,
+    "x_fixed": 348.26,
+    "y_fixed": 33.64
+  },
+  {
+    "id": "vocabulary_thesaurus_7388",
+    "degree": 4,
+    "x_fixed": 449.62,
+    "y_fixed": 61.08
+  },
+  {
+    "id": "vocabulary_thesaurus_7392",
+    "degree": 4,
+    "x_fixed": 203.46,
+    "y_fixed": 365.18
+  },
+  {
+    "id": "vocabulary_thesaurus_7427",
+    "community": 3,
+    "degree": 3,
+    "x_fixed": -518.31,
+    "y_fixed": 577
+  },
+  {
+    "id": "vocabulary_thesaurus_7429",
+    "degree": 5,
+    "x_fixed": -217.78,
+    "y_fixed": -31.84
+  },
+  {
+    "id": "vocabulary_thesaurus_7430",
+    "degree": 3,
+    "x_fixed": -455.96,
+    "y_fixed": -214.66
+  },
+  {
+    "id": "vocabulary_thesaurus_7437",
+    "degree": 4,
+    "x_fixed": 291.55,
+    "y_fixed": -240.49
+  },
+  {
+    "id": "vocabulary_thesaurus_7491",
+    "degree": 4,
+    "x_fixed": -273.59,
+    "y_fixed": 442.13
+  },
+  {
+    "id": "vocabulary_thesaurus_7528",
+    "community": 7,
+    "degree": 5,
+    "x_fixed": -446.27,
+    "y_fixed": -426.55
+  },
+  {
+    "id": "vocabulary_thesaurus_7533",
+    "community": 0,
+    "degree": 5,
+    "x_fixed": 717.72,
+    "y_fixed": 264.66
+  },
+  {
+    "id": "vocabulary_thesaurus_7534",
+    "community": 0,
+    "degree": 7,
+    "x_fixed": 585.1,
+    "y_fixed": 12.44
+  },
+  {
+    "id": "vocabulary_thesaurus_7542",
+    "degree": 4,
+    "x_fixed": 146.27,
+    "y_fixed": -32.02
+  },
+  {
+    "id": "vocabulary_thesaurus_7543",
+    "degree": 2,
+    "x_fixed": -542.9,
+    "y_fixed": -21.28
+  },
+  {
+    "id": "vocabulary_thesaurus_7544",
+    "degree": 6,
+    "x_fixed": -100.1,
+    "y_fixed": -133.09
+  },
+  {
+    "id": "vocabulary_thesaurus_7593",
+    "degree": 29,
+    "x_fixed": -77.01,
+    "y_fixed": 333.05
+  },
+  {
+    "id": "vocabulary_thesaurus_7594",
+    "degree": 4,
+    "x_fixed": -125.24,
+    "y_fixed": 460.73
+  },
+  {
+    "id": "vocabulary_thesaurus_7612",
+    "community": 14,
+    "degree": 5,
+    "x_fixed": 833.89,
+    "y_fixed": -113.2
+  },
+  {
+    "id": "vocabulary_thesaurus_7653",
+    "degree": 2,
+    "x_fixed": 2.17,
+    "y_fixed": 393.6
+  },
+  {
+    "id": "vocabulary_thesaurus_7675",
+    "degree": 2,
+    "x_fixed": 174.54,
+    "y_fixed": 264.64
+  },
+  {
+    "id": "vocabulary_thesaurus_7700",
+    "degree": 2,
+    "x_fixed": -104.52,
+    "y_fixed": -411.93
+  },
+  {
+    "id": "vocabulary_thesaurus_7711",
+    "degree": 26,
+    "x_fixed": 32.83,
+    "y_fixed": 157
+  },
+  {
+    "id": "vocabulary_thesaurus_7713",
+    "degree": 7,
+    "x_fixed": -176.51,
+    "y_fixed": -53.39
+  },
+  {
+    "id": "vocabulary_thesaurus_7732",
+    "degree": 2,
+    "x_fixed": 46.98,
+    "y_fixed": 343.89
+  },
+  {
+    "id": "vocabulary_thesaurus_7738",
+    "degree": 3,
+    "x_fixed": 12.97,
+    "y_fixed": 525.29
+  },
+  {
+    "id": "vocabulary_thesaurus_7791",
+    "degree": 8,
+    "x_fixed": -81.71,
+    "y_fixed": 117.57
+  },
+  {
+    "id": "vocabulary_thesaurus_7804",
+    "degree": 9,
+    "x_fixed": 16.89,
+    "y_fixed": 120.22
+  },
+  {
+    "id": "vocabulary_thesaurus_7844",
+    "degree": 2,
+    "x_fixed": -125.32,
+    "y_fixed": -245.22
+  },
+  {
+    "id": "vocabulary_thesaurus_7863",
+    "degree": 2,
+    "x_fixed": 291.36,
+    "y_fixed": 235.83
+  },
+  {
+    "id": "vocabulary_thesaurus_7915",
+    "degree": 3,
+    "x_fixed": 353.08,
+    "y_fixed": -94.6
+  },
+  {
+    "id": "vocabulary_thesaurus_7923",
+    "degree": 2,
+    "x_fixed": -29.43,
+    "y_fixed": 341.84
+  },
+  {
+    "id": "vocabulary_thesaurus_7926",
+    "degree": 2,
+    "x_fixed": 4.45,
+    "y_fixed": 508.56
+  },
+  {
+    "id": "vocabulary_thesaurus_7934",
+    "degree": 6,
+    "x_fixed": -146.47,
+    "y_fixed": 292.9
+  },
+  {
+    "id": "vocabulary_thesaurus_7937",
+    "community": 3,
+    "degree": 8,
+    "x_fixed": -553.77,
+    "y_fixed": 662.64
+  },
+  {
+    "id": "vocabulary_thesaurus_7949",
+    "degree": 7,
+    "x_fixed": 35.89,
+    "y_fixed": 201.45
+  },
+  {
+    "id": "vocabulary_thesaurus_7952",
+    "degree": 9,
+    "x_fixed": 182.46,
+    "y_fixed": 489.36
+  },
+  {
+    "id": "vocabulary_thesaurus_7954",
+    "degree": 2,
+    "x_fixed": -92.43,
+    "y_fixed": -319.65
+  },
+  {
+    "id": "vocabulary_thesaurus_7955",
+    "degree": 4,
+    "x_fixed": -133.04,
+    "y_fixed": 88.36
+  },
+  {
+    "id": "vocabulary_thesaurus_8473",
+    "community": 10,
+    "degree": 3,
+    "x_fixed": 98.21,
+    "y_fixed": -807.32
+  },
+  {
+    "id": "vocabulary_thesaurus_8566",
+    "degree": 2,
+    "x_fixed": -474.23,
+    "y_fixed": 140.81
+  },
+  {
+    "id": "vocabulary_thesaurus_8590",
+    "degree": 12,
+    "x_fixed": 110.9,
+    "y_fixed": -135.06
+  },
+  {
+    "id": "vocabulary_thesaurus_8620",
+    "degree": 2,
+    "x_fixed": 510.22,
+    "y_fixed": 183.29
+  },
+  {
+    "id": "vocabulary_thesaurus_8671",
+    "community": 5,
+    "degree": 10,
+    "x_fixed": -370.48,
+    "y_fixed": -85.22
+  },
+  {
+    "id": "vocabulary_thesaurus_8697",
+    "community": 11,
+    "degree": 7,
+    "x_fixed": 362.85,
+    "y_fixed": -624.58
+  },
+  {
+    "id": "vocabulary_thesaurus_8775",
+    "community": 13,
+    "degree": 9,
+    "x_fixed": 705.43,
+    "y_fixed": -262.89
+  },
+  {
+    "id": "vocabulary_thesaurus_8781",
+    "degree": 2,
+    "x_fixed": -520.67,
+    "y_fixed": -61.5
+  },
+  {
+    "id": "vocabulary_thesaurus_8787",
+    "community": 5,
+    "degree": 8,
+    "x_fixed": -766.64,
+    "y_fixed": 24.28
+  },
+  {
+    "id": "vocabulary_thesaurus_8793",
+    "degree": 3,
+    "x_fixed": -314.52,
+    "y_fixed": -119.89
+  },
+  {
+    "id": "vocabulary_thesaurus_8820",
+    "community": 12,
+    "degree": 5,
+    "x_fixed": 618.8,
+    "y_fixed": -586.28
+  },
+  {
+    "id": "vocabulary_thesaurus_8884",
+    "degree": 3,
+    "x_fixed": -357.73,
+    "y_fixed": -87.08
+  },
+  {
+    "id": "vocabulary_thesaurus_8964",
+    "degree": 3,
+    "x_fixed": 307.72,
+    "y_fixed": -213.72
+  },
+  {
+    "id": "vocabulary_thesaurus_9002",
+    "degree": 4,
+    "x_fixed": 315.95,
+    "y_fixed": -220.63
+  },
+  {
+    "id": "vocabulary_thesaurus_9003",
+    "degree": 2,
+    "x_fixed": -472.09,
+    "y_fixed": 131.35
+  },
+  {
+    "id": "vocabulary_thesaurus_9089",
+    "community": 13,
+    "degree": 5,
+    "x_fixed": 765.85,
+    "y_fixed": -377.32
+  },
+  {
+    "id": "vocabulary_thesaurus_9297",
+    "degree": 2,
+    "x_fixed": 317.59,
+    "y_fixed": -100.69
+  },
+  {
+    "id": "vocabulary_thesaurus_9324",
+    "degree": 2,
+    "x_fixed": -74.93,
+    "y_fixed": -219.23
+  },
+  {
+    "id": "vocabulary_thesaurus_9346",
+    "community": 10,
+    "degree": 5,
+    "x_fixed": -28.23,
+    "y_fixed": -676.8
+  },
+  {
+    "id": "vocabulary_thesaurus_9386",
+    "degree": 4,
+    "x_fixed": -152.76,
+    "y_fixed": -173.52
+  },
+  {
+    "id": "vocabulary_thesaurus_9507",
+    "community": 2,
+    "degree": 3,
+    "x_fixed": -55.1,
+    "y_fixed": 856.15
+  },
+  {
+    "id": "vocabulary_thesaurus_9547",
+    "community": 0,
+    "degree": 5,
+    "x_fixed": 663.07,
+    "y_fixed": 350.3
+  },
+  {
+    "id": "vocabulary_thesaurus_9653",
+    "community": 4,
+    "degree": 3,
+    "x_fixed": -735.47,
+    "y_fixed": 448.74
+  },
+  {
+    "id": "vocabulary_thesaurus_9664",
+    "degree": 3,
+    "x_fixed": -234.71,
+    "y_fixed": -72.48
+  },
+  {
+    "id": "vocabulary_thesaurus_9669",
+    "degree": 2,
+    "x_fixed": 283.39,
+    "y_fixed": 170.24
+  },
+  {
+    "id": "vocabulary_thesaurus_9695",
+    "community": 13,
+    "degree": 2,
+    "x_fixed": 676.94,
+    "y_fixed": -277.33
+  },
+  {
+    "id": "vocabulary_thesaurus_9743",
+    "community": 5,
+    "degree": 3,
+    "x_fixed": -761.56,
+    "y_fixed": 6.36
+  },
+  {
+    "id": "vocabulary_thesaurus_9746",
+    "degree": 11,
+    "x_fixed": -3.32,
+    "y_fixed": -338.18
+  },
+  {
+    "id": "vocabulary_thesaurus_9791",
+    "degree": 8,
+    "x_fixed": -230.46,
+    "y_fixed": 132.76
+  },
+  {
+    "id": "vocabulary_thesaurus_9951",
+    "degree": 2,
+    "x_fixed": 488.94,
+    "y_fixed": -152.63
+  },
+  {
+    "id": "vocabulary_thesaurus_9964",
+    "degree": 2,
+    "x_fixed": 72.2,
+    "y_fixed": 312.59
+  },
+  {
+    "id": "vocabulary_thesaurus_10055",
+    "degree": 2,
+    "x_fixed": -386.91,
+    "y_fixed": 137.2
+  },
+  {
+    "id": "vocabulary_thesaurus_10183",
+    "degree": 5,
+    "x_fixed": -0.53,
+    "y_fixed": 95.38
+  },
+  {
+    "id": "vocabulary_thesaurus_10189",
+    "degree": 2,
+    "x_fixed": -292.43,
+    "y_fixed": -316.93
+  },
+  {
+    "id": "vocabulary_thesaurus_10231",
+    "degree": 4,
+    "x_fixed": -20.2,
+    "y_fixed": -457.16
+  },
+  {
+    "id": "vocabulary_thesaurus_10246",
+    "degree": 3,
+    "x_fixed": 50.3,
+    "y_fixed": -440.45
+  },
+  {
+    "id": "vocabulary_thesaurus_10292",
+    "degree": 2,
+    "x_fixed": -262.88,
+    "y_fixed": 52.67
+  },
+  {
+    "id": "vocabulary_thesaurus_10463",
+    "degree": 6,
+    "x_fixed": 283.78,
+    "y_fixed": -2.61
+  },
+  {
+    "id": "vocabulary_thesaurus_10527",
+    "degree": 2,
+    "x_fixed": 515.7,
+    "y_fixed": -224.39
+  },
+  {
+    "id": "vocabulary_thesaurus_10561",
+    "degree": 6,
+    "x_fixed": 7.34,
+    "y_fixed": 148.95
+  },
+  {
+    "id": "vocabulary_thesaurus_10574",
+    "community": 5,
+    "degree": 3,
+    "x_fixed": -810.98,
+    "y_fixed": -16.93
+  },
+  {
+    "id": "vocabulary_thesaurus_10596",
+    "degree": 5,
+    "x_fixed": 28.93,
+    "y_fixed": -280.34
+  },
+  {
+    "id": "vocabulary_thesaurus_10631",
+    "community": 0,
+    "degree": 4,
+    "x_fixed": 668.01,
+    "y_fixed": 31.22
+  },
+  {
+    "id": "vocabulary_thesaurus_10634",
+    "degree": 4,
+    "x_fixed": 180.22,
+    "y_fixed": -211.71
+  },
+  {
+    "id": "vocabulary_thesaurus_10655",
+    "degree": 2,
+    "x_fixed": 166.92,
+    "y_fixed": -252.6
+  },
+  {
+    "id": "vocabulary_thesaurus_10666",
+    "degree": 4,
+    "x_fixed": -568.38,
+    "y_fixed": 78.58
+  },
+  {
+    "id": "vocabulary_thesaurus_10667",
+    "degree": 3,
+    "x_fixed": -538.6,
+    "y_fixed": 130.47
+  },
+  {
+    "id": "vocabulary_thesaurus_10680",
+    "degree": 4,
+    "x_fixed": -437.29,
+    "y_fixed": -174.84
+  },
+  {
+    "id": "vocabulary_thesaurus_10698",
+    "community": 6,
+    "degree": 5,
+    "x_fixed": -639.51,
+    "y_fixed": -353.8
+  },
+  {
+    "id": "vocabulary_thesaurus_10711",
+    "degree": 2,
+    "x_fixed": 504.54,
+    "y_fixed": 65.26
+  },
+  {
+    "id": "vocabulary_thesaurus_10915",
+    "degree": 1,
+    "x_fixed": 415.7,
+    "y_fixed": -338.76
+  },
+  {
+    "id": "vocabulary_thesaurus_10923",
+    "community": 10,
+    "degree": 3,
+    "x_fixed": 88.2,
+    "y_fixed": -804.6
+  },
+  {
+    "id": "vocabulary_thesaurus_11094",
+    "community": 7,
+    "degree": 2,
+    "x_fixed": -509.98,
+    "y_fixed": -593.3
+  },
+  {
+    "id": "vocabulary_thesaurus_11106",
+    "degree": 2,
+    "x_fixed": -277.39,
+    "y_fixed": -430.19
+  },
+  {
+    "id": "vocabulary_thesaurus_11114",
+    "community": 7,
+    "degree": 7,
+    "x_fixed": -511.02,
+    "y_fixed": -556.83
+  },
+  {
+    "id": "vocabulary_thesaurus_11143",
+    "degree": 3,
+    "x_fixed": -138.45,
+    "y_fixed": 464.01
+  },
+  {
+    "id": "vocabulary_thesaurus_11160",
+    "degree": 3,
+    "x_fixed": -3.88,
+    "y_fixed": 383.91
+  },
+  {
+    "id": "vocabulary_thesaurus_11200",
+    "degree": 5,
+    "x_fixed": 360.21,
+    "y_fixed": -21.1
+  },
+  {
+    "id": "vocabulary_thesaurus_11253",
+    "degree": 4,
+    "x_fixed": 159.09,
+    "y_fixed": -549.8
+  },
+  {
+    "id": "vocabulary_thesaurus_11256",
+    "degree": 2,
+    "x_fixed": 106.19,
+    "y_fixed": -475.64
+  },
+  {
+    "id": "vocabulary_thesaurus_11285",
+    "degree": 3,
+    "x_fixed": 2.85,
+    "y_fixed": 505.25
+  },
+  {
+    "id": "vocabulary_thesaurus_11287",
+    "degree": 2,
+    "x_fixed": 7.08,
+    "y_fixed": 517.97
+  },
+  {
+    "id": "vocabulary_thesaurus_11288",
+    "degree": 2,
+    "x_fixed": -30.7,
+    "y_fixed": 489.21
+  },
+  {
+    "id": "vocabulary_thesaurus_11289",
+    "degree": 2,
+    "x_fixed": -29.45,
+    "y_fixed": 485.95
+  },
+  {
+    "id": "vocabulary_thesaurus_11291",
+    "degree": 2,
+    "x_fixed": -6.57,
+    "y_fixed": 492.95
+  },
+  {
+    "id": "vocabulary_thesaurus_11413",
+    "degree": 4,
+    "x_fixed": -216.26,
+    "y_fixed": 140.47
+  },
+  {
+    "id": "vocabulary_thesaurus_11542",
+    "community": 10,
+    "degree": 4,
+    "x_fixed": 111.54,
+    "y_fixed": -768.47
+  },
+  {
+    "id": "vocabulary_thesaurus_11550",
+    "degree": 10,
+    "x_fixed": -28.7,
+    "y_fixed": 169.24
+  },
+  {
+    "id": "vocabulary_thesaurus_11553",
+    "degree": 6,
+    "x_fixed": 70.76,
+    "y_fixed": 49.3
+  },
+  {
+    "id": "vocabulary_thesaurus_11556",
+    "degree": 4,
+    "x_fixed": 79.87,
+    "y_fixed": -379.82
+  },
+  {
+    "id": "vocabulary_thesaurus_11685",
+    "community": 5,
+    "degree": 2,
+    "x_fixed": -787.08,
+    "y_fixed": 93.86
+  },
+  {
+    "id": "vocabulary_thesaurus_11695",
+    "community": 5,
+    "degree": 2,
+    "x_fixed": -778.86,
+    "y_fixed": 22.27
+  },
+  {
+    "id": "vocabulary_thesaurus_11704",
+    "degree": 2,
+    "x_fixed": -382.43,
+    "y_fixed": -7.55
+  },
+  {
+    "id": "vocabulary_thesaurus_11723",
+    "degree": 5,
+    "x_fixed": -294.18,
+    "y_fixed": -141.46
+  },
+  {
+    "id": "vocabulary_thesaurus_11781",
+    "degree": 4,
+    "x_fixed": 140.87,
+    "y_fixed": -111.12
+  },
+  {
+    "id": "vocabulary_thesaurus_11788",
+    "degree": 2,
+    "x_fixed": 335.55,
+    "y_fixed": -142.95
+  },
+  {
+    "id": "vocabulary_thesaurus_11828",
+    "degree": 3,
+    "x_fixed": 116.13,
+    "y_fixed": 104.18
+  },
+  {
+    "id": "vocabulary_thesaurus_11924",
+    "degree": 2,
+    "x_fixed": -179.87,
+    "y_fixed": -182.09
+  },
+  {
+    "id": "vocabulary_thesaurus_11996",
+    "community": 12,
+    "degree": 3,
+    "x_fixed": 557,
+    "y_fixed": -485.83
+  },
+  {
+    "id": "vocabulary_thesaurus_11997",
+    "degree": 4,
+    "x_fixed": 36.02,
+    "y_fixed": -269.97
+  },
+  {
+    "id": "vocabulary_thesaurus_12036",
+    "degree": 2,
+    "x_fixed": -357.17,
+    "y_fixed": 55.69
+  },
+  {
+    "id": "vocabulary_thesaurus_12474",
+    "degree": 6,
+    "x_fixed": -106.08,
+    "y_fixed": 79.36
+  },
+  {
+    "id": "vocabulary_thesaurus_12607",
+    "degree": 3,
+    "x_fixed": 213.98,
+    "y_fixed": -138.48
+  },
+  {
+    "id": "vocabulary_thesaurus_12861",
+    "degree": 4,
+    "x_fixed": 66.08,
+    "y_fixed": 334.56
+  },
+  {
+    "id": "vocabulary_thesaurus_13224",
+    "degree": 5,
+    "x_fixed": -390.45,
+    "y_fixed": 42.05
+  },
+  {
+    "id": "vocabulary_thesaurus_13479",
+    "degree": 4,
+    "x_fixed": -529.54,
+    "y_fixed": -281.26
+  },
+  {
+    "id": "vocabulary_thesaurus_13608",
+    "degree": 2,
+    "x_fixed": -258.02,
+    "y_fixed": -74.28
+  },
+  {
+    "id": "vocabulary_thesaurus_13979",
+    "degree": 2,
+    "x_fixed": -364.22,
+    "y_fixed": -446.39
+  },
+  {
+    "id": "vocabulary_thesaurus_13986",
+    "community": 5,
+    "degree": 4,
+    "x_fixed": -826.07,
+    "y_fixed": 34.2
+  },
+  {
+    "id": "vocabulary_thesaurus_14777",
+    "community": 5,
+    "degree": 6,
+    "x_fixed": -779.89,
+    "y_fixed": 11.8
+  },
+  {
+    "id": "vocabulary_thesaurus_15079",
+    "degree": 3,
+    "x_fixed": -128.06,
+    "y_fixed": -102.08
+  },
+  {
+    "id": "vocabulary_thesaurus_15173",
+    "degree": 2,
+    "x_fixed": -335.5,
+    "y_fixed": 218.27
+  },
+  {
+    "id": "vocabulary_thesaurus_15343",
+    "community": 10,
+    "degree": 28,
+    "x_fixed": 101.96,
+    "y_fixed": -587.93
+  },
+  {
+    "id": "vocabulary_thesaurus_15583",
+    "degree": 1,
+    "x_fixed": 226.27,
+    "y_fixed": 212.52
+  },
+  {
+    "id": "vocabulary_thesaurus_16113",
+    "degree": 2,
+    "x_fixed": -490.42,
+    "y_fixed": 77.65
+  },
+  {
+    "id": "vocabulary_thesaurus_16122",
+    "degree": 2,
+    "x_fixed": -208.27,
+    "y_fixed": -26.21
+  },
+  {
+    "id": "vocabulary_thesaurus_16133",
+    "degree": 3,
+    "x_fixed": -260.86,
+    "y_fixed": 284.51
+  },
+  {
+    "id": "vocabulary_thesaurus_16216",
+    "degree": 6,
+    "x_fixed": -289.4,
+    "y_fixed": 86.63
+  },
+  {
+    "id": "vocabulary_thesaurus_16250",
+    "degree": 3,
+    "x_fixed": -519.45,
+    "y_fixed": -316.98
+  },
+  {
+    "id": "vocabulary_thesaurus_16269",
+    "degree": 2,
+    "x_fixed": -188.64,
+    "y_fixed": 284.68
+  },
+  {
+    "id": "vocabulary_thesaurus_16869",
+    "degree": 3,
+    "x_fixed": 76.38,
+    "y_fixed": -438.09
+  },
+  {
+    "id": "vocabulary_thesaurus_16873",
+    "degree": 2,
+    "x_fixed": -313.49,
+    "y_fixed": -167.44
+  },
+  {
+    "id": "vocabulary_thesaurus_16925",
+    "degree": 4,
+    "x_fixed": -364.61,
+    "y_fixed": 80.7
+  },
+  {
+    "id": "vocabulary_thesaurus_17048",
+    "community": 6,
+    "degree": 3,
+    "x_fixed": -533.63,
+    "y_fixed": -340.59
+  },
+  {
+    "id": "vocabulary_thesaurus_17140",
+    "degree": 5,
+    "x_fixed": -216.21,
+    "y_fixed": 308.23
+  },
+  {
+    "id": "vocabulary_thesaurus_17344",
+    "degree": 2,
+    "x_fixed": -387.08,
+    "y_fixed": -121.09
+  },
+  {
+    "id": "vocabulary_thesaurus_17380",
+    "degree": 4,
+    "x_fixed": -461.99,
+    "y_fixed": -223.55
+  },
+  {
+    "id": "vocabulary_thesaurus_17388",
+    "degree": 3,
+    "x_fixed": -538.43,
+    "y_fixed": -195.2
+  },
+  {
+    "id": "vocabulary_thesaurus_17646",
+    "degree": 2,
+    "x_fixed": -306.83,
+    "y_fixed": -113.47
+  },
+  {
+    "id": "vocabulary_thesaurus_19186",
+    "degree": 7,
+    "x_fixed": 103.59,
+    "y_fixed": -423.37
+  },
+  {
+    "id": "vocabulary_thesaurus_19979",
+    "degree": 1,
+    "x_fixed": -524.1,
+    "y_fixed": -29.38
+  },
+  {
+    "id": "vocabulary_thesaurus_20315",
+    "degree": 2,
+    "x_fixed": -174.49,
+    "y_fixed": -110.48
+  },
+  {
+    "id": "vocabulary_thesaurus_20518",
+    "degree": 5,
+    "x_fixed": 438.71,
+    "y_fixed": 81.52
+  },
+  {
+    "id": "vocabulary_thesaurus_20543",
+    "degree": 4,
+    "x_fixed": -308.23,
+    "y_fixed": 180.88
+  },
+  {
+    "id": "vocabulary_thesaurus_25496",
+    "community": 11,
+    "degree": 4,
+    "x_fixed": 392.01,
+    "y_fixed": -732.36
+  },
+  {
+    "id": "vocabulary_thesaurus_37164",
+    "degree": 2,
+    "x_fixed": -297.86,
+    "y_fixed": -156
+  },
+  {
+    "id": "vocabulary_thesaurus_47863",
+    "degree": 3,
+    "x_fixed": 159.65,
+    "y_fixed": -98.37
+  },
+  {
+    "id": "vocabulary_thesaurus_50385",
+    "community": 5,
+    "degree": 2,
+    "x_fixed": -786.98,
+    "y_fixed": 33.78
+  },
+  {
+    "id": "vocabulary_thesaurus_51246",
+    "degree": 2,
+    "x_fixed": -39.16,
+    "y_fixed": 83.24
+  },
+  {
+    "id": "vocabulary_thesaurus_51480",
+    "degree": 2,
+    "x_fixed": -311.86,
+    "y_fixed": 2.85
+  },
+  {
+    "id": "vocabulary_thesaurus_62353",
+    "degree": 2,
+    "x_fixed": -550.95,
+    "y_fixed": -15.88
+  },
+  {
+    "id": "vocabulary_thesaurus_63777",
+    "degree": 5,
+    "x_fixed": 129.82,
+    "y_fixed": -215.63
+  },
+  {
+    "id": "vocabulary_thesaurus_63814",
+    "degree": 5,
+    "x_fixed": 67.67,
+    "y_fixed": -163.81
+  },
+  {
+    "id": "vocabulary_thesaurus_63872",
+    "degree": 3,
+    "x_fixed": -228.2,
+    "y_fixed": 87.15
+  },
+  {
+    "id": "vocabulary_thesaurus_63878",
+    "degree": 1,
+    "x_fixed": -533.94,
+    "y_fixed": 32.79
+  },
+  {
+    "id": "vocabulary_thesaurus_63902",
+    "degree": 4,
+    "x_fixed": 32.77,
+    "y_fixed": -436.27
+  },
+  {
+    "id": "vocabulary_thesaurus_64231",
+    "degree": 2,
+    "x_fixed": -542.15,
+    "y_fixed": 77.83
+  },
+  {
+    "id": "vocabulary_thesaurus_64233",
+    "degree": 3,
+    "x_fixed": -272.5,
+    "y_fixed": 55.54
+  },
+  {
+    "id": "vocabulary_thesaurus_64234",
+    "community": 5,
+    "degree": 2,
+    "x_fixed": -812.73,
+    "y_fixed": 80.36
+  },
+  {
+    "id": "vocabulary_thesaurus_64235",
+    "community": 5,
+    "degree": 5,
+    "x_fixed": -776.47,
+    "y_fixed": 32.24
+  },
+  {
+    "id": "vocabulary_thesaurus_64274",
+    "community": 7,
+    "degree": 2,
+    "x_fixed": -537.52,
+    "y_fixed": -570.04
+  },
+  {
+    "id": "vocabulary_thesaurus_64299",
+    "degree": 2,
+    "x_fixed": -345.45,
+    "y_fixed": -68.91
+  },
+  {
+    "id": "vocabulary_thesaurus_64321",
+    "degree": 4,
+    "x_fixed": -4.81,
+    "y_fixed": 293.97
+  },
+  {
+    "id": "vocabulary_ich_114",
+    "community": 8,
+    "degree": 27,
+    "x_fixed": -144.05,
+    "y_fixed": -393.07
+  },
+  {
+    "id": "vocabulary_ich_70",
+    "community": 6,
+    "degree": 21,
+    "x_fixed": -270.39,
+    "y_fixed": -308.16
+  },
+  {
+    "id": "vocabulary_ich_1282",
+    "degree": 4,
+    "x_fixed": 305.92,
+    "y_fixed": -355.89
+  },
+  {
+    "id": "vocabulary_ich_172",
+    "degree": 6,
+    "x_fixed": 164.1,
+    "y_fixed": 34.9
+  },
+  {
+    "id": "vocabulary_ich_1112",
+    "degree": 5,
+    "x_fixed": -140.34,
+    "y_fixed": 31.86
+  },
+  {
+    "id": "vocabulary_ich_185",
+    "community": 5,
+    "degree": 2,
+    "x_fixed": -693.12,
+    "y_fixed": -149.1
+  },
+  {
+    "id": "vocabulary_ich_60",
+    "community": 4,
+    "degree": 19,
+    "x_fixed": -687.04,
+    "y_fixed": 422.33
+  },
+  {
+    "id": "vocabulary_ich_1092",
+    "community": 5,
+    "degree": 11,
+    "x_fixed": -754.41,
+    "y_fixed": -89.47
+  },
+  {
+    "id": "vocabulary_ich_1292",
+    "degree": 2,
+    "x_fixed": 275.21,
+    "y_fixed": 52.46
+  },
+  {
+    "id": "vocabulary_ich_191",
+    "community": 0,
+    "degree": 2,
+    "x_fixed": 787.61,
+    "y_fixed": 167.85
+  },
+  {
+    "id": "vocabulary_ich_148",
+    "community": 10,
+    "degree": 26,
+    "x_fixed": -9.72,
+    "y_fixed": -637.72
+  },
+  {
+    "id": "vocabulary_ich_143",
+    "community": 11,
+    "degree": 3,
+    "x_fixed": 290.18,
+    "y_fixed": -736.3
+  },
+  {
+    "id": "vocabulary_ich_72",
+    "community": 4,
+    "degree": 7,
+    "x_fixed": -706.62,
+    "y_fixed": 405.23
+  },
+  {
+    "id": "vocabulary_ich_180",
+    "community": 2,
+    "degree": 12,
+    "x_fixed": 44.94,
+    "y_fixed": 932.67
+  },
+  {
+    "id": "vocabulary_ich_1202",
+    "community": 12,
+    "degree": 3,
+    "x_fixed": 566.13,
+    "y_fixed": -600.18
+  },
+  {
+    "id": "vocabulary_ich_81",
+    "community": 2,
+    "degree": 33,
+    "x_fixed": -55.25,
+    "y_fixed": 738.06
+  },
+  {
+    "id": "vocabulary_ich_4",
+    "community": 13,
+    "degree": 4,
+    "x_fixed": 782.84,
+    "y_fixed": -286.32
+  },
+  {
+    "id": "vocabulary_ich_84",
+    "community": 13,
+    "degree": 10,
+    "x_fixed": 738.61,
+    "y_fixed": -378.04
+  },
+  {
+    "id": "vocabulary_ich_123",
+    "community": 11,
+    "degree": 3,
+    "x_fixed": 280.19,
+    "y_fixed": -775.4
+  },
+  {
+    "id": "vocabulary_ich_1105",
+    "community": 12,
+    "degree": 13,
+    "x_fixed": 596.67,
+    "y_fixed": -600.2
+  },
+  {
+    "id": "vocabulary_ich_1175",
+    "degree": 3,
+    "x_fixed": 283.4,
+    "y_fixed": -498.82
+  },
+  {
+    "id": "vocabulary_ich_1",
+    "community": 0,
+    "degree": 18,
+    "x_fixed": 707.38,
+    "y_fixed": 305.32
+  },
+  {
+    "id": "vocabulary_ich_1178",
+    "degree": 3,
+    "x_fixed": 210.88,
+    "y_fixed": -100.72
+  },
+  {
+    "id": "vocabulary_ich_127",
+    "community": 5,
+    "degree": 2,
+    "x_fixed": -759.3,
+    "y_fixed": 15.68
+  },
+  {
+    "id": "vocabulary_ich_78",
+    "community": 2,
+    "degree": 27,
+    "x_fixed": -85.98,
+    "y_fixed": 829.75
+  },
+  {
+    "id": "vocabulary_ich_24",
+    "community": 2,
+    "degree": 64,
+    "x_fixed": -71.38,
+    "y_fixed": 890.41
+  },
+  {
+    "id": "vocabulary_ich_161",
+    "community": 2,
+    "degree": 5,
+    "x_fixed": 11.48,
+    "y_fixed": 942.3
+  },
+  {
+    "id": "vocabulary_ich_87",
+    "degree": 8,
+    "x_fixed": -166.56,
+    "y_fixed": -119.28
+  },
+  {
+    "id": "vocabulary_ich_1111",
+    "degree": 23,
+    "x_fixed": 100.76,
+    "y_fixed": 339.7
+  },
+  {
+    "id": "vocabulary_ich_938",
+    "degree": 6,
+    "x_fixed": -262.69,
+    "y_fixed": -327.76
+  },
+  {
+    "id": "vocabulary_ich_1210",
+    "community": 3,
+    "degree": 23,
+    "x_fixed": -263.29,
+    "y_fixed": 408.88
+  },
+  {
+    "id": "vocabulary_ich_21",
+    "community": 0,
+    "degree": 220,
+    "x_fixed": 489.19,
+    "y_fixed": -42.2
+  },
+  {
+    "id": "vocabulary_ich_1179",
+    "community": 11,
+    "degree": 12,
+    "x_fixed": 260.98,
+    "y_fixed": -748.22
+  },
+  {
+    "id": "vocabulary_ich_1115",
+    "community": 10,
+    "degree": 12,
+    "x_fixed": 87.81,
+    "y_fixed": -772.92
+  },
+  {
+    "id": "vocabulary_ich_206",
+    "community": 3,
+    "degree": 24,
+    "x_fixed": -376.45,
+    "y_fixed": 393.03
+  },
+  {
+    "id": "vocabulary_ich_90",
+    "community": 6,
+    "degree": 11,
+    "x_fixed": -514.69,
+    "y_fixed": -289.06
+  },
+  {
+    "id": "vocabulary_ich_1325",
+    "degree": 4,
+    "x_fixed": 189.53,
+    "y_fixed": 51.65
+  },
+  {
+    "id": "vocabulary_ich_113",
+    "community": 2,
+    "degree": 7,
+    "x_fixed": 89.73,
+    "y_fixed": 936.8
+  },
+  {
+    "id": "vocabulary_ich_905",
+    "degree": 2,
+    "x_fixed": 359.15,
+    "y_fixed": -316.49
+  },
+  {
+    "id": "vocabulary_ich_68",
+    "community": 0,
+    "degree": 10,
+    "x_fixed": 744.18,
+    "y_fixed": 158.4
+  },
+  {
+    "id": "vocabulary_ich_97",
+    "community": 0,
+    "degree": 15,
+    "x_fixed": 531.72,
+    "y_fixed": 134.25
+  },
+  {
+    "id": "vocabulary_ich_145",
+    "community": 11,
+    "degree": 18,
+    "x_fixed": 348.74,
+    "y_fixed": -679.43
+  },
+  {
+    "id": "vocabulary_ich_560",
+    "community": 12,
+    "degree": 9,
+    "x_fixed": 544.65,
+    "y_fixed": -482.58
+  },
+  {
+    "id": "vocabulary_ich_116",
+    "degree": 19,
+    "x_fixed": 86.71,
+    "y_fixed": 40.19
+  },
+  {
+    "id": "vocabulary_ich_106",
+    "community": 9,
+    "degree": 16,
+    "x_fixed": -90.85,
+    "y_fixed": -638.05
+  },
+  {
+    "id": "vocabulary_ich_93",
+    "degree": 17,
+    "x_fixed": 422.25,
+    "y_fixed": 213.95
+  },
+  {
+    "id": "vocabulary_ich_1110",
+    "degree": 11,
+    "x_fixed": 244.06,
+    "y_fixed": -17.84
+  },
+  {
+    "id": "vocabulary_ich_1321",
+    "community": 13,
+    "degree": 12,
+    "x_fixed": 608.96,
+    "y_fixed": -292.26
+  },
+  {
+    "id": "vocabulary_ich_111",
+    "community": 8,
+    "degree": 18,
+    "x_fixed": -241.17,
+    "y_fixed": -589.49
+  },
+  {
+    "id": "vocabulary_ich_926",
+    "degree": 2,
+    "x_fixed": 522.37,
+    "y_fixed": 102.04
+  },
+  {
+    "id": "vocabulary_ich_1089",
+    "community": 0,
+    "degree": 36,
+    "x_fixed": 653.78,
+    "y_fixed": 320.94
+  },
+  {
+    "id": "vocabulary_ich_118",
+    "community": 8,
+    "degree": 3,
+    "x_fixed": -245.43,
+    "y_fixed": -705.73
+  },
+  {
+    "id": "vocabulary_ich_1101",
+    "community": 12,
+    "degree": 7,
+    "x_fixed": 462.2,
+    "y_fixed": -444.03
+  },
+  {
+    "id": "vocabulary_ich_92",
+    "community": 0,
+    "degree": 20,
+    "x_fixed": 738.22,
+    "y_fixed": 337.94
+  },
+  {
+    "id": "vocabulary_ich_662",
+    "degree": 3,
+    "x_fixed": 178.12,
+    "y_fixed": -137.42
+  },
+  {
+    "id": "vocabulary_ich_88",
+    "community": 5,
+    "degree": 13,
+    "x_fixed": -785.69,
+    "y_fixed": -37.31
+  },
+  {
+    "id": "vocabulary_ich_179",
+    "degree": 17,
+    "x_fixed": 187.36,
+    "y_fixed": -6.52
+  },
+  {
+    "id": "vocabulary_ich_40",
+    "degree": 38,
+    "x_fixed": -86.47,
+    "y_fixed": 266.34
+  },
+  {
+    "id": "vocabulary_ich_215",
+    "community": 12,
+    "degree": 14,
+    "x_fixed": 473.66,
+    "y_fixed": -431.07
+  },
+  {
+    "id": "vocabulary_ich_128",
+    "degree": 3,
+    "x_fixed": -415.15,
+    "y_fixed": -110.05
+  },
+  {
+    "id": "vocabulary_ich_167",
+    "degree": 3,
+    "x_fixed": -89.57,
+    "y_fixed": 240.39
+  },
+  {
+    "id": "vocabulary_ich_1253",
+    "degree": 2,
+    "x_fixed": 205.05,
+    "y_fixed": -514.68
+  },
+  {
+    "id": "vocabulary_ich_178",
+    "degree": 2,
+    "x_fixed": -442.64,
+    "y_fixed": 31.97
+  },
+  {
+    "id": "vocabulary_ich_193",
+    "degree": 2,
+    "x_fixed": -264.95,
+    "y_fixed": 191.33
+  },
+  {
+    "id": "vocabulary_ich_144",
+    "degree": 6,
+    "x_fixed": -279.16,
+    "y_fixed": 114.29
+  },
+  {
+    "id": "vocabulary_ich_198",
+    "degree": 1,
+    "x_fixed": -406.46,
+    "y_fixed": -207.22
+  },
+  {
+    "id": "vocabulary_ich_187",
+    "community": 3,
+    "degree": 3,
+    "x_fixed": -561.78,
+    "y_fixed": 577.56
+  },
+  {
+    "id": "vocabulary_ich_104",
+    "community": 10,
+    "degree": 21,
+    "x_fixed": 86.66,
+    "y_fixed": -742.61
+  },
+  {
+    "id": "vocabulary_ich_166",
+    "community": 4,
+    "degree": 20,
+    "x_fixed": -462.82,
+    "y_fixed": 251.59
+  },
+  {
+    "id": "vocabulary_ich_176",
+    "community": 7,
+    "degree": 4,
+    "x_fixed": -481.31,
+    "y_fixed": -489.01
+  },
+  {
+    "id": "vocabulary_ich_1126",
+    "degree": 9,
+    "x_fixed": 84.39,
+    "y_fixed": 312.81
+  },
+  {
+    "id": "vocabulary_ich_1083",
+    "community": 12,
+    "degree": 38,
+    "x_fixed": 572.32,
+    "y_fixed": -544.86
+  },
+  {
+    "id": "vocabulary_ich_862",
+    "degree": 2,
+    "x_fixed": 167.31,
+    "y_fixed": -88.46
+  },
+  {
+    "id": "vocabulary_ich_912",
+    "community": 12,
+    "degree": 4,
+    "x_fixed": 470.21,
+    "y_fixed": -546.59
+  },
+  {
+    "id": "vocabulary_ich_204",
+    "degree": 10,
+    "x_fixed": 345.98,
+    "y_fixed": -189.3
+  },
+  {
+    "id": "vocabulary_ich_37",
+    "community": 10,
+    "degree": 58,
+    "x_fixed": 50.26,
+    "y_fixed": -399.65
+  },
+  {
+    "id": "vocabulary_ich_75",
+    "community": 2,
+    "degree": 66,
+    "x_fixed": 198.55,
+    "y_fixed": 828.22
+  },
+  {
+    "id": "vocabulary_ich_137",
+    "degree": 5,
+    "x_fixed": 331.05,
+    "y_fixed": 10.96
+  },
+  {
+    "id": "vocabulary_ich_38",
+    "community": 2,
+    "degree": 51,
+    "x_fixed": -93.8,
+    "y_fixed": 762.12
+  },
+  {
+    "id": "vocabulary_ich_947",
+    "community": 2,
+    "degree": 207,
+    "x_fixed": 165.29,
+    "y_fixed": 643.68
+  },
+  {
+    "id": "vocabulary_ich_1088",
+    "degree": 4,
+    "x_fixed": -227.77,
+    "y_fixed": 19.15
+  },
+  {
+    "id": "vocabulary_ich_129",
+    "degree": 7,
+    "x_fixed": -407.9,
+    "y_fixed": -152.67
+  },
+  {
+    "id": "vocabulary_ich_164",
+    "degree": 4,
+    "x_fixed": 236.62,
+    "y_fixed": 110.07
+  },
+  {
+    "id": "vocabulary_ich_186",
+    "community": 5,
+    "degree": 3,
+    "x_fixed": -674.24,
+    "y_fixed": -134.27
+  },
+  {
+    "id": "vocabulary_ich_141",
+    "community": 11,
+    "degree": 6,
+    "x_fixed": 269.64,
+    "y_fixed": -627.32
+  },
+  {
+    "id": "vocabulary_ich_91",
+    "community": 0,
+    "degree": 19,
+    "x_fixed": 795.67,
+    "y_fixed": 346.63
+  },
+  {
+    "id": "vocabulary_ich_1251",
+    "degree": 2,
+    "x_fixed": -160.52,
+    "y_fixed": -267.51
+  },
+  {
+    "id": "vocabulary_ich_1252",
+    "degree": 3,
+    "x_fixed": 18.78,
+    "y_fixed": -383.75
+  },
+  {
+    "id": "vocabulary_ich_1323",
+    "community": 2,
+    "degree": 11,
+    "x_fixed": 10.63,
+    "y_fixed": 405.23
+  },
+  {
+    "id": "vocabulary_ich_219",
+    "community": 10,
+    "degree": 2,
+    "x_fixed": 16.48,
+    "y_fixed": -616.84
+  },
+  {
+    "id": "vocabulary_ich_1125",
+    "community": 6,
+    "degree": 5,
+    "x_fixed": -527.26,
+    "y_fixed": -349.68
+  },
+  {
+    "id": "vocabulary_ich_99",
+    "degree": 14,
+    "x_fixed": 163.7,
+    "y_fixed": 288.45
+  },
+  {
+    "id": "vocabulary_ich_1274",
+    "community": 5,
+    "degree": 4,
+    "x_fixed": -746.83,
+    "y_fixed": 72.25
+  },
+  {
+    "id": "vocabulary_ich_125",
+    "community": 1,
+    "degree": 11,
+    "x_fixed": 442.98,
+    "y_fixed": 465.54
+  },
+  {
+    "id": "vocabulary_ich_8",
+    "degree": 7,
+    "x_fixed": -326.05,
+    "y_fixed": 79.77
+  },
+  {
+    "id": "vocabulary_ich_637",
+    "degree": 2,
+    "x_fixed": -551.71,
+    "y_fixed": -119.95
+  },
+  {
+    "id": "vocabulary_ich_1326",
+    "degree": 2,
+    "x_fixed": -39.73,
+    "y_fixed": 345.29
+  },
+  {
+    "id": "vocabulary_ich_159",
+    "degree": 4,
+    "x_fixed": -594.71,
+    "y_fixed": 22.42
+  },
+  {
+    "id": "vocabulary_ich_121",
+    "community": 2,
+    "degree": 6,
+    "x_fixed": 117.13,
+    "y_fixed": 899.43
+  },
+  {
+    "id": "vocabulary_ich_1151",
+    "degree": 4,
+    "x_fixed": 7.36,
+    "y_fixed": 214.44
+  },
+  {
+    "id": "vocabulary_ich_132",
+    "community": 11,
+    "degree": 31,
+    "x_fixed": 336.44,
+    "y_fixed": -736.25
+  },
+  {
+    "id": "vocabulary_ich_131",
+    "degree": 12,
+    "x_fixed": -217.33,
+    "y_fixed": -241.25
+  },
+  {
+    "id": "vocabulary_ich_182",
+    "degree": 5,
+    "x_fixed": -534.42,
+    "y_fixed": -27.82
+  },
+  {
+    "id": "vocabulary_ich_142",
+    "degree": 8,
+    "x_fixed": 36.89,
+    "y_fixed": -463.38
+  },
+  {
+    "id": "vocabulary_ich_149",
+    "community": 0,
+    "degree": 24,
+    "x_fixed": 443.07,
+    "y_fixed": 228.36
+  },
+  {
+    "id": "vocabulary_ich_1280",
+    "degree": 2,
+    "x_fixed": -63.14,
+    "y_fixed": -421.2
+  },
+  {
+    "id": "vocabulary_ich_199",
+    "degree": 1,
+    "x_fixed": 552.7,
+    "y_fixed": -216.28
+  },
+  {
+    "id": "vocabulary_ich_1104",
+    "community": 3,
+    "degree": 42,
+    "x_fixed": -471.16,
+    "y_fixed": 643.24
+  },
+  {
+    "id": "vocabulary_ich_146",
+    "community": 12,
+    "degree": 43,
+    "x_fixed": 429.18,
+    "y_fixed": -484.52
+  },
+  {
+    "id": "vocabulary_ich_23",
+    "community": 2,
+    "degree": 117,
+    "x_fixed": -51.71,
+    "y_fixed": 424.49
+  },
+  {
+    "id": "vocabulary_ich_194",
+    "community": 6,
+    "degree": 2,
+    "x_fixed": -649.64,
+    "y_fixed": -350.25
+  },
+  {
+    "id": "vocabulary_ich_82",
+    "community": 2,
+    "degree": 46,
+    "x_fixed": -213.99,
+    "y_fixed": 561.93
+  },
+  {
+    "id": "vocabulary_ich_35",
+    "community": 2,
+    "degree": 27,
+    "x_fixed": 117,
+    "y_fixed": 870.98
+  },
+  {
+    "id": "vocabulary_ich_2",
+    "degree": 8,
+    "x_fixed": 61.55,
+    "y_fixed": 368.33
+  },
+  {
+    "id": "vocabulary_ich_94",
+    "community": 0,
+    "degree": 81,
+    "x_fixed": 553.37,
+    "y_fixed": 201.33
+  },
+  {
+    "id": "vocabulary_ich_115",
+    "community": 0,
+    "degree": 30,
+    "x_fixed": 690.29,
+    "y_fixed": 328.58
+  },
+  {
+    "id": "vocabulary_ich_188",
+    "degree": 6,
+    "x_fixed": 494.9,
+    "y_fixed": 138.57
+  },
+  {
+    "id": "vocabulary_ich_1324",
+    "degree": 7,
+    "x_fixed": -145.75,
+    "y_fixed": -208.58
+  },
+  {
+    "id": "vocabulary_ich_15",
+    "degree": 23,
+    "x_fixed": 108.39,
+    "y_fixed": 172.95
+  },
+  {
+    "id": "vocabulary_ich_908",
+    "degree": 2,
+    "x_fixed": 223.67,
+    "y_fixed": -108.7
+  },
+  {
+    "id": "vocabulary_ich_112",
+    "degree": 4,
+    "x_fixed": 98.66,
+    "y_fixed": 302.79
+  },
+  {
+    "id": "vocabulary_ich_910",
+    "community": 8,
+    "degree": 31,
+    "x_fixed": -197.57,
+    "y_fixed": -418.54
+  },
+  {
+    "id": "vocabulary_ich_83",
+    "community": 0,
+    "degree": 19,
+    "x_fixed": 752.3,
+    "y_fixed": 365.77
+  },
+  {
+    "id": "vocabulary_ich_154",
+    "community": 6,
+    "degree": 11,
+    "x_fixed": -658.69,
+    "y_fixed": -369.52
+  },
+  {
+    "id": "vocabulary_ich_1322",
+    "community": 6,
+    "degree": 89,
+    "x_fixed": -345.04,
+    "y_fixed": -205.06
+  },
+  {
+    "id": "vocabulary_ich_399",
+    "degree": 2,
+    "x_fixed": 264.28,
+    "y_fixed": -466.76
+  },
+  {
+    "id": "vocabulary_ich_29",
+    "community": 9,
+    "degree": 3,
+    "x_fixed": -145.86,
+    "y_fixed": -620.68
+  },
+  {
+    "id": "vocabulary_ich_136",
+    "community": 8,
+    "degree": 42,
+    "x_fixed": -284.39,
+    "y_fixed": -707.02
+  },
+  {
+    "id": "vocabulary_ich_211",
+    "community": 14,
+    "degree": 15,
+    "x_fixed": 591.69,
+    "y_fixed": -92.02
+  },
+  {
+    "id": "vocabulary_ich_483",
+    "community": 5,
+    "degree": 5,
+    "x_fixed": -771.74,
+    "y_fixed": 2.94
+  },
+  {
+    "id": "vocabulary_ich_7",
+    "community": 4,
+    "degree": 26,
+    "x_fixed": -711.44,
+    "y_fixed": 370.72
+  },
+  {
+    "id": "vocabulary_ich_171",
+    "community": 8,
+    "degree": 3,
+    "x_fixed": -297.96,
+    "y_fixed": -651.33
+  },
+  {
+    "id": "vocabulary_ich_418",
+    "community": 8,
+    "degree": 13,
+    "x_fixed": -127.31,
+    "y_fixed": -507.71
+  },
+  {
+    "id": "vocabulary_ich_1108",
+    "degree": 15,
+    "x_fixed": 210.36,
+    "y_fixed": -226.3
+  },
+  {
+    "id": "vocabulary_ich_89",
+    "degree": 6,
+    "x_fixed": -260.24,
+    "y_fixed": -95.03
+  },
+  {
+    "id": "vocabulary_ich_573",
+    "degree": 2,
+    "x_fixed": -124.01,
+    "y_fixed": -74.08
+  },
+  {
+    "id": "vocabulary_ich_96",
+    "degree": 5,
+    "x_fixed": 271.64,
+    "y_fixed": 160.34
+  },
+  {
+    "id": "vocabulary_ich_80",
+    "community": 1,
+    "degree": 7,
+    "x_fixed": 489.94,
+    "y_fixed": 575.9
+  },
+  {
+    "id": "vocabulary_ich_1120",
+    "degree": 12,
+    "x_fixed": 27.48,
+    "y_fixed": -250.96
+  },
+  {
+    "id": "vocabulary_ich_147",
+    "community": 8,
+    "degree": 12,
+    "x_fixed": -194.75,
+    "y_fixed": -551.68
+  },
+  {
+    "id": "vocabulary_ich_1258",
+    "degree": 5,
+    "x_fixed": 59.45,
+    "y_fixed": -193.71
+  },
+  {
+    "id": "vocabulary_ich_195",
+    "community": 5,
+    "degree": 2,
+    "x_fixed": -771.42,
+    "y_fixed": 99.5
+  },
+  {
+    "id": "vocabulary_ich_1129",
+    "degree": 6,
+    "x_fixed": -53.64,
+    "y_fixed": 166.4
+  },
+  {
+    "id": "vocabulary_ich_331",
+    "degree": 3,
+    "x_fixed": -359.61,
+    "y_fixed": 260.45
+  },
+  {
+    "id": "vocabulary_ich_210",
+    "degree": 6,
+    "x_fixed": 182.73,
+    "y_fixed": 328.31
+  },
+  {
+    "id": "vocabulary_ich_383",
+    "community": 3,
+    "degree": 10,
+    "x_fixed": -387.36,
+    "y_fixed": 442.35
+  },
+  {
+    "id": "vocabulary_ich_169",
+    "degree": 15,
+    "x_fixed": 170.7,
+    "y_fixed": -511.39
+  },
+  {
+    "id": "vocabulary_ich_1211",
+    "community": 7,
+    "degree": 14,
+    "x_fixed": -527.01,
+    "y_fixed": -560.06
+  },
+  {
+    "id": "vocabulary_ich_119",
+    "community": 7,
+    "degree": 6,
+    "x_fixed": -524.93,
+    "y_fixed": -575.87
+  },
+  {
+    "id": "vocabulary_ich_1234",
+    "community": 1,
+    "degree": 6,
+    "x_fixed": 490.92,
+    "y_fixed": 615.53
+  },
+  {
+    "id": "vocabulary_ich_1153",
+    "community": 8,
+    "degree": 14,
+    "x_fixed": -87.94,
+    "y_fixed": -523.84
+  },
+  {
+    "id": "vocabulary_ich_100",
+    "degree": 3,
+    "x_fixed": 206.67,
+    "y_fixed": 263.06
+  },
+  {
+    "id": "vocabulary_ich_212",
+    "community": 2,
+    "degree": 9,
+    "x_fixed": -147.14,
+    "y_fixed": 850.58
+  },
+  {
+    "id": "vocabulary_ich_66",
+    "degree": 15,
+    "x_fixed": -86.11,
+    "y_fixed": 365.51
+  },
+  {
+    "id": "vocabulary_ich_71",
+    "community": 9,
+    "degree": 6,
+    "x_fixed": -52.5,
+    "y_fixed": -583.49
+  },
+  {
+    "id": "vocabulary_ich_1158",
+    "community": 0,
+    "degree": 2,
+    "x_fixed": 734.91,
+    "y_fixed": 386.48
+  },
+  {
+    "id": "vocabulary_ich_120",
+    "degree": 3,
+    "x_fixed": 209.63,
+    "y_fixed": -202.44
+  },
+  {
+    "id": "vocabulary_ich_59",
+    "degree": 4,
+    "x_fixed": -50.24,
+    "y_fixed": 70.23
+  },
+  {
+    "id": "vocabulary_ich_951",
+    "community": 5,
+    "degree": 86,
+    "x_fixed": -505.19,
+    "y_fixed": -130.29
+  },
+  {
+    "id": "vocabulary_ich_103",
+    "community": 2,
+    "degree": 10,
+    "x_fixed": 15.96,
+    "y_fixed": 831.99
+  },
+  {
+    "id": "vocabulary_ich_1278",
+    "degree": 3,
+    "x_fixed": -53.44,
+    "y_fixed": -205.35
+  },
+  {
+    "id": "vocabulary_ich_177",
+    "community": 5,
+    "degree": 33,
+    "x_fixed": -813.34,
+    "y_fixed": -40.52
+  },
+  {
+    "id": "vocabulary_ich_98",
+    "community": 8,
+    "degree": 10,
+    "x_fixed": -204.02,
+    "y_fixed": -525.58
+  },
+  {
+    "id": "vocabulary_ich_174",
+    "degree": 13,
+    "x_fixed": 352.47,
+    "y_fixed": 162.57
+  },
+  {
+    "id": "vocabulary_ich_74",
+    "community": 6,
+    "degree": 31,
+    "x_fixed": -493.98,
+    "y_fixed": -317.25
+  },
+  {
+    "id": "vocabulary_ich_138",
+    "degree": 2,
+    "x_fixed": -545.6,
+    "y_fixed": -7.82
+  },
+  {
+    "id": "vocabulary_ich_1137",
+    "degree": 5,
+    "x_fixed": 341.16,
+    "y_fixed": -380.25
+  },
+  {
+    "id": "vocabulary_ich_122",
+    "community": 11,
+    "degree": 39,
+    "x_fixed": 172.69,
+    "y_fixed": -642.46
+  },
+  {
+    "id": "vocabulary_ich_77",
+    "community": 2,
+    "degree": 87,
+    "x_fixed": -249.05,
+    "y_fixed": 644.01
+  },
+  {
+    "id": "vocabulary_ich_109",
+    "community": 4,
+    "degree": 3,
+    "x_fixed": -725.36,
+    "y_fixed": 346.67
+  },
+  {
+    "id": "vocabulary_ich_22",
+    "community": 2,
+    "degree": 38,
+    "x_fixed": -60.41,
+    "y_fixed": 803.3
+  },
+  {
+    "id": "vocabulary_ich_1157",
+    "degree": 10,
+    "x_fixed": 278.56,
+    "y_fixed": -27.92
+  },
+  {
+    "id": "vocabulary_ich_200",
+    "community": 7,
+    "degree": 6,
+    "x_fixed": -520.79,
+    "y_fixed": -587.9
+  },
+  {
+    "id": "vocabulary_ich_53",
+    "community": 5,
+    "degree": 31,
+    "x_fixed": -772.03,
+    "y_fixed": 77.04
+  },
+  {
+    "id": "vocabulary_ich_79",
+    "community": 2,
+    "degree": 48,
+    "x_fixed": -0.55,
+    "y_fixed": 903.96
+  },
+  {
+    "id": "vocabulary_ich_1135",
+    "degree": 21,
+    "x_fixed": 80.75,
+    "y_fixed": -191.84
+  },
+  {
+    "id": "vocabulary_ich_36",
+    "community": 12,
+    "degree": 32,
+    "x_fixed": 392.69,
+    "y_fixed": -259.76
+  },
+  {
+    "id": "vocabulary_ich_170",
+    "community": 12,
+    "degree": 10,
+    "x_fixed": 529.67,
+    "y_fixed": -470.21
+  },
+  {
+    "id": "vocabulary_ich_107",
+    "degree": 2,
+    "x_fixed": -186.25,
+    "y_fixed": 15.93
+  },
+  {
+    "id": "whc_1033",
+    "community": 12,
+    "degree": 1,
+    "x_fixed": 588.57,
+    "y_fixed": -620.52
+  },
+  {
+    "id": "whc_996",
+    "community": 0,
+    "degree": 1,
+    "x_fixed": 753.81,
+    "y_fixed": 310.48
+  },
+  {
+    "id": "whc_309",
+    "community": 2,
+    "degree": 1,
+    "x_fixed": 34.98,
+    "y_fixed": 756.76
+  },
+  {
+    "id": "whc_668",
+    "community": 2,
+    "degree": 1,
+    "x_fixed": 32.88,
+    "y_fixed": 918.18
+  },
+  {
+    "id": "whc_437",
+    "community": 4,
+    "degree": 2,
+    "x_fixed": -367.78,
+    "y_fixed": 518.77
+  },
+  {
+    "id": "whc_441",
+    "community": 2,
+    "degree": 1,
+    "x_fixed": 227.09,
+    "y_fixed": 794.87
+  },
+  {
+    "id": "whc_707",
+    "community": 1,
+    "degree": 1,
+    "x_fixed": 415.9,
+    "y_fixed": 598.71
+  },
+  {
+    "id": "whc_1002",
+    "community": 5,
+    "degree": 1,
+    "x_fixed": -737.41,
+    "y_fixed": -24.16
+  },
+  {
+    "id": "whc_1135",
+    "community": 8,
+    "degree": 1,
+    "x_fixed": -184.17,
+    "y_fixed": -356.53
+  },
+  {
+    "id": "whc_1540",
+    "community": 4,
+    "degree": 1,
+    "x_fixed": -643.6,
+    "y_fixed": 442.04
+  },
+  {
+    "id": "whc_95",
+    "community": 0,
+    "degree": 1,
+    "x_fixed": 762.72,
+    "y_fixed": 266.29
+  },
+  {
+    "id": "whc_97",
+    "community": 2,
+    "degree": 1,
+    "x_fixed": 10.27,
+    "y_fixed": 870.18
+  },
+  {
+    "id": "whc_1240",
+    "community": 0,
+    "degree": 2,
+    "x_fixed": 510.14,
+    "y_fixed": -154.2
+  },
+  {
+    "id": "whc_258",
+    "community": 2,
+    "degree": 1,
+    "x_fixed": 75.78,
+    "y_fixed": 927.51
+  },
+  {
+    "id": "whc_1317",
+    "community": 2,
+    "degree": 1,
+    "x_fixed": 67.7,
+    "y_fixed": 827.98
+  },
+  {
+    "id": "whc_709",
+    "community": 13,
+    "degree": 2,
+    "x_fixed": 345.34,
+    "y_fixed": 18.14
+  },
+  {
+    "id": "whc_404",
+    "community": 5,
+    "degree": 1,
+    "x_fixed": -833.82,
+    "y_fixed": 47.77
+  },
+  {
+    "id": "whc_537",
+    "community": 13,
+    "degree": 1,
+    "x_fixed": 637.58,
+    "y_fixed": -344.09
+  },
+  {
+    "id": "whc_247",
+    "community": 2,
+    "degree": 1,
+    "x_fixed": 54.69,
+    "y_fixed": 843.12
+  },
+  {
+    "id": "whc_1342",
+    "community": 1,
+    "degree": 1,
+    "x_fixed": 423.97,
+    "y_fixed": 514.29
+  },
+  {
+    "id": "whc_1406",
+    "community": 0,
+    "degree": 1,
+    "x_fixed": 562.71,
+    "y_fixed": 334.59
+  },
+  {
+    "id": "whc_955",
+    "community": 5,
+    "degree": 1,
+    "x_fixed": -559.48,
+    "y_fixed": -152.96
+  },
+  {
+    "id": "whc_1167",
+    "community": 2,
+    "degree": 1,
+    "x_fixed": -66.89,
+    "y_fixed": 847.13
+  },
+  {
+    "id": "whc_1194",
+    "community": 2,
+    "degree": 1,
+    "x_fixed": -10.21,
+    "y_fixed": 938.27
+  },
+  {
+    "id": "whc_114",
+    "community": 11,
+    "degree": 1,
+    "x_fixed": 274.98,
+    "y_fixed": -735.73
+  },
+  {
+    "id": "whc_115",
+    "community": 11,
+    "degree": 1,
+    "x_fixed": 251,
+    "y_fixed": -732.23
+  },
+  {
+    "id": "whc_1372",
+    "community": 11,
+    "degree": 1,
+    "x_fixed": 242.79,
+    "y_fixed": -753.08
+  },
+  {
+    "id": "whc_726",
+    "community": 13,
+    "degree": 1,
+    "x_fixed": 780.2,
+    "y_fixed": -251.68
+  },
+  {
+    "id": "whc_833",
+    "community": 2,
+    "degree": 1,
+    "x_fixed": 79.96,
+    "y_fixed": 907.61
+  },
+  {
+    "id": "whc_1356",
+    "community": 3,
+    "degree": 1,
+    "x_fixed": -463.6,
+    "y_fixed": 606.45
+  },
+  {
+    "id": "whc_775",
+    "community": 13,
+    "degree": 1,
+    "x_fixed": 515.65,
+    "y_fixed": -315.84
+  },
+  {
+    "id": "whc_1193",
+    "community": 8,
+    "degree": 1,
+    "x_fixed": -300.66,
+    "y_fixed": -668.29
+  },
+  {
+    "id": "whc_326",
+    "community": 9,
+    "degree": 1,
+    "x_fixed": -129.91,
+    "y_fixed": -480.29
+  },
+  {
+    "id": "whc_1377",
+    "community": 9,
+    "degree": 1,
+    "x_fixed": -143.77,
+    "y_fixed": -495.14
+  },
+  {
+    "id": "whc_1231",
+    "community": 3,
+    "degree": 1,
+    "x_fixed": -425.81,
+    "y_fixed": 583.25
+  },
+  {
+    "id": "whc_631",
+    "community": 14,
+    "degree": 1,
+    "x_fixed": 801.44,
+    "y_fixed": -93.38
+  },
+  {
+    "id": "whc_1382",
+    "community": 3,
+    "degree": 1,
+    "x_fixed": -305.8,
+    "y_fixed": 387.78
+  },
+  {
+    "id": "whc_1440",
+    "community": 3,
+    "degree": 1,
+    "x_fixed": -315.25,
+    "y_fixed": 369.81
+  },
+  {
+    "id": "whc_331",
+    "community": 3,
+    "degree": 1,
+    "x_fixed": -495.28,
+    "y_fixed": 608.53
+  },
+  {
+    "id": "whc_818",
+    "community": 5,
+    "degree": 1,
+    "x_fixed": -758.89,
+    "y_fixed": -107.18
+  },
+  {
+    "id": "whc_402",
+    "community": 7,
+    "degree": 1,
+    "x_fixed": -337.3,
+    "y_fixed": -301.25
+  },
+  {
+    "id": "whc_1016",
+    "community": 7,
+    "degree": 1,
+    "x_fixed": -331.04,
+    "y_fixed": -322.28
+  },
+  {
+    "id": "whc_722",
+    "community": 4,
+    "degree": 1,
+    "x_fixed": -602.86,
+    "y_fixed": 416.3
+  },
+  {
+    "id": "whc_738",
+    "community": 6,
+    "degree": 1,
+    "x_fixed": -451.54,
+    "y_fixed": -168.33
+  },
+  {
+    "id": "whc_1264",
+    "community": 12,
+    "degree": 2,
+    "x_fixed": 571.26,
+    "y_fixed": -312.73
+  },
+  {
+    "id": "whc_597",
+    "community": 5,
+    "degree": 1,
+    "x_fixed": -795.33,
+    "y_fixed": 6.97
+  },
+  {
+    "id": "whc_1299",
+    "community": 4,
+    "degree": 1,
+    "x_fixed": -630.97,
+    "y_fixed": 457.93
+  },
+  {
+    "id": "whc_313",
+    "community": 11,
+    "degree": 1,
+    "x_fixed": 319.96,
+    "y_fixed": -500.66
+  },
+  {
+    "id": "whc_383",
+    "community": 14,
+    "degree": 1,
+    "x_fixed": 420.23,
+    "y_fixed": -142.63
+  },
+  {
+    "id": "whc_930",
+    "community": 7,
+    "degree": 1,
+    "x_fixed": -231.19,
+    "y_fixed": -254.01
+  },
+  {
+    "id": "whc_1243",
+    "community": 13,
+    "degree": 1,
+    "x_fixed": 676.71,
+    "y_fixed": -175.43
+  },
+  {
+    "id": "whc_1366",
+    "community": 12,
+    "degree": 1,
+    "x_fixed": 568.95,
+    "y_fixed": -615.25
+  },
+  {
+    "id": "whc_1022",
+    "community": 5,
+    "degree": 1,
+    "x_fixed": -678.14,
+    "y_fixed": -149.07
+  },
+  {
+    "id": "whc_1343",
+    "community": 2,
+    "degree": 1,
+    "x_fixed": -188.87,
+    "y_fixed": 762.04
+  },
+  {
+    "id": "whc_385",
+    "community": 2,
+    "degree": 1,
+    "x_fixed": -128.56,
+    "y_fixed": 477.38
+  },
+  {
+    "id": "whc_1442",
+    "community": 11,
+    "degree": 1,
+    "x_fixed": 146.82,
+    "y_fixed": -576.74
+  },
+  {
+    "id": "element_2",
+    "community": 0,
+    "degree": 22,
+    "x_fixed": 185.64,
+    "y_fixed": 106.6
+  },
+  {
+    "id": "element_3",
+    "community": 0,
+    "degree": 17,
+    "x_fixed": 677.94,
+    "y_fixed": 188.4
+  },
+  {
+    "id": "element_4",
+    "community": 1,
+    "degree": 14,
+    "x_fixed": 368.6,
+    "y_fixed": 593.3
+  },
+  {
+    "id": "element_5",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": 98.04,
+    "y_fixed": 731.93
+  },
+  {
+    "id": "element_6",
+    "community": 3,
+    "degree": 14,
+    "x_fixed": -176.03,
+    "y_fixed": 391.1
+  },
+  {
+    "id": "element_7",
+    "community": 3,
+    "degree": 21,
+    "x_fixed": -497.09,
+    "y_fixed": 484.9
+  },
+  {
+    "id": "element_8",
+    "community": 2,
+    "degree": 11,
+    "x_fixed": 163.01,
+    "y_fixed": 386
+  },
+  {
+    "id": "element_9",
+    "community": 4,
+    "degree": 17,
+    "x_fixed": -317.8,
+    "y_fixed": 407.8
+  },
+  {
+    "id": "element_10",
+    "community": 5,
+    "degree": 15,
+    "x_fixed": -277.64,
+    "y_fixed": 204.12
+  },
+  {
+    "id": "element_11",
+    "community": 1,
+    "degree": 14,
+    "x_fixed": 438.96,
+    "y_fixed": 532.2
+  },
+  {
+    "id": "element_12",
+    "community": 0,
+    "degree": 16,
+    "x_fixed": 383.12,
+    "y_fixed": 338.66
+  },
+  {
+    "id": "element_13",
+    "community": 5,
+    "degree": 17,
+    "x_fixed": -728.29,
+    "y_fixed": 69.46
+  },
+  {
+    "id": "element_14",
+    "community": 3,
+    "degree": 16,
+    "x_fixed": -474.68,
+    "y_fixed": 542.78
+  },
+  {
+    "id": "element_15",
+    "community": 4,
+    "degree": 19,
+    "x_fixed": -518.82,
+    "y_fixed": 469.89
+  },
+  {
+    "id": "element_16",
+    "community": 6,
+    "degree": 16,
+    "x_fixed": -361.95,
+    "y_fixed": -104.96
+  },
+  {
+    "id": "element_17",
+    "community": 0,
+    "degree": 14,
+    "x_fixed": 308.87,
+    "y_fixed": 240.08
+  },
+  {
+    "id": "element_18",
+    "community": 7,
+    "degree": 16,
+    "x_fixed": -153.37,
+    "y_fixed": -134.71
+  },
+  {
+    "id": "element_19",
+    "community": 3,
+    "degree": 19,
+    "x_fixed": -464.32,
+    "y_fixed": 518.51
+  },
+  {
+    "id": "element_1",
+    "community": 2,
+    "degree": 20,
+    "x_fixed": -187.72,
+    "y_fixed": 524.74
+  },
+  {
+    "id": "element_37",
+    "community": 2,
+    "degree": 13,
+    "x_fixed": 165.54,
+    "y_fixed": 768.01
+  },
+  {
+    "id": "element_39",
+    "community": 0,
+    "degree": 16,
+    "x_fixed": 674.91,
+    "y_fixed": 240.39
+  },
+  {
+    "id": "element_43",
+    "community": 4,
+    "degree": 15,
+    "x_fixed": -655.89,
+    "y_fixed": 329.5
+  },
+  {
+    "id": "element_46",
+    "community": 3,
+    "degree": 19,
+    "x_fixed": -355.55,
+    "y_fixed": 538.68
+  },
+  {
+    "id": "element_52",
+    "community": 7,
+    "degree": 18,
+    "x_fixed": -464.12,
+    "y_fixed": -554.89
+  },
+  {
+    "id": "element_54",
+    "community": 4,
+    "degree": 18,
+    "x_fixed": -612.41,
+    "y_fixed": 386.75
+  },
+  {
+    "id": "element_56",
+    "community": 0,
+    "degree": 17,
+    "x_fixed": 539.71,
+    "y_fixed": 330.56
+  },
+  {
+    "id": "element_57",
+    "community": 2,
+    "degree": 10,
+    "x_fixed": 29.94,
+    "y_fixed": 632.26
+  },
+  {
+    "id": "element_58",
+    "community": 3,
+    "degree": 19,
+    "x_fixed": -445.09,
+    "y_fixed": 544
+  },
+  {
+    "id": "element_59",
+    "community": 6,
+    "degree": 15,
+    "x_fixed": -260.1,
+    "y_fixed": -174.84
+  },
+  {
+    "id": "element_64",
+    "community": 2,
+    "degree": 19,
+    "x_fixed": -2.03,
+    "y_fixed": 822.9
+  },
+  {
+    "id": "element_65",
+    "community": 2,
+    "degree": 9,
+    "x_fixed": 73.95,
+    "y_fixed": 580.62
+  },
+  {
+    "id": "element_66",
+    "community": 8,
+    "degree": 16,
+    "x_fixed": -256.7,
+    "y_fixed": -114.18
+  },
+  {
+    "id": "element_67",
+    "community": 1,
+    "degree": 19,
+    "x_fixed": 492.13,
+    "y_fixed": 509.23
+  },
+  {
+    "id": "element_68",
+    "community": 1,
+    "degree": 15,
+    "x_fixed": 433.72,
+    "y_fixed": 558.07
+  },
+  {
+    "id": "element_69",
+    "community": 4,
+    "degree": 16,
+    "x_fixed": -463.51,
+    "y_fixed": 440.81
+  },
+  {
+    "id": "element_72",
+    "community": 2,
+    "degree": 18,
+    "x_fixed": 37.46,
+    "y_fixed": 776.11
+  },
+  {
+    "id": "element_74",
+    "community": 4,
+    "degree": 13,
+    "x_fixed": -503.27,
+    "y_fixed": 448.56
+  },
+  {
+    "id": "element_76",
+    "community": 2,
+    "degree": 15,
+    "x_fixed": 81.43,
+    "y_fixed": 715.02
+  },
+  {
+    "id": "element_77",
+    "community": 4,
+    "degree": 17,
+    "x_fixed": -721.32,
+    "y_fixed": 436.99
+  },
+  {
+    "id": "element_78",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": 119.26,
+    "y_fixed": 744.39
+  },
+  {
+    "id": "element_80",
+    "community": 4,
+    "degree": 14,
+    "x_fixed": -520.96,
+    "y_fixed": 496.19
+  },
+  {
+    "id": "element_81",
+    "community": 2,
+    "degree": 13,
+    "x_fixed": 67.59,
+    "y_fixed": 807.41
+  },
+  {
+    "id": "element_82",
+    "community": 2,
+    "degree": 11,
+    "x_fixed": -11.11,
+    "y_fixed": 488.93
+  },
+  {
+    "id": "element_85",
+    "community": 5,
+    "degree": 18,
+    "x_fixed": -743.93,
+    "y_fixed": 1.99
+  },
+  {
+    "id": "element_87",
+    "community": 2,
+    "degree": 17,
+    "x_fixed": -122.94,
+    "y_fixed": 440.46
+  },
+  {
+    "id": "element_92",
+    "community": 2,
+    "degree": 12,
+    "x_fixed": -64.22,
+    "y_fixed": 706.93
+  },
+  {
+    "id": "element_94",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": 91.25,
+    "y_fixed": 797.59
+  },
+  {
+    "id": "element_100",
+    "community": 2,
+    "degree": 17,
+    "x_fixed": 98.73,
+    "y_fixed": 893.78
+  },
+  {
+    "id": "element_103",
+    "community": 2,
+    "degree": 8,
+    "x_fixed": -4.79,
+    "y_fixed": 748.38
+  },
+  {
+    "id": "element_107",
+    "community": 3,
+    "degree": 12,
+    "x_fixed": -322.47,
+    "y_fixed": 679.32
+  },
+  {
+    "id": "element_108",
+    "community": 9,
+    "degree": 16,
+    "x_fixed": 2.54,
+    "y_fixed": -392.37
+  },
+  {
+    "id": "element_178",
+    "community": 6,
+    "degree": 18,
+    "x_fixed": -460.03,
+    "y_fixed": -357.36
+  },
+  {
+    "id": "element_109",
+    "community": 2,
+    "degree": 18,
+    "x_fixed": 47.42,
+    "y_fixed": 582.38
+  },
+  {
+    "id": "element_110",
+    "community": 3,
+    "degree": 16,
+    "x_fixed": -433.1,
+    "y_fixed": 520.49
+  },
+  {
+    "id": "element_111",
+    "community": 9,
+    "degree": 18,
+    "x_fixed": -239.89,
+    "y_fixed": -564.72
+  },
+  {
+    "id": "element_112",
+    "community": 1,
+    "degree": 17,
+    "x_fixed": 352.26,
+    "y_fixed": 508.98
+  },
+  {
+    "id": "element_115",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": 144.31,
+    "y_fixed": 752.97
+  },
+  {
+    "id": "element_116",
+    "community": 1,
+    "degree": 21,
+    "x_fixed": 457.98,
+    "y_fixed": 513.9
+  },
+  {
+    "id": "element_117",
+    "community": 2,
+    "degree": 15,
+    "x_fixed": -197.8,
+    "y_fixed": 623.94
+  },
+  {
+    "id": "element_118",
+    "community": 4,
+    "degree": 17,
+    "x_fixed": -337.17,
+    "y_fixed": 360.4
+  },
+  {
+    "id": "element_119",
+    "community": 1,
+    "degree": 16,
+    "x_fixed": 304.6,
+    "y_fixed": 530.28
+  },
+  {
+    "id": "element_120",
+    "community": 10,
+    "degree": 19,
+    "x_fixed": -111.3,
+    "y_fixed": -551.72
+  },
+  {
+    "id": "element_122",
+    "community": 8,
+    "degree": 21,
+    "x_fixed": 64.23,
+    "y_fixed": -212.21
+  },
+  {
+    "id": "element_166",
+    "community": 7,
+    "degree": 12,
+    "x_fixed": -261.73,
+    "y_fixed": -202.21
+  },
+  {
+    "id": "element_167",
+    "community": 4,
+    "degree": 18,
+    "x_fixed": -490.03,
+    "y_fixed": 510.32
+  },
+  {
+    "id": "element_123",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": 117.09,
+    "y_fixed": 794.86
+  },
+  {
+    "id": "element_128",
+    "community": 10,
+    "degree": 15,
+    "x_fixed": -66.61,
+    "y_fixed": -312.21
+  },
+  {
+    "id": "element_129",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": 62.4,
+    "y_fixed": 783.48
+  },
+  {
+    "id": "element_130",
+    "community": 9,
+    "degree": 17,
+    "x_fixed": -167.4,
+    "y_fixed": -372.79
+  },
+  {
+    "id": "element_132",
+    "community": 4,
+    "degree": 9,
+    "x_fixed": -624.44,
+    "y_fixed": 310.5
+  },
+  {
+    "id": "element_140",
+    "community": 3,
+    "degree": 18,
+    "x_fixed": -500.65,
+    "y_fixed": 547.45
+  },
+  {
+    "id": "element_141",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": 229.33,
+    "y_fixed": 734.61
+  },
+  {
+    "id": "element_147",
+    "community": 5,
+    "degree": 20,
+    "x_fixed": -590.15,
+    "y_fixed": -164.25
+  },
+  {
+    "id": "element_148",
+    "community": 7,
+    "degree": 16,
+    "x_fixed": -170.39,
+    "y_fixed": -282.57
+  },
+  {
+    "id": "element_150",
+    "community": 7,
+    "degree": 23,
+    "x_fixed": -361.96,
+    "y_fixed": -489.13
+  },
+  {
+    "id": "element_151",
+    "community": 7,
+    "degree": 23,
+    "x_fixed": -451.71,
+    "y_fixed": -523.03
+  },
+  {
+    "id": "element_152",
+    "community": 0,
+    "degree": 17,
+    "x_fixed": 429.45,
+    "y_fixed": 326.05
+  },
+  {
+    "id": "element_153",
+    "community": 4,
+    "degree": 13,
+    "x_fixed": -529.76,
+    "y_fixed": 445.87
+  },
+  {
+    "id": "element_154",
+    "community": 6,
+    "degree": 16,
+    "x_fixed": -238.41,
+    "y_fixed": -189.89
+  },
+  {
+    "id": "element_155",
+    "community": 6,
+    "degree": 14,
+    "x_fixed": -363.17,
+    "y_fixed": -65.63
+  },
+  {
+    "id": "element_161",
+    "community": 0,
+    "degree": 16,
+    "x_fixed": 725.21,
+    "y_fixed": 137.07
+  },
+  {
+    "id": "element_163",
+    "community": 2,
+    "degree": 10,
+    "x_fixed": 64.12,
+    "y_fixed": 889.77
+  },
+  {
+    "id": "element_164",
+    "community": 8,
+    "degree": 17,
+    "x_fixed": 135.37,
+    "y_fixed": -233.9
+  },
+  {
+    "id": "element_169",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": 49.67,
+    "y_fixed": 231.38
+  },
+  {
+    "id": "element_171",
+    "community": 1,
+    "degree": 15,
+    "x_fixed": 464.65,
+    "y_fixed": 575.4
+  },
+  {
+    "id": "element_173",
+    "community": 2,
+    "degree": 15,
+    "x_fixed": 31.52,
+    "y_fixed": 844.53
+  },
+  {
+    "id": "element_174",
+    "community": 11,
+    "degree": 14,
+    "x_fixed": 202.75,
+    "y_fixed": -688.99
+  },
+  {
+    "id": "element_175",
+    "community": 1,
+    "degree": 20,
+    "x_fixed": 272.35,
+    "y_fixed": 495.74
+  },
+  {
+    "id": "element_176",
+    "community": 9,
+    "degree": 17,
+    "x_fixed": -137.15,
+    "y_fixed": -421.37
+  },
+  {
+    "id": "element_177",
+    "community": 8,
+    "degree": 16,
+    "x_fixed": -216.64,
+    "y_fixed": -552.23
+  },
+  {
+    "id": "element_180",
+    "community": 2,
+    "degree": 14,
+    "x_fixed": 190.81,
+    "y_fixed": 535.43
+  },
+  {
+    "id": "element_181",
+    "community": 8,
+    "degree": 19,
+    "x_fixed": -249.26,
+    "y_fixed": -629.06
+  },
+  {
+    "id": "element_182",
+    "community": 2,
+    "degree": 14,
+    "x_fixed": -20.15,
+    "y_fixed": 840.66
+  },
+  {
+    "id": "element_183",
+    "community": 6,
+    "degree": 10,
+    "x_fixed": -674.89,
+    "y_fixed": -386.27
+  },
+  {
+    "id": "element_184",
+    "community": 4,
+    "degree": 12,
+    "x_fixed": -738.02,
+    "y_fixed": 360.01
+  },
+  {
+    "id": "element_185",
+    "community": 5,
+    "degree": 14,
+    "x_fixed": -562.86,
+    "y_fixed": -2.36
+  },
+  {
+    "id": "element_186",
+    "community": 2,
+    "degree": 15,
+    "x_fixed": 144.24,
+    "y_fixed": 782.87
+  },
+  {
+    "id": "element_189",
+    "community": 2,
+    "degree": 19,
+    "x_fixed": 67.98,
+    "y_fixed": 694.83
+  },
+  {
+    "id": "element_193",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": 188.64,
+    "y_fixed": 780.49
+  },
+  {
+    "id": "element_195",
+    "community": 0,
+    "degree": 21,
+    "x_fixed": 674.91,
+    "y_fixed": 271.75
+  },
+  {
+    "id": "element_196",
+    "community": 0,
+    "degree": 15,
+    "x_fixed": 653.05,
+    "y_fixed": 287.82
+  },
+  {
+    "id": "element_197",
+    "community": 8,
+    "degree": 13,
+    "x_fixed": -214,
+    "y_fixed": -578.5
+  },
+  {
+    "id": "element_199",
+    "community": 0,
+    "degree": 20,
+    "x_fixed": 739.74,
+    "y_fixed": 263.35
+  },
+  {
+    "id": "element_200",
+    "community": 11,
+    "degree": 19,
+    "x_fixed": 229.1,
+    "y_fixed": -687.39
+  },
+  {
+    "id": "element_201",
+    "community": 3,
+    "degree": 16,
+    "x_fixed": -243.85,
+    "y_fixed": 334.12
+  },
+  {
+    "id": "element_202",
+    "community": 8,
+    "degree": 13,
+    "x_fixed": -242.43,
+    "y_fixed": -483.79
+  },
+  {
+    "id": "element_203",
+    "community": 4,
+    "degree": 19,
+    "x_fixed": -368.12,
+    "y_fixed": 450.54
+  },
+  {
+    "id": "element_204",
+    "community": 1,
+    "degree": 18,
+    "x_fixed": 503.91,
+    "y_fixed": 534.89
+  },
+  {
+    "id": "element_206",
+    "community": 2,
+    "degree": 12,
+    "x_fixed": 189.05,
+    "y_fixed": 436.71
+  },
+  {
+    "id": "element_207",
+    "community": 2,
+    "degree": 14,
+    "x_fixed": 38.14,
+    "y_fixed": 895.74
+  },
+  {
+    "id": "element_208",
+    "community": 8,
+    "degree": 17,
+    "x_fixed": 25.29,
+    "y_fixed": -159.69
+  },
+  {
+    "id": "element_210",
+    "community": 0,
+    "degree": 21,
+    "x_fixed": 290.76,
+    "y_fixed": 61.57
+  },
+  {
+    "id": "element_211",
+    "community": 0,
+    "degree": 23,
+    "x_fixed": 633.13,
+    "y_fixed": -68.15
+  },
+  {
+    "id": "element_212",
+    "community": 8,
+    "degree": 19,
+    "x_fixed": -218.24,
+    "y_fixed": -604.56
+  },
+  {
+    "id": "element_213",
+    "community": 8,
+    "degree": 18,
+    "x_fixed": -68.91,
+    "y_fixed": -345.61
+  },
+  {
+    "id": "element_215",
+    "community": 0,
+    "degree": 24,
+    "x_fixed": 677.76,
+    "y_fixed": 297.92
+  },
+  {
+    "id": "element_218",
+    "community": 11,
+    "degree": 20,
+    "x_fixed": 59.22,
+    "y_fixed": -515.5
+  },
+  {
+    "id": "element_220",
+    "community": 2,
+    "degree": 20,
+    "x_fixed": 62.61,
+    "y_fixed": 601.21
+  },
+  {
+    "id": "element_221",
+    "community": 11,
+    "degree": 18,
+    "x_fixed": 213.36,
+    "y_fixed": -713.12
+  },
+  {
+    "id": "element_222",
+    "community": 5,
+    "degree": 18,
+    "x_fixed": -666.4,
+    "y_fixed": -31.35
+  },
+  {
+    "id": "element_223",
+    "community": 1,
+    "degree": 18,
+    "x_fixed": 328.81,
+    "y_fixed": 542.36
+  },
+  {
+    "id": "element_224",
+    "community": 4,
+    "degree": 21,
+    "x_fixed": -556.02,
+    "y_fixed": 448.53
+  },
+  {
+    "id": "element_225",
+    "community": 5,
+    "degree": 20,
+    "x_fixed": -620.35,
+    "y_fixed": -13.89
+  },
+  {
+    "id": "element_227",
+    "community": 5,
+    "degree": 13,
+    "x_fixed": -751.32,
+    "y_fixed": 54.07
+  },
+  {
+    "id": "element_228",
+    "community": 1,
+    "degree": 18,
+    "x_fixed": 322.84,
+    "y_fixed": 568.07
+  },
+  {
+    "id": "element_229",
+    "community": 4,
+    "degree": 18,
+    "x_fixed": -430.74,
+    "y_fixed": 477.77
+  },
+  {
+    "id": "element_230",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": -105.12,
+    "y_fixed": 378.87
+  },
+  {
+    "id": "element_231",
+    "community": 2,
+    "degree": 11,
+    "x_fixed": 83.84,
+    "y_fixed": 872.67
+  },
+  {
+    "id": "element_232",
+    "community": 8,
+    "degree": 19,
+    "x_fixed": -142.85,
+    "y_fixed": -240.96
+  },
+  {
+    "id": "element_235",
+    "community": 5,
+    "degree": 18,
+    "x_fixed": -784,
+    "y_fixed": 111.75
+  },
+  {
+    "id": "element_320",
+    "community": 11,
+    "degree": 13,
+    "x_fixed": 260.59,
+    "y_fixed": -770.07
+  },
+  {
+    "id": "element_321",
+    "community": 5,
+    "degree": 11,
+    "x_fixed": -714.41,
+    "y_fixed": -60.67
+  },
+  {
+    "id": "element_236",
+    "community": 5,
+    "degree": 17,
+    "x_fixed": -835.98,
+    "y_fixed": 18.42
+  },
+  {
+    "id": "element_238",
+    "community": 5,
+    "degree": 16,
+    "x_fixed": -429.47,
+    "y_fixed": -154.18
+  },
+  {
+    "id": "element_242",
+    "community": 5,
+    "degree": 18,
+    "x_fixed": -639.46,
+    "y_fixed": 11.67
+  },
+  {
+    "id": "element_244",
+    "community": 0,
+    "degree": 21,
+    "x_fixed": 778.84,
+    "y_fixed": 283.22
+  },
+  {
+    "id": "element_246",
+    "community": 0,
+    "degree": 22,
+    "x_fixed": 632.1,
+    "y_fixed": 183.29
+  },
+  {
+    "id": "element_248",
+    "community": 5,
+    "degree": 22,
+    "x_fixed": -720.04,
+    "y_fixed": -8.65
+  },
+  {
+    "id": "element_250",
+    "community": 2,
+    "degree": 17,
+    "x_fixed": 46.46,
+    "y_fixed": 823.68
+  },
+  {
+    "id": "element_251",
+    "community": 0,
+    "degree": 18,
+    "x_fixed": 700.46,
+    "y_fixed": 175.4
+  },
+  {
+    "id": "element_252",
+    "community": 5,
+    "degree": 18,
+    "x_fixed": -748.23,
+    "y_fixed": 116.74
+  },
+  {
+    "id": "element_254",
+    "community": 8,
+    "degree": 20,
+    "x_fixed": 90.61,
+    "y_fixed": -249.59
+  },
+  {
+    "id": "element_260",
+    "community": 0,
+    "degree": 16,
+    "x_fixed": 601.93,
+    "y_fixed": 2.15
+  },
+  {
+    "id": "element_261",
+    "community": 6,
+    "degree": 22,
+    "x_fixed": -190.72,
+    "y_fixed": -155.51
+  },
+  {
+    "id": "element_322",
+    "community": 14,
+    "degree": 13,
+    "x_fixed": 824.6,
+    "y_fixed": -96.5
+  },
+  {
+    "id": "element_263",
+    "community": 11,
+    "degree": 20,
+    "x_fixed": 367.16,
+    "y_fixed": -445.14
+  },
+  {
+    "id": "element_265",
+    "community": 11,
+    "degree": 17,
+    "x_fixed": 265.96,
+    "y_fixed": -714.34
+  },
+  {
+    "id": "element_266",
+    "community": 5,
+    "degree": 15,
+    "x_fixed": -680.53,
+    "y_fixed": 75.86
+  },
+  {
+    "id": "element_267",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": 57.93,
+    "y_fixed": 673.03
+  },
+  {
+    "id": "element_268",
+    "community": 11,
+    "degree": 17,
+    "x_fixed": 306.54,
+    "y_fixed": -744.08
+  },
+  {
+    "id": "element_270",
+    "community": 2,
+    "degree": 14,
+    "x_fixed": -23.24,
+    "y_fixed": 690.49
+  },
+  {
+    "id": "element_271",
+    "community": 0,
+    "degree": 17,
+    "x_fixed": 677.21,
+    "y_fixed": 158.25
+  },
+  {
+    "id": "element_273",
+    "community": 1,
+    "degree": 17,
+    "x_fixed": 288.07,
+    "y_fixed": 569.88
+  },
+  {
+    "id": "element_274",
+    "community": 11,
+    "degree": 17,
+    "x_fixed": 79.56,
+    "y_fixed": -532.31
+  },
+  {
+    "id": "element_278",
+    "community": 6,
+    "degree": 17,
+    "x_fixed": -287.36,
+    "y_fixed": -225.28
+  },
+  {
+    "id": "element_279",
+    "community": 6,
+    "degree": 16,
+    "x_fixed": -404.72,
+    "y_fixed": -349.39
+  },
+  {
+    "id": "element_280",
+    "community": 0,
+    "degree": 20,
+    "x_fixed": 406.92,
+    "y_fixed": 312.3
+  },
+  {
+    "id": "element_281",
+    "community": 6,
+    "degree": 17,
+    "x_fixed": -436.59,
+    "y_fixed": -371.02
+  },
+  {
+    "id": "element_282",
+    "community": 8,
+    "degree": 23,
+    "x_fixed": -193.56,
+    "y_fixed": -595.2
+  },
+  {
+    "id": "element_283",
+    "community": 7,
+    "degree": 15,
+    "x_fixed": -450.93,
+    "y_fixed": -303.12
+  },
+  {
+    "id": "element_285",
+    "community": 8,
+    "degree": 16,
+    "x_fixed": -275.16,
+    "y_fixed": -615.06
+  },
+  {
+    "id": "element_286",
+    "community": 2,
+    "degree": 17,
+    "x_fixed": 116.4,
+    "y_fixed": 821.15
+  },
+  {
+    "id": "element_288",
+    "community": 8,
+    "degree": 22,
+    "x_fixed": 103.03,
+    "y_fixed": -205.69
+  },
+  {
+    "id": "element_289",
+    "community": 8,
+    "degree": 16,
+    "x_fixed": -112.92,
+    "y_fixed": -28.4
+  },
+  {
+    "id": "element_290",
+    "community": 6,
+    "degree": 9,
+    "x_fixed": -582.09,
+    "y_fixed": -344.59
+  },
+  {
+    "id": "element_291",
+    "community": 12,
+    "degree": 21,
+    "x_fixed": 212.99,
+    "y_fixed": -367.39
+  },
+  {
+    "id": "element_292",
+    "community": 11,
+    "degree": 21,
+    "x_fixed": 292.1,
+    "y_fixed": -718.07
+  },
+  {
+    "id": "element_293",
+    "community": 5,
+    "degree": 16,
+    "x_fixed": -725.53,
+    "y_fixed": 43.5
+  },
+  {
+    "id": "element_294",
+    "community": 1,
+    "degree": 17,
+    "x_fixed": 280.59,
+    "y_fixed": 541.32
+  },
+  {
+    "id": "element_295",
+    "community": 0,
+    "degree": 21,
+    "x_fixed": 749.53,
+    "y_fixed": 178.63
+  },
+  {
+    "id": "element_296",
+    "community": 8,
+    "degree": 16,
+    "x_fixed": -20.11,
+    "y_fixed": -351.45
+  },
+  {
+    "id": "element_297",
+    "community": 8,
+    "degree": 18,
+    "x_fixed": -173.49,
+    "y_fixed": -73
+  },
+  {
+    "id": "element_298",
+    "community": 4,
+    "degree": 22,
+    "x_fixed": -470.73,
+    "y_fixed": 485.96
+  },
+  {
+    "id": "element_299",
+    "community": 2,
+    "degree": 20,
+    "x_fixed": 45.15,
+    "y_fixed": 736.82
+  },
+  {
+    "id": "element_300",
+    "community": 2,
+    "degree": 18,
+    "x_fixed": 22.38,
+    "y_fixed": 814.9
+  },
+  {
+    "id": "element_301",
+    "community": 3,
+    "degree": 23,
+    "x_fixed": -411.64,
+    "y_fixed": 505.12
+  },
+  {
+    "id": "element_302",
+    "community": 3,
+    "degree": 16,
+    "x_fixed": -448.54,
+    "y_fixed": 588.6
+  },
+  {
+    "id": "element_303",
+    "community": 2,
+    "degree": 19,
+    "x_fixed": 33.12,
+    "y_fixed": 870.13
+  },
+  {
+    "id": "element_324",
+    "community": 2,
+    "degree": 12,
+    "x_fixed": 4.6,
+    "y_fixed": 848.31
+  },
+  {
+    "id": "element_325",
+    "community": 5,
+    "degree": 20,
+    "x_fixed": -691.16,
+    "y_fixed": -72.97
+  },
+  {
+    "id": "element_326",
+    "community": 5,
+    "degree": 20,
+    "x_fixed": -695.89,
+    "y_fixed": 17.96
+  },
+  {
+    "id": "element_362",
+    "community": 8,
+    "degree": 22,
+    "x_fixed": -142.92,
+    "y_fixed": -271.49
+  },
+  {
+    "id": "element_365",
+    "community": 2,
+    "degree": 21,
+    "x_fixed": 21.16,
+    "y_fixed": 741.28
+  },
+  {
+    "id": "element_370",
+    "community": 1,
+    "degree": 22,
+    "x_fixed": 375.38,
+    "y_fixed": 442.75
+  },
+  {
+    "id": "element_381",
+    "community": 10,
+    "degree": 18,
+    "x_fixed": 94.37,
+    "y_fixed": -675.37
+  },
+  {
+    "id": "element_382",
+    "community": 12,
+    "degree": 17,
+    "x_fixed": 559.27,
+    "y_fixed": -368.66
+  },
+  {
+    "id": "element_383",
+    "community": 2,
+    "degree": 14,
+    "x_fixed": 166.22,
+    "y_fixed": 794.43
+  },
+  {
+    "id": "element_384",
+    "community": 2,
+    "degree": 15,
+    "x_fixed": -119.25,
+    "y_fixed": 792.93
+  },
+  {
+    "id": "element_385",
+    "community": 2,
+    "degree": 11,
+    "x_fixed": -28.89,
+    "y_fixed": 816.2
+  },
+  {
+    "id": "element_388",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": 56.19,
+    "y_fixed": 647.89
+  },
+  {
+    "id": "element_389",
+    "community": 3,
+    "degree": 10,
+    "x_fixed": -100.13,
+    "y_fixed": 190.65
+  },
+  {
+    "id": "element_397",
+    "community": 2,
+    "degree": 18,
+    "x_fixed": 42.7,
+    "y_fixed": 693.8
+  },
+  {
+    "id": "element_402",
+    "community": 6,
+    "degree": 21,
+    "x_fixed": -183.56,
+    "y_fixed": 128.43
+  },
+  {
+    "id": "element_403",
+    "community": 1,
+    "degree": 16,
+    "x_fixed": 183.57,
+    "y_fixed": 236.63
+  },
+  {
+    "id": "element_406",
+    "community": 4,
+    "degree": 18,
+    "x_fixed": -354.03,
+    "y_fixed": 495.44
+  },
+  {
+    "id": "element_407",
+    "community": 11,
+    "degree": 21,
+    "x_fixed": 245.41,
+    "y_fixed": -665.85
+  },
+  {
+    "id": "element_408",
+    "community": 11,
+    "degree": 22,
+    "x_fixed": 200.74,
+    "y_fixed": -662.7
+  },
+  {
+    "id": "element_409",
+    "community": 8,
+    "degree": 14,
+    "x_fixed": -43.37,
+    "y_fixed": -338.96
+  },
+  {
+    "id": "element_410",
+    "community": 2,
+    "degree": 13,
+    "x_fixed": -126.87,
+    "y_fixed": 700.58
+  },
+  {
+    "id": "element_411",
+    "community": 12,
+    "degree": 17,
+    "x_fixed": 528.77,
+    "y_fixed": -590.18
+  },
+  {
+    "id": "element_413",
+    "community": 13,
+    "degree": 15,
+    "x_fixed": 726.58,
+    "y_fixed": -329.11
+  },
+  {
+    "id": "element_414",
+    "community": 11,
+    "degree": 19,
+    "x_fixed": 232.02,
+    "y_fixed": -625.21
+  },
+  {
+    "id": "element_415",
+    "community": 0,
+    "degree": 18,
+    "x_fixed": 239.82,
+    "y_fixed": 162.17
+  },
+  {
+    "id": "element_416",
+    "community": 8,
+    "degree": 17,
+    "x_fixed": -264.14,
+    "y_fixed": -468.78
+  },
+  {
+    "id": "element_417",
+    "community": 0,
+    "degree": 12,
+    "x_fixed": 451.98,
+    "y_fixed": 288.88
+  },
+  {
+    "id": "element_418",
+    "community": 10,
+    "degree": 18,
+    "x_fixed": 60.99,
+    "y_fixed": -238.74
+  },
+  {
+    "id": "element_420",
+    "community": 12,
+    "degree": 18,
+    "x_fixed": 317.19,
+    "y_fixed": -303.48
+  },
+  {
+    "id": "element_421",
+    "community": 2,
+    "degree": 19,
+    "x_fixed": 14.7,
+    "y_fixed": 765.07
+  },
+  {
+    "id": "element_422",
+    "community": 0,
+    "degree": 19,
+    "x_fixed": 629.04,
+    "y_fixed": 298.85
+  },
+  {
+    "id": "element_423",
+    "community": 2,
+    "degree": 18,
+    "x_fixed": 60.84,
+    "y_fixed": 559.29
+  },
+  {
+    "id": "element_424",
+    "community": 0,
+    "degree": 20,
+    "x_fixed": 695.99,
+    "y_fixed": 256.01
+  },
+  {
+    "id": "element_425",
+    "community": 13,
+    "degree": 15,
+    "x_fixed": 424.35,
+    "y_fixed": -296.19
+  },
+  {
+    "id": "element_426",
+    "community": 0,
+    "degree": 21,
+    "x_fixed": 723.45,
+    "y_fixed": 219.38
+  },
+  {
+    "id": "element_427",
+    "community": 0,
+    "degree": 21,
+    "x_fixed": 723.89,
+    "y_fixed": 163.41
+  },
+  {
+    "id": "element_428",
+    "community": 9,
+    "degree": 15,
+    "x_fixed": 43.02,
+    "y_fixed": -597.28
+  },
+  {
+    "id": "element_429",
+    "community": 7,
+    "degree": 15,
+    "x_fixed": -469.79,
+    "y_fixed": -503.8
+  },
+  {
+    "id": "element_430",
+    "community": 1,
+    "degree": 22,
+    "x_fixed": 264,
+    "y_fixed": 520.78
+  },
+  {
+    "id": "element_431",
+    "community": 11,
+    "degree": 15,
+    "x_fixed": 32.82,
+    "y_fixed": -515.95
+  },
+  {
+    "id": "element_436",
+    "community": 13,
+    "degree": 18,
+    "x_fixed": 410.02,
+    "y_fixed": -318.36
+  },
+  {
+    "id": "element_437",
+    "community": 8,
+    "degree": 20,
+    "x_fixed": -121.49,
+    "y_fixed": -286.89
+  },
+  {
+    "id": "element_438",
+    "community": 3,
+    "degree": 14,
+    "x_fixed": -120.81,
+    "y_fixed": 159.81
+  },
+  {
+    "id": "element_443",
+    "community": 1,
+    "degree": 19,
+    "x_fixed": 374.57,
+    "y_fixed": 567.59
+  },
+  {
+    "id": "element_446",
+    "community": 1,
+    "degree": 18,
+    "x_fixed": 398.34,
+    "y_fixed": 583.32
+  },
+  {
+    "id": "element_450",
+    "community": 7,
+    "degree": 17,
+    "x_fixed": -343.12,
+    "y_fixed": -372
+  },
+  {
+    "id": "element_458",
+    "community": 2,
+    "degree": 17,
+    "x_fixed": 90.16,
+    "y_fixed": 822.85
+  },
+  {
+    "id": "element_459",
+    "community": 5,
+    "degree": 20,
+    "x_fixed": -817.4,
+    "y_fixed": -0.24
+  },
+  {
+    "id": "element_460",
+    "community": 6,
+    "degree": 15,
+    "x_fixed": -423.25,
+    "y_fixed": -276.54
+  },
+  {
+    "id": "element_462",
+    "community": 13,
+    "degree": 18,
+    "x_fixed": 702.67,
+    "y_fixed": -317.99
+  },
+  {
+    "id": "element_463",
+    "community": 11,
+    "degree": 19,
+    "x_fixed": 107.44,
+    "y_fixed": -510.22
+  },
+  {
+    "id": "element_465",
+    "community": 12,
+    "degree": 18,
+    "x_fixed": 228.8,
+    "y_fixed": -394.82
+  },
+  {
+    "id": "element_466",
+    "community": 5,
+    "degree": 15,
+    "x_fixed": -690.68,
+    "y_fixed": -99.54
+  },
+  {
+    "id": "element_468",
+    "community": 4,
+    "degree": 24,
+    "x_fixed": -248.76,
+    "y_fixed": 217.03
+  },
+  {
+    "id": "element_469",
+    "community": 2,
+    "degree": 15,
+    "x_fixed": 186.62,
+    "y_fixed": 752.82
+  },
+  {
+    "id": "element_470",
+    "community": 1,
+    "degree": 13,
+    "x_fixed": 343.92,
+    "y_fixed": 583.96
+  },
+  {
+    "id": "element_473",
+    "community": 8,
+    "degree": 18,
+    "x_fixed": -43.23,
+    "y_fixed": -270.42
+  },
+  {
+    "id": "element_477",
+    "community": 1,
+    "degree": 13,
+    "x_fixed": 485.94,
+    "y_fixed": 556.46
+  },
+  {
+    "id": "element_478",
+    "community": 11,
+    "degree": 15,
+    "x_fixed": 283.75,
+    "y_fixed": -757.39
+  },
+  {
+    "id": "element_486",
+    "community": 5,
+    "degree": 17,
+    "x_fixed": -646.74,
+    "y_fixed": -13.75
+  },
+  {
+    "id": "element_543",
+    "community": 14,
+    "degree": 18,
+    "x_fixed": 336.87,
+    "y_fixed": 232.91
+  },
+  {
+    "id": "element_530",
+    "community": 14,
+    "degree": 25,
+    "x_fixed": 361.62,
+    "y_fixed": 205.55
+  },
+  {
+    "id": "element_532",
+    "community": 4,
+    "degree": 8,
+    "x_fixed": -276.74,
+    "y_fixed": 177.76
+  },
+  {
+    "id": "element_537",
+    "community": 2,
+    "degree": 21,
+    "x_fixed": -32.63,
+    "y_fixed": 784.62
+  },
+  {
+    "id": "element_539",
+    "community": 14,
+    "degree": 10,
+    "x_fixed": 315.98,
+    "y_fixed": -137.04
+  },
+  {
+    "id": "element_541",
+    "community": 14,
+    "degree": 17,
+    "x_fixed": 354.08,
+    "y_fixed": -76.24
+  },
+  {
+    "id": "element_545",
+    "community": 11,
+    "degree": 24,
+    "x_fixed": 253.39,
+    "y_fixed": -640.71
+  },
+  {
+    "id": "element_548",
+    "community": 7,
+    "degree": 22,
+    "x_fixed": -476.65,
+    "y_fixed": -531.66
+  },
+  {
+    "id": "element_549",
+    "community": 6,
+    "degree": 29,
+    "x_fixed": -565.44,
+    "y_fixed": -365.07
+  },
+  {
+    "id": "element_552",
+    "community": 4,
+    "degree": 15,
+    "x_fixed": -654.77,
+    "y_fixed": 420.03
+  },
+  {
+    "id": "element_558",
+    "community": 4,
+    "degree": 21,
+    "x_fixed": -654.19,
+    "y_fixed": 373.59
+  },
+  {
+    "id": "element_559",
+    "community": 7,
+    "degree": 20,
+    "x_fixed": -296.69,
+    "y_fixed": -174.01
+  },
+  {
+    "id": "element_562",
+    "community": 5,
+    "degree": 25,
+    "x_fixed": -716.34,
+    "y_fixed": -34.58
+  },
+  {
+    "id": "element_563",
+    "community": 4,
+    "degree": 19,
+    "x_fixed": -331.43,
+    "y_fixed": 317.56
+  },
+  {
+    "id": "element_564",
+    "community": 3,
+    "degree": 19,
+    "x_fixed": -329.54,
+    "y_fixed": 505.33
+  },
+  {
+    "id": "element_571",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": -37.7,
+    "y_fixed": 859.32
+  },
+  {
+    "id": "element_593",
+    "community": 2,
+    "degree": 13,
+    "x_fixed": -186.25,
+    "y_fixed": 652.06
+  },
+  {
+    "id": "element_594",
+    "community": 0,
+    "degree": 17,
+    "x_fixed": 604.54,
+    "y_fixed": 185.5
+  },
+  {
+    "id": "element_597",
+    "community": 0,
+    "degree": 20,
+    "x_fixed": 427.64,
+    "y_fixed": 278.66
+  },
+  {
+    "id": "element_604",
+    "community": 7,
+    "degree": 19,
+    "x_fixed": -505.46,
+    "y_fixed": -575.88
+  },
+  {
+    "id": "element_605",
+    "community": 2,
+    "degree": 13,
+    "x_fixed": 139.46,
+    "y_fixed": 808.35
+  },
+  {
+    "id": "element_606",
+    "community": 1,
+    "degree": 14,
+    "x_fixed": 542.94,
+    "y_fixed": 374.41
+  },
+  {
+    "id": "element_610",
+    "community": 0,
+    "degree": 13,
+    "x_fixed": 308.92,
+    "y_fixed": 80.73
+  },
+  {
+    "id": "element_624",
+    "community": 5,
+    "degree": 14,
+    "x_fixed": -668.19,
+    "y_fixed": -85.96
+  },
+  {
+    "id": "element_632",
+    "community": 0,
+    "degree": 13,
+    "x_fixed": 568.3,
+    "y_fixed": 264.31
+  },
+  {
+    "id": "element_633",
+    "community": 0,
+    "degree": 13,
+    "x_fixed": 401.68,
+    "y_fixed": 364.46
+  },
+  {
+    "id": "element_640",
+    "community": 5,
+    "degree": 14,
+    "x_fixed": -739.23,
+    "y_fixed": -47.6
+  },
+  {
+    "id": "element_647",
+    "community": 2,
+    "degree": 19,
+    "x_fixed": -47.08,
+    "y_fixed": 834.83
+  },
+  {
+    "id": "element_649",
+    "community": 5,
+    "degree": 25,
+    "x_fixed": -446.58,
+    "y_fixed": -191.11
+  },
+  {
+    "id": "element_654",
+    "community": 1,
+    "degree": 25,
+    "x_fixed": 458.74,
+    "y_fixed": 549.67
+  },
+  {
+    "id": "element_657",
+    "community": 0,
+    "degree": 17,
+    "x_fixed": 585.27,
+    "y_fixed": 244.6
+  },
+  {
+    "id": "element_660",
+    "community": 8,
+    "degree": 15,
+    "x_fixed": -88.75,
+    "y_fixed": -88.55
+  },
+  {
+    "id": "element_663",
+    "community": 11,
+    "degree": 14,
+    "x_fixed": 337.98,
+    "y_fixed": -515.51
+  },
+  {
+    "id": "element_669",
+    "community": 0,
+    "degree": 13,
+    "x_fixed": 475.61,
+    "y_fixed": 277.11
+  },
+  {
+    "id": "element_670",
+    "community": 0,
+    "degree": 16,
+    "x_fixed": 724.88,
+    "y_fixed": 189.77
+  },
+  {
+    "id": "element_671",
+    "community": 0,
+    "degree": 14,
+    "x_fixed": 745.92,
+    "y_fixed": 205.66
+  },
+  {
+    "id": "element_672",
+    "community": 7,
+    "degree": 14,
+    "x_fixed": 21.19,
+    "y_fixed": -213.4
+  },
+  {
+    "id": "element_674",
+    "community": 5,
+    "degree": 15,
+    "x_fixed": -669.79,
+    "y_fixed": -57.5
+  },
+  {
+    "id": "element_675",
+    "community": 13,
+    "degree": 13,
+    "x_fixed": 630.84,
+    "y_fixed": -291.8
+  },
+  {
+    "id": "element_677",
+    "community": 13,
+    "degree": 16,
+    "x_fixed": 245.42,
+    "y_fixed": -236.03
+  },
+  {
+    "id": "element_678",
+    "community": 5,
+    "degree": 13,
+    "x_fixed": -792.8,
+    "y_fixed": -16.19
+  },
+  {
+    "id": "element_688",
+    "community": 4,
+    "degree": 12,
+    "x_fixed": -730.93,
+    "y_fixed": 407.69
+  },
+  {
+    "id": "element_690",
+    "community": 9,
+    "degree": 15,
+    "x_fixed": 16.85,
+    "y_fixed": -448.85
+  },
+  {
+    "id": "element_695",
+    "community": 6,
+    "degree": 17,
+    "x_fixed": -283.87,
+    "y_fixed": 41.1
+  },
+  {
+    "id": "element_696",
+    "community": 14,
+    "degree": 22,
+    "x_fixed": 756.56,
+    "y_fixed": -116.24
+  },
+  {
+    "id": "element_697",
+    "community": 0,
+    "degree": 15,
+    "x_fixed": 476.25,
+    "y_fixed": 250.72
+  },
+  {
+    "id": "element_698",
+    "community": 4,
+    "degree": 15,
+    "x_fixed": -454.55,
+    "y_fixed": 187.45
+  },
+  {
+    "id": "element_699",
+    "community": 11,
+    "degree": 14,
+    "x_fixed": 271.55,
+    "y_fixed": -669.46
+  },
+  {
+    "id": "element_700",
+    "community": 4,
+    "degree": 13,
+    "x_fixed": -81.96,
+    "y_fixed": 213.59
+  },
+  {
+    "id": "element_701",
+    "community": 2,
+    "degree": 14,
+    "x_fixed": 13.47,
+    "y_fixed": 656.4
+  },
+  {
+    "id": "element_703",
+    "community": 12,
+    "degree": 15,
+    "x_fixed": 609.02,
+    "y_fixed": -569.86
+  },
+  {
+    "id": "element_705",
+    "community": 10,
+    "degree": 15,
+    "x_fixed": 92.85,
+    "y_fixed": -706.17
+  },
+  {
+    "id": "element_723",
+    "community": 11,
+    "degree": 18,
+    "x_fixed": 43.94,
+    "y_fixed": -492
+  },
+  {
+    "id": "element_737",
+    "community": 0,
+    "degree": 13,
+    "x_fixed": 503.17,
+    "y_fixed": 304.45
+  },
+  {
+    "id": "element_747",
+    "community": 1,
+    "degree": 16,
+    "x_fixed": 326.83,
+    "y_fixed": 516.05
+  },
+  {
+    "id": "element_749",
+    "community": 5,
+    "degree": 14,
+    "x_fixed": -438.7,
+    "y_fixed": 208.52
+  },
+  {
+    "id": "element_750",
+    "community": 13,
+    "degree": 12,
+    "x_fixed": 621.05,
+    "y_fixed": -267.29
+  },
+  {
+    "id": "element_751",
+    "community": 0,
+    "degree": 15,
+    "x_fixed": 611.11,
+    "y_fixed": 249.46
+  },
+  {
+    "id": "element_752",
+    "community": 13,
+    "degree": 12,
+    "x_fixed": 757.19,
+    "y_fixed": -282.95
+  },
+  {
+    "id": "element_756",
+    "community": 0,
+    "degree": 15,
+    "x_fixed": 678.36,
+    "y_fixed": 214.25
+  },
+  {
+    "id": "element_759",
+    "community": 10,
+    "degree": 13,
+    "x_fixed": -82.79,
+    "y_fixed": -559.88
+  },
+  {
+    "id": "element_763",
+    "community": 2,
+    "degree": 15,
+    "x_fixed": -149.13,
+    "y_fixed": 745.02
+  },
+  {
+    "id": "element_764",
+    "community": 0,
+    "degree": 11,
+    "x_fixed": 701.77,
+    "y_fixed": 149.01
+  },
+  {
+    "id": "element_765",
+    "community": 6,
+    "degree": 14,
+    "x_fixed": -287.92,
+    "y_fixed": -198.89
+  },
+  {
+    "id": "element_773",
+    "community": 4,
+    "degree": 13,
+    "x_fixed": -641.92,
+    "y_fixed": 396.97
+  },
+  {
+    "id": "element_774",
+    "community": 2,
+    "degree": 15,
+    "x_fixed": -240.93,
+    "y_fixed": 535.55
+  },
+  {
+    "id": "element_776",
+    "community": 2,
+    "degree": 13,
+    "x_fixed": -30.84,
+    "y_fixed": 758.41
+  },
+  {
+    "id": "element_779",
+    "community": 2,
+    "degree": 12,
+    "x_fixed": 57.27,
+    "y_fixed": 759.03
+  },
+  {
+    "id": "element_783",
+    "community": 5,
+    "degree": 19,
+    "x_fixed": -647,
+    "y_fixed": -70.38
+  },
+  {
+    "id": "element_870",
+    "community": 0,
+    "degree": 15,
+    "x_fixed": 455.75,
+    "y_fixed": 323.86
+  },
+  {
+    "id": "element_874",
+    "community": 6,
+    "degree": 15,
+    "x_fixed": -286.58,
+    "y_fixed": 67.36
+  },
+  {
+    "id": "element_876",
+    "community": 10,
+    "degree": 14,
+    "x_fixed": -131.72,
+    "y_fixed": -534.98
+  },
+  {
+    "id": "element_877",
+    "community": 11,
+    "degree": 15,
+    "x_fixed": 359.65,
+    "y_fixed": -419.83
+  },
+  {
+    "id": "element_880",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": 55.66,
+    "y_fixed": 715.23
+  },
+  {
+    "id": "element_881",
+    "community": 2,
+    "degree": 10,
+    "x_fixed": -107.29,
+    "y_fixed": 467.74
+  },
+  {
+    "id": "element_884",
+    "community": 5,
+    "degree": 11,
+    "x_fixed": -842.65,
+    "y_fixed": -7.72
+  },
+  {
+    "id": "element_889",
+    "community": 0,
+    "degree": 15,
+    "x_fixed": 656.35,
+    "y_fixed": 174.2
+  },
+  {
+    "id": "element_890",
+    "community": 0,
+    "degree": 13,
+    "x_fixed": 521.87,
+    "y_fixed": 70.25
+  },
+  {
+    "id": "element_894",
+    "community": 6,
+    "degree": 24,
+    "x_fixed": -215.1,
+    "y_fixed": -202.28
+  },
+  {
+    "id": "element_896",
+    "community": 2,
+    "degree": 14,
+    "x_fixed": 188.12,
+    "y_fixed": 509.26
+  },
+  {
+    "id": "element_900",
+    "community": 13,
+    "degree": 13,
+    "x_fixed": 723.14,
+    "y_fixed": -252.43
+  },
+  {
+    "id": "element_901",
+    "community": 13,
+    "degree": 14,
+    "x_fixed": 436.43,
+    "y_fixed": -184.97
+  },
+  {
+    "id": "element_902",
+    "community": 3,
+    "degree": 26,
+    "x_fixed": -217.68,
+    "y_fixed": 337.55
+  },
+  {
+    "id": "element_903",
+    "community": 5,
+    "degree": 15,
+    "x_fixed": -665.13,
+    "y_fixed": 5.97
+  },
+  {
+    "id": "element_904",
+    "community": 5,
+    "degree": 14,
+    "x_fixed": -809.98,
+    "y_fixed": 25.01
+  },
+  {
+    "id": "element_909",
+    "community": 4,
+    "degree": 14,
+    "x_fixed": -673.26,
+    "y_fixed": 391.84
+  },
+  {
+    "id": "element_910",
+    "community": 2,
+    "degree": 13,
+    "x_fixed": -149.66,
+    "y_fixed": 689.16
+  },
+  {
+    "id": "element_911",
+    "community": 6,
+    "degree": 13,
+    "x_fixed": -399.92,
+    "y_fixed": -134.51
+  },
+  {
+    "id": "element_912",
+    "community": 11,
+    "degree": 14,
+    "x_fixed": 282.26,
+    "y_fixed": -693.59
+  },
+  {
+    "id": "element_914",
+    "community": 13,
+    "degree": 13,
+    "x_fixed": 753.18,
+    "y_fixed": -363.02
+  },
+  {
+    "id": "element_917",
+    "community": 13,
+    "degree": 20,
+    "x_fixed": 751.85,
+    "y_fixed": -336.65
+  },
+  {
+    "id": "element_919",
+    "community": 0,
+    "degree": 13,
+    "x_fixed": 628.56,
+    "y_fixed": 230.28
+  },
+  {
+    "id": "element_926",
+    "community": 2,
+    "degree": 18,
+    "x_fixed": 123.74,
+    "y_fixed": 769.25
+  },
+  {
+    "id": "element_927",
+    "community": 1,
+    "degree": 13,
+    "x_fixed": 393.88,
+    "y_fixed": 548.73
+  },
+  {
+    "id": "element_928",
+    "community": 5,
+    "degree": 16,
+    "x_fixed": -449.53,
+    "y_fixed": -137.04
+  },
+  {
+    "id": "element_936",
+    "community": 12,
+    "degree": 14,
+    "x_fixed": 540.41,
+    "y_fixed": -337.87
+  },
+  {
+    "id": "element_939",
+    "community": 6,
+    "degree": 19,
+    "x_fixed": -551.93,
+    "y_fixed": -342.39
+  },
+  {
+    "id": "element_940",
+    "community": 12,
+    "degree": 14,
+    "x_fixed": 540.36,
+    "y_fixed": -556.88
+  },
+  {
+    "id": "element_942",
+    "community": 0,
+    "degree": 14,
+    "x_fixed": 620.25,
+    "y_fixed": 205.74
+  },
+  {
+    "id": "element_946",
+    "community": 4,
+    "degree": 20,
+    "x_fixed": -618.67,
+    "y_fixed": 336.26
+  },
+  {
+    "id": "element_949",
+    "community": 1,
+    "degree": 13,
+    "x_fixed": 349.88,
+    "y_fixed": 558.25
+  },
+  {
+    "id": "element_986",
+    "community": 5,
+    "degree": 12,
+    "x_fixed": -705.85,
+    "y_fixed": 83.25
+  },
+  {
+    "id": "element_990",
+    "community": 12,
+    "degree": 14,
+    "x_fixed": 562.89,
+    "y_fixed": -438.55
+  },
+  {
+    "id": "element_991",
+    "community": 0,
+    "degree": 15,
+    "x_fixed": 601.91,
+    "y_fixed": 224.48
+  },
+  {
+    "id": "element_994",
+    "community": 12,
+    "degree": 15,
+    "x_fixed": 549.41,
+    "y_fixed": -502.58
+  },
+  {
+    "id": "element_1000",
+    "community": 11,
+    "degree": 14,
+    "x_fixed": 255.32,
+    "y_fixed": -690.28
+  },
+  {
+    "id": "element_1003",
+    "community": 0,
+    "degree": 15,
+    "x_fixed": 603.02,
+    "y_fixed": 294.21
+  },
+  {
+    "id": "element_1004",
+    "community": 14,
+    "degree": 15,
+    "x_fixed": 730.26,
+    "y_fixed": -114.04
+  },
+  {
+    "id": "element_1005",
+    "community": 14,
+    "degree": 26,
+    "x_fixed": 703.12,
+    "y_fixed": -65.56
+  },
+  {
+    "id": "element_1006",
+    "community": 3,
+    "degree": 13,
+    "x_fixed": -460.79,
+    "y_fixed": 565.22
+  },
+  {
+    "id": "element_1016",
+    "community": 2,
+    "degree": 26,
+    "x_fixed": 36.6,
+    "y_fixed": 605.83
+  },
+  {
+    "id": "element_1017",
+    "community": 6,
+    "degree": 27,
+    "x_fixed": -568.59,
+    "y_fixed": -321.91
+  },
+  {
+    "id": "element_1018",
+    "community": 3,
+    "degree": 21,
+    "x_fixed": -454.07,
+    "y_fixed": 465.48
+  },
+  {
+    "id": "element_1020",
+    "community": 13,
+    "degree": 16,
+    "x_fixed": 774.33,
+    "y_fixed": -303.03
+  },
+  {
+    "id": "element_1023",
+    "community": 2,
+    "degree": 12,
+    "x_fixed": -2.02,
+    "y_fixed": 677
+  },
+  {
+    "id": "element_1024",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": -81.64,
+    "y_fixed": 303.42
+  },
+  {
+    "id": "element_1025",
+    "community": 11,
+    "degree": 15,
+    "x_fixed": 352.92,
+    "y_fixed": -710.07
+  },
+  {
+    "id": "element_1026",
+    "community": 2,
+    "degree": 15,
+    "x_fixed": 5.73,
+    "y_fixed": 725.79
+  },
+  {
+    "id": "element_1028",
+    "community": 13,
+    "degree": 15,
+    "x_fixed": 585.13,
+    "y_fixed": -350.67
+  },
+  {
+    "id": "element_1030",
+    "community": 2,
+    "degree": 13,
+    "x_fixed": -133.55,
+    "y_fixed": 766.22
+  },
+  {
+    "id": "element_1031",
+    "community": 2,
+    "degree": 13,
+    "x_fixed": 90.37,
+    "y_fixed": 562.84
+  },
+  {
+    "id": "element_1032",
+    "community": 2,
+    "degree": 14,
+    "x_fixed": -24.68,
+    "y_fixed": 733.42
+  },
+  {
+    "id": "element_1033",
+    "community": 5,
+    "degree": 16,
+    "x_fixed": -746.88,
+    "y_fixed": 28.09
+  },
+  {
+    "id": "element_1034",
+    "community": 8,
+    "degree": 14,
+    "x_fixed": -272.64,
+    "y_fixed": -641.33
+  },
+  {
+    "id": "element_1035",
+    "community": 2,
+    "degree": 14,
+    "x_fixed": -220.35,
+    "y_fixed": 518.97
+  },
+  {
+    "id": "element_1036",
+    "community": 5,
+    "degree": 15,
+    "x_fixed": -642.6,
+    "y_fixed": -42.7
+  },
+  {
+    "id": "element_1038",
+    "community": 2,
+    "degree": 15,
+    "x_fixed": 212.82,
+    "y_fixed": 755.1
+  },
+  {
+    "id": "element_1039",
+    "community": 1,
+    "degree": 17,
+    "x_fixed": 259.47,
+    "y_fixed": 241.3
+  },
+  {
+    "id": "element_1042",
+    "community": 2,
+    "degree": 14,
+    "x_fixed": 63.5,
+    "y_fixed": 947.37
+  },
+  {
+    "id": "element_1043",
+    "community": 12,
+    "degree": 15,
+    "x_fixed": 553.21,
+    "y_fixed": -463.88
+  },
+  {
+    "id": "element_1044",
+    "community": 3,
+    "degree": 14,
+    "x_fixed": -520.51,
+    "y_fixed": 629.29
+  },
+  {
+    "id": "element_1045",
+    "community": 0,
+    "degree": 10,
+    "x_fixed": 702.38,
+    "y_fixed": 203.5
+  },
+  {
+    "id": "element_1046",
+    "community": 2,
+    "degree": 14,
+    "x_fixed": -124.44,
+    "y_fixed": 736.32
+  },
+  {
+    "id": "element_1047",
+    "community": 2,
+    "degree": 14,
+    "x_fixed": -169.95,
+    "y_fixed": 672.55
+  },
+  {
+    "id": "element_1052",
+    "community": 2,
+    "degree": 12,
+    "x_fixed": 79.94,
+    "y_fixed": 359.8
+  },
+  {
+    "id": "element_1067",
+    "community": 4,
+    "degree": 14,
+    "x_fixed": -480.16,
+    "y_fixed": 461.3
+  },
+  {
+    "id": "element_1095",
+    "community": 0,
+    "degree": 15,
+    "x_fixed": 594.15,
+    "y_fixed": 269.35
+  },
+  {
+    "id": "element_1097",
+    "community": 7,
+    "degree": 17,
+    "x_fixed": -256.5,
+    "y_fixed": -228.07
+  },
+  {
+    "id": "element_1099",
+    "community": 5,
+    "degree": 15,
+    "x_fixed": -472.97,
+    "y_fixed": -191.79
+  },
+  {
+    "id": "element_1100",
+    "community": 0,
+    "degree": 15,
+    "x_fixed": 720.26,
+    "y_fixed": 245.8
+  },
+  {
+    "id": "element_1102",
+    "community": 12,
+    "degree": 20,
+    "x_fixed": 188.11,
+    "y_fixed": -179.43
+  },
+  {
+    "id": "element_1103",
+    "community": 13,
+    "degree": 14,
+    "x_fixed": 693.82,
+    "y_fixed": -368.71
+  },
+  {
+    "id": "element_1110",
+    "community": 13,
+    "degree": 13,
+    "x_fixed": 777.19,
+    "y_fixed": -329.27
+  },
+  {
+    "id": "element_1111",
+    "community": 0,
+    "degree": 15,
+    "x_fixed": 576.79,
+    "y_fixed": 289.21
+  },
+  {
+    "id": "element_1112",
+    "community": 10,
+    "degree": 22,
+    "x_fixed": 43.02,
+    "y_fixed": -624.37
+  },
+  {
+    "id": "element_1115",
+    "community": 12,
+    "degree": 16,
+    "x_fixed": 542,
+    "y_fixed": -422.41
+  },
+  {
+    "id": "element_1116",
+    "community": 5,
+    "degree": 13,
+    "x_fixed": -426.1,
+    "y_fixed": -124.94
+  },
+  {
+    "id": "element_1120",
+    "community": 0,
+    "degree": 16,
+    "x_fixed": 730.73,
+    "y_fixed": 313.32
+  },
+  {
+    "id": "element_1121",
+    "community": 13,
+    "degree": 17,
+    "x_fixed": 685.49,
+    "y_fixed": -257.87
+  },
+  {
+    "id": "element_1122",
+    "community": 2,
+    "degree": 14,
+    "x_fixed": 78.32,
+    "y_fixed": 847.8
+  },
+  {
+    "id": "element_1123",
+    "community": 3,
+    "degree": 17,
+    "x_fixed": -447.37,
+    "y_fixed": 498.27
+  },
+  {
+    "id": "element_1124",
+    "community": 0,
+    "degree": 14,
+    "x_fixed": 752.78,
+    "y_fixed": 287.23
+  },
+  {
+    "id": "element_1125",
+    "community": 2,
+    "degree": 13,
+    "x_fixed": -195.76,
+    "y_fixed": 677.52
+  },
+  {
+    "id": "element_1127",
+    "community": 6,
+    "degree": 17,
+    "x_fixed": -236.24,
+    "y_fixed": -343.21
+  },
+  {
+    "id": "element_1133",
+    "community": 12,
+    "degree": 9,
+    "x_fixed": 525.79,
+    "y_fixed": -490.78
+  },
+  {
+    "id": "element_1132",
+    "community": 12,
+    "degree": 9,
+    "x_fixed": 516.02,
+    "y_fixed": -567.07
+  },
+  {
+    "id": "element_1136",
+    "community": 0,
+    "degree": 14,
+    "x_fixed": 741.73,
+    "y_fixed": 76.91
+  },
+  {
+    "id": "element_1138",
+    "community": 0,
+    "degree": 16,
+    "x_fixed": 699.32,
+    "y_fixed": 229.9
+  },
+  {
+    "id": "element_1139",
+    "community": 1,
+    "degree": 11,
+    "x_fixed": 381.36,
+    "y_fixed": 511.79
+  },
+  {
+    "id": "element_1141",
+    "community": 5,
+    "degree": 14,
+    "x_fixed": -230.49,
+    "y_fixed": -223.7
+  },
+  {
+    "id": "element_1142",
+    "community": 2,
+    "degree": 21,
+    "x_fixed": 15.12,
+    "y_fixed": 790.92
+  },
+  {
+    "id": "element_1145",
+    "community": 5,
+    "degree": 17,
+    "x_fixed": -691.23,
+    "y_fixed": -42.33
+  },
+  {
+    "id": "element_1146",
+    "community": 10,
+    "degree": 15,
+    "x_fixed": 67.7,
+    "y_fixed": -81.78
+  },
+  {
+    "id": "element_1150",
+    "community": 5,
+    "degree": 14,
+    "x_fixed": -722.35,
+    "y_fixed": 17.34
+  },
+  {
+    "id": "element_1151",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": 56.63,
+    "y_fixed": 914.28
+  },
+  {
+    "id": "element_1153",
+    "community": 12,
+    "degree": 14,
+    "x_fixed": 553.12,
+    "y_fixed": -579.99
+  },
+  {
+    "id": "element_1155",
+    "community": 12,
+    "degree": 14,
+    "x_fixed": 578.76,
+    "y_fixed": -586.25
+  },
+  {
+    "id": "element_1159",
+    "community": 11,
+    "degree": 12,
+    "x_fixed": 227.83,
+    "y_fixed": -735.17
+  },
+  {
+    "id": "element_1206",
+    "community": 6,
+    "degree": 13,
+    "x_fixed": -654.5,
+    "y_fixed": -403.04
+  },
+  {
+    "id": "element_1207",
+    "community": 5,
+    "degree": 19,
+    "x_fixed": -736.92,
+    "y_fixed": -74.32
+  },
+  {
+    "id": "element_1210",
+    "community": 0,
+    "degree": 15,
+    "x_fixed": 620.05,
+    "y_fixed": 274.18
+  },
+  {
+    "id": "element_1212",
+    "community": 0,
+    "degree": 26,
+    "x_fixed": 619.51,
+    "y_fixed": 323.42
+  },
+  {
+    "id": "element_1213",
+    "community": 2,
+    "degree": 14,
+    "x_fixed": -13.85,
+    "y_fixed": 710.21
+  },
+  {
+    "id": "element_1214",
+    "community": 7,
+    "degree": 14,
+    "x_fixed": -540.27,
+    "y_fixed": -587.85
+  },
+  {
+    "id": "element_1215",
+    "community": 2,
+    "degree": 13,
+    "x_fixed": -146.96,
+    "y_fixed": 887.15
+  },
+  {
+    "id": "element_1216",
+    "community": 2,
+    "degree": 20,
+    "x_fixed": 54.63,
+    "y_fixed": 623.96
+  },
+  {
+    "id": "element_1217",
+    "community": 13,
+    "degree": 13,
+    "x_fixed": 727.89,
+    "y_fixed": -355.47
+  },
+  {
+    "id": "element_1218",
+    "community": 11,
+    "degree": 17,
+    "x_fixed": 239.72,
+    "y_fixed": -711.56
+  },
+  {
+    "id": "element_1221",
+    "community": 10,
+    "degree": 20,
+    "x_fixed": 67.24,
+    "y_fixed": -796.13
+  },
+  {
+    "id": "element_1229",
+    "community": 2,
+    "degree": 22,
+    "x_fixed": -13,
+    "y_fixed": 867.31
+  },
+  {
+    "id": "element_1230",
+    "community": 2,
+    "degree": 14,
+    "x_fixed": -39.56,
+    "y_fixed": 710.68
+  },
+  {
+    "id": "element_1233",
+    "community": 13,
+    "degree": 18,
+    "x_fixed": 748.99,
+    "y_fixed": -310.42
+  },
+  {
+    "id": "element_1234",
+    "community": 0,
+    "degree": 13,
+    "x_fixed": 654.18,
+    "y_fixed": 224.06
+  },
+  {
+    "id": "element_1236",
+    "community": 0,
+    "degree": 14,
+    "x_fixed": 502.51,
+    "y_fixed": 332.1
+  },
+  {
+    "id": "element_1237",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": 37.21,
+    "y_fixed": 657.62
+  },
+  {
+    "id": "element_1239",
+    "community": 2,
+    "degree": 21,
+    "x_fixed": 25.95,
+    "y_fixed": 538.09
+  },
+  {
+    "id": "element_1240",
+    "community": 13,
+    "degree": 11,
+    "x_fixed": 703.96,
+    "y_fixed": -344.34
+  },
+  {
+    "id": "element_1241",
+    "community": 12,
+    "degree": 15,
+    "x_fixed": 493.74,
+    "y_fixed": -547.24
+  },
+  {
+    "id": "element_1242",
+    "community": 2,
+    "degree": 15,
+    "x_fixed": 23.99,
+    "y_fixed": 679.01
+  },
+  {
+    "id": "element_1243",
+    "community": 13,
+    "degree": 13,
+    "x_fixed": 717.75,
+    "y_fixed": -379.84
+  },
+  {
+    "id": "element_1246",
+    "community": 2,
+    "degree": 10,
+    "x_fixed": 103.52,
+    "y_fixed": 845.11
+  },
+  {
+    "id": "element_1248",
+    "community": 2,
+    "degree": 14,
+    "x_fixed": -82.91,
+    "y_fixed": 723.6
+  },
+  {
+    "id": "element_1249",
+    "community": 5,
+    "degree": 14,
+    "x_fixed": -713.78,
+    "y_fixed": -86.93
+  },
+  {
+    "id": "element_1250",
+    "community": 0,
+    "degree": 13,
+    "x_fixed": 744.36,
+    "y_fixed": 235.43
+  },
+  {
+    "id": "element_1251",
+    "community": 5,
+    "degree": 14,
+    "x_fixed": -589.21,
+    "y_fixed": -0.96
+  },
+  {
+    "id": "element_1252",
+    "community": 10,
+    "degree": 11,
+    "x_fixed": 105.69,
+    "y_fixed": -790.52
+  },
+  {
+    "id": "element_1253",
+    "community": 13,
+    "degree": 16,
+    "x_fixed": 648.58,
+    "y_fixed": -89.59
+  },
+  {
+    "id": "element_1254",
+    "community": 1,
+    "degree": 16,
+    "x_fixed": 477.76,
+    "y_fixed": 531.37
+  },
+  {
+    "id": "element_1255",
+    "community": 1,
+    "degree": 14,
+    "x_fixed": 472.33,
+    "y_fixed": 491.74
+  },
+  {
+    "id": "element_1257",
+    "community": 5,
+    "degree": 13,
+    "x_fixed": -827.73,
+    "y_fixed": 70.27
+  },
+  {
+    "id": "element_1259",
+    "community": 10,
+    "degree": 16,
+    "x_fixed": -43.53,
+    "y_fixed": -513.52
+  },
+  {
+    "id": "element_1260",
+    "community": 2,
+    "degree": 11,
+    "x_fixed": 225.54,
+    "y_fixed": 372.37
+  },
+  {
+    "id": "element_1261",
+    "community": 5,
+    "degree": 28,
+    "x_fixed": -713.13,
+    "y_fixed": -113.32
+  },
+  {
+    "id": "element_1274",
+    "community": 12,
+    "degree": 13,
+    "x_fixed": 479.38,
+    "y_fixed": -252.73
+  },
+  {
+    "id": "element_1306",
+    "community": 14,
+    "degree": 19,
+    "x_fixed": 610,
+    "y_fixed": -239.06
+  },
+  {
+    "id": "element_1307",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": 163.73,
+    "y_fixed": 532.42
+  },
+  {
+    "id": "element_1309",
+    "community": 2,
+    "degree": 16,
+    "x_fixed": -204.47,
+    "y_fixed": 598.52
+  },
+  {
+    "id": "element_1310",
+    "community": 2,
+    "degree": 15,
+    "x_fixed": 35.64,
+    "y_fixed": 561.17
+  },
+  {
+    "id": "element_1311",
+    "community": 0,
+    "degree": 12,
+    "x_fixed": 328.02,
+    "y_fixed": 194.17
+  },
+  {
+    "id": "element_1312",
+    "community": 0,
+    "degree": 12,
+    "x_fixed": 358.03,
+    "y_fixed": 366.48
+  },
+  {
+    "id": "element_1313",
+    "community": 2,
+    "degree": 12,
+    "x_fixed": 9.11,
+    "y_fixed": 699.99
+  },
+  {
+    "id": "element_1314",
+    "community": 5,
+    "degree": 12,
+    "x_fixed": -760.71,
+    "y_fixed": -24.92
+  },
+  {
+    "id": "element_1315",
+    "community": 0,
+    "degree": 14,
+    "x_fixed": 698.85,
+    "y_fixed": 282.08
+  },
+  {
+    "id": "element_1316",
+    "community": 12,
+    "degree": 7,
+    "x_fixed": 542.42,
+    "y_fixed": -528.03
+  },
+  {
+    "id": "element_1317",
+    "community": 2,
+    "degree": 13,
+    "x_fixed": 129.33,
+    "y_fixed": 844.36
+  },
+  {
+    "id": "element_1318",
+    "community": 5,
+    "degree": 13,
+    "x_fixed": -691.8,
+    "y_fixed": -128.82
+  },
+  {
+    "id": "element_1319",
+    "community": 2,
+    "degree": 12,
+    "x_fixed": 151.84,
+    "y_fixed": 831.35
+  },
+  {
+    "id": "element_1321",
+    "community": 2,
+    "degree": 15,
+    "x_fixed": -169.95,
+    "y_fixed": 728.94
+  },
+  {
+    "id": "element_1323",
+    "community": 2,
+    "degree": 9,
+    "x_fixed": 70.79,
+    "y_fixed": 736.55
+  },
+  {
+    "id": "element_1324",
+    "community": 0,
+    "degree": 16,
+    "x_fixed": 366.88,
+    "y_fixed": 31.68
+  },
+  {
+    "id": "element_1325",
+    "community": 10,
+    "degree": 12,
+    "x_fixed": 126.72,
+    "y_fixed": -742.54
+  },
+  {
+    "id": "element_1327",
+    "community": 6,
+    "degree": 12,
+    "x_fixed": -618,
+    "y_fixed": -320.46
+  },
+  {
+    "id": "element_1330",
+    "community": 2,
+    "degree": 14,
+    "x_fixed": -197.54,
+    "y_fixed": 434.36
+  },
+  {
+    "id": "element_1331",
+    "community": 0,
+    "degree": 15,
+    "x_fixed": 698.76,
+    "y_fixed": 122.8
+  },
+  {
+    "id": "element_1332",
+    "community": 5,
+    "degree": 12,
+    "x_fixed": -736.29,
+    "y_fixed": -100.7
+  },
+  {
+    "id": "element_1335",
+    "community": 12,
+    "degree": 11,
+    "x_fixed": 187.44,
+    "y_fixed": -255.1
+  },
+  {
+    "id": "element_1337",
+    "community": 8,
+    "degree": 18,
+    "x_fixed": -197.77,
+    "y_fixed": -636
+  },
+  {
+    "id": "element_1338",
+    "community": 12,
+    "degree": 15,
+    "x_fixed": 286.44,
+    "y_fixed": -167.86
+  },
+  {
+    "id": "element_1339",
+    "community": 2,
+    "degree": 11,
+    "x_fixed": 58.68,
+    "y_fixed": 865.16
+  },
+  {
+    "id": "element_1340",
+    "community": 8,
+    "degree": 16,
+    "x_fixed": -125.47,
+    "y_fixed": -628.77
+  },
+  {
+    "id": "element_1341",
+    "community": 5,
+    "degree": 11,
+    "x_fixed": -801.67,
+    "y_fixed": 66.16
+  },
+  {
+    "id": "element_1342",
+    "community": 7,
+    "degree": 14,
+    "x_fixed": -193.82,
+    "y_fixed": -310.44
+  },
+  {
+    "id": "element_1343",
+    "community": 2,
+    "degree": 13,
+    "x_fixed": -107.48,
+    "y_fixed": 716.54
+  },
+  {
+    "id": "element_1344",
+    "community": 2,
+    "degree": 10,
+    "x_fixed": -173.07,
+    "y_fixed": 701.26
+  },
+  {
+    "id": "element_1345",
+    "community": 13,
+    "degree": 15,
+    "x_fixed": 494.42,
+    "y_fixed": -225.56
+  },
+  {
+    "id": "element_1346",
+    "community": 2,
+    "degree": 8,
+    "x_fixed": -94.54,
+    "y_fixed": 802.05
+  },
+  {
+    "id": "element_1347",
+    "community": 12,
+    "degree": 8,
+    "x_fixed": 587.31,
+    "y_fixed": -514.18
+  },
+  {
+    "id": "element_1348",
+    "community": 2,
+    "degree": 11,
+    "x_fixed": 29.65,
+    "y_fixed": 716.41
+  },
+  {
+    "id": "element_1349",
+    "community": 2,
+    "degree": 11,
+    "x_fixed": -9.4,
+    "y_fixed": 772.88
+  },
+  {
+    "id": "element_1350",
+    "community": 2,
+    "degree": 13,
+    "x_fixed": -54.4,
+    "y_fixed": 769.87
+  },
+  {
+    "id": "element_1354",
+    "community": 2,
+    "degree": 13,
+    "x_fixed": -145.62,
+    "y_fixed": 718.81
+  },
+  {
+    "id": "element_1413",
+    "community": 12,
+    "degree": 15,
+    "x_fixed": 609.45,
+    "y_fixed": -540.59
+  },
+  {
+    "id": "element_1416",
+    "community": 0,
+    "degree": 12,
+    "x_fixed": 263.85,
+    "y_fixed": 128.07
+  },
+  {
+    "id": "element_1419",
+    "community": 11,
+    "degree": 19,
+    "x_fixed": 376.68,
+    "y_fixed": -721.56
+  },
+  {
+    "id": "element_1422",
+    "community": 1,
+    "degree": 14,
+    "x_fixed": 360.47,
+    "y_fixed": 534.07
+  },
+  {
+    "id": "element_1424",
+    "community": 7,
+    "degree": 17,
+    "x_fixed": -177.96,
+    "y_fixed": -215.61
+  },
+  {
+    "id": "element_1425",
+    "community": 12,
+    "degree": 10,
+    "x_fixed": 371.39,
+    "y_fixed": -96.18
+  },
+  {
+    "id": "element_1427",
+    "community": 8,
+    "degree": 15,
+    "x_fixed": -119.92,
+    "y_fixed": -227.88
+  },
+  {
+    "id": "element_1429",
+    "community": 0,
+    "degree": 18,
+    "x_fixed": 341.7,
+    "y_fixed": -4.89
+  },
+  {
+    "id": "element_1431",
+    "community": 3,
+    "degree": 11,
+    "x_fixed": -543.41,
+    "y_fixed": 578.52
+  },
+  {
+    "id": "element_1432",
+    "community": 2,
+    "degree": 13,
+    "x_fixed": -240.89,
+    "y_fixed": 699.95
+  },
+  {
+    "id": "element_1433",
+    "community": 11,
+    "degree": 10,
+    "x_fixed": 224.07,
+    "y_fixed": -650.38
+  },
+  {
+    "id": "element_1435",
+    "community": 5,
+    "degree": 11,
+    "x_fixed": -743.56,
+    "y_fixed": 90.76
+  },
+  {
+    "id": "element_1436",
+    "community": 0,
+    "degree": 18,
+    "x_fixed": 690.69,
+    "y_fixed": 45.59
+  },
+  {
+    "id": "element_1438",
+    "community": 4,
+    "degree": 19,
+    "x_fixed": -351.42,
+    "y_fixed": 192.22
+  },
+  {
+    "id": "element_1440",
+    "community": 7,
+    "degree": 20,
+    "x_fixed": -101.75,
+    "y_fixed": -113.69
+  },
+  {
+    "id": "element_1441",
+    "community": 7,
+    "degree": 12,
+    "x_fixed": -491.45,
+    "y_fixed": -553.51
+  },
+  {
+    "id": "element_1442",
+    "community": 0,
+    "degree": 10,
+    "x_fixed": 542.85,
+    "y_fixed": 270.21
+  },
+  {
+    "id": "element_1445",
+    "community": 7,
+    "degree": 19,
+    "x_fixed": -496.76,
+    "y_fixed": -514.55
+  },
+  {
+    "id": "element_1447",
+    "community": 4,
+    "degree": 12,
+    "x_fixed": -640.57,
+    "y_fixed": 350.99
+  },
+  {
+    "id": "element_1448",
+    "community": 5,
+    "degree": 19,
+    "x_fixed": -735.66,
+    "y_fixed": -127.07
+  },
+  {
+    "id": "element_1451",
+    "community": 2,
+    "degree": 13,
+    "x_fixed": -10.14,
+    "y_fixed": 798.81
+  },
+  {
+    "id": "element_1452",
+    "community": 11,
+    "degree": 16,
+    "x_fixed": 296.51,
+    "y_fixed": -511.71
+  },
+  {
+    "id": "element_1453",
+    "community": 2,
+    "degree": 11,
+    "x_fixed": 42.61,
+    "y_fixed": 798.73
+  },
+  {
+    "id": "element_1454",
+    "community": 4,
+    "degree": 17,
+    "x_fixed": -431.69,
+    "y_fixed": 439.24
+  },
+  {
+    "id": "element_1455",
+    "community": 0,
+    "degree": 17,
+    "x_fixed": 587.45,
+    "y_fixed": 315.42
+  },
+  {
+    "id": "element_1457",
+    "community": 12,
+    "degree": 18,
+    "x_fixed": 402.27,
+    "y_fixed": -367.94
+  },
+  {
+    "id": "element_1460",
+    "community": 0,
+    "degree": 18,
+    "x_fixed": 524.67,
+    "y_fixed": 289.27
+  },
+  {
+    "id": "element_1461",
+    "community": 12,
+    "degree": 15,
+    "x_fixed": 296.89,
+    "y_fixed": -395.3
+  },
+  {
+    "id": "element_1465",
+    "community": 2,
+    "degree": 15,
+    "x_fixed": -193.75,
+    "y_fixed": 717.63
+  },
+  {
+    "id": "element_1591",
+    "community": 12,
+    "degree": 11,
+    "x_fixed": 519.37,
+    "y_fixed": -540.89
+  }
+]
