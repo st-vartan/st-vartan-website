@@ -1,14 +1,17 @@
 import { useEffect, useState, useRef } from 'react';
 import * as d3 from 'd3';
-import { findGoodSize, prepareEdges, prepareNodes } from './util';
+import { prepareEdges, prepareNodes } from './util';
 import Domain from './domain';
 import Threat from './threat';
+import Biome from './biome';
+import Constellation from './constellation';
+
 import graphData from './graph';
 import cloneDeep from 'lodash/cloneDeep';
 
 const Visualization = props => {
   const chartRef = useRef(null);
-  const [layout, setLayout] = useState('threat');
+  const [layout, setLayout] = useState('constellation');
   const [nodes, setNodes] = useState([]);
   const [edges, setEdges] = useState([]);
 
@@ -24,9 +27,9 @@ const Visualization = props => {
   } else if (layout === 'domain') {
     vis = <Domain nodes={nodes} edges={edges}/>;
   } else if (layout === 'constellation') {
-
+    vis = <Constellation nodes={nodes} edges={edges}/>;
   } else if (layout === 'biome') {
-
+    vis = <Biome nodes={nodes} edges={edges}/>;
   }
 
   return (

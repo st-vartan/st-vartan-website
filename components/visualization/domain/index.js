@@ -2,8 +2,7 @@ import { useEffect } from 'react';
 import * as d3 from 'd3';
 import createDomainVisual from './createDomainVisual';
 
-import {findGoodSize, prepareEdges, prepareNodes} from '../util';
-import graphData from "../graph";
+import {findGoodSize} from '../util';
 
 const domain = props => {
   const {nodes, edges} = props;

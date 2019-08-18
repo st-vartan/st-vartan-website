@@ -1,0 +1,5291 @@
+[
+  {
+    "id": "region_2",
+    "degree": 15,
+    "x_fixed": -111.19,
+    "y_fixed": 187.06
+  },
+  {
+    "id": "region_3",
+    "degree": 24,
+    "x_fixed": 42.12,
+    "y_fixed": 6.75
+  },
+  {
+    "id": "region_4",
+    "degree": 19,
+    "x_fixed": -188.86,
+    "y_fixed": -0.76
+  },
+  {
+    "id": "region_5",
+    "degree": 24,
+    "x_fixed": 27.1,
+    "y_fixed": 104.21
+  },
+  {
+    "id": "region_6",
+    "degree": 23,
+    "x_fixed": 235.48,
+    "y_fixed": -355.07
+  },
+  {
+    "id": "region_7",
+    "degree": 15,
+    "x_fixed": 198.72,
+    "y_fixed": 358.78
+  },
+  {
+    "id": "country_3",
+    "degree": 2,
+    "x_fixed": 504.17,
+    "y_fixed": -34.35
+  },
+  {
+    "id": "country_4",
+    "degree": 8,
+    "x_fixed": 370.24,
+    "y_fixed": 449.43
+  },
+  {
+    "id": "country_5",
+    "degree": 5,
+    "x_fixed": 238.59,
+    "y_fixed": 194.59
+  },
+  {
+    "id": "country_6",
+    "degree": 2,
+    "x_fixed": -246.77,
+    "y_fixed": 60.58
+  },
+  {
+    "id": "country_12",
+    "degree": 7,
+    "x_fixed": 289.96,
+    "y_fixed": 292.02
+  },
+  {
+    "id": "country_13",
+    "degree": 3,
+    "x_fixed": -499.08,
+    "y_fixed": 467.93
+  },
+  {
+    "id": "country_14",
+    "degree": 6,
+    "x_fixed": -22.75,
+    "y_fixed": 374.57
+  },
+  {
+    "id": "country_17",
+    "degree": 6,
+    "x_fixed": 56.95,
+    "y_fixed": 226.35
+  },
+  {
+    "id": "country_18",
+    "degree": 14,
+    "x_fixed": 101.72,
+    "y_fixed": 298.81
+  },
+  {
+    "id": "country_21",
+    "degree": 5,
+    "x_fixed": 182.63,
+    "y_fixed": 255.59
+  },
+  {
+    "id": "country_23",
+    "degree": 3,
+    "x_fixed": 463,
+    "y_fixed": 28.89
+  },
+  {
+    "id": "country_24",
+    "degree": 12,
+    "x_fixed": -123.09,
+    "y_fixed": 276.42
+  },
+  {
+    "id": "country_25",
+    "degree": 2,
+    "x_fixed": -330.76,
+    "y_fixed": -111.09
+  },
+  {
+    "id": "country_26",
+    "degree": 2,
+    "x_fixed": 276.19,
+    "y_fixed": -470.04
+  },
+  {
+    "id": "country_28",
+    "degree": 2,
+    "x_fixed": -135.32,
+    "y_fixed": 70.47
+  },
+  {
+    "id": "country_29",
+    "degree": 6,
+    "x_fixed": -144.77,
+    "y_fixed": 112.15
+  },
+  {
+    "id": "country_30",
+    "degree": 4,
+    "x_fixed": -32.37,
+    "y_fixed": -65.79
+  },
+  {
+    "id": "country_31",
+    "degree": 3,
+    "x_fixed": 438.94,
+    "y_fixed": -259.12
+  },
+  {
+    "id": "country_33",
+    "degree": 7,
+    "x_fixed": -12.65,
+    "y_fixed": -53.7
+  },
+  {
+    "id": "country_35",
+    "degree": 6,
+    "x_fixed": 457.97,
+    "y_fixed": 75.63
+  },
+  {
+    "id": "country_36",
+    "degree": 2,
+    "x_fixed": 404.57,
+    "y_fixed": -559.7
+  },
+  {
+    "id": "country_37",
+    "degree": 2,
+    "x_fixed": -92.75,
+    "y_fixed": -240.92
+  },
+  {
+    "id": "country_39",
+    "degree": 6,
+    "x_fixed": 356.61,
+    "y_fixed": 137.4
+  },
+  {
+    "id": "country_43",
+    "degree": 2,
+    "x_fixed": -41.35,
+    "y_fixed": -616.9
+  },
+  {
+    "id": "country_44",
+    "degree": 2,
+    "x_fixed": -262.35,
+    "y_fixed": 210.22
+  },
+  {
+    "id": "country_45",
+    "degree": 40,
+    "x_fixed": 4.27,
+    "y_fixed": 163.52
+  },
+  {
+    "id": "country_47",
+    "degree": 5,
+    "x_fixed": -496.3,
+    "y_fixed": 97.24
+  },
+  {
+    "id": "country_49",
+    "degree": 11,
+    "x_fixed": -66.05,
+    "y_fixed": -101.82
+  },
+  {
+    "id": "country_54",
+    "degree": 21,
+    "x_fixed": 160.81,
+    "y_fixed": 158.65
+  },
+  {
+    "id": "country_55",
+    "degree": 4,
+    "x_fixed": 257.78,
+    "y_fixed": 361.07
+  },
+  {
+    "id": "country_56",
+    "degree": 2,
+    "x_fixed": 203.76,
+    "y_fixed": -165.45
+  },
+  {
+    "id": "country_57",
+    "degree": 4,
+    "x_fixed": 369.58,
+    "y_fixed": -520.31
+  },
+  {
+    "id": "country_58",
+    "degree": 17,
+    "x_fixed": -68.6,
+    "y_fixed": -18.08
+  },
+  {
+    "id": "country_59",
+    "degree": 5,
+    "x_fixed": -6.13,
+    "y_fixed": 83.76
+  },
+  {
+    "id": "country_62",
+    "degree": 4,
+    "x_fixed": -215.55,
+    "y_fixed": 145.92
+  },
+  {
+    "id": "country_64",
+    "degree": 4,
+    "x_fixed": 186.25,
+    "y_fixed": 484.65
+  },
+  {
+    "id": "country_66",
+    "degree": 9,
+    "x_fixed": 432.75,
+    "y_fixed": 307.4
+  },
+  {
+    "id": "country_67",
+    "degree": 4,
+    "x_fixed": -293.65,
+    "y_fixed": -342.5
+  },
+  {
+    "id": "country_69",
+    "degree": 16,
+    "x_fixed": -201.24,
+    "y_fixed": 216.06
+  },
+  {
+    "id": "country_70",
+    "degree": 5,
+    "x_fixed": 167.2,
+    "y_fixed": 121.17
+  },
+  {
+    "id": "country_72",
+    "degree": 4,
+    "x_fixed": 345.9,
+    "y_fixed": 153.89
+  },
+  {
+    "id": "country_77",
+    "degree": 18,
+    "x_fixed": -68.12,
+    "y_fixed": 143.33
+  },
+  {
+    "id": "country_79",
+    "degree": 2,
+    "x_fixed": 252.27,
+    "y_fixed": -651.38
+  },
+  {
+    "id": "country_80",
+    "degree": 5,
+    "x_fixed": 348.05,
+    "y_fixed": 230.65
+  },
+  {
+    "id": "country_84",
+    "degree": 7,
+    "x_fixed": -322.54,
+    "y_fixed": 8.18
+  },
+  {
+    "id": "country_89",
+    "degree": 4,
+    "x_fixed": -372.14,
+    "y_fixed": -19.4
+  },
+  {
+    "id": "country_90",
+    "degree": 2,
+    "x_fixed": 369.02,
+    "y_fixed": -350.37
+  },
+  {
+    "id": "country_97",
+    "degree": 2,
+    "x_fixed": -217.49,
+    "y_fixed": -179.02
+  },
+  {
+    "id": "country_99",
+    "degree": 5,
+    "x_fixed": 182.39,
+    "y_fixed": 106.68
+  },
+  {
+    "id": "country_103",
+    "degree": 14,
+    "x_fixed": 111.47,
+    "y_fixed": 272.69
+  },
+  {
+    "id": "country_104",
+    "degree": 9,
+    "x_fixed": -120.36,
+    "y_fixed": -67.38
+  },
+  {
+    "id": "country_105",
+    "degree": 14,
+    "x_fixed": 72.85,
+    "y_fixed": 378.21
+  },
+  {
+    "id": "country_106",
+    "degree": 4,
+    "x_fixed": -18.27,
+    "y_fixed": 613.93
+  },
+  {
+    "id": "country_107",
+    "degree": 3,
+    "x_fixed": 47.16,
+    "y_fixed": 255.54
+  },
+  {
+    "id": "country_110",
+    "degree": 10,
+    "x_fixed": -120.53,
+    "y_fixed": 57.8
+  },
+  {
+    "id": "country_111",
+    "degree": 3,
+    "x_fixed": -393.57,
+    "y_fixed": -41.03
+  },
+  {
+    "id": "country_112",
+    "degree": 23,
+    "x_fixed": 16.26,
+    "y_fixed": 139.76
+  },
+  {
+    "id": "country_113",
+    "degree": 3,
+    "x_fixed": 329.68,
+    "y_fixed": 378.58
+  },
+  {
+    "id": "country_114",
+    "degree": 11,
+    "x_fixed": 278.26,
+    "y_fixed": 151.36
+  },
+  {
+    "id": "country_115",
+    "degree": 4,
+    "x_fixed": 371.88,
+    "y_fixed": -457.09
+  },
+  {
+    "id": "country_116",
+    "degree": 9,
+    "x_fixed": 11.73,
+    "y_fixed": 198.8
+  },
+  {
+    "id": "country_119",
+    "degree": 2,
+    "x_fixed": 163.95,
+    "y_fixed": 319.64
+  },
+  {
+    "id": "country_121",
+    "degree": 3,
+    "x_fixed": -132.45,
+    "y_fixed": 145.34
+  },
+  {
+    "id": "country_122",
+    "degree": 2,
+    "x_fixed": -53,
+    "y_fixed": 348.2
+  },
+  {
+    "id": "country_126",
+    "degree": 4,
+    "x_fixed": 364.58,
+    "y_fixed": 218.11
+  },
+  {
+    "id": "country_127",
+    "degree": 2,
+    "x_fixed": -309.14,
+    "y_fixed": 391.85
+  },
+  {
+    "id": "country_129",
+    "degree": 6,
+    "x_fixed": 205.33,
+    "y_fixed": 231.03
+  },
+  {
+    "id": "country_130",
+    "degree": 2,
+    "x_fixed": 81.69,
+    "y_fixed": -483.05
+  },
+  {
+    "id": "country_131",
+    "degree": 3,
+    "x_fixed": 325.37,
+    "y_fixed": 262.18
+  },
+  {
+    "id": "country_132",
+    "degree": 6,
+    "x_fixed": 446.29,
+    "y_fixed": -299.96
+  },
+  {
+    "id": "country_134",
+    "degree": 9,
+    "x_fixed": 354.5,
+    "y_fixed": -240.04
+  },
+  {
+    "id": "country_137",
+    "degree": 8,
+    "x_fixed": -75.2,
+    "y_fixed": 177.77
+  },
+  {
+    "id": "country_140",
+    "degree": 4,
+    "x_fixed": -333.86,
+    "y_fixed": -367.44
+  },
+  {
+    "id": "country_141",
+    "degree": 2,
+    "x_fixed": 312.97,
+    "y_fixed": 402.17
+  },
+  {
+    "id": "country_143",
+    "degree": 10,
+    "x_fixed": 17.39,
+    "y_fixed": 218.17
+  },
+  {
+    "id": "country_145",
+    "degree": 4,
+    "x_fixed": 520.01,
+    "y_fixed": 14.75
+  },
+  {
+    "id": "country_147",
+    "degree": 15,
+    "x_fixed": 368.49,
+    "y_fixed": -281.17
+  },
+  {
+    "id": "country_149",
+    "degree": 3,
+    "x_fixed": 349.68,
+    "y_fixed": -418.72
+  },
+  {
+    "id": "country_151",
+    "degree": 2,
+    "x_fixed": 453.3,
+    "y_fixed": -281.94
+  },
+  {
+    "id": "country_154",
+    "degree": 3,
+    "x_fixed": -242.87,
+    "y_fixed": 206.68
+  },
+  {
+    "id": "country_155",
+    "degree": 3,
+    "x_fixed": 385.72,
+    "y_fixed": 195.66
+  },
+  {
+    "id": "country_156",
+    "degree": 5,
+    "x_fixed": 181.85,
+    "y_fixed": -447.42
+  },
+  {
+    "id": "country_163",
+    "degree": 9,
+    "x_fixed": 339.76,
+    "y_fixed": 519.1
+  },
+  {
+    "id": "country_164",
+    "degree": 7,
+    "x_fixed": 349.5,
+    "y_fixed": -449.85
+  },
+  {
+    "id": "country_165",
+    "degree": 7,
+    "x_fixed": 18.55,
+    "y_fixed": 261.91
+  },
+  {
+    "id": "country_166",
+    "degree": 4,
+    "x_fixed": 66.23,
+    "y_fixed": 252.35
+  },
+  {
+    "id": "country_168",
+    "degree": 2,
+    "x_fixed": 339.84,
+    "y_fixed": 432.33
+  },
+  {
+    "id": "country_169",
+    "degree": 3,
+    "x_fixed": -196.85,
+    "y_fixed": -325.91
+  },
+  {
+    "id": "country_172",
+    "degree": 2,
+    "x_fixed": -135.14,
+    "y_fixed": -155.65
+  },
+  {
+    "id": "country_173",
+    "degree": 11,
+    "x_fixed": -327.86,
+    "y_fixed": -89.33
+  },
+  {
+    "id": "country_174",
+    "degree": 4,
+    "x_fixed": 112.95,
+    "y_fixed": -173.81
+  },
+  {
+    "id": "country_176",
+    "degree": 2,
+    "x_fixed": -123.87,
+    "y_fixed": 358.09
+  },
+  {
+    "id": "country_179",
+    "degree": 8,
+    "x_fixed": 13.67,
+    "y_fixed": -22.28
+  },
+  {
+    "id": "country_180",
+    "degree": 4,
+    "x_fixed": 418.18,
+    "y_fixed": 288.6
+  },
+  {
+    "id": "country_182",
+    "degree": 8,
+    "x_fixed": 532.26,
+    "y_fixed": 61.07
+  },
+  {
+    "id": "country_184",
+    "degree": 3,
+    "x_fixed": 207.32,
+    "y_fixed": -202.55
+  },
+  {
+    "id": "country_198",
+    "degree": 3,
+    "x_fixed": 254.71,
+    "y_fixed": -480.01
+  },
+  {
+    "id": "country_202",
+    "degree": 7,
+    "x_fixed": 318.54,
+    "y_fixed": 36.54
+  },
+  {
+    "id": "country_203",
+    "degree": 5,
+    "x_fixed": 77.72,
+    "y_fixed": 221.16
+  },
+  {
+    "id": "country_206",
+    "degree": 2,
+    "x_fixed": 246.01,
+    "y_fixed": 80.78
+  },
+  {
+    "id": "country_208",
+    "degree": 5,
+    "x_fixed": -231.52,
+    "y_fixed": 113.34
+  },
+  {
+    "id": "country_212",
+    "degree": 3,
+    "x_fixed": 36.65,
+    "y_fixed": 223.1
+  },
+  {
+    "id": "country_213",
+    "degree": 5,
+    "x_fixed": 25.25,
+    "y_fixed": 285.26
+  },
+  {
+    "id": "country_217",
+    "degree": 7,
+    "x_fixed": 285.81,
+    "y_fixed": 174.72
+  },
+  {
+    "id": "country_219",
+    "degree": 2,
+    "x_fixed": 69.65,
+    "y_fixed": 442.77
+  },
+  {
+    "id": "country_221",
+    "degree": 2,
+    "x_fixed": 240.08,
+    "y_fixed": -467.38
+  },
+  {
+    "id": "country_223",
+    "degree": 2,
+    "x_fixed": -336.47,
+    "y_fixed": -131.08
+  },
+  {
+    "id": "country_225",
+    "degree": 2,
+    "x_fixed": 482.42,
+    "y_fixed": 86.26
+  },
+  {
+    "id": "country_226",
+    "degree": 4,
+    "x_fixed": 3.41,
+    "y_fixed": 232.45
+  },
+  {
+    "id": "country_228",
+    "degree": 18,
+    "x_fixed": 140.15,
+    "y_fixed": 413.09
+  },
+  {
+    "id": "country_230",
+    "degree": 3,
+    "x_fixed": 355.78,
+    "y_fixed": -218.59
+  },
+  {
+    "id": "country_231",
+    "degree": 3,
+    "x_fixed": -458.28,
+    "y_fixed": 411.27
+  },
+  {
+    "id": "country_232",
+    "degree": 2,
+    "x_fixed": -348.81,
+    "y_fixed": -79.39
+  },
+  {
+    "id": "country_233",
+    "degree": 7,
+    "x_fixed": 14.95,
+    "y_fixed": -160.75
+  },
+  {
+    "id": "country_234",
+    "degree": 13,
+    "x_fixed": 341.06,
+    "y_fixed": 125.92
+  },
+  {
+    "id": "country_236",
+    "degree": 2,
+    "x_fixed": -143.5,
+    "y_fixed": 478.03
+  },
+  {
+    "id": "country_237",
+    "degree": 4,
+    "x_fixed": 83.99,
+    "y_fixed": 415.41
+  },
+  {
+    "id": "country_238",
+    "degree": 4,
+    "x_fixed": 359.14,
+    "y_fixed": -370.49
+  },
+  {
+    "id": "country_239",
+    "degree": 2,
+    "x_fixed": 169.82,
+    "y_fixed": -474.18
+  },
+  {
+    "id": "country_240",
+    "degree": 2,
+    "x_fixed": 72.07,
+    "y_fixed": 488.12
+  },
+  {
+    "id": "vocabulary_ich_1078",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 36,
+    "x_fixed": 294.6,
+    "y_fixed": 101
+  },
+  {
+    "id": "vocabulary_ich_946",
+    "degree": 0,
+    "x_fixed": 660,
+    "y_fixed": 0
+  },
+  {
+    "id": "vocabulary_ich_1203",
+    "degree": 4,
+    "x_fixed": 511.8,
+    "y_fixed": 128.37
+  },
+  {
+    "id": "vocabulary_ich_1161",
+    "degree": 3,
+    "x_fixed": 113.88,
+    "y_fixed": 181.34
+  },
+  {
+    "id": "vocabulary_ich_1100",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 27,
+    "x_fixed": 460.97,
+    "y_fixed": -62.46
+  },
+  {
+    "id": "vocabulary_ich_1023",
+    "degree": 15,
+    "x_fixed": 95.6,
+    "y_fixed": -145.85
+  },
+  {
+    "id": "vocabulary_ich_1282",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 525.2,
+    "y_fixed": -57.59
+  },
+  {
+    "id": "vocabulary_ich_1205",
+    "degree": 24,
+    "x_fixed": 147.55,
+    "y_fixed": 71.04
+  },
+  {
+    "id": "vocabulary_ich_1112",
+    "degree": 5,
+    "x_fixed": 283.47,
+    "y_fixed": 361.22
+  },
+  {
+    "id": "vocabulary_ich_1043",
+    "degree": 13,
+    "x_fixed": 439.9,
+    "y_fixed": 1.69
+  },
+  {
+    "id": "vocabulary_ich_1092",
+    "degree": 11,
+    "x_fixed": 243.41,
+    "y_fixed": -308.76
+  },
+  {
+    "id": "vocabulary_ich_1292",
+    "degree": 4,
+    "x_fixed": -264.06,
+    "y_fixed": -166.7
+  },
+  {
+    "id": "vocabulary_ich_1143",
+    "degree": 6,
+    "x_fixed": 102.35,
+    "y_fixed": -285.69
+  },
+  {
+    "id": "vocabulary_ich_1256",
+    "degree": 4,
+    "x_fixed": -285.46,
+    "y_fixed": -144.39
+  },
+  {
+    "id": "vocabulary_ich_970",
+    "degree": 14,
+    "x_fixed": 173.29,
+    "y_fixed": -155.77
+  },
+  {
+    "id": "vocabulary_ich_1202",
+    "degree": 3,
+    "x_fixed": 366.26,
+    "y_fixed": -431.9
+  },
+  {
+    "id": "vocabulary_ich_1105",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 14,
+    "x_fixed": 392.21,
+    "y_fixed": 325.54
+  },
+  {
+    "id": "vocabulary_ich_1175",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 545.4,
+    "y_fixed": 86.46
+  },
+  {
+    "id": "vocabulary_ich_1178",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 479.63,
+    "y_fixed": 9.03
+  },
+  {
+    "id": "vocabulary_ich_1098",
+    "degree": 20,
+    "x_fixed": 510.12,
+    "y_fixed": -121.02
+  },
+  {
+    "id": "vocabulary_ich_1166",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 17,
+    "x_fixed": 332.41,
+    "y_fixed": -2.31
+  },
+  {
+    "id": "vocabulary_ich_1277",
+    "degree": 12,
+    "x_fixed": 315.19,
+    "y_fixed": 161.04
+  },
+  {
+    "id": "vocabulary_ich_1173",
+    "degree": 2,
+    "x_fixed": -9.49,
+    "y_fixed": 8.6
+  },
+  {
+    "id": "vocabulary_ich_1116",
+    "degree": 8,
+    "x_fixed": -79.81,
+    "y_fixed": 47.89
+  },
+  {
+    "id": "vocabulary_ich_1275",
+    "degree": 4,
+    "x_fixed": -218.92,
+    "y_fixed": 370.37
+  },
+  {
+    "id": "vocabulary_ich_1179",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 11,
+    "x_fixed": 210.73,
+    "y_fixed": 186.06
+  },
+  {
+    "id": "vocabulary_ich_1115",
+    "degree": 14,
+    "x_fixed": 573.25,
+    "y_fixed": -159.75
+  },
+  {
+    "id": "vocabulary_ich_1159",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 8,
+    "x_fixed": 461.56,
+    "y_fixed": 286.45
+  },
+  {
+    "id": "vocabulary_ich_1099",
+    "degree": 4,
+    "x_fixed": 202.21,
+    "y_fixed": -377.37
+  },
+  {
+    "id": "vocabulary_ich_1325",
+    "degree": 4,
+    "x_fixed": 122.85,
+    "y_fixed": -238.27
+  },
+  {
+    "id": "vocabulary_ich_945",
+    "degree": 0,
+    "x_fixed": 505.59,
+    "y_fixed": 424.24
+  },
+  {
+    "id": "vocabulary_ich_1181",
+    "degree": 2,
+    "x_fixed": -231.21,
+    "y_fixed": 85.4
+  },
+  {
+    "id": "vocabulary_ich_1144",
+    "degree": 2,
+    "x_fixed": 28.23,
+    "y_fixed": -541.74
+  },
+  {
+    "id": "vocabulary_ich_1146",
+    "degree": 14,
+    "x_fixed": -36.62,
+    "y_fixed": -26.75
+  },
+  {
+    "id": "vocabulary_ich_1156",
+    "degree": 4,
+    "x_fixed": 116.74,
+    "y_fixed": -262.63
+  },
+  {
+    "id": "vocabulary_ich_1059",
+    "degree": 11,
+    "x_fixed": -76.23,
+    "y_fixed": -216.91
+  },
+  {
+    "id": "vocabulary_ich_1110",
+    "degree": 11,
+    "x_fixed": -23.4,
+    "y_fixed": 145.48
+  },
+  {
+    "id": "vocabulary_ich_1152",
+    "degree": 16,
+    "x_fixed": 50.23,
+    "y_fixed": -159.68
+  },
+  {
+    "id": "vocabulary_ich_1089",
+    "degree": 36,
+    "x_fixed": 59.08,
+    "y_fixed": 170.49
+  },
+  {
+    "id": "vocabulary_ich_1130",
+    "degree": 9,
+    "x_fixed": -271.12,
+    "y_fixed": -248.15
+  },
+  {
+    "id": "vocabulary_ich_1101",
+    "degree": 9,
+    "x_fixed": -234.27,
+    "y_fixed": -356.56
+  },
+  {
+    "id": "vocabulary_ich_986",
+    "degree": 28,
+    "x_fixed": 159.67,
+    "y_fixed": 213.11
+  },
+  {
+    "id": "vocabulary_ich_1121",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 2,
+    "x_fixed": 11.75,
+    "y_fixed": -557.26
+  },
+  {
+    "id": "vocabulary_ich_939",
+    "degree": 0,
+    "x_fixed": 114.61,
+    "y_fixed": -649.97
+  },
+  {
+    "id": "vocabulary_ich_1096",
+    "degree": 9,
+    "x_fixed": 220.14,
+    "y_fixed": 33.38
+  },
+  {
+    "id": "vocabulary_ich_1176",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 2,
+    "x_fixed": -599.59,
+    "y_fixed": 88.8
+  },
+  {
+    "id": "vocabulary_ich_1253",
+    "degree": 4,
+    "x_fixed": 552.27,
+    "y_fixed": -203.9
+  },
+  {
+    "id": "vocabulary_ich_1276",
+    "degree": 5,
+    "x_fixed": -166.39,
+    "y_fixed": 246.1
+  },
+  {
+    "id": "vocabulary_ich_932",
+    "degree": 0,
+    "x_fixed": 505.59,
+    "y_fixed": -424.24
+  },
+  {
+    "id": "vocabulary_ich_1097",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 2,
+    "x_fixed": 367.83,
+    "y_fixed": -409.97
+  },
+  {
+    "id": "vocabulary_ich_983",
+    "degree": 3,
+    "x_fixed": -493.11,
+    "y_fixed": 147.31
+  },
+  {
+    "id": "vocabulary_ich_1001",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 29,
+    "x_fixed": 289.71,
+    "y_fixed": -77.4
+  },
+  {
+    "id": "vocabulary_ich_1126",
+    "degree": 9,
+    "x_fixed": 271.26,
+    "y_fixed": -128.19
+  },
+  {
+    "id": "vocabulary_ich_1083",
+    "degree": 38,
+    "x_fixed": 374.84,
+    "y_fixed": -165.05
+  },
+  {
+    "id": "vocabulary_ich_1147",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 320.78,
+    "y_fixed": 230.98
+  },
+  {
+    "id": "vocabulary_ich_1093",
+    "degree": 10,
+    "x_fixed": 280.15,
+    "y_fixed": -299.06
+  },
+  {
+    "id": "vocabulary_ich_940",
+    "degree": 0,
+    "x_fixed": -330,
+    "y_fixed": -571.58
+  },
+  {
+    "id": "vocabulary_ich_1042",
+    "degree": 3,
+    "x_fixed": 423.23,
+    "y_fixed": -197.57
+  },
+  {
+    "id": "vocabulary_ich_1279",
+    "degree": 3,
+    "x_fixed": 101.22,
+    "y_fixed": -204.96
+  },
+  {
+    "id": "vocabulary_ich_1057",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 522.76,
+    "y_fixed": 40.99
+  },
+  {
+    "id": "vocabulary_ich_1076",
+    "degree": 32,
+    "x_fixed": -427.48,
+    "y_fixed": -245.64
+  },
+  {
+    "id": "vocabulary_ich_1088",
+    "degree": 4,
+    "x_fixed": -40.22,
+    "y_fixed": -368.37
+  },
+  {
+    "id": "vocabulary_ich_1077",
+    "biome_main": "vocabulary_ich_940",
+    "degree": 9,
+    "x_fixed": -260.35,
+    "y_fixed": -332.96
+  },
+  {
+    "id": "vocabulary_ich_1281",
+    "degree": 2,
+    "x_fixed": -89.36,
+    "y_fixed": 309.01
+  },
+  {
+    "id": "vocabulary_ich_1254",
+    "degree": 4,
+    "x_fixed": 229.52,
+    "y_fixed": 216.93
+  },
+  {
+    "id": "vocabulary_ich_1251",
+    "degree": 2,
+    "x_fixed": 247.08,
+    "y_fixed": -391.23
+  },
+  {
+    "id": "vocabulary_ich_1252",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 422.02,
+    "y_fixed": 57.31
+  },
+  {
+    "id": "vocabulary_ich_1125",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 188.92,
+    "y_fixed": 49.8
+  },
+  {
+    "id": "vocabulary_ich_1274",
+    "degree": 3,
+    "x_fixed": -614.13,
+    "y_fixed": -44.26
+  },
+  {
+    "id": "vocabulary_ich_927",
+    "degree": 0,
+    "x_fixed": -620.2,
+    "y_fixed": -225.73
+  },
+  {
+    "id": "vocabulary_ich_1170",
+    "degree": 11,
+    "x_fixed": 307.28,
+    "y_fixed": 200.14
+  },
+  {
+    "id": "vocabulary_ich_1131",
+    "degree": 8,
+    "x_fixed": -220.9,
+    "y_fixed": -98.63
+  },
+  {
+    "id": "vocabulary_ich_1285",
+    "degree": 6,
+    "x_fixed": -92.85,
+    "y_fixed": 76.32
+  },
+  {
+    "id": "vocabulary_ich_1160",
+    "degree": 6,
+    "x_fixed": 546.3,
+    "y_fixed": -242.58
+  },
+  {
+    "id": "vocabulary_ich_1326",
+    "degree": 2,
+    "x_fixed": -48.7,
+    "y_fixed": 128.99
+  },
+  {
+    "id": "vocabulary_ich_1050",
+    "degree": 5,
+    "x_fixed": -6.44,
+    "y_fixed": -125.27
+  },
+  {
+    "id": "vocabulary_ich_931",
+    "degree": 0,
+    "x_fixed": -620.2,
+    "y_fixed": 225.73
+  },
+  {
+    "id": "vocabulary_ich_1151",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 5,
+    "x_fixed": -494.7,
+    "y_fixed": -115.65
+  },
+  {
+    "id": "vocabulary_ich_1259",
+    "degree": 2,
+    "x_fixed": -23.14,
+    "y_fixed": -220.14
+  },
+  {
+    "id": "vocabulary_ich_1280",
+    "degree": 2,
+    "x_fixed": -476.84,
+    "y_fixed": -251.95
+  },
+  {
+    "id": "vocabulary_ich_930",
+    "degree": 0,
+    "x_fixed": 114.61,
+    "y_fixed": 649.97
+  },
+  {
+    "id": "vocabulary_ich_1107",
+    "degree": 7,
+    "x_fixed": 149.18,
+    "y_fixed": 23.67
+  },
+  {
+    "id": "vocabulary_ich_1104",
+    "degree": 45,
+    "x_fixed": 182.88,
+    "y_fixed": -77.89
+  },
+  {
+    "id": "vocabulary_ich_1009",
+    "degree": 26,
+    "x_fixed": 117.9,
+    "y_fixed": -15.95
+  },
+  {
+    "id": "vocabulary_ich_1049",
+    "degree": 29,
+    "x_fixed": 75.14,
+    "y_fixed": 62
+  },
+  {
+    "id": "vocabulary_ich_1055",
+    "degree": 6,
+    "x_fixed": 219.05,
+    "y_fixed": -133.83
+  },
+  {
+    "id": "vocabulary_ich_1324",
+    "degree": 7,
+    "x_fixed": 82.33,
+    "y_fixed": -183.82
+  },
+  {
+    "id": "vocabulary_ich_987",
+    "degree": 29,
+    "x_fixed": 250.16,
+    "y_fixed": -11.94
+  },
+  {
+    "id": "vocabulary_ich_1017",
+    "biome_main": "vocabulary_ich_940",
+    "degree": 25,
+    "x_fixed": -63.48,
+    "y_fixed": -271.52
+  },
+  {
+    "id": "vocabulary_ich_1273",
+    "degree": 3,
+    "x_fixed": -401.33,
+    "y_fixed": 160.6
+  },
+  {
+    "id": "vocabulary_ich_1169",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 4,
+    "x_fixed": -247.45,
+    "y_fixed": -185.53
+  },
+  {
+    "id": "vocabulary_ich_981",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 14,
+    "x_fixed": -473.6,
+    "y_fixed": -192.4
+  },
+  {
+    "id": "vocabulary_ich_1108",
+    "degree": 13,
+    "x_fixed": 263.45,
+    "y_fixed": 213.14
+  },
+  {
+    "id": "vocabulary_ich_1120",
+    "degree": 14,
+    "x_fixed": 510.39,
+    "y_fixed": -171.27
+  },
+  {
+    "id": "vocabulary_ich_1168",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 5,
+    "x_fixed": -478.59,
+    "y_fixed": -227.95
+  },
+  {
+    "id": "vocabulary_ich_1021",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 16,
+    "x_fixed": 227.82,
+    "y_fixed": 109.29
+  },
+  {
+    "id": "vocabulary_ich_1258",
+    "degree": 5,
+    "x_fixed": -362.23,
+    "y_fixed": 236.61
+  },
+  {
+    "id": "vocabulary_ich_1129",
+    "degree": 6,
+    "x_fixed": 222.36,
+    "y_fixed": -395.62
+  },
+  {
+    "id": "vocabulary_ich_1011",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 3,
+    "x_fixed": -314.5,
+    "y_fixed": 93.55
+  },
+  {
+    "id": "vocabulary_ich_1177",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 508.01,
+    "y_fixed": -12.2
+  },
+  {
+    "id": "vocabulary_ich_1153",
+    "degree": 14,
+    "x_fixed": 248.7,
+    "y_fixed": 262.28
+  },
+  {
+    "id": "vocabulary_ich_1209",
+    "degree": 3,
+    "x_fixed": -502.46,
+    "y_fixed": -89.57
+  },
+  {
+    "id": "vocabulary_ich_1123",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 4,
+    "x_fixed": 484.38,
+    "y_fixed": -285.28
+  },
+  {
+    "id": "vocabulary_ich_1167",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 3,
+    "x_fixed": 500.23,
+    "y_fixed": 32.53
+  },
+  {
+    "id": "vocabulary_ich_1158",
+    "degree": 2,
+    "x_fixed": -192.68,
+    "y_fixed": 158.68
+  },
+  {
+    "id": "vocabulary_ich_1150",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 7,
+    "x_fixed": 101.6,
+    "y_fixed": 212.68
+  },
+  {
+    "id": "vocabulary_ich_1085",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 3,
+    "x_fixed": 370.79,
+    "y_fixed": -388.17
+  },
+  {
+    "id": "vocabulary_ich_1051",
+    "degree": 5,
+    "x_fixed": 74.88,
+    "y_fixed": 115.34
+  },
+  {
+    "id": "vocabulary_ich_1278",
+    "degree": 3,
+    "x_fixed": 339.99,
+    "y_fixed": 181.14
+  },
+  {
+    "id": "vocabulary_ich_1154",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 472.66,
+    "y_fixed": -112.44
+  },
+  {
+    "id": "vocabulary_ich_1024",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 32,
+    "x_fixed": 68.46,
+    "y_fixed": -243.77
+  },
+  {
+    "id": "vocabulary_ich_1128",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 5,
+    "x_fixed": 95.6,
+    "y_fixed": -509.66
+  },
+  {
+    "id": "vocabulary_ich_1086",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 2,
+    "x_fixed": 379.1,
+    "y_fixed": -367.81
+  },
+  {
+    "id": "vocabulary_ich_936",
+    "degree": 0,
+    "x_fixed": -330,
+    "y_fixed": 571.58
+  },
+  {
+    "id": "vocabulary_ich_1149",
+    "degree": 6,
+    "x_fixed": -120.15,
+    "y_fixed": 124.38
+  },
+  {
+    "id": "vocabulary_ich_1039",
+    "degree": 13,
+    "x_fixed": 292.33,
+    "y_fixed": 260.62
+  },
+  {
+    "id": "vocabulary_ich_1171",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 2,
+    "x_fixed": -267.47,
+    "y_fixed": 123.49
+  },
+  {
+    "id": "vocabulary_ich_1040",
+    "degree": 23,
+    "x_fixed": -164.14,
+    "y_fixed": -195.63
+  },
+  {
+    "id": "vocabulary_ich_1137",
+    "degree": 4,
+    "x_fixed": 35.74,
+    "y_fixed": 347.18
+  },
+  {
+    "id": "vocabulary_ich_1005",
+    "degree": 14,
+    "x_fixed": 71.05,
+    "y_fixed": -305.3
+  },
+  {
+    "id": "vocabulary_ich_1172",
+    "degree": 3,
+    "x_fixed": -130.13,
+    "y_fixed": -275.84
+  },
+  {
+    "id": "vocabulary_ich_1140",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 362.83,
+    "y_fixed": 191.57
+  },
+  {
+    "id": "vocabulary_ich_1157",
+    "degree": 10,
+    "x_fixed": 186.38,
+    "y_fixed": 145.42
+  },
+  {
+    "id": "vocabulary_ich_1019",
+    "degree": 51,
+    "x_fixed": 51.9,
+    "y_fixed": -78.32
+  },
+  {
+    "id": "vocabulary_ich_1135",
+    "degree": 21,
+    "x_fixed": 119.72,
+    "y_fixed": 131.03
+  },
+  {
+    "id": "whc_1033",
+    "degree": 1,
+    "x_fixed": -236.29,
+    "y_fixed": 731.17
+  },
+  {
+    "id": "whc_996",
+    "degree": 1,
+    "x_fixed": -536.27,
+    "y_fixed": 542.24
+  },
+  {
+    "id": "whc_309",
+    "degree": 1,
+    "x_fixed": -221.33,
+    "y_fixed": 211.54
+  },
+  {
+    "id": "whc_668",
+    "degree": 1,
+    "x_fixed": -75.6,
+    "y_fixed": 386.1
+  },
+  {
+    "id": "whc_437",
+    "degree": 2,
+    "x_fixed": -27.51,
+    "y_fixed": 115.24
+  },
+  {
+    "id": "whc_441",
+    "degree": 1,
+    "x_fixed": 492.92,
+    "y_fixed": 154.32
+  },
+  {
+    "id": "whc_707",
+    "degree": 1,
+    "x_fixed": -782.26,
+    "y_fixed": 208.69
+  },
+  {
+    "id": "whc_1002",
+    "degree": 1,
+    "x_fixed": 240.96,
+    "y_fixed": -101.51
+  },
+  {
+    "id": "whc_1135",
+    "degree": 1,
+    "x_fixed": 903.27,
+    "y_fixed": 75.35
+  },
+  {
+    "id": "whc_1540",
+    "degree": 1,
+    "x_fixed": -419.42,
+    "y_fixed": 27.18
+  },
+  {
+    "id": "whc_95",
+    "degree": 1,
+    "x_fixed": -344.82,
+    "y_fixed": 407.11
+  },
+  {
+    "id": "whc_97",
+    "degree": 1,
+    "x_fixed": -518.88,
+    "y_fixed": -49.05
+  },
+  {
+    "id": "whc_1240",
+    "degree": 2,
+    "x_fixed": -454.32,
+    "y_fixed": -128.26
+  },
+  {
+    "id": "whc_258",
+    "degree": 1,
+    "x_fixed": -414.79,
+    "y_fixed": 83.85
+  },
+  {
+    "id": "whc_1317",
+    "degree": 1,
+    "x_fixed": -731.75,
+    "y_fixed": -368.77
+  },
+  {
+    "id": "whc_709",
+    "degree": 2,
+    "x_fixed": 562.2,
+    "y_fixed": 102.87
+  },
+  {
+    "id": "whc_404",
+    "degree": 1,
+    "x_fixed": -804.04,
+    "y_fixed": -275.79
+  },
+  {
+    "id": "whc_537",
+    "degree": 1,
+    "x_fixed": 427.57,
+    "y_fixed": -31.57
+  },
+  {
+    "id": "whc_247",
+    "degree": 1,
+    "x_fixed": 629.49,
+    "y_fixed": 159.4
+  },
+  {
+    "id": "whc_1342",
+    "degree": 1,
+    "x_fixed": 451.68,
+    "y_fixed": -176.92
+  },
+  {
+    "id": "whc_1406",
+    "degree": 1,
+    "x_fixed": -758.22,
+    "y_fixed": 316.13
+  },
+  {
+    "id": "whc_955",
+    "degree": 1,
+    "x_fixed": 159.78,
+    "y_fixed": -0.72
+  },
+  {
+    "id": "whc_1167",
+    "degree": 1,
+    "x_fixed": 409.51,
+    "y_fixed": -87.09
+  },
+  {
+    "id": "whc_1194",
+    "degree": 1,
+    "x_fixed": -275.39,
+    "y_fixed": -187.28
+  },
+  {
+    "id": "whc_114",
+    "degree": 1,
+    "x_fixed": 651.4,
+    "y_fixed": 543.54
+  },
+  {
+    "id": "whc_115",
+    "degree": 1,
+    "x_fixed": -118.79,
+    "y_fixed": 542.55
+  },
+  {
+    "id": "whc_1372",
+    "degree": 1,
+    "x_fixed": 635.6,
+    "y_fixed": 558.65
+  },
+  {
+    "id": "whc_726",
+    "degree": 1,
+    "x_fixed": -404.91,
+    "y_fixed": 333.87
+  },
+  {
+    "id": "whc_833",
+    "degree": 1,
+    "x_fixed": 429.83,
+    "y_fixed": -176.1
+  },
+  {
+    "id": "whc_1356",
+    "degree": 1,
+    "x_fixed": -208.49,
+    "y_fixed": 33.39
+  },
+  {
+    "id": "whc_775",
+    "degree": 1,
+    "x_fixed": 901.43,
+    "y_fixed": 17.23
+  },
+  {
+    "id": "whc_1193",
+    "degree": 1,
+    "x_fixed": -798.98,
+    "y_fixed": -254.04
+  },
+  {
+    "id": "whc_326",
+    "degree": 1,
+    "x_fixed": 259.19,
+    "y_fixed": 393.32
+  },
+  {
+    "id": "whc_1377",
+    "degree": 1,
+    "x_fixed": 239.2,
+    "y_fixed": 402.18
+  },
+  {
+    "id": "whc_1231",
+    "degree": 1,
+    "x_fixed": 269.24,
+    "y_fixed": -639.7
+  },
+  {
+    "id": "whc_1382",
+    "degree": 1,
+    "x_fixed": 122.78,
+    "y_fixed": -355.27
+  },
+  {
+    "id": "whc_1440",
+    "degree": 1,
+    "x_fixed": 144.29,
+    "y_fixed": -359.17
+  },
+  {
+    "id": "whc_331",
+    "degree": 1,
+    "x_fixed": -489.89,
+    "y_fixed": 736.03
+  },
+  {
+    "id": "whc_818",
+    "degree": 1,
+    "x_fixed": -104.08,
+    "y_fixed": -461
+  },
+  {
+    "id": "whc_402",
+    "degree": 1,
+    "x_fixed": -45.29,
+    "y_fixed": -596.68
+  },
+  {
+    "id": "whc_1016",
+    "degree": 1,
+    "x_fixed": -254.78,
+    "y_fixed": 104.34
+  },
+  {
+    "id": "whc_722",
+    "degree": 1,
+    "x_fixed": -408.9,
+    "y_fixed": 51.72
+  },
+  {
+    "id": "whc_738",
+    "degree": 1,
+    "x_fixed": -272.9,
+    "y_fixed": 749.59
+  },
+  {
+    "id": "whc_1264",
+    "degree": 2,
+    "x_fixed": -488.47,
+    "y_fixed": -269.92
+  },
+  {
+    "id": "whc_597",
+    "degree": 1,
+    "x_fixed": 781.04,
+    "y_fixed": 148.88
+  },
+  {
+    "id": "whc_1299",
+    "degree": 1,
+    "x_fixed": 427.82,
+    "y_fixed": -309.08
+  },
+  {
+    "id": "whc_313",
+    "degree": 1,
+    "x_fixed": -198.55,
+    "y_fixed": 672.26
+  },
+  {
+    "id": "whc_930",
+    "degree": 1,
+    "x_fixed": -561.87,
+    "y_fixed": 641.13
+  },
+  {
+    "id": "whc_1243",
+    "degree": 1,
+    "x_fixed": -380.19,
+    "y_fixed": 336.7
+  },
+  {
+    "id": "whc_1366",
+    "degree": 1,
+    "x_fixed": -419.12,
+    "y_fixed": 763.45
+  },
+  {
+    "id": "whc_1022",
+    "degree": 1,
+    "x_fixed": 257.17,
+    "y_fixed": -575.56
+  },
+  {
+    "id": "whc_1343",
+    "degree": 1,
+    "x_fixed": 279.51,
+    "y_fixed": 465.55
+  },
+  {
+    "id": "whc_385",
+    "degree": 1,
+    "x_fixed": -145.81,
+    "y_fixed": 578.93
+  },
+  {
+    "id": "whc_1442",
+    "degree": 1,
+    "x_fixed": 475.91,
+    "y_fixed": -173.28
+  },
+  {
+    "id": "element_2",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 9,
+    "x_fixed": 379.76,
+    "y_fixed": -488.28
+  },
+  {
+    "id": "element_3",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -466.18,
+    "y_fixed": 476.34
+  },
+  {
+    "id": "element_4",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": 172.8,
+    "y_fixed": 789.64
+  },
+  {
+    "id": "element_5",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 3,
+    "x_fixed": 619.68,
+    "y_fixed": -506.94
+  },
+  {
+    "id": "element_6",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 3,
+    "x_fixed": -342.51,
+    "y_fixed": -183.38
+  },
+  {
+    "id": "element_7",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 12,
+    "x_fixed": -25.64,
+    "y_fixed": -633.52
+  },
+  {
+    "id": "element_8",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 383.95,
+    "y_fixed": 57.51
+  },
+  {
+    "id": "element_9",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 5,
+    "x_fixed": 503.63,
+    "y_fixed": -248.1
+  },
+  {
+    "id": "element_10",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -115.48,
+    "y_fixed": 460.63
+  },
+  {
+    "id": "element_11",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -423.96,
+    "y_fixed": 348.93
+  },
+  {
+    "id": "element_12",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -297.6,
+    "y_fixed": 753.83
+  },
+  {
+    "id": "element_13",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 813.45,
+    "y_fixed": 105.98
+  },
+  {
+    "id": "element_14",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -458.56,
+    "y_fixed": 673.68
+  },
+  {
+    "id": "element_15",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 8,
+    "x_fixed": -344.52,
+    "y_fixed": 84.56
+  },
+  {
+    "id": "element_16",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -287,
+    "y_fixed": 729.66
+  },
+  {
+    "id": "element_17",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 5,
+    "x_fixed": 156.77,
+    "y_fixed": -318.16
+  },
+  {
+    "id": "element_18",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -470.37,
+    "y_fixed": 585.83
+  },
+  {
+    "id": "element_19",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 5,
+    "x_fixed": -285.33,
+    "y_fixed": 191.5
+  },
+  {
+    "id": "element_1",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 9,
+    "x_fixed": -298.28,
+    "y_fixed": -194.94
+  },
+  {
+    "id": "element_37",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -452.12,
+    "y_fixed": 454.31
+  },
+  {
+    "id": "element_39",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -375.18,
+    "y_fixed": 705.14
+  },
+  {
+    "id": "element_43",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": 237.31,
+    "y_fixed": 760.43
+  },
+  {
+    "id": "element_46",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 8,
+    "x_fixed": -317.07,
+    "y_fixed": -176.4
+  },
+  {
+    "id": "element_52",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 6,
+    "x_fixed": -452.76,
+    "y_fixed": 33.4
+  },
+  {
+    "id": "element_54",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 9,
+    "x_fixed": 250.78,
+    "y_fixed": -509.64
+  },
+  {
+    "id": "element_56",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -421.6,
+    "y_fixed": 374.94
+  },
+  {
+    "id": "element_57",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -371.73,
+    "y_fixed": 368.52
+  },
+  {
+    "id": "element_58",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 8,
+    "x_fixed": -228.77,
+    "y_fixed": 46.48
+  },
+  {
+    "id": "element_59",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 5,
+    "x_fixed": 65.45,
+    "y_fixed": 782.23
+  },
+  {
+    "id": "element_64",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 5,
+    "x_fixed": -99.3,
+    "y_fixed": 390.63
+  },
+  {
+    "id": "element_65",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": 7.14,
+    "y_fixed": 777.57
+  },
+  {
+    "id": "element_66",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 4,
+    "x_fixed": 255,
+    "y_fixed": 490.2
+  },
+  {
+    "id": "element_67",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 5,
+    "x_fixed": -320.44,
+    "y_fixed": -41.59
+  },
+  {
+    "id": "element_68",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -328.25,
+    "y_fixed": 757.36
+  },
+  {
+    "id": "element_69",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 6,
+    "x_fixed": 310.38,
+    "y_fixed": -231.91
+  },
+  {
+    "id": "element_72",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 6,
+    "x_fixed": 646.32,
+    "y_fixed": -433.9
+  },
+  {
+    "id": "element_74",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": 251.64,
+    "y_fixed": 615.9
+  },
+  {
+    "id": "element_76",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 3,
+    "x_fixed": -767.63,
+    "y_fixed": -295.14
+  },
+  {
+    "id": "element_77",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 3,
+    "x_fixed": -782.39,
+    "y_fixed": -235.29
+  },
+  {
+    "id": "element_78",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -396.1,
+    "y_fixed": 721.01
+  },
+  {
+    "id": "element_80",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 2,
+    "x_fixed": 583.06,
+    "y_fixed": 542.12
+  },
+  {
+    "id": "element_81",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -341.57,
+    "y_fixed": 734.94
+  },
+  {
+    "id": "element_82",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -138.98,
+    "y_fixed": 555.78
+  },
+  {
+    "id": "element_85",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 5,
+    "x_fixed": -61.27,
+    "y_fixed": -447.57
+  },
+  {
+    "id": "element_87",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 3,
+    "x_fixed": 81.37,
+    "y_fixed": -786.97
+  },
+  {
+    "id": "element_92",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 5,
+    "x_fixed": -64.28,
+    "y_fixed": 459.03
+  },
+  {
+    "id": "element_94",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 5,
+    "x_fixed": 147.67,
+    "y_fixed": -130.96
+  },
+  {
+    "id": "element_100",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 5,
+    "x_fixed": -25.87,
+    "y_fixed": 636.39
+  },
+  {
+    "id": "element_103",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 747.71,
+    "y_fixed": 139.81
+  },
+  {
+    "id": "element_107",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 6,
+    "x_fixed": 523.71,
+    "y_fixed": -586.39
+  },
+  {
+    "id": "element_108",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -219.44,
+    "y_fixed": 659.44
+  },
+  {
+    "id": "element_178",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 539.03,
+    "y_fixed": -150.31
+  },
+  {
+    "id": "element_109",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 7,
+    "x_fixed": -210.4,
+    "y_fixed": 190.03
+  },
+  {
+    "id": "element_110",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 6,
+    "x_fixed": -257.63,
+    "y_fixed": -54.62
+  },
+  {
+    "id": "element_111",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 10,
+    "x_fixed": 180.72,
+    "y_fixed": -14.09
+  },
+  {
+    "id": "element_112",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -385.68,
+    "y_fixed": 412.5
+  },
+  {
+    "id": "element_115",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 246.25,
+    "y_fixed": -144.68
+  },
+  {
+    "id": "element_116",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 828.18,
+    "y_fixed": 80.67
+  },
+  {
+    "id": "element_117",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 5,
+    "x_fixed": 345.99,
+    "y_fixed": 293.24
+  },
+  {
+    "id": "element_118",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 5,
+    "x_fixed": -70.89,
+    "y_fixed": 484.52
+  },
+  {
+    "id": "element_119",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -260.74,
+    "y_fixed": 721
+  },
+  {
+    "id": "element_120",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 5,
+    "x_fixed": -707.68,
+    "y_fixed": -363.27
+  },
+  {
+    "id": "element_122",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 7,
+    "x_fixed": -247.6,
+    "y_fixed": 305.37
+  },
+  {
+    "id": "element_166",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 619.53,
+    "y_fixed": -162.3
+  },
+  {
+    "id": "element_167",
+    "biome_main": "vocabulary_ich_940",
+    "degree": 5,
+    "x_fixed": -429.51,
+    "y_fixed": -471.39
+  },
+  {
+    "id": "element_123",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 6,
+    "x_fixed": 553.37,
+    "y_fixed": -580.24
+  },
+  {
+    "id": "element_128",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 5,
+    "x_fixed": -331.06,
+    "y_fixed": 165.56
+  },
+  {
+    "id": "element_129",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 6,
+    "x_fixed": 367.1,
+    "y_fixed": 165.15
+  },
+  {
+    "id": "element_130",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 9,
+    "x_fixed": 240.48,
+    "y_fixed": 378.08
+  },
+  {
+    "id": "element_132",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 4,
+    "x_fixed": 374.73,
+    "y_fixed": 356.44
+  },
+  {
+    "id": "element_140",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 10,
+    "x_fixed": 351.7,
+    "y_fixed": -296.7
+  },
+  {
+    "id": "element_141",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 6,
+    "x_fixed": 299.35,
+    "y_fixed": -486.25
+  },
+  {
+    "id": "element_147",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 8,
+    "x_fixed": 233.15,
+    "y_fixed": -573.21
+  },
+  {
+    "id": "element_148",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 4,
+    "x_fixed": 510.06,
+    "y_fixed": -283.08
+  },
+  {
+    "id": "element_150",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 9,
+    "x_fixed": 526.15,
+    "y_fixed": -262.18
+  },
+  {
+    "id": "element_151",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 6,
+    "x_fixed": 122.8,
+    "y_fixed": -790.7
+  },
+  {
+    "id": "element_152",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 6,
+    "x_fixed": -331.19,
+    "y_fixed": 139.26
+  },
+  {
+    "id": "element_153",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 7,
+    "x_fixed": 407.69,
+    "y_fixed": -322.39
+  },
+  {
+    "id": "element_154",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 3,
+    "x_fixed": 605.47,
+    "y_fixed": -324.52
+  },
+  {
+    "id": "element_155",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 3,
+    "x_fixed": 474.03,
+    "y_fixed": 111.69
+  },
+  {
+    "id": "element_161",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -415.97,
+    "y_fixed": 683.26
+  },
+  {
+    "id": "element_163",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 778.58,
+    "y_fixed": -85.56
+  },
+  {
+    "id": "element_164",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -431.26,
+    "y_fixed": 438.54
+  },
+  {
+    "id": "element_169",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 3,
+    "x_fixed": -308.4,
+    "y_fixed": 152.12
+  },
+  {
+    "id": "element_171",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -380.36,
+    "y_fixed": 769.57
+  },
+  {
+    "id": "element_173",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 8,
+    "x_fixed": 386.24,
+    "y_fixed": -112.26
+  },
+  {
+    "id": "element_174",
+    "biome_main": "vocabulary_ich_940",
+    "degree": 6,
+    "x_fixed": -407.71,
+    "y_fixed": -399.32
+  },
+  {
+    "id": "element_175",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 786.67,
+    "y_fixed": 61.77
+  },
+  {
+    "id": "element_176",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 6,
+    "x_fixed": 620.51,
+    "y_fixed": 506.01
+  },
+  {
+    "id": "element_177",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 4,
+    "x_fixed": 239.49,
+    "y_fixed": -276.33
+  },
+  {
+    "id": "element_180",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 697.72,
+    "y_fixed": 162.1
+  },
+  {
+    "id": "element_181",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 845.45,
+    "y_fixed": 20.79
+  },
+  {
+    "id": "element_182",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 331.44,
+    "y_fixed": 58.99
+  },
+  {
+    "id": "element_183",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 598.41,
+    "y_fixed": 127.17
+  },
+  {
+    "id": "element_184",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 6,
+    "x_fixed": -380.19,
+    "y_fixed": 123.16
+  },
+  {
+    "id": "element_185",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 4,
+    "x_fixed": 521.9,
+    "y_fixed": -229.04
+  },
+  {
+    "id": "element_186",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 811.75,
+    "y_fixed": -24.18
+  },
+  {
+    "id": "element_189",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 4,
+    "x_fixed": -706.56,
+    "y_fixed": -337.04
+  },
+  {
+    "id": "element_193",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 470.86,
+    "y_fixed": 144.38
+  },
+  {
+    "id": "element_195",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 8,
+    "x_fixed": -335.86,
+    "y_fixed": 325.66
+  },
+  {
+    "id": "element_196",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -494.31,
+    "y_fixed": 575.77
+  },
+  {
+    "id": "element_197",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 4,
+    "x_fixed": -725.85,
+    "y_fixed": -318.84
+  },
+  {
+    "id": "element_199",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 5,
+    "x_fixed": -437.66,
+    "y_fixed": 475.74
+  },
+  {
+    "id": "element_200",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 6,
+    "x_fixed": -38.85,
+    "y_fixed": 451.83
+  },
+  {
+    "id": "element_201",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 8,
+    "x_fixed": 575.52,
+    "y_fixed": 301.6
+  },
+  {
+    "id": "element_202",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 7,
+    "x_fixed": -459.78,
+    "y_fixed": 7.97
+  },
+  {
+    "id": "element_203",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 3,
+    "x_fixed": 464.3,
+    "y_fixed": 169.92
+  },
+  {
+    "id": "element_204",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 5,
+    "x_fixed": -440.43,
+    "y_fixed": 693.02
+  },
+  {
+    "id": "element_206",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -466.08,
+    "y_fixed": 698.72
+  },
+  {
+    "id": "element_207",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 667.34,
+    "y_fixed": -165.2
+  },
+  {
+    "id": "element_208",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 856.29,
+    "y_fixed": -34.29
+  },
+  {
+    "id": "element_210",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 357.64,
+    "y_fixed": 55.97
+  },
+  {
+    "id": "element_211",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 10,
+    "x_fixed": -377.71,
+    "y_fixed": -115.3
+  },
+  {
+    "id": "element_212",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 801.92,
+    "y_fixed": 82.65
+  },
+  {
+    "id": "element_213",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -141.25,
+    "y_fixed": 455.25
+  },
+  {
+    "id": "element_215",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 7,
+    "x_fixed": 6.38,
+    "y_fixed": -361.58
+  },
+  {
+    "id": "element_218",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 9,
+    "x_fixed": 456.09,
+    "y_fixed": -153.2
+  },
+  {
+    "id": "element_220",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 5,
+    "x_fixed": -24.12,
+    "y_fixed": 735.98
+  },
+  {
+    "id": "element_221",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 5,
+    "x_fixed": -472.68,
+    "y_fixed": 651.31
+  },
+  {
+    "id": "element_222",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 10,
+    "x_fixed": 242.35,
+    "y_fixed": -60.22
+  },
+  {
+    "id": "element_223",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -218,
+    "y_fixed": 315.75
+  },
+  {
+    "id": "element_224",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 6,
+    "x_fixed": -371.95,
+    "y_fixed": 56.4
+  },
+  {
+    "id": "element_225",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 8,
+    "x_fixed": -387.14,
+    "y_fixed": 313.59
+  },
+  {
+    "id": "element_227",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 7,
+    "x_fixed": -310.2,
+    "y_fixed": 45.15
+  },
+  {
+    "id": "element_228",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 3,
+    "x_fixed": -760.99,
+    "y_fixed": 221.02
+  },
+  {
+    "id": "element_229",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 8,
+    "x_fixed": -357.14,
+    "y_fixed": -36.89
+  },
+  {
+    "id": "element_230",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 5,
+    "x_fixed": 581.2,
+    "y_fixed": -568.88
+  },
+  {
+    "id": "element_231",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 4,
+    "x_fixed": -334.25,
+    "y_fixed": 34.3
+  },
+  {
+    "id": "element_232",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 821.37,
+    "y_fixed": 33.63
+  },
+  {
+    "id": "element_235",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": 162.69,
+    "y_fixed": 813.42
+  },
+  {
+    "id": "element_236",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": 51.1,
+    "y_fixed": 804.52
+  },
+  {
+    "id": "element_238",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 830.27,
+    "y_fixed": -37.35
+  },
+  {
+    "id": "element_242",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 3,
+    "x_fixed": 188.38,
+    "y_fixed": 818.22
+  },
+  {
+    "id": "element_244",
+    "biome_main": "vocabulary_ich_940",
+    "degree": 5,
+    "x_fixed": -392.46,
+    "y_fixed": -377.79
+  },
+  {
+    "id": "element_246",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 5,
+    "x_fixed": -542.67,
+    "y_fixed": -53.18
+  },
+  {
+    "id": "element_248",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 3,
+    "x_fixed": 221.37,
+    "y_fixed": 781.21
+  },
+  {
+    "id": "element_250",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 4,
+    "x_fixed": -355.32,
+    "y_fixed": -101.36
+  },
+  {
+    "id": "element_251",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -413.46,
+    "y_fixed": 399.63
+  },
+  {
+    "id": "element_252",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 6,
+    "x_fixed": 79.55,
+    "y_fixed": -373.08
+  },
+  {
+    "id": "element_254",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 814.04,
+    "y_fixed": -58.19
+  },
+  {
+    "id": "element_260",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 5,
+    "x_fixed": -323.73,
+    "y_fixed": -201.92
+  },
+  {
+    "id": "element_261",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 10,
+    "x_fixed": 253.76,
+    "y_fixed": 61.14
+  },
+  {
+    "id": "element_263",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 7,
+    "x_fixed": -568.76,
+    "y_fixed": -57
+  },
+  {
+    "id": "element_265",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 7,
+    "x_fixed": -340.74,
+    "y_fixed": 299.72
+  },
+  {
+    "id": "element_266",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 3,
+    "x_fixed": 275.32,
+    "y_fixed": 689.45
+  },
+  {
+    "id": "element_267",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 3,
+    "x_fixed": 225.76,
+    "y_fixed": 736.91
+  },
+  {
+    "id": "element_268",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 7,
+    "x_fixed": -396.31,
+    "y_fixed": 102.33
+  },
+  {
+    "id": "element_270",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -498.82,
+    "y_fixed": 649.37
+  },
+  {
+    "id": "element_271",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -369.48,
+    "y_fixed": 730.4
+  },
+  {
+    "id": "element_273",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -432.8,
+    "y_fixed": 669.2
+  },
+  {
+    "id": "element_274",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 749.86,
+    "y_fixed": -165.83
+  },
+  {
+    "id": "element_278",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 4,
+    "x_fixed": -680.08,
+    "y_fixed": -377.1
+  },
+  {
+    "id": "element_279",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 785.66,
+    "y_fixed": -64
+  },
+  {
+    "id": "element_280",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 2,
+    "x_fixed": -757.49,
+    "y_fixed": 194.08
+  },
+  {
+    "id": "element_281",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 7,
+    "x_fixed": 421.11,
+    "y_fixed": 90.16
+  },
+  {
+    "id": "element_282",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 370.33,
+    "y_fixed": 32.87
+  },
+  {
+    "id": "element_283",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -418.22,
+    "y_fixed": 461.28
+  },
+  {
+    "id": "element_285",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 5,
+    "x_fixed": -752.71,
+    "y_fixed": -273.54
+  },
+  {
+    "id": "element_286",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": 27.86,
+    "y_fixed": 793
+  },
+  {
+    "id": "element_288",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 5,
+    "x_fixed": -330.69,
+    "y_fixed": 218.13
+  },
+  {
+    "id": "element_289",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 3,
+    "x_fixed": -376.53,
+    "y_fixed": 192.23
+  },
+  {
+    "id": "element_290",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 3,
+    "x_fixed": 561.3,
+    "y_fixed": -294.58
+  },
+  {
+    "id": "element_291",
+    "biome_main": "vocabulary_ich_940",
+    "degree": 9,
+    "x_fixed": 7.94,
+    "y_fixed": -283.15
+  },
+  {
+    "id": "element_292",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 7,
+    "x_fixed": -628.59,
+    "y_fixed": -84.74
+  },
+  {
+    "id": "element_293",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 383.88,
+    "y_fixed": -229.09
+  },
+  {
+    "id": "element_294",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 382.64,
+    "y_fixed": 91.88
+  },
+  {
+    "id": "element_295",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 6,
+    "x_fixed": -285.05,
+    "y_fixed": 217.81
+  },
+  {
+    "id": "element_296",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 3,
+    "x_fixed": 625.99,
+    "y_fixed": -136.89
+  },
+  {
+    "id": "element_297",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 3,
+    "x_fixed": 647.97,
+    "y_fixed": 140.77
+  },
+  {
+    "id": "element_298",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 4,
+    "x_fixed": 433.08,
+    "y_fixed": -545.3
+  },
+  {
+    "id": "element_299",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 3,
+    "x_fixed": 582.09,
+    "y_fixed": -542.64
+  },
+  {
+    "id": "element_300",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 7,
+    "x_fixed": 642.05,
+    "y_fixed": -459.75
+  },
+  {
+    "id": "element_301",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 7,
+    "x_fixed": 252.94,
+    "y_fixed": -621.84
+  },
+  {
+    "id": "element_302",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 3,
+    "x_fixed": -335.83,
+    "y_fixed": -157.85
+  },
+  {
+    "id": "element_303",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 7,
+    "x_fixed": -364.14,
+    "y_fixed": 102.16
+  },
+  {
+    "id": "element_324",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 673.05,
+    "y_fixed": 140.96
+  },
+  {
+    "id": "element_325",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 7,
+    "x_fixed": -757.55,
+    "y_fixed": -193.85
+  },
+  {
+    "id": "element_326",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 3,
+    "x_fixed": 254.79,
+    "y_fixed": 667.2
+  },
+  {
+    "id": "element_362",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 803.43,
+    "y_fixed": -82.32
+  },
+  {
+    "id": "element_365",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 622.7,
+    "y_fixed": 136.33
+  },
+  {
+    "id": "element_370",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 415.53,
+    "y_fixed": -129.74
+  },
+  {
+    "id": "element_381",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 839.02,
+    "y_fixed": 53.08
+  },
+  {
+    "id": "element_382",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -396.7,
+    "y_fixed": 447.67
+  },
+  {
+    "id": "element_383",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 760.55,
+    "y_fixed": -98.32
+  },
+  {
+    "id": "element_384",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 721.83,
+    "y_fixed": -153
+  },
+  {
+    "id": "element_385",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 4,
+    "x_fixed": -584.52,
+    "y_fixed": -35.82
+  },
+  {
+    "id": "element_388",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": 8.51,
+    "y_fixed": 427.96
+  },
+  {
+    "id": "element_389",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -491.39,
+    "y_fixed": 601.83
+  },
+  {
+    "id": "element_397",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 3,
+    "x_fixed": -376.1,
+    "y_fixed": 265.93
+  },
+  {
+    "id": "element_402",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -328.35,
+    "y_fixed": 712.44
+  },
+  {
+    "id": "element_403",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": 255.52,
+    "y_fixed": 641.43
+  },
+  {
+    "id": "element_406",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 793.48,
+    "y_fixed": -133.8
+  },
+  {
+    "id": "element_407",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 7,
+    "x_fixed": 627.76,
+    "y_fixed": 535.33
+  },
+  {
+    "id": "element_408",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 9,
+    "x_fixed": -139.01,
+    "y_fixed": 529.39
+  },
+  {
+    "id": "element_409",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 770.34,
+    "y_fixed": -149.21
+  },
+  {
+    "id": "element_410",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 829.5,
+    "y_fixed": -81.76
+  },
+  {
+    "id": "element_411",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -419.42,
+    "y_fixed": 708.78
+  },
+  {
+    "id": "element_413",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 790.61,
+    "y_fixed": -107.72
+  },
+  {
+    "id": "element_414",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 650.1,
+    "y_fixed": -143.46
+  },
+  {
+    "id": "element_415",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 5,
+    "x_fixed": -549.65,
+    "y_fixed": 348.07
+  },
+  {
+    "id": "element_416",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 6,
+    "x_fixed": -325.25,
+    "y_fixed": 268.98
+  },
+  {
+    "id": "element_417",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -466.54,
+    "y_fixed": 607.07
+  },
+  {
+    "id": "element_418",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 7,
+    "x_fixed": 326.32,
+    "y_fixed": -155.52
+  },
+  {
+    "id": "element_420",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 4,
+    "x_fixed": 606.42,
+    "y_fixed": -552.45
+  },
+  {
+    "id": "element_421",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 7,
+    "x_fixed": -345.64,
+    "y_fixed": 58.21
+  },
+  {
+    "id": "element_422",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 5,
+    "x_fixed": -134.8,
+    "y_fixed": 429.7
+  },
+  {
+    "id": "element_423",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 5,
+    "x_fixed": -254.02,
+    "y_fixed": 38.87
+  },
+  {
+    "id": "element_424",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 5,
+    "x_fixed": -392.77,
+    "y_fixed": 287.82
+  },
+  {
+    "id": "element_425",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 13,
+    "x_fixed": 200.52,
+    "y_fixed": 85.5
+  },
+  {
+    "id": "element_426",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 6,
+    "x_fixed": -96.68,
+    "y_fixed": 479.06
+  },
+  {
+    "id": "element_427",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 5,
+    "x_fixed": -509.6,
+    "y_fixed": 620.87
+  },
+  {
+    "id": "element_428",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 8,
+    "x_fixed": 427.88,
+    "y_fixed": 115.57
+  },
+  {
+    "id": "element_429",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -443.82,
+    "y_fixed": 718.89
+  },
+  {
+    "id": "element_430",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 3,
+    "x_fixed": -606.85,
+    "y_fixed": -366.16
+  },
+  {
+    "id": "element_431",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 7,
+    "x_fixed": 294.03,
+    "y_fixed": 4.38
+  },
+  {
+    "id": "element_436",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 794.78,
+    "y_fixed": -40.32
+  },
+  {
+    "id": "element_437",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 795.09,
+    "y_fixed": 128.94
+  },
+  {
+    "id": "element_438",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 6,
+    "x_fixed": -228.65,
+    "y_fixed": 20.1
+  },
+  {
+    "id": "element_443",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -236.1,
+    "y_fixed": 706.88
+  },
+  {
+    "id": "element_446",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 3,
+    "x_fixed": 250.24,
+    "y_fixed": 516.17
+  },
+  {
+    "id": "element_450",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 4,
+    "x_fixed": 252.01,
+    "y_fixed": 738.66
+  },
+  {
+    "id": "element_458",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 721.84,
+    "y_fixed": -126.95
+  },
+  {
+    "id": "element_459",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 7,
+    "x_fixed": -308.16,
+    "y_fixed": 178.46
+  },
+  {
+    "id": "element_460",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 391.28,
+    "y_fixed": 16.83
+  },
+  {
+    "id": "element_462",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 541.85,
+    "y_fixed": 167.37
+  },
+  {
+    "id": "element_463",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -484.8,
+    "y_fixed": 674.49
+  },
+  {
+    "id": "element_465",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 843.43,
+    "y_fixed": -59.57
+  },
+  {
+    "id": "element_466",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": 89.34,
+    "y_fixed": 829.48
+  },
+  {
+    "id": "element_468",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 760.29,
+    "y_fixed": 99.38
+  },
+  {
+    "id": "element_469",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": 198.44,
+    "y_fixed": 794.04
+  },
+  {
+    "id": "element_470",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": 62.86,
+    "y_fixed": 828.25
+  },
+  {
+    "id": "element_473",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 697.63,
+    "y_fixed": 136.07
+  },
+  {
+    "id": "element_477",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 3,
+    "x_fixed": 230.14,
+    "y_fixed": 499.07
+  },
+  {
+    "id": "element_478",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 361.9,
+    "y_fixed": -83.07
+  },
+  {
+    "id": "element_486",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 3,
+    "x_fixed": -10.3,
+    "y_fixed": 758.36
+  },
+  {
+    "id": "element_537",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 383.43,
+    "y_fixed": -67.82
+  },
+  {
+    "id": "element_545",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 7,
+    "x_fixed": 642.35,
+    "y_fixed": 458.56
+  },
+  {
+    "id": "element_548",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 6,
+    "x_fixed": 536.23,
+    "y_fixed": -286.42
+  },
+  {
+    "id": "element_549",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 13,
+    "x_fixed": 158.75,
+    "y_fixed": -505.47
+  },
+  {
+    "id": "element_552",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 4,
+    "x_fixed": 141.83,
+    "y_fixed": 325.4
+  },
+  {
+    "id": "element_558",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 7,
+    "x_fixed": 392.42,
+    "y_fixed": -204.12
+  },
+  {
+    "id": "element_559",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 7,
+    "x_fixed": -20.16,
+    "y_fixed": -607.72
+  },
+  {
+    "id": "element_562",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 9,
+    "x_fixed": -659.13,
+    "y_fixed": -361.24
+  },
+  {
+    "id": "element_563",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -72.44,
+    "y_fixed": 434.02
+  },
+  {
+    "id": "element_564",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -365.83,
+    "y_fixed": 395.11
+  },
+  {
+    "id": "element_571",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 5,
+    "x_fixed": 632.93,
+    "y_fixed": -484.5
+  },
+  {
+    "id": "element_593",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -459.06,
+    "y_fixed": 629.14
+  },
+  {
+    "id": "element_594",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -91.31,
+    "y_fixed": 415.68
+  },
+  {
+    "id": "element_597",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 7,
+    "x_fixed": -748.79,
+    "y_fixed": 168.08
+  },
+  {
+    "id": "element_604",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 9,
+    "x_fixed": -26.22,
+    "y_fixed": -659.89
+  },
+  {
+    "id": "element_605",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -117.09,
+    "y_fixed": 410.18
+  },
+  {
+    "id": "element_606",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -195.19,
+    "y_fixed": 613.6
+  },
+  {
+    "id": "element_610",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 4,
+    "x_fixed": 659.37,
+    "y_fixed": 478.63
+  },
+  {
+    "id": "element_624",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 5,
+    "x_fixed": -307.96,
+    "y_fixed": 204.82
+  },
+  {
+    "id": "element_632",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -205.34,
+    "y_fixed": 637.87
+  },
+  {
+    "id": "element_633",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -390.77,
+    "y_fixed": 386.62
+  },
+  {
+    "id": "element_640",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 769.17,
+    "y_fixed": 123.82
+  },
+  {
+    "id": "element_647",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 7,
+    "x_fixed": -291.63,
+    "y_fixed": -169.41
+  },
+  {
+    "id": "element_649",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 10,
+    "x_fixed": 203.86,
+    "y_fixed": -1.38
+  },
+  {
+    "id": "element_657",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 7,
+    "x_fixed": 429.73,
+    "y_fixed": -151.98
+  },
+  {
+    "id": "element_660",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 6,
+    "x_fixed": -176.4,
+    "y_fixed": 216.94
+  },
+  {
+    "id": "element_663",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 449.01,
+    "y_fixed": 99.87
+  },
+  {
+    "id": "element_669",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -479.23,
+    "y_fixed": 498.95
+  },
+  {
+    "id": "element_670",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 5,
+    "x_fixed": -239.14,
+    "y_fixed": 140.17
+  },
+  {
+    "id": "element_671",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 5,
+    "x_fixed": -172.97,
+    "y_fixed": 393.09
+  },
+  {
+    "id": "element_672",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -396.11,
+    "y_fixed": 696.08
+  },
+  {
+    "id": "element_674",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 5,
+    "x_fixed": 2.42,
+    "y_fixed": 735.5
+  },
+  {
+    "id": "element_675",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -352.79,
+    "y_fixed": 710.75
+  },
+  {
+    "id": "element_677",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 7,
+    "x_fixed": 537.15,
+    "y_fixed": 132.93
+  },
+  {
+    "id": "element_688",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 4,
+    "x_fixed": -353.59,
+    "y_fixed": 205.27
+  },
+  {
+    "id": "element_690",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 3,
+    "x_fixed": 639.74,
+    "y_fixed": 380.58
+  },
+  {
+    "id": "element_695",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 5,
+    "x_fixed": 633.57,
+    "y_fixed": 483.4
+  },
+  {
+    "id": "element_697",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 4,
+    "x_fixed": 645.5,
+    "y_fixed": 406.28
+  },
+  {
+    "id": "element_698",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -484.29,
+    "y_fixed": 627.58
+  },
+  {
+    "id": "element_699",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 6,
+    "x_fixed": -307.82,
+    "y_fixed": 231.15
+  },
+  {
+    "id": "element_700",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -109.02,
+    "y_fixed": 435.2
+  },
+  {
+    "id": "element_701",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 6,
+    "x_fixed": -239.12,
+    "y_fixed": 166.47
+  },
+  {
+    "id": "element_703",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 6,
+    "x_fixed": -741.47,
+    "y_fixed": -297.39
+  },
+  {
+    "id": "element_705",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 6,
+    "x_fixed": -373.71,
+    "y_fixed": 435.91
+  },
+  {
+    "id": "element_723",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 5,
+    "x_fixed": -752.32,
+    "y_fixed": 274.56
+  },
+  {
+    "id": "element_737",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -177.23,
+    "y_fixed": 309.73
+  },
+  {
+    "id": "element_747",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 7,
+    "x_fixed": 452,
+    "y_fixed": 126.04
+  },
+  {
+    "id": "element_749",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -460.97,
+    "y_fixed": 517.46
+  },
+  {
+    "id": "element_750",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 10,
+    "x_fixed": 380.96,
+    "y_fixed": -41.55
+  },
+  {
+    "id": "element_751",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -280.26,
+    "y_fixed": 703.73
+  },
+  {
+    "id": "element_752",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 6,
+    "x_fixed": -398.91,
+    "y_fixed": 361.54
+  },
+  {
+    "id": "element_756",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 4,
+    "x_fixed": -528.09,
+    "y_fixed": 332.84
+  },
+  {
+    "id": "element_759",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 7,
+    "x_fixed": -310.4,
+    "y_fixed": -150.86
+  },
+  {
+    "id": "element_763",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 3,
+    "x_fixed": 265.73,
+    "y_fixed": 714.47
+  },
+  {
+    "id": "element_764",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -520.27,
+    "y_fixed": 579.07
+  },
+  {
+    "id": "element_765",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 4,
+    "x_fixed": -308.49,
+    "y_fixed": 125.8
+  },
+  {
+    "id": "element_773",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": 239.38,
+    "y_fixed": 715.95
+  },
+  {
+    "id": "element_774",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 5,
+    "x_fixed": 603.34,
+    "y_fixed": 525.84
+  },
+  {
+    "id": "element_776",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 4,
+    "x_fixed": -532.23,
+    "y_fixed": -28.95
+  },
+  {
+    "id": "element_779",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 3,
+    "x_fixed": 695.09,
+    "y_fixed": -161.34
+  },
+  {
+    "id": "element_783",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 6,
+    "x_fixed": 482.07,
+    "y_fixed": -563.31
+  },
+  {
+    "id": "element_870",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 3,
+    "x_fixed": -740.45,
+    "y_fixed": 299.1
+  },
+  {
+    "id": "element_874",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 813.53,
+    "y_fixed": 59.15
+  },
+  {
+    "id": "element_876",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -467.29,
+    "y_fixed": 539.27
+  },
+  {
+    "id": "element_877",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 6,
+    "x_fixed": -237.15,
+    "y_fixed": 677.71
+  },
+  {
+    "id": "element_880",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 6,
+    "x_fixed": 602.58,
+    "y_fixed": -526.47
+  },
+  {
+    "id": "element_881",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 3,
+    "x_fixed": 535.01,
+    "y_fixed": 562.2
+  },
+  {
+    "id": "element_884",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 3,
+    "x_fixed": 147.58,
+    "y_fixed": 787.17
+  },
+  {
+    "id": "element_889",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 3,
+    "x_fixed": 122,
+    "y_fixed": 790.35
+  },
+  {
+    "id": "element_890",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 5,
+    "x_fixed": -487.72,
+    "y_fixed": 523.81
+  },
+  {
+    "id": "element_894",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 8,
+    "x_fixed": -376.67,
+    "y_fixed": 165.86
+  },
+  {
+    "id": "element_896",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 674.86,
+    "y_fixed": -140.32
+  },
+  {
+    "id": "element_900",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 7,
+    "x_fixed": 249.35,
+    "y_fixed": 691.94
+  },
+  {
+    "id": "element_901",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 7,
+    "x_fixed": 720.77,
+    "y_fixed": 127.28
+  },
+  {
+    "id": "element_902",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 12,
+    "x_fixed": 137.38,
+    "y_fixed": -336.05
+  },
+  {
+    "id": "element_903",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 5,
+    "x_fixed": 645.89,
+    "y_fixed": -507.35
+  },
+  {
+    "id": "element_904",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 2,
+    "x_fixed": 640.15,
+    "y_fixed": -381.85
+  },
+  {
+    "id": "element_909",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 2,
+    "x_fixed": -759.24,
+    "y_fixed": 248.26
+  },
+  {
+    "id": "element_910",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 4,
+    "x_fixed": -354.02,
+    "y_fixed": 126.35
+  },
+  {
+    "id": "element_911",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 6,
+    "x_fixed": 496.27,
+    "y_fixed": -222.75
+  },
+  {
+    "id": "element_912",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 5,
+    "x_fixed": -122.1,
+    "y_fixed": 486.09
+  },
+  {
+    "id": "element_914",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 9,
+    "x_fixed": 559.17,
+    "y_fixed": 147.46
+  },
+  {
+    "id": "element_917",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 14,
+    "x_fixed": -736.4,
+    "y_fixed": -145.76
+  },
+  {
+    "id": "element_919",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -125.1,
+    "y_fixed": 385.11
+  },
+  {
+    "id": "element_926",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 6,
+    "x_fixed": 508.99,
+    "y_fixed": 565.26
+  },
+  {
+    "id": "element_927",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": -11.53,
+    "y_fixed": 713.15
+  },
+  {
+    "id": "element_928",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 7,
+    "x_fixed": 583.73,
+    "y_fixed": -280.84
+  },
+  {
+    "id": "element_936",
+    "biome_main": "vocabulary_ich_940",
+    "degree": 6,
+    "x_fixed": -135.65,
+    "y_fixed": -342.47
+  },
+  {
+    "id": "element_939",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 7,
+    "x_fixed": 66.64,
+    "y_fixed": -350.07
+  },
+  {
+    "id": "element_940",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 7,
+    "x_fixed": 440.92,
+    "y_fixed": 39.44
+  },
+  {
+    "id": "element_942",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -449.36,
+    "y_fixed": 496.34
+  },
+  {
+    "id": "element_946",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 5,
+    "x_fixed": 393.86,
+    "y_fixed": -510.54
+  },
+  {
+    "id": "element_949",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": 109.98,
+    "y_fixed": 813.49
+  },
+  {
+    "id": "element_986",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 723.72,
+    "y_fixed": 152.91
+  },
+  {
+    "id": "element_990",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 10,
+    "x_fixed": -278.44,
+    "y_fixed": 99.61
+  },
+  {
+    "id": "element_991",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 5,
+    "x_fixed": -367.47,
+    "y_fixed": 295.26
+  },
+  {
+    "id": "element_994",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 5,
+    "x_fixed": 456.72,
+    "y_fixed": -556.59
+  },
+  {
+    "id": "element_1000",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 4,
+    "x_fixed": -285.55,
+    "y_fixed": 165.18
+  },
+  {
+    "id": "element_1003",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 343.95,
+    "y_fixed": 33.42
+  },
+  {
+    "id": "element_1006",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 3,
+    "x_fixed": 326.89,
+    "y_fixed": -196.64
+  },
+  {
+    "id": "element_1016",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 5,
+    "x_fixed": 411.9,
+    "y_fixed": -529.78
+  },
+  {
+    "id": "element_1017",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 8,
+    "x_fixed": 534.13,
+    "y_fixed": -562.33
+  },
+  {
+    "id": "element_1018",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 7,
+    "x_fixed": 132.4,
+    "y_fixed": -506.81
+  },
+  {
+    "id": "element_1020",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 3,
+    "x_fixed": 20.33,
+    "y_fixed": 754.9
+  },
+  {
+    "id": "element_1023",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 4,
+    "x_fixed": -334.09,
+    "y_fixed": 244.14
+  },
+  {
+    "id": "element_1024",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 6,
+    "x_fixed": -284.02,
+    "y_fixed": -54.12
+  },
+  {
+    "id": "element_1025",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 254.55,
+    "y_fixed": 148.89
+  },
+  {
+    "id": "element_1026",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 3,
+    "x_fixed": -749.24,
+    "y_fixed": -168.83
+  },
+  {
+    "id": "element_1028",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 8,
+    "x_fixed": 359.46,
+    "y_fixed": -56.8
+  },
+  {
+    "id": "element_1030",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 3,
+    "x_fixed": 438.94,
+    "y_fixed": 177.17
+  },
+  {
+    "id": "element_1031",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 4,
+    "x_fixed": 208.49,
+    "y_fixed": 398.29
+  },
+  {
+    "id": "element_1032",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 4,
+    "x_fixed": 302.5,
+    "y_fixed": -206.73
+  },
+  {
+    "id": "element_1033",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 6,
+    "x_fixed": 658.78,
+    "y_fixed": -480.16
+  },
+  {
+    "id": "element_1034",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 5,
+    "x_fixed": 628.25,
+    "y_fixed": -531.8
+  },
+  {
+    "id": "element_1035",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 4,
+    "x_fixed": -301.84,
+    "y_fixed": 256.83
+  },
+  {
+    "id": "element_1036",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 409.82,
+    "y_fixed": 134.6
+  },
+  {
+    "id": "element_1038",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 4,
+    "x_fixed": -580.92,
+    "y_fixed": -361.25
+  },
+  {
+    "id": "element_1039",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 6,
+    "x_fixed": 216.84,
+    "y_fixed": -552.5
+  },
+  {
+    "id": "element_1042",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 580.94,
+    "y_fixed": -117.03
+  },
+  {
+    "id": "element_1043",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 7,
+    "x_fixed": 443.98,
+    "y_fixed": -129.77
+  },
+  {
+    "id": "element_1044",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 3,
+    "x_fixed": 522.52,
+    "y_fixed": 237.3
+  },
+  {
+    "id": "element_1045",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": 211.16,
+    "y_fixed": 757.21
+  },
+  {
+    "id": "element_1046",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 4,
+    "x_fixed": 328.12,
+    "y_fixed": 474.24
+  },
+  {
+    "id": "element_1047",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 4,
+    "x_fixed": 323.43,
+    "y_fixed": 448.27
+  },
+  {
+    "id": "element_1067",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 4,
+    "x_fixed": 285.15,
+    "y_fixed": -186.85
+  },
+  {
+    "id": "element_1095",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 4,
+    "x_fixed": 645.67,
+    "y_fixed": -407.65
+  },
+  {
+    "id": "element_1097",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 7,
+    "x_fixed": -262.73,
+    "y_fixed": 151.91
+  },
+  {
+    "id": "element_1099",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 6,
+    "x_fixed": 136.78,
+    "y_fixed": 811.38
+  },
+  {
+    "id": "element_1100",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -304.47,
+    "y_fixed": 710.32
+  },
+  {
+    "id": "element_1102",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 8,
+    "x_fixed": 509.75,
+    "y_fixed": 214.2
+  },
+  {
+    "id": "element_1103",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 6,
+    "x_fixed": 160.15,
+    "y_fixed": 488.95
+  },
+  {
+    "id": "element_1110",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 8,
+    "x_fixed": 519.83,
+    "y_fixed": 152.84
+  },
+  {
+    "id": "element_1111",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 3,
+    "x_fixed": 816.76,
+    "y_fixed": -105.24
+  },
+  {
+    "id": "element_1112",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 15,
+    "x_fixed": 745.56,
+    "y_fixed": -140.17
+  },
+  {
+    "id": "element_1115",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 7,
+    "x_fixed": -731.75,
+    "y_fixed": -344.4
+  },
+  {
+    "id": "element_1116",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -393.07,
+    "y_fixed": 746.55
+  },
+  {
+    "id": "element_1120",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 11,
+    "x_fixed": -285.6,
+    "y_fixed": 138.78
+  },
+  {
+    "id": "element_1121",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 7,
+    "x_fixed": 560.05,
+    "y_fixed": 554.34
+  },
+  {
+    "id": "element_1122",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 402.29,
+    "y_fixed": 109.39
+  },
+  {
+    "id": "element_1123",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 6,
+    "x_fixed": 482.67,
+    "y_fixed": 563.44
+  },
+  {
+    "id": "element_1124",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -439.61,
+    "y_fixed": 397.87
+  },
+  {
+    "id": "element_1125",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 6,
+    "x_fixed": 350.1,
+    "y_fixed": 365.95
+  },
+  {
+    "id": "element_1127",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 8,
+    "x_fixed": 769.22,
+    "y_fixed": -122.98
+  },
+  {
+    "id": "element_1133",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 5,
+    "x_fixed": 309.53,
+    "y_fixed": -176.76
+  },
+  {
+    "id": "element_1132",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 4,
+    "x_fixed": 106.94,
+    "y_fixed": 414.93
+  },
+  {
+    "id": "element_1136",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 560.75,
+    "y_fixed": -100.56
+  },
+  {
+    "id": "element_1138",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -214.53,
+    "y_fixed": 690.45
+  },
+  {
+    "id": "element_1139",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 3,
+    "x_fixed": 445.44,
+    "y_fixed": 151.54
+  },
+  {
+    "id": "element_1141",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 8,
+    "x_fixed": 273.69,
+    "y_fixed": -492.77
+  },
+  {
+    "id": "element_1142",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 383.68,
+    "y_fixed": 131.42
+  },
+  {
+    "id": "element_1146",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 5,
+    "x_fixed": -684.35,
+    "y_fixed": -351.22
+  },
+  {
+    "id": "element_1150",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 5,
+    "x_fixed": -777.95,
+    "y_fixed": -266.36
+  },
+  {
+    "id": "element_1151",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 4,
+    "x_fixed": -330.82,
+    "y_fixed": 191.83
+  },
+  {
+    "id": "element_1153",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 7,
+    "x_fixed": -258.12,
+    "y_fixed": 692.97
+  },
+  {
+    "id": "element_1155",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 7,
+    "x_fixed": 786.81,
+    "y_fixed": 104.29
+  },
+  {
+    "id": "element_1159",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 795.24,
+    "y_fixed": 41.94
+  },
+  {
+    "id": "element_1206",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 5,
+    "x_fixed": -353.89,
+    "y_fixed": 152.6
+  },
+  {
+    "id": "element_1210",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 5,
+    "x_fixed": -7.39,
+    "y_fixed": 449.02
+  },
+  {
+    "id": "element_1212",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 14,
+    "x_fixed": 76.68,
+    "y_fixed": 806.42
+  },
+  {
+    "id": "element_1213",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 5,
+    "x_fixed": -169.53,
+    "y_fixed": 334.96
+  },
+  {
+    "id": "element_1214",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": 188.57,
+    "y_fixed": 770.01
+  },
+  {
+    "id": "element_1215",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 6,
+    "x_fixed": 287.68,
+    "y_fixed": -153.5
+  },
+  {
+    "id": "element_1216",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 4,
+    "x_fixed": 130.29,
+    "y_fixed": 509.67
+  },
+  {
+    "id": "element_1217",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 8,
+    "x_fixed": 122.07,
+    "y_fixed": 436.55
+  },
+  {
+    "id": "element_1218",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 7,
+    "x_fixed": 799.55,
+    "y_fixed": 19.28
+  },
+  {
+    "id": "element_1230",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 3,
+    "x_fixed": -751.98,
+    "y_fixed": -321.4
+  },
+  {
+    "id": "element_1233",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 10,
+    "x_fixed": 109.74,
+    "y_fixed": 493.21
+  },
+  {
+    "id": "element_1234",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -347.88,
+    "y_fixed": 431.46
+  },
+  {
+    "id": "element_1236",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -196.2,
+    "y_fixed": 405.59
+  },
+  {
+    "id": "element_1237",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 5,
+    "x_fixed": -200.01,
+    "y_fixed": 296.45
+  },
+  {
+    "id": "element_1239",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 6,
+    "x_fixed": 390.45,
+    "y_fixed": -342.38
+  },
+  {
+    "id": "element_1240",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 9,
+    "x_fixed": 22.51,
+    "y_fixed": 450.44
+  },
+  {
+    "id": "element_1241",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 5,
+    "x_fixed": 346.97,
+    "y_fixed": 394.09
+  },
+  {
+    "id": "element_1242",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 7,
+    "x_fixed": 365.69,
+    "y_fixed": 112.11
+  },
+  {
+    "id": "element_1243",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 7,
+    "x_fixed": 53.86,
+    "y_fixed": 365.47
+  },
+  {
+    "id": "element_1246",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 3,
+    "x_fixed": 609.23,
+    "y_fixed": -298.44
+  },
+  {
+    "id": "element_1248",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 3,
+    "x_fixed": 301.74,
+    "y_fixed": 474.94
+  },
+  {
+    "id": "element_1249",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 5,
+    "x_fixed": -759.36,
+    "y_fixed": -247.89
+  },
+  {
+    "id": "element_1250",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -358.79,
+    "y_fixed": 754.46
+  },
+  {
+    "id": "element_1251",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 358.06,
+    "y_fixed": 82.3
+  },
+  {
+    "id": "element_1252",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": -25.94,
+    "y_fixed": 662.73
+  },
+  {
+    "id": "element_1253",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 7,
+    "x_fixed": -361.82,
+    "y_fixed": 321.03
+  },
+  {
+    "id": "element_1254",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 6,
+    "x_fixed": 181.15,
+    "y_fixed": 506.98
+  },
+  {
+    "id": "element_1255",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -418.43,
+    "y_fixed": 735.06
+  },
+  {
+    "id": "element_1257",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": 125.24,
+    "y_fixed": 835.03
+  },
+  {
+    "id": "element_1259",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 10,
+    "x_fixed": 181.29,
+    "y_fixed": 12.3
+  },
+  {
+    "id": "element_1260",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -90.09,
+    "y_fixed": 453.57
+  },
+  {
+    "id": "element_1261",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 26,
+    "x_fixed": 336.93,
+    "y_fixed": -131.45
+  },
+  {
+    "id": "element_1274",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 3,
+    "x_fixed": 839.87,
+    "y_fixed": -13.23
+  },
+  {
+    "id": "element_1307",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 4,
+    "x_fixed": 245.32,
+    "y_fixed": -596.58
+  },
+  {
+    "id": "element_1309",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 6,
+    "x_fixed": -351.15,
+    "y_fixed": 274.51
+  },
+  {
+    "id": "element_1310",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 3,
+    "x_fixed": -761.04,
+    "y_fixed": -219.99
+  },
+  {
+    "id": "element_1311",
+    "biome_main": "vocabulary_ich_940",
+    "degree": 5,
+    "x_fixed": -330.83,
+    "y_fixed": -303.74
+  },
+  {
+    "id": "element_1312",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 3,
+    "x_fixed": -357.63,
+    "y_fixed": -276.56
+  },
+  {
+    "id": "element_1313",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 775.56,
+    "y_fixed": 80.75
+  },
+  {
+    "id": "element_1314",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 4,
+    "x_fixed": -407.12,
+    "y_fixed": 184.62
+  },
+  {
+    "id": "element_1315",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -408.84,
+    "y_fixed": 424.99
+  },
+  {
+    "id": "element_1316",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 3,
+    "x_fixed": 420.15,
+    "y_fixed": 158.75
+  },
+  {
+    "id": "element_1317",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 5,
+    "x_fixed": -195.24,
+    "y_fixed": 329.05
+  },
+  {
+    "id": "element_1318",
+    "biome_main": "vocabulary_ich_940",
+    "degree": 7,
+    "x_fixed": -94.35,
+    "y_fixed": -438.92
+  },
+  {
+    "id": "element_1319",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 5,
+    "x_fixed": -262.66,
+    "y_fixed": 178.29
+  },
+  {
+    "id": "element_1321",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 5,
+    "x_fixed": 297.05,
+    "y_fixed": 448.98
+  },
+  {
+    "id": "element_1323",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -47.15,
+    "y_fixed": 426.75
+  },
+  {
+    "id": "element_1324",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 227.6,
+    "y_fixed": 64.58
+  },
+  {
+    "id": "element_1325",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 6,
+    "x_fixed": 233.86,
+    "y_fixed": -489.38
+  },
+  {
+    "id": "element_1327",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 8,
+    "x_fixed": 551.48,
+    "y_fixed": 290.7
+  },
+  {
+    "id": "element_1330",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 6,
+    "x_fixed": -66.07,
+    "y_fixed": 408.36
+  },
+  {
+    "id": "element_1331",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 7,
+    "x_fixed": 393.92,
+    "y_fixed": 155.72
+  },
+  {
+    "id": "element_1332",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 4,
+    "x_fixed": -353.77,
+    "y_fixed": 178.94
+  },
+  {
+    "id": "element_1335",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 4,
+    "x_fixed": -132.7,
+    "y_fixed": 336.99
+  },
+  {
+    "id": "element_1337",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 8,
+    "x_fixed": 823.16,
+    "y_fixed": 7.05
+  },
+  {
+    "id": "element_1338",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 9,
+    "x_fixed": 508.18,
+    "y_fixed": -565.15
+  },
+  {
+    "id": "element_1339",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 7,
+    "x_fixed": 134.32,
+    "y_fixed": 483.61
+  },
+  {
+    "id": "element_1340",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 9,
+    "x_fixed": 406.92,
+    "y_fixed": 181.55
+  },
+  {
+    "id": "element_1341",
+    "biome_main": "vocabulary_ich_939",
+    "degree": 5,
+    "x_fixed": -107.44,
+    "y_fixed": -258.43
+  },
+  {
+    "id": "element_1342",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 7,
+    "x_fixed": -246.52,
+    "y_fixed": 0.7
+  },
+  {
+    "id": "element_1343",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 4,
+    "x_fixed": 496.12,
+    "y_fixed": 236.8
+  },
+  {
+    "id": "element_1344",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -471.92,
+    "y_fixed": 563.94
+  },
+  {
+    "id": "element_1345",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 14,
+    "x_fixed": 378.49,
+    "y_fixed": -15.27
+  },
+  {
+    "id": "element_1346",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 3,
+    "x_fixed": 555.78,
+    "y_fixed": -268.85
+  },
+  {
+    "id": "element_1347",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 6,
+    "x_fixed": 131.66,
+    "y_fixed": -109.99
+  },
+  {
+    "id": "element_1348",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 5,
+    "x_fixed": 30.26,
+    "y_fixed": 475.66
+  },
+  {
+    "id": "element_1349",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 5,
+    "x_fixed": 156.06,
+    "y_fixed": 514.99
+  },
+  {
+    "id": "element_1350",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 356.98,
+    "y_fixed": -30.53
+  },
+  {
+    "id": "element_1354",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 4,
+    "x_fixed": 646.38,
+    "y_fixed": 432.64
+  },
+  {
+    "id": "element_1413",
+    "biome_main": "vocabulary_ich_945",
+    "degree": 7,
+    "x_fixed": 370.62,
+    "y_fixed": 382.49
+  },
+  {
+    "id": "element_1416",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -315.12,
+    "y_fixed": 734.55
+  },
+  {
+    "id": "element_1419",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 8,
+    "x_fixed": 700,
+    "y_fixed": -135.26
+  },
+  {
+    "id": "element_1422",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 3,
+    "x_fixed": -493.75,
+    "y_fixed": 549.38
+  },
+  {
+    "id": "element_1424",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 335.46,
+    "y_fixed": -45.78
+  },
+  {
+    "id": "element_1425",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 228.5,
+    "y_fixed": 144.74
+  },
+  {
+    "id": "element_1427",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 3,
+    "x_fixed": 493.66,
+    "y_fixed": -586.96
+  },
+  {
+    "id": "element_1429",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 429.78,
+    "y_fixed": -107.53
+  },
+  {
+    "id": "element_1431",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 2,
+    "x_fixed": -446.7,
+    "y_fixed": 650.63
+  },
+  {
+    "id": "element_1432",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": 41.67,
+    "y_fixed": 770.72
+  },
+  {
+    "id": "element_1433",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 3,
+    "x_fixed": 742.66,
+    "y_fixed": -114.21
+  },
+  {
+    "id": "element_1435",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 7,
+    "x_fixed": -267.76,
+    "y_fixed": 16.35
+  },
+  {
+    "id": "element_1436",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 8,
+    "x_fixed": -331.41,
+    "y_fixed": 112.86
+  },
+  {
+    "id": "element_1438",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 4,
+    "x_fixed": -633.21,
+    "y_fixed": -366.16
+  },
+  {
+    "id": "element_1440",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 3,
+    "x_fixed": 96.21,
+    "y_fixed": 789.71
+  },
+  {
+    "id": "element_1441",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 7,
+    "x_fixed": -559.24,
+    "y_fixed": 42.38
+  },
+  {
+    "id": "element_1442",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 742.65,
+    "y_fixed": 114.3
+  },
+  {
+    "id": "element_1445",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 7,
+    "x_fixed": 584.44,
+    "y_fixed": -307.15
+  },
+  {
+    "id": "element_1448",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 14,
+    "x_fixed": -380.25,
+    "y_fixed": 81.39
+  },
+  {
+    "id": "element_1451",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 2,
+    "x_fixed": 800.38,
+    "y_fixed": -5.85
+  },
+  {
+    "id": "element_1452",
+    "biome_main": "vocabulary_ich_931",
+    "degree": 8,
+    "x_fixed": -192.15,
+    "y_fixed": 133.48
+  },
+  {
+    "id": "element_1453",
+    "biome_main": "vocabulary_ich_927",
+    "degree": 3,
+    "x_fixed": -558.43,
+    "y_fixed": -32.01
+  },
+  {
+    "id": "element_1454",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 6,
+    "x_fixed": 402.46,
+    "y_fixed": -26.28
+  },
+  {
+    "id": "element_1455",
+    "biome_main": "vocabulary_ich_936",
+    "degree": 6,
+    "x_fixed": -315.84,
+    "y_fixed": 308.47
+  },
+  {
+    "id": "element_1457",
+    "biome_main": "vocabulary_ich_932",
+    "degree": 8,
+    "x_fixed": 559.13,
+    "y_fixed": -554.65
+  },
+  {
+    "id": "element_1460",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 4,
+    "x_fixed": 337.92,
+    "y_fixed": -72.05
+  },
+  {
+    "id": "element_1461",
+    "biome_main": "vocabulary_ich_946",
+    "degree": 5,
+    "x_fixed": 600.81,
+    "y_fixed": -133.89
+  },
+  {
+    "id": "element_1465",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 2,
+    "x_fixed": -21.11,
+    "y_fixed": 688.64
+  },
+  {
+    "id": "element_1591",
+    "biome_main": "vocabulary_ich_930",
+    "degree": 4,
+    "x_fixed": 242.99,
+    "y_fixed": 591.25
+  }
+]
