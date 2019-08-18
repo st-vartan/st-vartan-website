@@ -1,5 +1,6 @@
 import * as d3 from 'd3';
 import translations from './translationsBiome';
+const language = 'en'
 
 export default function createBiomeVisual() {
     //Sizes
@@ -568,7 +569,7 @@ export default function createBiomeVisual() {
             d.img = new Image
             d.img_loaded = false
             //Load the SVG and then turn its fill color into the right one
-            d3.xml("icons/" + d.meta.file).then(xml => {
+            d3.xml("/static/icons/" + d.meta.file).then(xml => {
                 let imported_svg = new XMLSerializer().serializeToString(xml.documentElement)
                 let svg_recolor = imported_svg.replace("#000000", d.meta.color).replace(/#/g,'%23')
                 d.img.src = "data:image/svg+xml;charset=utf-8," + svg_recolor
@@ -1645,7 +1646,7 @@ export default function createBiomeVisual() {
         if(!click_active && node.type === "region") {
             //For regions look all the way down to the countries and elements and biomes
             edges_selected = []
-            nodes_labels_selected = d3.select()
+            d3.select()
             nodes_selected = [node]
             //Go into a recursive function that searches the regions, countries, elements, and
             //then to the biomes connected to the elements
@@ -2380,7 +2381,7 @@ export default function createBiomeVisual() {
 
             next_color += 10 // This is exaggerated for this example and would ordinarily be 1.
         }//if
-        return col = "rgb(" + ret.join(',') + ")"
+        return "rgb(" + ret.join(',') + ")"
     }//function genColor
 
     //////////////////////////////////////////////////////////////

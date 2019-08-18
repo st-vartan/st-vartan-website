@@ -54,3 +54,5 @@ const translations = {
         "intro_info": "<a id=\"intro-legend\">Más información</a> sobre cómo utilizar esta interfaz"
     }
 }
+
+export default translations;

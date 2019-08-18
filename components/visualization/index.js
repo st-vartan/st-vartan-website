@@ -11,7 +11,7 @@ import cloneDeep from 'lodash/cloneDeep';
 
 const Visualization = props => {
   const chartRef = useRef(null);
-  const [layout, setLayout] = useState('constellation');
+  const [layout, setLayout] = useState('biome');
   const [nodes, setNodes] = useState([]);
   const [edges, setEdges] = useState([]);
 
