@@ -3,8 +3,6 @@ import translations from './translationsConstellation';
 const language = 'en';
 
 function createConstellationVisual() {
-  let col;
-
   //Sizes
   let base_width = 2400, base_height = 2400
   let width = 2400, height = 2400
@@ -2478,7 +2476,7 @@ function createConstellationVisual() {
 
       next_color += 10 // This is exaggerated for this example and would ordinarily be 1.
     }//if
-    return col = "rgb(" + ret.join(',') + ")"
+    return "rgb(" + ret.join(',') + ")"
   }//function genColor
 
   //////////////////////////////////////////////////////////////
