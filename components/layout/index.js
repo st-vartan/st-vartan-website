@@ -20,7 +20,7 @@ export default ({ children, title = 'St.Vartan Hoops' }) => (
       </style>
     </Head>
     <div className="page" id="top">
-        <Nav />
+      <Nav />
       {children}
       <FooterSection />
     </div>

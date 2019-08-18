@@ -1,5 +1,5 @@
 import Layout from '../components/layout';
-import DomainVis from '../components/domain';
+import DomainVis from '../components/visualization';
 import Link from 'next/link';
 
 const leagues = props => {
@@ -26,7 +26,7 @@ const leagues = props => {
           </div>
         </div>
       </section>
-      <DomainVis/>
+      <DomainVis />
     </Layout>
   );
 };

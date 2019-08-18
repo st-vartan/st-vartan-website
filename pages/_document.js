@@ -15,8 +15,8 @@ class MyDocument extends Document {
             type="text/css"
             href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"
           />
-          <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"/>
-          <script src="/static/js/jquery.magnific-popup.min.js"/>
+          <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" />
+          <script src="/static/js/jquery.magnific-popup.min.js" />
           <script
             type={'text/javascript'}
             src={

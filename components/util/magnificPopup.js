@@ -1,40 +1,41 @@
-import {useEffect, Fragment} from 'react';
+import { useEffect, Fragment } from 'react';
 
-const magnificPopup = ({data}) => {
-
-    useEffect(() => {
-        $(".lightbox").magnificPopup({
-            type: 'image',
-            gallery: {
-                enabled: true
-            },
-            mainClass: 'mfp-fade',
-            image: {
-                titleSrc: 'title'
-            }
-        });
-    }, []);
-    return (
-        <Fragment>
-            <div className="container relative">
-                <div className="row multi-columns-row mb-xs-10">
-                    {data.map(({thumbnail, caption, source}, i) => (
-                        <div className="col-md-3 col-lg-3 mb-md-10  mb-30" key={source + i}>
-                            <a className="post-prev-img lightbox" href={source} title={caption}>
-                                <img
-                                    style={{cursor: 'pointer'}}
-                                    src={thumbnail}
-                                    alt={caption}
-                                />
-                            </a>
-                        </div>
-                    ))}
-                </div>
+const magnificPopup = ({ data }) => {
+  useEffect(() => {
+    $('.lightbox').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+      },
+      mainClass: 'mfp-fade',
+      image: {
+        titleSrc: 'title',
+      },
+    });
+  }, []);
+  return (
+    <Fragment>
+      <div className="container relative">
+        <div className="row multi-columns-row mb-xs-10">
+          {data.map(({ thumbnail, caption, source }, i) => (
+            <div className="col-md-3 col-lg-3 mb-md-10  mb-30" key={source + i}>
+              <a
+                className="post-prev-img lightbox"
+                href={source}
+                title={caption}
+              >
+                <img
+                  style={{ cursor: 'pointer' }}
+                  src={thumbnail}
+                  alt={caption}
+                />
+              </a>
             </div>
-
-
-        </Fragment>
-    );
+          ))}
+        </div>
+      </div>
+    </Fragment>
+  );
 };
 
 export default magnificPopup;

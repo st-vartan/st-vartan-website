@@ -58,7 +58,8 @@ const init_classic_menu = () => {
   });
 
   $('.desktop-nav')
-      .find('a:not(.mn-has-sub)').off('click');
+    .find('a:not(.mn-has-sub)')
+    .off('click');
 
   $('.desktop-nav')
     .find('a:not(.mn-has-sub)')

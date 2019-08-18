@@ -8,7 +8,9 @@ const leagueStyle = props => {
           <div className="col-sm-6">
             <div className="mt-140 mt-lg-80 mb-140 mb-lg-80">
               <div className="banner-content">
-                <h3 className="banner-heading font-alt">Basketball Lifestyle</h3>
+                <h3 className="banner-heading font-alt">
+                  Basketball Lifestyle
+                </h3>
                 <div className="banner-decription">
                   Pour your energy on court and earn your name at St.Vartan park
                 </div>
