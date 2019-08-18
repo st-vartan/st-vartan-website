@@ -184,19 +184,19 @@ function createDomainVisual() {
     //////////////////////////////////////////////////////////////
 
     //Canvas for the donuts
-    canvas_donuts = selection.append('canvas').attr('id', 'canvas-donuts').attr('class', 'chart-canvas');
+    canvas_donuts = selection.append('canvas').attr('id', 'canvas-donuts');
     ctx_donuts = canvas_donuts.node().getContext('2d');
 
     //Canvas for the edges
-    canvas_edges = selection.append('canvas').attr('id', 'canvas-edges').attr('class', 'chart-canvas');
+    canvas_edges = selection.append('canvas').attr('id', 'canvas-edges');
     ctx_edges = canvas_edges.node().getContext('2d');
 
     //Canvas for the nodes
-    canvas_nodes = selection.append('canvas').attr('id', 'canvas-nodes').attr('class', 'chart-canvas');
+    canvas_nodes = selection.append('canvas').attr('id', 'canvas-nodes');
     ctx_nodes = canvas_nodes.node().getContext('2d');
 
     //Canvas for the hover effects - mostly for performance
-    canvas_hover = selection.append('canvas').attr('id', 'canvas-hover').attr('class', 'chart-canvas');
+    canvas_hover = selection.append('canvas').attr('id', 'canvas-hover');
     ctx_hover = canvas_hover.node().getContext('2d');
 
     //////////////////////////////////////////////////////////////
@@ -1041,7 +1041,7 @@ function createDomainVisual() {
       .style('cursor', 'pointer');
 
     //Create invisible SVG arc pieces that will capture a mouse event on a country
-    console.log(countries)
+    console.log(countries);
     hover_country = g_scale
       .selectAll('.country-hover-path')
       .data(countries)
@@ -1220,15 +1220,7 @@ function createDomainVisual() {
         side = 'down';
         radius = inner_radius_country + 0;
       } //else
-      drawTextAlongArc(
-        ctx_donuts,
-        d.data.key,
-        angle,
-        radius,
-        side,
-        1.4,
-        true
-      );
+      drawTextAlongArc(ctx_donuts, d.data.key, angle, radius, side, 1.4, true);
     }); //forEach
   } //function drawCountryDonutChart
 

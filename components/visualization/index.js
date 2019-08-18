@@ -1,7 +1,7 @@
 import Domain from './domain';
 
 const Visualization = props => {
-    return <Domain/>
-}
+  return <Domain />;
+};
 
 export default Visualization;
