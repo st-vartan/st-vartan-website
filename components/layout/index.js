@@ -3,7 +3,7 @@ import globalStyle from '../../styles/globalStyle.js';
 import Nav from '../nav';
 import FooterSection from './footer';
 
-export default ({ children, title = 'St.Vartan Hoops' }) => (
+export default ({ children, title = 'St.Vartan Hoops', smallHeight = false }) => (
   <div>
     <Head>
       <title>{title}</title>
@@ -20,7 +20,7 @@ export default ({ children, title = 'St.Vartan Hoops' }) => (
       </style>
     </Head>
     <div className="page" id="top">
-      <Nav />
+      <Nav smallHeight={smallHeight}/>
       {children}
       <FooterSection />
     </div>

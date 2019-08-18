@@ -1,17 +1,14 @@
-import { useEffect, useState, useRef } from 'react';
-import * as d3 from 'd3';
+import { useEffect, useState, Fragment } from 'react';
 import { prepareEdges, prepareNodes } from './util';
 import Domain from './domain';
 import Threat from './threat';
 import Biome from './biome';
 import Constellation from './constellation';
-
+import Layout from '../layout';
 import graphData from './graph';
 import cloneDeep from 'lodash/cloneDeep';
 
-const Visualization = props => {
-  const chartRef = useRef(null);
-  const [layout, setLayout] = useState('constellation');
+const Visualization = ({layout}) => {
   const [nodes, setNodes] = useState([]);
   const [edges, setEdges] = useState([]);
 
@@ -33,35 +30,9 @@ const Visualization = props => {
   }
 
   return (
-    <div>
-      <div className="row align-center">
-        <a
-          className="btn btn-w btn-mod btn-medium btn-round hidden-xs"
-          onClick={evt => setLayout('constellation')}
-        >
-          Constellation
-        </a>
-        <a
-          className="btn btn-w btn-mod btn-medium btn-round hidden-xs"
-          onClick={evt => setLayout('biome')}
-        >
-          Biome
-        </a>
-        <a
-          className="btn btn-w btn-mod btn-medium btn-round hidden-xs"
-          onClick={evt => setLayout('domain')}
-        >
-          Domain
-        </a>
-        <a
-          className="btn btn-w btn-mod btn-medium btn-round hidden-xs"
-          onClick={evt => setLayout('threat')}
-        >
-          Threat
-        </a>
-      </div>
-      {vis}
-    </div>
+      <Layout smallHeight={true}>
+        {vis}
+      </Layout>
   );
 };
 
