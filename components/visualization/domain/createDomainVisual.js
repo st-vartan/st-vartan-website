@@ -1,6 +1,6 @@
 import * as d3 from 'd3';
 import chroma from 'chroma-js';
-import translations from './translationDomains';
+import translations from './translationsDomains';
 
 function createDomainVisual() {
   //Constants

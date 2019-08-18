@@ -1,7 +1,8 @@
 import Domain from './domain';
+import Threats from './threat';
 
 const Visualization = props => {
-  return <Domain />;
+  return <Threats />;
 };
 
 export default Visualization;
