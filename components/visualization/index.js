@@ -4,16 +4,25 @@ import { findGoodSize, prepareEdges, prepareNodes } from './util';
 import Domain from './domain';
 import Threat from './threat';
 import graphData from './graph';
+import cloneDeep from 'lodash/cloneDeep';
 
 const Visualization = props => {
   const chartRef = useRef(null);
-  const [layout, setLayout] = useState('domain');
+  const [layout, setLayout] = useState('threat');
+  const [nodes, setNodes] = useState([]);
+  const [edges, setEdges] = useState([]);
+
+  useEffect(() => {
+    const graph = cloneDeep(graphData);
+    setNodes(prepareNodes(graph));
+    setEdges(prepareEdges(graph));
+  }, []);
 
   let vis = null;
   if (layout === 'threat') {
-    vis = <Threat/>;
+    vis = <Threat nodes={nodes} edges={edges}/>;
   } else if (layout === 'domain') {
-    vis = <Domain/>;
+    vis = <Domain nodes={nodes} edges={edges}/>;
   } else if (layout === 'constellation') {
 
   } else if (layout === 'biome') {
