@@ -1041,7 +1041,6 @@ function createDomainVisual() {
       .style('cursor', 'pointer');
 
     //Create invisible SVG arc pieces that will capture a mouse event on a country
-    console.log(countries);
     hover_country = g_scale
       .selectAll('.country-hover-path')
       .data(countries)
