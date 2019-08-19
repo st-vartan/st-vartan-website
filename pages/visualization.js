@@ -1,5 +1,4 @@
 import Layout from '../components/layout';
-import Visualization from '../components/visualization';
 import Link from 'next/link';
 
 const leagues = props => {
@@ -26,7 +25,6 @@ const leagues = props => {
           </div>
         </div>
       </section>
-      <Visualization />
     </Layout>
   );
 };
