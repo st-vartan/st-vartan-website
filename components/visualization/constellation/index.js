@@ -19,19 +19,19 @@ const constellation = props => {
       );
 
       //Link the locations to the nodes in the graph
-      if(!simulation) {
-        let location_id_map = {}
-        locations.forEach(l => location_id_map[l.id] = l)
+      if (!simulation) {
+        let location_id_map = {};
+        locations.forEach(l => (location_id_map[l.id] = l));
         nodes.forEach(d => {
-          let node = location_id_map[d.id]
-          if(node) {
-            d.x = node.x_fixed
-            d.y = node.y_fixed
-            d.degree = node.degree
-            if(node.community > -1) d.community = node.community
-          }//if
-        })//forEach
-      }//if
+          let node = location_id_map[d.id];
+          if (node) {
+            d.x = node.x_fixed;
+            d.y = node.y_fixed;
+            d.degree = node.degree;
+            if (node.community > -1) d.community = node.community;
+          } //if
+        }); //forEach
+      } //if
 
       let visual = createConstellationVisual()
         .width(w)

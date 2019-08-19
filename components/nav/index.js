@@ -5,16 +5,17 @@ import menuSideEffects, {
   init_classic_menu_resize,
 } from './menuSideEffects';
 
-const Nav = ({smallHeight}) => {
+const Nav = ({ smallHeight }) => {
   useEffect(() => {
     init_classic_menu();
     init_classic_menu_resize();
     menuSideEffects();
   });
 
-  const navClass = smallHeight === true
+  const navClass =
+    smallHeight === true
       ? 'main-nav dark stick-fixed'
-      : 'main-nav dark transparent js-transparent stick-fixed'
+      : 'main-nav dark transparent js-transparent stick-fixed';
   return (
     <nav className={navClass}>
       <div className="full-wrapper relative clearfix">
@@ -48,29 +49,30 @@ const Nav = ({smallHeight}) => {
               </Link>
             </li>
             <li>
-              <a href="#" className="mn-has-sub">Visualization <i className="fa fa-angle-down"></i></a>
-              <ul className="mn-sub to-left" style={{display: 'none'}}>
+              <a href="#" className="mn-has-sub">
+                Visualization <i className="fa fa-angle-down"></i>
+              </a>
+              <ul className="mn-sub to-left" style={{ display: 'none' }}>
                 <li>
                   <Link href={'/visualization/biome'}>
-                    <a >Biome</a>
+                    <a>Biome</a>
                   </Link>
                 </li>
                 <li>
                   <Link href={'/visualization/threat'}>
-                    <a >Threat</a>
+                    <a>Threat</a>
                   </Link>
                 </li>
                 <li>
                   <Link href={'/visualization/domain'}>
-                    <a >domain</a>
+                    <a>domain</a>
                   </Link>
                 </li>
                 <li>
                   <Link href={'/visualization/constellation'}>
-                    <a >Constellation</a>
+                    <a>Constellation</a>
                   </Link>
                 </li>
-
               </ul>
             </li>
             <li>

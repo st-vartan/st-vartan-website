@@ -1,5 +1,5 @@
 import Visualization from '../../components/visualization';
 
 export default props => {
-    return <Visualization layout={'domain'} />;
+  return <Visualization layout={'domain'} />;
 };

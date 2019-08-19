@@ -8,7 +8,7 @@ import Layout from '../layout';
 import graphData from './graph';
 import cloneDeep from 'lodash/cloneDeep';
 
-const Visualization = ({layout}) => {
+const Visualization = ({ layout }) => {
   const [nodes, setNodes] = useState([]);
   const [edges, setEdges] = useState([]);
 
@@ -29,11 +29,7 @@ const Visualization = ({layout}) => {
     vis = <Biome nodes={nodes} edges={edges} />;
   }
 
-  return (
-      <Layout smallHeight={true}>
-        {vis}
-      </Layout>
-  );
+  return <Layout smallHeight={true}>{vis}</Layout>;
 };
 
 export default Visualization;
