@@ -51,22 +51,22 @@ const Nav = ({smallHeight}) => {
               <a href="#" className="mn-has-sub">Visualization <i className="fa fa-angle-down"></i></a>
               <ul className="mn-sub to-left" style={{display: 'none'}}>
                 <li>
-                  <Link href={'/biome'}>
+                  <Link href={'/visualization/biome'}>
                     <a >Biome</a>
                   </Link>
                 </li>
                 <li>
-                  <Link href={'/threat'}>
+                  <Link href={'/visualization/threat'}>
                     <a >Threat</a>
                   </Link>
                 </li>
                 <li>
-                  <Link href={'/domain'}>
+                  <Link href={'/visualization/domain'}>
                     <a >domain</a>
                   </Link>
                 </li>
                 <li>
-                  <Link href={'/constellation'}>
+                  <Link href={'/visualization/constellation'}>
                     <a >Constellation</a>
                   </Link>
                 </li>
