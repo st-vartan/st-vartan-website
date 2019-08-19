@@ -1200,7 +1200,7 @@ function createConstellationVisual() {
 
     //Convert the object into an array
     let connections = [];
-    for (duo in community_matrix) {
+    for (const duo in community_matrix) {
       let value = community_matrix[duo];
       let comm = duo.split(',');
       connections.push({
