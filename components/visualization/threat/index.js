@@ -25,7 +25,7 @@ const threat = props => {
     }
   }, [nodes, edges]);
 
-  return <div id="chart" style={{marginTop: 80}}></div>;
+  return <div id="chart" style={{marginTop: 73}}></div>;
 };
 
 export default threat;

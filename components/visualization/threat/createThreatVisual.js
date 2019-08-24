@@ -7,6 +7,9 @@ import {
     makeThreats
 } from './data';
 
+const FILL_COLOR = 'black';
+const BACK_COLOR = 'white';
+
 function createThreatVisual() {
   let hover_ich = null;
   let threats;
@@ -774,7 +777,7 @@ function createThreatVisual() {
     ctx.textBaseline = 'middle';
     ctx.textAlign = 'center';
     ctx.font = 'normal normal 400 36px ' + font_family;
-    ctx.fillStyle = 'black';
+    ctx.fillStyle = FILL_COLOR;
     drawTextAlongArc(ctx, text, pi, radius_elements_title, 'down', 0.6, false);
 
     // let font_size = fitText(ctx, text, 34, 2*radius_elements_title)
@@ -791,7 +794,7 @@ function createThreatVisual() {
     ctx.textBaseline = 'bottom';
     ctx.textAlign = 'center';
     ctx.fillStyle = d.fill;
-    ctx.strokeStyle = 'white';
+    ctx.strokeStyle = BACK_COLOR;
     ctx.lineWidth = 8;
 
     //Add the threat's name
@@ -815,7 +818,7 @@ function createThreatVisual() {
     // ctx.fillStyle = "rgba(255,255,255,0.6)"
     // ctx.fillRect(-max_width/2, -290, max_width, lines * line_height)
     //Add threat definition below
-    ctx.fillStyle = 'black';
+    ctx.fillStyle = FILL_COLOR;
     wrapText(ctx, d.definition, 0, -270, max_width, line_height, true);
   } //function showConceptTitle
 
@@ -884,7 +887,7 @@ function createThreatVisual() {
     } //for j
 
     //Draw thick white stroke as background
-    ctx.strokeStyle = 'white';
+    ctx.strokeStyle = BACK_COLOR;
     ctx.lineWidth = 22;
     ctx.lineCap = 'butt';
     ctx.beginPath();
@@ -1084,10 +1087,11 @@ function createThreatVisual() {
     //Draw the text
     ctx.textAlign = d.angle > 0 + flip ? 'start' : 'end';
     let color_text = chroma.mix('black', d.fill, 0.1);
-    ctx.fillStyle = chroma(color_text)
+    ctx.font = "24px Helvetia";
+    ctx.fillStyle = chroma(d.fill)
       .alpha(opacity)
       .css();
-    ctx.translate((d.angle > 0 + flip ? 1 : -1) * (concept_radius + 5), 0);
+    ctx.translate((d.angle > 0 + flip ? 1 : -1) * (concept_radius + 25), 0);
     ctx.fillText(d.label, 0, -2);
     ctx.restore();
   } //function drawConcepts
