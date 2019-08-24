@@ -1,6 +1,7 @@
 import * as d3 from 'd3';
 import chroma from 'chroma-js';
 import translations from './translationsThreat';
+import { interpolatePlasma, interpolateCool, interpolateTurbo, interpolateViridis} from 'd3-scale-chromatic'
 
 import {
     makeConcepts,
@@ -58,19 +59,25 @@ function createThreatVisual() {
   let concept_by_id = {};
   let edge_concept_by_id = {};
   // let edge_element_by_id = {}
+  // const threat_metadata_colorscale = d3.scaleSequential().range(interpolateTurbo)
 
   //Threats metadata
   const threat_metadata = [
-    { id: 'vocabulary_ich_1265', color: '#EFB605' }, //Adverse circumstances
-    { id: 'vocabulary_ich_1268', color: '#E58903' }, //Demographic issues
+    { id: 'vocabulary_ich_1265', color: '#fca636' }, //Adverse circumstances
+    { id: 'vocabulary_ich_1268', color: '#f2844b' }, //Demographic issues
     { id: 'vocabulary_ich_1287', color: '#E01A25' }, //Derived practice
     { id: 'vocabulary_ich_1264', color: '#C20049' }, //Environmental degradation
-    { id: 'vocabulary_ich_1286', color: '#991C71' }, //Weakened practice and transmission
-    { id: 'vocabulary_ich_1263', color: '#66489F' }, //Globalized information
-    { id: 'vocabulary_ich_1284', color: '#2074A0' }, //New products and techniques
-    { id: 'vocabulary_ich_1269', color: '#10A66E' }, //Missing objects, spaces or systems
+    { id: 'vocabulary_ich_1286', color: '#b12a90' }, //Weakened practice and transmission
+    { id: 'vocabulary_ich_1263', color: '#41049d' }, //Globalized information
+    { id: 'vocabulary_ich_1284', color: 'rgb(54, 140, 225)' }, //New products and techniques
+    { id: 'vocabulary_ich_1269', color: 'rgb(35, 171, 216)' }, //Missing objects, spaces or systems
     { id: 'vocabulary_ich_1267', color: '#7EB852' }, //Socioeconomical problems
   ];
+
+  // threat_metadata.forEach((d, i) => {
+  //   console.log(interpolatePlasma(i * 0.1))
+  //   d.color = interpolatePlasma(i * 0.1);
+  // });
   const threat_ids = threat_metadata.map(d => d.id);
   const color_threat_scale = d3
     .scaleOrdinal()
@@ -1613,7 +1620,7 @@ function createThreatVisual() {
     let sf_new;
     if (units === 'px') sf_new = width_print / width;
     else sf_new = (width_print * dpi_scale) / width;
-    sf_scale = sf_new / sf;
+    let sf_scale = sf_new / sf;
     //Check sizes
     if (sf_new * width * sf_new * height > 268435456)
       Error('requested canvas is probably too big for the browser to handle');

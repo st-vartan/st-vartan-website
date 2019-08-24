@@ -23,9 +23,9 @@ const makeConcepts = concepts => {
     concepts[6].label = 'Berne';
 
     // group 3
-    concepts[7].label = 'Jordan Fields';
-    concepts[8].label = 'Jordan Jr.';
-    concepts[9].label = 'Bradon';
+    concepts[7].label = 'Jordan';
+    concepts[8].label = 'Alec';
+    concepts[9].label = 'Brandon';
     concepts[10].label = 'Lang';
     concepts[11].label = 'Zach';
 
@@ -64,13 +64,13 @@ const makeConcepts = concepts => {
     concepts[36].label = 'Sean';
     concepts[37].label = 'Cesar';
     concepts[38].label = 'Justin';
-    concepts[39].label = 'Alex';
+    concepts[39].label = 'Alex (NTC)';
     concepts[40].label = 'Tony';
 
-    concepts[41].label = 'Amir';
+    concepts[41].label = 'Ramon';
     concepts[42].label = 'Alex';
     concepts[43].label = 'Jake';
-    concepts[44].label = 'N';
+    concepts[44].label = 'Amir';
     concepts[45].label = 'Jerry';
 }
 
