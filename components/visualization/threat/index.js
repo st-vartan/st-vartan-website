@@ -14,7 +14,7 @@ const threat = props => {
       const h = Math.max(
         window.innerHeight,
         container.node().parentNode.clientHeight
-      );
+      ) - 100;
       const size = findGoodSize(w, h);
 
       const visual = createThreatVisual()
@@ -25,7 +25,7 @@ const threat = props => {
     }
   }, [nodes, edges]);
 
-  return <div id="chart"></div>;
+  return <div id="chart" style={{marginTop: 80}}></div>;
 };
 
 export default threat;

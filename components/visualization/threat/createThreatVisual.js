@@ -2,6 +2,11 @@ import * as d3 from 'd3';
 import chroma from 'chroma-js';
 import translations from './translationsThreat';
 
+import {
+    makeConcepts,
+    makeThreats
+} from './data';
+
 function createThreatVisual() {
   let hover_ich = null;
   let threats;
@@ -217,6 +222,7 @@ function createThreatVisual() {
 
     //General, data only, preparation to create the correct arrays
     dataPreparation();
+
     //Calculate node locations
     nodePlacement();
     //Calculate edge locations
@@ -435,8 +441,12 @@ function createThreatVisual() {
       //Is this id in the predefined list
       return threat_ids.indexOf(d.id) >= 0;
     }); //filter
+
+    makeThreats(threats);
+
     threats.forEach(d => {
       d.meta = threat_metadata[threat_ids.indexOf(d.id)];
+      d.meta.label = d.label;
       d.title = d.meta.label;
       d.group = 'threat category';
       d.degree = 0;
@@ -495,6 +505,7 @@ function createThreatVisual() {
       return 0;
     }); //sort
 
+    makeConcepts(concepts);
     let concepts_other = concepts.filter(
       d => d.threat_category !== 'vocabulary_ich_1286'
     );
@@ -553,6 +564,7 @@ function createThreatVisual() {
     }); //forEach
 
     //////////////////// THREAT CATEGORIES ///////////////////
+    // d.title
 
     num = threats.length;
     let total_width = 2 * radius_threats;
@@ -585,6 +597,8 @@ function createThreatVisual() {
     }); //forEach
 
     ////////////////////// CONCEPT ARCS //////////////////////
+
+    // d.threat_category, label, definition
 
     //Roll up the countries into an array of areas and the number of countries per area
     threats_nest = d3

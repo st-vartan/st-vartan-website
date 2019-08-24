@@ -1,7 +1,7 @@
 const translations = {
   en: {
     titles: [
-      'Intangible Cultural Heritage inscribed on the Urgent Safeguarding List',
+      `Games Played on St.Vartan Basketball League's 2019 Summer Tour`,
     ],
 
     intro_welcome: 'Welcome to',
@@ -62,7 +62,7 @@ const translations = {
       {
         id: 'vocabulary_ich_1118',
         definition:
-          'Discord between or within communities, recent or ongoing armed conflicts affecting practice or transmission of traditional practices and expressions',
+          'A cold nyc street look',
       },
       {
         id: 'vocabulary_ich_1122',
@@ -132,7 +132,7 @@ const translations = {
       {
         id: 'vocabulary_ich_1242',
         definition:
-          'Growing lack of interest in attending, or partaking in, practices and representations of one’s community',
+          'Big 3pt from downtown',
       },
       {
         id: 'vocabulary_ich_1243',
@@ -167,7 +167,7 @@ const translations = {
       {
         id: 'vocabulary_ich_1293',
         definition:
-          'Diminishing frequency of intangible heritage manifestations, or shrinking geographical areas or segments of communities  involved ',
+          `When I want to play, I'm a true beast`,
       },
       {
         id: 'vocabulary_ich_1294',
