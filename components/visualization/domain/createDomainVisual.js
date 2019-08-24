@@ -2,7 +2,7 @@ import * as d3 from 'd3';
 import chroma from 'chroma-js';
 import translations from './translationsDomains';
 
-function createDomainVisual() {
+const createDomainVisual = () => {
   //Constants
   const pi = Math.PI;
   const pi2 = Math.PI * 2;
@@ -166,7 +166,7 @@ function createDomainVisual() {
   let scale_factor = 1;
   let scale_multiplier = 1;
   let ICH_num, ICH_num_all;
-  let showModal = function(element) {
+  let showModal = element => {
     console.log(element);
   };
 

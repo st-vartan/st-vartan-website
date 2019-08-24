@@ -1,5 +1,11 @@
-import Visualization from '../../components/visualization';
+import dynamic from 'next/dynamic';
 
+const DynamicComponent = dynamic(
+    () => import('../../components/visualization'),
+    {
+      ssr: false,
+    }
+);
 export default props => {
-  return <Visualization layout={'threat'} />;
+  return <DynamicComponent layout={'threat'} />;
 };
