@@ -5,14 +5,19 @@ import menuSideEffects, {
   init_classic_menu_resize,
 } from './menuSideEffects';
 
-const Index = () => {
+const Nav = ({ smallHeight }) => {
   useEffect(() => {
     init_classic_menu();
     init_classic_menu_resize();
     menuSideEffects();
   });
+
+  const navClass =
+    smallHeight === true
+      ? 'main-nav dark stick-fixed'
+      : 'main-nav dark transparent js-transparent stick-fixed';
   return (
-    <nav className="main-nav dark transparent js-transparent stick-fixed">
+    <nav className={navClass}>
       <div className="full-wrapper relative clearfix">
         <div className="nav-logo-wrap">
           <Link href={'/'}>
@@ -43,11 +48,33 @@ const Index = () => {
                 <a>Leagues</a>
               </Link>
             </li>
-            <li>
-              <Link href={'/visualization'}>
-                <a>Visualization</a>
-              </Link>
-            </li>
+            {/*<li>*/}
+            {/*  <a href="#" className="mn-has-sub">*/}
+            {/*    Visualization <i className="fa fa-angle-down"></i>*/}
+            {/*  </a>*/}
+            {/*  <ul className="mn-sub to-left" style={{ display: 'none' }}>*/}
+            {/*    <li>*/}
+            {/*      <Link href={'/visualization/biome'}>*/}
+            {/*        <a>Biome</a>*/}
+            {/*      </Link>*/}
+            {/*    </li>*/}
+            {/*    <li>*/}
+            {/*      <Link href={'/visualization/threat'}>*/}
+            {/*        <a>Threat</a>*/}
+            {/*      </Link>*/}
+            {/*    </li>*/}
+            {/*    <li>*/}
+            {/*      <Link href={'/visualization/domain'}>*/}
+            {/*        <a>domain</a>*/}
+            {/*      </Link>*/}
+            {/*    </li>*/}
+            {/*    <li>*/}
+            {/*      <Link href={'/visualization/constellation'}>*/}
+            {/*        <a>Constellation</a>*/}
+            {/*      </Link>*/}
+            {/*    </li>*/}
+            {/*  </ul>*/}
+            {/*</li>*/}
             <li>
               <Link href={'/gallery'}>
                 <a>Gallery</a>
@@ -73,10 +100,9 @@ const Index = () => {
             </li>
           </ul>
         </div>
-        {/* End Main Menu */}
       </div>
     </nav>
   );
 };
 
-export default Index;
+export default Nav;
