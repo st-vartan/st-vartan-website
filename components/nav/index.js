@@ -48,33 +48,33 @@ const Nav = ({ smallHeight }) => {
                 <a>Leagues</a>
               </Link>
             </li>
-            <li>
-              <a href="#" className="mn-has-sub">
-                Visualization <i className="fa fa-angle-down"></i>
-              </a>
-              <ul className="mn-sub to-left" style={{ display: 'none' }}>
-                <li>
-                  <Link href={'/visualization/biome'}>
-                    <a>Biome</a>
-                  </Link>
-                </li>
-                <li>
-                  <Link href={'/visualization/threat'}>
-                    <a>Threat</a>
-                  </Link>
-                </li>
-                <li>
-                  <Link href={'/visualization/domain'}>
-                    <a>domain</a>
-                  </Link>
-                </li>
-                <li>
-                  <Link href={'/visualization/constellation'}>
-                    <a>Constellation</a>
-                  </Link>
-                </li>
-              </ul>
-            </li>
+            {/*<li>*/}
+            {/*  <a href="#" className="mn-has-sub">*/}
+            {/*    Visualization <i className="fa fa-angle-down"></i>*/}
+            {/*  </a>*/}
+            {/*  <ul className="mn-sub to-left" style={{ display: 'none' }}>*/}
+            {/*    <li>*/}
+            {/*      <Link href={'/visualization/biome'}>*/}
+            {/*        <a>Biome</a>*/}
+            {/*      </Link>*/}
+            {/*    </li>*/}
+            {/*    <li>*/}
+            {/*      <Link href={'/visualization/threat'}>*/}
+            {/*        <a>Threat</a>*/}
+            {/*      </Link>*/}
+            {/*    </li>*/}
+            {/*    <li>*/}
+            {/*      <Link href={'/visualization/domain'}>*/}
+            {/*        <a>domain</a>*/}
+            {/*      </Link>*/}
+            {/*    </li>*/}
+            {/*    <li>*/}
+            {/*      <Link href={'/visualization/constellation'}>*/}
+            {/*        <a>Constellation</a>*/}
+            {/*      </Link>*/}
+            {/*    </li>*/}
+            {/*  </ul>*/}
+            {/*</li>*/}
             <li>
               <Link href={'/gallery'}>
                 <a>Gallery</a>
