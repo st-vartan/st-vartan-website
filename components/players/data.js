@@ -7,7 +7,7 @@ const data = [
   },
   {
     image: '/static/images/players/370/placeholder.jpg',
-    name: 'Bryan',
+    name: 'Brian',
     desc: 'Isolation',
     url: 'bryan',
   },
